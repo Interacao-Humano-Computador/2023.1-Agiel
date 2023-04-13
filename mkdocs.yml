@@ -17,3 +17,5 @@ theme:
 
 nav:
   - Início: index.md
+  - Planejamento:
+    - Cronograma: planejamento/cronograma.md
