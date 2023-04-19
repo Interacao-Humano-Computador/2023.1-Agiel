@@ -61,7 +61,7 @@ Resolve #(numero_da_issue)
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
-| 19/04/2023 | `1.0` | Versão inicial com os padrões para criar issue, branch,commit e pull request | Ana Beatriz e Breno Yuri | - |
+| 19/04/2023 | `1.0` | Versão inicial com os padrões para criar issue, branch,commit e pull request | Ana Beatriz e Breno Yuri | Carlos Daniel |
 
 ## Referências
 
