@@ -18,6 +18,7 @@ theme:
 nav:
   - Início: index.md
   - Planejamento:
+    - Escolha do Site: planejamento/escolha_do_site.md
     - Cronograma: planejamento/cronograma.md
   - Atas de reunião:
     - Reunião 00: atas/reuniao-00.md
