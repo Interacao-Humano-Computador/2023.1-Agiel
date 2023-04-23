@@ -16,3 +16,11 @@ O site <a>https://delegaciavirtual.sids.mg.gov.br/sxgn/</a> é uma plataforma de
 <p align="justify">
 Em resumo, o site apresenta problemas em termos de visibilidade do status do sistema, correspondência entre o sistema e o mundo real, controle e liberdade do usuário, consistência e padrões, prevenção de erros, reconhecimento em vez de recordação, flexibilidade e eficiência de uso, estética e design minimalista, ajuda aos usuários a reconhecerem, diagnosticarem e se recuperarem de erros, e ajuda e documentação, violando várias das heurísticas de Nielsen para uma boa experiência de IHC.
 </p>
+
+## 2.2 Instituto Federal Goiano (IFG)
+<p align="justify">
+O site <a>https://www.ifg.edu.br/</a> é um portal da instituição IFG voltado para divulgação de notícias no geral acerca da mesma, notícias essas que envolvem: novos processos seletivos, guia de cursos, calendário acadêmico, lista de servidores, informações de contato, guia para novos alunos/servidores, concursos, pesquisas, visibilidade e muitos outros. O site é disponibilizado de forma gratuita e tem como usuários alunos (ensino superior e técnico), servidores (professores, diretores e etc...) e comunidade externa que estejam interessados nas notícias da instituição.
+</p>
+<p align="justify">
+O site em questão tem como problemas não apresenta formas efetivas de conseguir auxílio na estadia do mesmo e por ter que lidar com diversos tipos de usuários que não utilizam as mesmas funções/fluxos o site possui uma interface "poluída" com diversos links e abas, o que torna navegação para usuários não habituados uma tarefa desafiadora. 
+</p>
