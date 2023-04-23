@@ -2,11 +2,11 @@
 
 ## 1. Introdução
 <p align="justify">
-O processo de design é fundamental para projetos de Interação Humano-Computador, assegurando interfaces de alta usabilidade. É importante considerar o usuário em todas as etapas do projeto, desde a análise de requisitos até a avaliação de usabilidade, para proporcionar interações eficientes e bem-aceitas.
+O processo de design é fundamental para projetos de Interação Humano-Computador, assegurando interfaces de alta usabilidade. É importante considerar o usuário em todas as etapas do projeto, desde a análise de requisitos até a implementação, para proporcionar interações eficientes e bem-aceitas.
 </p>
 
 <p align="justify">
-Este aterfato tem como objetivo de determinar o modelo de design mais adequado ao projeto. Com este fim, certos critérios devem ser observados: tempo, experiência da equipe, os recursos disponíveis e as necessidades do projeto.
+Este aterfato tem como objetivo determinar o modelo de design mais adequado ao projeto. Com este fim, certos critérios devem ser observados: tempo, experiência da equipe, os recursos disponíveis e as necessidades do projeto.
 </p>
 
 ## 2. Modelos de Design Avalidados
@@ -23,10 +23,10 @@ Esse modelo, por sua simplicidade, é indicado para designers experientes e não
 
 ### 2.2. Ciclo de Vida Estrela
 <p align="justify">
-É um modelo de desenvolvimento de interface humano-computador (IHC) proposto por Hix e Harston em 1993. Este modelo é composto por quatro fases principais, representadas pelas pontas de uma estrela, e tem como objetivo garantir uma abordagem iterativa e centrada no usuário durante o processo de desenvolvimento de sistemas interativos.
+É um modelo de desenvolvimento de interface humano-computador (IHC) proposto por Hix e Harston em 1993. Este modelo é composto por cinco fases principais, representadas pelas pontas de uma estrela, e tem como objetivo garantir uma abordagem iterativa e centrada no usuário durante o processo de desenvolvimento de sistemas interativos.
 </p>
 <p align="justify">
-No ciclo de vida estrela, o desenvolvimento pode começar por qualquer ponta, seguido da avaliação.
+No ciclo de vida estrela, o desenvolvimento pode começar por qualquer ponta, em direção ao centro (avaliação).
 </p>
 
 ![Modelo](../imagens/ciclo_de_vida_estrela.png)
@@ -43,7 +43,7 @@ No ciclo de vida estrela, o desenvolvimento pode começar por qualquer ponta, se
 Análise de requisitos: Nesta etapa, são coletados os requisitos do projeto, dados dos usuários, suas necessidades, assim como as tarefas a serem executadas na interface.
 </p>
 <p align="justify">
-Design, avaliação e desenvolvimento: são criadas soluções com base na análise de requisitos, incluindo modelos conceituais, protótipos e guias de estilo, sempre levando em consideração os teste de usabilidades.
+Design, avaliação e desenvolvimento: são criadas soluções com base na análise de requisitos, incluindo modelos conceituais, protótipos e guias de estilo, sempre levando em consideração os testes de usabilidade.
 </p>
 <p align="justify">
 Ao fim desta etapa, espera-se ter um protótipo de alta fidelidade que atenda todas as metas de design e usabilidade.
