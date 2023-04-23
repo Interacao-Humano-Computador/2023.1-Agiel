@@ -9,7 +9,7 @@ O processo de design é fundamental para projetos de Interação Humano-Computad
 Este aterfato tem como objetivo de determinar o modelo de design mais adequado ao projeto. Com este fim, certos critérios devem ser observados: tempo, experiência da equipe, os recursos disponíveis e as necessidades do projeto.
 </p>
 
-## 2. Modelo de Design Avalidados
+## 2. Modelos de Design Avalidados
 
 ### 2.1. Modelo Simples
 <p align="justify">
