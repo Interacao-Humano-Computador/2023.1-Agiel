@@ -52,3 +52,11 @@ Ao fim desta etapa, espera-se ter um protótipo de alta fidelidade que atenda to
 Instalação: O design deve coletar opiniões dos usuários depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras.
 </p>
 
+## 3. Conclusão
+<p align="justify">Em conclusão, o modelo de design mais adequado para o projeto é a Engenharia de Usabilidade de Mayhew. Este modelo é mais detalhado e iterativo, o que o torna benéfico para o aprendizado de designers inexperientes. A Engenharia de Usabilidade de Mayhew fornece uma estrutura clara e passo a passo, guiando os designers ao longo de todas as etapas do processo, desde a análise de requisitos até a instalação. Dessa forma, ela não apenas garante a qualidade da interface (por avaliação contínua), mas também contribui para o desenvolvimento das habilidades e conhecimentos dos designers, tornando-se uma escolha ideal para o projeto em questão.
+</p>
+
+## 4. Referências
+Barbosa, S. D. J., & Silva, B. S. (2010). Interação Humano Computador. Elsevier.
+
+Mayhew, D. J. (1999). The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann Publishers.

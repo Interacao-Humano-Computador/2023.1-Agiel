@@ -18,6 +18,7 @@ theme:
 nav:
   - Início: index.md
   - Planejamento:
+    - Processo de Design: planejamento/processo_design.md
     - Cronograma: planejamento/cronograma.md
   - Atas de reunião:
     - Reunião 00: atas/reuniao-00.md
