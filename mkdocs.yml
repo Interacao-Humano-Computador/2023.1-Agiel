@@ -19,10 +19,10 @@ nav:
   - Início: index.md
   - Planejamento:
     - Processo de Design: planejamento/processo_design.md
+    - Escolha do Site: planejamento/escolha_do_site.md
     - Cronograma: planejamento/cronograma.md
+    - Reuniões: planejamento/reunioes.md
   - Atas de reunião:
     - Reunião 00: atas/reuniao-00.md
     - Reunião 01: atas/reuniao-01.md
-  - Reuniões:
-    - Reuniões: reunioes/reunioes.md
 
