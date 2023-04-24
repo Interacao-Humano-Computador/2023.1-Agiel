@@ -52,3 +52,8 @@ e a sua plataforma de hardware e software.
 <p align="justify">
 O site www.saude.df.gov.br tem como objetivo fornecer informações sobre os serviços de saúde e campanhas de prevenção para a população do Distrito Federal. Porém, apesar de possuir algumas funcionalidades que visam tornar o site acessível para pessoas com deficiências auditivas, como a presença de tradução em Libras, o acesso para pessoas com deficiências visuais e outras limitações é bastante limitado. Além disso, o site é bastante poluído com uma grande quantidade de informações e alguns problemas de design, o que pode dificultar a navegação e a compreensão das informações pelos usuários. Por essa razão, são necessárias melhorias no site para torná-lo mais acessível e fácil de usar para todos os usuários, independentemente de suas limitações e habilidades.
 </p>
+
+## 2.6 Horário de Ônibus DF
+<p align="justify">
+O <a href="https://horariodeonibusdf.com.br/">Horário de Ônibus DF</a> é um site que tem como objetivo auxiliar pessoas que usam as linhas de ônibus dentro do Distrito Federal, fornecendo horários, destinos e regiões sobre as linhas. Apesar do design parecer minimalista, o sistema apresenta vários defeitos em relação a usabilidade para usuários novos que não tem costume com a plataforma. Por isso, atráves da avaliação heurística, foi possível identificar esses erros e inconsistencias dentro da usabilidade.
+</p>
