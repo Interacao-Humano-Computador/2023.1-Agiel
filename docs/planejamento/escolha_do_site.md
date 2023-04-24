@@ -32,3 +32,18 @@ O portal <a>https://aprender3.unb.br/</a> é um domínio pertencente à Universi
 <p align="justify">
 Esta avaliação foi feita em cima do novo Aprender3, que sofreu alterações na sua interface. Após estas, apesar de seu visual ter melhorado, foram identificados problemas funcionais e no processo de design, como um caminho pouco intuitivo e trabalhoso para alcançar as abas de uso comum, aba de notificações com a fonte tendo a mesma cor do campom, dificultando a sua visualização e a falha na disponibilização de recursos que evitam erros e que ajudam na correção dos mesmos.
 </p>
+
+## 2.4 Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe)
+<p align="justify">
+O Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe)
+é uma organização renomada no Brasil que realiza concursos públicos, processos seletivos,
+exames e avaliações em diversas áreas. Com uma metodologia de trabalho que preza pela
+transparência, qualidade e excelência, o Cebraspe é reconhecido por sua imparcialidade e rigor
+na avaliação dos candidatos. Seu trabalho tem sido fundamental para a seleção de
+profissionais qualificados em diferentes áreas, contribuindo para o desenvolvimento do país.
+</p>
+<p align="justify">
+Com poucos cliques já consegui perceber alguns erros, segundo a quarta Heurística
+“Consistência e Padrão”, o sistema deve ser consistente quanto à utilização de sua simbologia
+e a sua plataforma de hardware e software.
+</p>
