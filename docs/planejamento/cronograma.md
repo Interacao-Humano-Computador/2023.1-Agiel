@@ -27,6 +27,7 @@
 ### Etapa 1 - Planejamento
 
 <figcaption align="center">Tabela 2 - Cronograma da equipe para a etapa 1.</figcaption>
+
 |         Tarefa         |     Autor      | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:----------------------:|:--------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
 |  Criação Github Pages  | Carlos Daniel  |  24/04  | Bruno Henrique |  14/04  |        10/04         |       14/04       |
@@ -163,7 +164,7 @@
 | Versão | Data  |            Descrição                      |     Autor      |    Revisor    |
 |:------:|:-----:|:-----------------------------------------:|:--------------:|:-------------:|
 |  1.0   | 19/04 | Criação dos cronogramas iniciais          | Bruno Henrique | Carlos Daniel |
-|  2.0   | 24/04 | Adicionando datas de gravações das etapas | Breno Yuri     | Ana Beatriz   |
+|  1.1   | 24/04 | Adicionando datas de gravações das etapas | Breno Yuri     | Ana Beatriz   |
 
 ## Referências
 
