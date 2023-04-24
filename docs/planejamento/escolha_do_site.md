@@ -7,7 +7,7 @@ O website selecionado como objeto de estudo do projeto foi escolhido a partir de
 Dentre os critérios considerados na escolha, destacam-se a utilidade, relevância e quantidade de usuários do site, bem como a sua usabilidade. Procura-se um website que tenha recebido avaliações negativas no contexto de IHC e seja suficientemente complexo para ser estudado por uma equipe de seis integrantes.
 </p>
 
-# 2 Sites avaliados
+# 2. Sites avaliados
 
 ## 2.1 Delegacia Virtual de MG
 <p align="justify">
@@ -23,4 +23,12 @@ O site <a>https://www.ifg.edu.br/</a> é um portal da instituição IFG voltado 
 </p>
 <p align="justify">
 O site em questão tem como problemas não apresenta formas efetivas de conseguir auxílio na estadia do mesmo e por ter que lidar com diversos tipos de usuários que não utilizam as mesmas funções/fluxos o site possui uma interface "poluída" com diversos links e abas, o que torna navegação para usuários não habituados uma tarefa desafiadora. 
+</p>
+
+## 2.3 Aprender3 
+<p align="justify">
+O portal <a>https://aprender3.unb.br/</a> é um domínio pertencente à Universidade de Brasília, voltado para gerenciamento de atividades e conteúdos das disciplinas da UnB. Permite ao seu usuário se comunicar com professores e seus colegas através de fóruns, marcar as atividades como finalizadas e receber notificações sobre tarefas próximas do prazo de entrega, entre outras funcionalidades de gerenciamento para professores. O sistema é gratuito para todos que possuem e-mail institucional e é utilizado majoritariamente por professores e universitários.
+</p>
+<p align="justify">
+Esta avaliação foi feita em cima do novo Aprender3, que sofreu alterações na sua interface. Após estas, apesar de seu visual ter melhorado, foram identificados problemas funcionais e no processo de design, como um caminho pouco intuitivo e trabalhoso para alcançar as abas de uso comum, aba de notificações com a fonte tendo a mesma cor do campom, dificultando a sua visualização e a falha na disponibilização de recursos que evitam erros e que ajudam na correção dos mesmos.
 </p>
