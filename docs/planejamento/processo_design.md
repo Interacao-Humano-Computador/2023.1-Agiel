@@ -60,3 +60,9 @@ Instalação: O design deve coletar opiniões dos usuários depois de algum temp
 Barbosa, S. D. J., & Silva, B. S. (2010). Interação Humano Computador. Elsevier.
 
 Mayhew, D. J. (1999). The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann Publishers.
+
+## Histórico de Versão
+
+|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
+| :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
+|  '1.0'     | 21/04/2023 | Versão inicial com apresentação dos processos  | Carlos | Vitor B. |
