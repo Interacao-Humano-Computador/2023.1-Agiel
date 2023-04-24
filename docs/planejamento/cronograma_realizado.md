@@ -14,6 +14,7 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 |     Modelo da Ata     | Pedro Siqueira |  12/04  |    Carlos Daniel     |  12/04  |        12/04         |       14/04       |
 |     Padrão Github     | Ana Beatriz e Breno |  19/04  |    Carlos Daniel     |  20/04  |        18/04         |       19/04       |
 |       Cronograma Planejado      | Bruno Henrique |  19/04  |   Breno Yuri   |  20/04  |        21/04         |       23/04       |
+| Documento de reuniões |   Vitor   |  23/04  |  Carlos Daniel   |  23/04  |        21/04         |       23/04       |
 |   Processo de design   |    Vitor B  e  Carlos Daniel  |  24/04  | Pedro Siqueira |  20/04  |        21/04         |       23/04       |
 |     Página Inicial     | Pedro Siqueira |  24/04  |    Vitor B     |  20/04  |        22/04         |       23/04       |
 | Ferramentas do projeto |   Vitor   |  24/04  |  Ana Beatriz   |  22/04  |        23/04         |       23/04       |
