@@ -1,7 +1,7 @@
 # 1. Introdução
 
 <p align = "justify">
-Saber quais ferramentas utilizar pode agilizar o trabalho por torná-lo mais eficiente, automatizado, colaborativo e propenso ao aprendizado. Ferramentas colaborativas podem facilitar a colaboração em equipe e a aprendizagem sobre várias ferramentas pode tornar um indivíduo mais versátil e capaz de resolver diferentes tipos de problemas.
+Saber escolher as ferramentas corretas pode otimizar o trabalho, tornando-o mais eficiente, automatizado, colaborativo e propenso ao aprendizado. O uso de ferramentas colaborativas pode facilitar a colaboração em equipe, enquanto a familiaridade com diversas ferramentas pode tornar um indivíduo mais versátil e capaz de resolver uma ampla gama de problemas.
 </p>
 
 # 2. Ferramentas utilizadas
@@ -16,4 +16,4 @@ Saber quais ferramentas utilizar pode agilizar o trabalho por torná-lo mais efi
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 23/04 | Adição das ferramentas utilizadas | Vitor Borges   |               |
+|  1.0   | 23/04 | Adição das ferramentas utilizadas | Vitor Borges   |        Carlos       |
