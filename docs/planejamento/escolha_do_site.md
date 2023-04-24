@@ -24,6 +24,8 @@ O site <a href="https://www.ifg.edu.br/">Instituto Federal de Goiás</a> (IFG) �
 <p align="justify">
 O site em questão tem como problemas não apresenta formas efetivas de conseguir auxílio na estadia do mesmo e por ter que lidar com diversos tipos de usuários que não utilizam as mesmas funções/fluxos o site possui uma interface "poluída" com diversos links e abas, o que torna navegação para usuários não habituados uma tarefa desafiadora. 
 </p>
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/PlanejamentoVitorBorges.pdf">Planejamento da Avaliação IFG</a><br>
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/Avalia%C3%A7%C3%A3oVitorBorges.pdf">Avaliação IFG</a>
 
 ## 2.3 Aprender3 
 <p align="justify">
@@ -47,16 +49,15 @@ Com poucos cliques já consegui perceber alguns erros, segundo a quarta Heuríst
 “Consistência e Padrão”, o sistema deve ser consistente quanto à utilização de sua simbologia
 e a sua plataforma de hardware e software.
 
-[Planejamento](../assets/sites/PlanejamentoAnaBeatriz.pdf)
-  
-[Avaliação](../assets/sites/Avali%C3%A7%C3%A3oAnaBeatriz.pdf)
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/PlanejamentoAnaBeatriz.pdf">Planejamento da Avaliação Cebraspe</a><br>
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/Avali%C3%A7%C3%A3oAnaBeatriz.pdf">Avaliação Cebraspe</a>
 </p>
 
 ## 2.5 Secretaria de Saúde do Distrito Federal (SES)
 <p align="justify">
   O site <a href= "https://www.saude.df.gov.br/">Secretaria de Saúde do Distrito Federal</a> tem como objetivo fornecer informações sobre os serviços de saúde e campanhas de prevenção para a população do Distrito Federal. Porém, apesar de possuir algumas funcionalidades que visam tornar o site acessível para pessoas com deficiências auditivas, como a presença de tradução em Libras, o acesso para pessoas com deficiências visuais e outras limitações é bastante limitado. Além disso, o site é bastante poluído com uma grande quantidade de informações e alguns problemas de design, o que pode dificultar a navegação e a compreensão das informações pelos usuários. Por essa razão, são necessárias melhorias no site para torná-lo mais acessível e fácil de usar para todos os usuários, independentemente de suas limitações e habilidades.
 
- [Planejamento](../assets/sites/PlanejamentoBrenoYuri.pdf)
+ <a href=https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/PlanejamentoBrenoYuri.pdf>Planejamento da Avaliação SES</a>
 </p>
 
 
