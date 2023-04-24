@@ -46,6 +46,10 @@ profissionais qualificados em diferentes áreas, contribuindo para o desenvolvim
 Com poucos cliques já consegui perceber alguns erros, segundo a quarta Heurística
 “Consistência e Padrão”, o sistema deve ser consistente quanto à utilização de sua simbologia
 e a sua plataforma de hardware e software.
+
+[Planejamento](../assets/sites/PlanejamentoAnaBeatriz.pdf)
+  
+[Avaliação](../assets/sites/Avali%C3%A7%C3%A3oAnaBeatriz.pdf)
 </p>
 
 ## 2.5 Secretaria de Saúde do Distrito Federal (SES)
@@ -57,3 +61,10 @@ O site www.saude.df.gov.br tem como objetivo fornecer informações sobre os ser
 <p align="justify">
 O <a href="https://horariodeonibusdf.com.br/">Horário de Ônibus DF</a> é um site que tem como objetivo auxiliar pessoas que usam as linhas de ônibus dentro do Distrito Federal, fornecendo horários, destinos e regiões sobre as linhas. Apesar do design parecer minimalista, o sistema apresenta vários defeitos em relação a usabilidade para usuários novos que não tem costume com a plataforma. Por isso, atráves da avaliação heurística, foi possível identificar esses erros e inconsistencias dentro da usabilidade.
 </p>
+
+## Histórico de Versão
+
+|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
+| :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
+| 21/04/2023 | `1.0` | Versão inicial com resumo de cada site  | Todos | Todos |
+| 24/04/2023 | `1.1` | Colocando link com os PDFs  | Todos | Todos |
