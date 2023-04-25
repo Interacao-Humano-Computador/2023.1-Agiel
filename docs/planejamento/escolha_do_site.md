@@ -69,6 +69,9 @@ e a sua plataforma de hardware e software.
 O <a href="https://horariodeonibusdf.com.br/">Horário de Ônibus DF</a> é um site que tem como objetivo auxiliar pessoas que usam as linhas de ônibus dentro do Distrito Federal, fornecendo horários, destinos e regiões sobre as linhas. Apesar do design parecer minimalista, o sistema apresenta vários defeitos em relação a usabilidade para usuários novos que não tem costume com a plataforma. Por isso, atráves da avaliação heurística, foi possível identificar esses erros e inconsistencias dentro da usabilidade.
 </p>
 
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/AvaliacaoIndividualPlanejAvaliçãoBrunoHenriqueMoreiraCardoso.pdf">Planejamento da Avaliação Horário de Ônibus DF</a><br>
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/PlojetoParteIndividualMetodoeAvaliçãoBrunoHenriqueMoreiraCardoso.pdf">Avaliação Horário de Ônibus DF</a>
+
 # 3. Site Escolhido
 <p align="justify">Após a avaliação dos sites de cada membro pelo professor as escolhas foram reduzidas, as mesmas foram discutidas pelo telegram e nas últimas reuniões e chegamos a conclusão que o site ideal para nosso grupo é o <a href="https://aprender3.unb.br/">Aprender 3</a>.</p>
 <p align="justify">Os motivos para a escolha do site foram os seguintes:</p>
@@ -81,7 +84,7 @@ O <a href="https://horariodeonibusdf.com.br/">Horário de Ônibus DF</a> é um s
 
 ## Histórico de Versão
 
-|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
-| :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
-| `1.0` | 21/04/2023 | Versão inicial com resumo de cada site  | Todos | Todos |
-| `1.1` | 24/04/2023 | Colocando link com os PDFs  | Todos | Todos |
+| Versão |    Data    |               Descrição                | Autor(es) | Revisor(es) |
+|:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
+| `1.0`  | 21/04/2023 | Versão inicial com resumo de cada site |   Todos   |    Todos    |
+| `1.1`  | 24/04/2023 |       Colocando link com os PDFs       |   Todos   |    Todos    |
