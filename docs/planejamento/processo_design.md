@@ -68,3 +68,4 @@ MAYHEW, D. J. The Usability Engineering Lifecycle: A Practitioner's Handbook for
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
 |  '1.0'     | 21/04/2023 | Versão inicial com apresentação dos processos  | Carlos | Vitor B. |
+|  '1.1'     | 25/04/2023 | Ajusta bibliografia | Carlos |
