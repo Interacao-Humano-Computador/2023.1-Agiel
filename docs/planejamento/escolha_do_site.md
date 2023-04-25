@@ -34,11 +34,8 @@ O portal <a href="https://aprender3.unb.br/">Aprender 3</a> é um domínio perte
 <p align="justify">
 Esta avaliação foi feita em cima do novo Aprender3, que sofreu alterações na sua interface. Após estas, apesar de seu visual ter melhorado, foram identificados problemas funcionais e no processo de design, como um caminho pouco intuitivo e trabalhoso para alcançar as abas de uso comum, aba de notificações com a fonte tendo a mesma cor do campom, dificultando a sua visualização e a falha na disponibilização de recursos que evitam erros e que ajudam na correção dos mesmos.
 
-<a href="">Planejamento da Avaliação Aprender3</a><br>
-<a href="">Avaliação Aprender3</a>
-</p>
-
-
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/ProjetoParteIndividualPlanejAvali%C3%A7%C3%A3oPedroSiqueira.pdf">Planejamento da Avaliação Aprender3</a><br>
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/_ProjetoParteIndividualMetodoeAvali%C3%A7%C3%A3oPedroSiqueira.pdf">Avaliação Aprender3</a>
 </p>
 
 ## 2.4 Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe)
