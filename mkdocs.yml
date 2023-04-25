@@ -1,7 +1,7 @@
 site_name: Grupo07
 
 repo_name: "2023.1-Grupo07"
-repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Grupo07"
+repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Aprender3"
 
 theme:
   name: material
@@ -21,6 +21,7 @@ nav:
     - Processo de Design: planejamento/processo_design.md
     - Escolha do Site: planejamento/escolha_do_site.md
     - Cronograma: planejamento/cronograma.md
+    - Cronograma Realizado: planejamento/cronograma_realizado.md 
     - Reuniões: planejamento/reunioes.md
     - Ferramentas: planejamento/ferramentas_utilizadas.md
   - Atas de reunião:

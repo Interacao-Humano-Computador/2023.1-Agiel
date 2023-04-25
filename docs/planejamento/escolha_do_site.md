@@ -14,7 +14,7 @@ Dentre os critérios considerados na escolha, destacam-se a utilidade, relevânc
 O site <a href="https://delegaciavirtual.sids.mg.gov.br/sxgn/">Delegacia Virtual de MG</a> é uma plataforma de delegacia virtual disponibilizada pelo governo do estado de Minas Gerais, Brasil. Seu propósito é possibilitar que os cidadãos registrem ocorrências de pessoas desaparecidas, furtos, acidentes, danos, lesões corporais, ameaças e descumprimento de medidas protetivas de maneira online. Através do site, os usuários têm a opção de preencher informações detalhadas sobre as ocorrências, fornecer dados de identificação, realizar o upload de fotos e fornecer informações relevantes para auxiliar nas investigações. A plataforma busca agilizar o processo de registro de ocorrências, oferecendo uma alternativa virtual para o registro de diversos tipos de casos. A utilização do site é gratuita e direcionada aos cidadãos que precisam registrar ocorrências dessa natureza em Minas Gerais.
 </p>
 <p align="justify">
-Em resumo, o site apresenta problemas em termos de visibilidade do status do sistema, correspondência entre o sistema e o mundo real, controle e liberdade do usuário, consistência e padrões, prevenção de erros, reconhecimento em vez de recordação, flexibilidade e eficiência de uso, estética e design minimalista, ajuda aos usuários a reconhecerem, diagnosticarem e se recuperarem de erros, e ajuda e documentação, violando várias das heurísticas de Nielsen para uma boa experiência de IHC.
+Em resumo, o site apresenta problemas em termos de visibilidade do status do sistema, prevenção de erros, reconhecimento em vez de recordação, bem como recursos de acessibilidade que não funcionam. 
 </p>
 
 ## 2.2 Instituto Federal de Goiás (IFG)
