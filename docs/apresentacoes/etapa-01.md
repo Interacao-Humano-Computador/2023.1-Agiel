@@ -15,7 +15,7 @@ A apresentação da etapa 01 tem o intuito de mostrar o que foi desenvolvido at�
 
 ## Video da apresentação
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=qOyrZM04N0k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qOyrZM04N0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de Versão
 
@@ -24,9 +24,9 @@ A apresentação da etapa 01 tem o intuito de mostrar o que foi desenvolvido at�
 |  1.0   | 27/04 | Adição da apresentação etapa 01 do projeto | Vitor Borges | Todos|
 
 ## Referências
-> Aba de planejamento do projeto <a>https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/tree/main/docs/planejamento<a>
-> Sites avaliados pela equipe <a>https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/escolha_do_site/<a>
-> Ferramentas utilizadas <a>https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/ferramentas_utilizadas/<a>
-> Processo de design escolhido
-> Cronograma planejado<a>https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma/<a>
-> Cronograma realizado<a>https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma_realizado/<a>
+> <a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/tree/main/docs/planejamento">Aba de planejamento do projeto<a><br>
+> <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/escolha_do_site/">Sites avaliados pela equipe<a><br>
+> <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/ferramentas_utilizadas/">Ferramentas utilizadas<a><br>
+> <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/processo_design/">Processo de design escolhido<a><br>
+> <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma/">Cronograma planejado<a><br>
+> <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma_realizado/">Cronograma realizado<a>
