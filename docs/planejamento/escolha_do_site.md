@@ -16,7 +16,8 @@ O site <a href="https://delegaciavirtual.sids.mg.gov.br/sxgn/">Delegacia Virtual
 <p align="justify">
 Em resumo, o site apresenta problemas em termos de visibilidade do status do sistema, prevenção de erros, reconhecimento em vez de recordação, bem como recursos de acessibilidade que não funcionam. 
 </p>
-
+ProjetoParteIndividualPlanejAvaliçãoCarlosDanielSantos.pdf
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/ProjetoParteIndividualPlanejAvaliçãoCarlosDanielSantos.pdf">Planejamento da Avaliação Delegacia Virtual - MG</a><br>
 ## 2.2 Instituto Federal de Goiás (IFG)
 <p align="justify">
 O site <a href="https://www.ifg.edu.br/">Instituto Federal de Goiás</a> (IFG) é um portal da instituição IFG voltado para divulgação de notícias no geral acerca da mesma, notícias essas que envolvem: novos processos seletivos, guia de cursos, calendário acadêmico, lista de servidores, informações de contato, guia para novos alunos/servidores, concursos, pesquisas, visibilidade e muitos outros. O site é disponibilizado de forma gratuita e tem como usuários alunos (ensino superior e técnico), servidores (professores, diretores e etc...) e comunidade externa que estejam interessados nas notícias da instituição.
