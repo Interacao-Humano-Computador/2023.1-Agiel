@@ -24,11 +24,11 @@ Saber escolher as ferramentas corretas pode otimizar o trabalho, tornando-o mais
 
 ## Referências
 
-> Saiba mais Google Sheets - <a>https://www.google.com/sheets/about/<a> Acesso em 26/04 <br>
-> Saiba mais Microsoft Teams - <a>https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software<a> Acesso em 26/04 <br>
-> Saiba mais Telegram - <a>https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=pt_BR&gl=US<a> Acesso em 26/04 <br>
-> Saiba mais GitHub - <a>https://github.com/<a> Acesso em 26/04
-> Saiba mais Visual Studio Code - <a>https://code.visualstudio.com/<a> Acesso em 26/04
-> Saiba mais Google Documents - <a>https://pt.wikipedia.org/wiki/Google_Docs<a> Acesso em 26/04
-> Saiba mais Google Drive - <a>https://www.google.com/intl/pt-br/drive/about.html<a> Acesso em 26/04
-> Saiba mais YouTube - <a>https://pt.wikipedia.org/wiki/YouTube<a> Acesso em 26/04
+> Saiba mais Google Sheets - <https://www.google.com/sheets/about/> Acesso em 26/04 <br>
+> Saiba mais Microsoft Teams - <https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software> Acesso em 26/04 <br>
+> Saiba mais Telegram - <https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=pt_BR&gl=US> Acesso em 26/04 <br>
+> Saiba mais GitHub - <https://github.com/> Acesso em 26/04
+> Saiba mais Visual Studio Code - <https://code.visualstudio.com/> Acesso em 26/04
+> Saiba mais Google Documents - <https://pt.wikipedia.org/wiki/Google_Docs> Acesso em 26/04
+> Saiba mais Google Drive - <https://www.google.com/intl/pt-br/drive/about.html> Acesso em 26/04
+> Saiba mais YouTube - <https://pt.wikipedia.org/wiki/YouTube> Acesso em 26/04
