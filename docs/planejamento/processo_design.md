@@ -18,7 +18,7 @@ Preece, Sharp e Roges (Preece et al, 2002; Sharp et al, 2007) organizaram o mode
 
 ![Modelo](../imagens/ciclo_simples.png)
 
-<p align="center">Figura 1. Ciclo de Vida Simples (adapatado Sharp, et al 2007).</p>
+<p style="font-size: 0.8rem" align="center">Figura 1. Ciclo de Vida Simples (adapatado Sharp, et al 2007).</p>
 
 <p align="justify">
 Esse modelo, por sua simplicidade, é indicado para designers experientes e não se adequa bem a estudantes.
@@ -34,7 +34,7 @@ No ciclo de vida estrela, o desenvolvimento pode começar por qualquer ponta, em
 
 ![Modelo](../imagens/ciclo_estrela.png)
 
-<p align="center">Figura 2. Ciclo de Vida Estrela.</p>
+<p style="font-size: 0.8rem" align="center">Figura 2. Ciclo de Vida Estrela.</p>
 
 
 ### 2.3. Engenharia de Usuabilidade de Mayhew
@@ -45,7 +45,7 @@ No ciclo de vida estrela, o desenvolvimento pode começar por qualquer ponta, em
 
 ![Modelo](../imagens/ciclo_mayhew.png)
 
-<p align="center">Figura 3. Ciclo de Vida Mayhew (Adpatado Mayhew, 1999).</p>
+<p style="font-size: 0.8rem" align="center">Figura 3. Ciclo de Vida Mayhew (Adpatado Mayhew, 1999).</p>
 
 
 <p align="justify">
