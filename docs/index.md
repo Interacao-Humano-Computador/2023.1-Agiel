@@ -1,7 +1,7 @@
 # Grupo 07 - Interação Humano Computador
 
 
-<img src="./imagens/logo.png" alt="logo" width="50%" style="float: none; margin: auto"/>
+<img src="./imagens/logo.png" alt="logo" width="40%" style="float: none; margin: auto"/>
 
 Nós somos o Grupo 7 da disciplina de Interação Humano-Computador (IHC) do curso de Engenharia de Software da Universidade de Brasília.
 
