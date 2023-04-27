@@ -4,9 +4,11 @@
 
 <p align="justify">
 &emsp;&emsp; Reuniões permitem que os membros da equipe se comuniquem e se atualizem sobre o status do projeto, compartilhem ideias, discutam problemas e tomem decisões importantes. As reuniões também podem ser utilizadas para definir metas e objetivos, estabelecer prioridades, distribuir tarefas, monitorar o progresso do projeto e avaliar o desempenho da equipe. Porém, para que sejam benéficas e úteis, elas devem ser bem planejadas, de forma que o tempo seja usado de maneira produtiva e que os membros da equipe possam participar de forma ativa.
-Com o intuito de ter reuniões com todos os membros da equipe, definimos, com a ajuda de um mapa de calor preenchido por todos, os melhores horários para realizar uma reunião.
+Com o intuito de ter reuniões com todos os membros da equipe, com o auxílio de um mapa de calor preenchido por todos visando os horários de disponibilidade foi possível selecionar os melhores horários para realizar uma reunião em que todos os membros estejam livres para participar ativamente.
 </p>
 
+<figcaption align="center">Tabela 1 - <a href="https://pt.wikipedia.org/wiki/Mapa_de_calor">Mapa de calor<a> preenchido pela equipe.</figcaption>
+  
 ![Mapa de Calor](../assets/heatmap.png)
 
 <p align="justify">
@@ -16,4 +18,8 @@ Com o intuito de ter reuniões com todos os membros da equipe, definimos, com a 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
 |  1.0   | 21/04 | Adição do mapa de calor | Vitor Borges | Carlos Daniel |
-|  1.0   | 23/04 | Aba movida para planejamento     | Vitor Borges | Carlos Daniel | 
+|  1.1   | 23/04 | Aba movida para planejamento     | Vitor Borges | Carlos Daniel | 
+|  1.2   | 27/04 | Adiçao de referências            | Vitor Borges | Carlos Daniel |
+  
+## Referências
+> Saiba mais sobre mapas de calor: <a>https://pt.wikipedia.org/wiki/Mapa_de_calor<a> Acesso em 27/04
