@@ -1,9 +1,7 @@
 # Grupo 07 - Interação Humano Computador
 
 
-<span align="center" style="color: #990000; font-weight: bold; font-size: 2rem">
-DELEGACIA VIRTUAL - MG
-</span>
+![LOGO](./docs/imagens/logo.png)
 
 Nós somos o Grupo 7 da disciplina de Interação Humano-Computador (IHC) do curso de Engenharia de Software da Universidade de Brasília.
 
