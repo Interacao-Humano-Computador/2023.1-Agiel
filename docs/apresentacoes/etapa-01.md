@@ -24,9 +24,9 @@ A apresentação da etapa 01 tem o intuito de mostrar o que foi desenvolvido at�
 |  1.0   | 27/04 | Adição da apresentação etapa 01 do projeto | Vitor Borges | Todos|
 
 ## Referências
-> <a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/tree/main/docs/planejamento">Aba de planejamento do projeto<a><br>
-> <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/escolha_do_site/">Sites avaliados pela equipe<a><br>
-> <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/ferramentas_utilizadas/">Ferramentas utilizadas<a><br>
-> <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/processo_design/">Processo de design escolhido<a><br>
-> <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma/">Cronograma planejado<a><br>
-> <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma_realizado/">Cronograma realizado<a>
+> Aba de planejamento do projeto. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/tree/main/docs/planejamento><br>
+> Sites avaliados pela equipe. Disponível em: <https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/escolha_do_site><br>
+> Ferramentas utilizadas. Disponível em: <https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/ferramentas_utilizadas/><br>
+> Processo de design escolhido. Disponível em: <https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/processo_design/><br>
+> Cronograma planejado. Disponível em: <https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma/><br>
+> Cronograma realizado. Disponível em: <https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma_realizado/>
