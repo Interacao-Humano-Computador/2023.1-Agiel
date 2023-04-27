@@ -22,4 +22,4 @@ Com o intuito de ter reuniões com todos os membros da equipe, com o auxílio de
 |  1.2   | 27/04 | Adiçao de referências            | Vitor Borges | Carlos Daniel |
   
 ## Referências
-> Saiba mais sobre mapas de calor: <a>https://pt.wikipedia.org/wiki/Mapa_de_calor<a> Acesso em 27/04
+> Saiba mais sobre mapas de calor: <https://pt.wikipedia.org/wiki/Mapa_de_calor> Acesso em 27/04
