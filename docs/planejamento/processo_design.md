@@ -15,7 +15,10 @@ Este aterfato tem como objetivo determinar o modelo de design mais adequado ao p
 <p align="justify">
 Preece, Sharp e Roges (Preece et al, 2002; Sharp et al, 2007) organizaram o modelo simples de design em IHC. Ele é composto por três etapas: compreensão do contexto, projeto conceitual e prototipagem.</p>
 
-![Modelo](../imagens/modelo_simples_processo_design.png)
+
+![Modelo](../imagens/ciclo_simples.png)
+
+<p style="font-size: 0.8rem">Figura 1. Ciclo de Vida Simples (adapatado Sharp, et al 2007).</p>
 
 <p align="justify">
 Esse modelo, por sua simplicidade, é indicado para designers experientes e não se adequa bem a estudantes.
@@ -29,7 +32,10 @@ Esse modelo, por sua simplicidade, é indicado para designers experientes e não
 No ciclo de vida estrela, o desenvolvimento pode começar por qualquer ponta, em direção ao centro (avaliação).
 </p>
 
-![Modelo](../imagens/ciclo_de_vida_estrela.png)
+![Modelo](../imagens/ciclo_estrela.png)
+
+<p style="font-size: 0.8rem">Figura 2. Ciclo de Vida Estrela.</p>
+
 
 ### 2.3. Engenharia de Usuabilidade de Mayhew
 
@@ -37,7 +43,10 @@ No ciclo de vida estrela, o desenvolvimento pode começar por qualquer ponta, em
 É uma abordagem iterativa para um projeto de interfaces humano-computador. Envolve a aplicação de princípios e métodos de engenharia em três etapas principais, conhecidas como o ciclo de vida para engenharia de usabilidade (MAYHEW, 1999):
 </p>
 
-![Modelo](../imagens/ciclo_de_vida_mayhew.png)
+![Modelo](../imagens/ciclo_mayhew.png)
+
+<p style="font-size: 0.8rem">Figura 3. Ciclo de Vida Mayhew (Adpatado Mayhew, 1999).</p>
+
 
 <p align="justify">
 Análise de requisitos: Nesta etapa, são coletados os requisitos do projeto, dados dos usuários, suas necessidades, assim como as tarefas a serem executadas na interface.

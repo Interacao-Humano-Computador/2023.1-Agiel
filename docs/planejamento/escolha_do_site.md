@@ -16,6 +16,7 @@ O site <a href="https://delegaciavirtual.sids.mg.gov.br/sxgn/">Delegacia Virtual
 <p align="justify">
 Em resumo, o site apresenta problemas em termos de visibilidade do status do sistema, prevenção de erros, reconhecimento em vez de recordação, bem como recursos de acessibilidade que não funcionam. 
 </p>
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/ProjetoParteIndividualPlanejAvaliçãoCarlosDanielSantos.pdf">Planejamento da Avaliação Delegacia Virtual - MG</a><br>
 
 ## 2.2 Instituto Federal de Goiás (IFG)
 <p align="justify">
@@ -73,14 +74,7 @@ O <a href="https://horariodeonibusdf.com.br/">Horário de Ônibus DF</a> é um s
 <a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/PlojetoParteIndividualMetodoeAvaliçãoBrunoHenriqueMoreiraCardoso.pdf">Avaliação Horário de Ônibus DF</a>
 
 # 3. Site Escolhido
-<p align="justify">Após a avaliação dos sites de cada membro pelo professor as escolhas foram reduzidas, as mesmas foram discutidas pelo telegram e nas últimas reuniões e chegamos a conclusão que o site ideal para nosso grupo é o <a href="https://aprender3.unb.br/">Aprender 3</a>.</p>
-<p align="justify">Os motivos para a escolha do site foram os seguintes:</p>
-
-1. O site apresenta múltiplas funções (login, cadastro em disciplina, realização de atividade, entrega de documentos e etc...)
-2. Todos os integrantes tem acesso ao site
-3. Existe uma grande quantidade de usuários
-4. Existe uma facilidade em chegar até os usuários
-5. Após a repaginação temos novos feedbacks (positivos e negativos)
+<p align="justify">Após a avaliação dos sites de cada membro pelo professor as escolhas foram reduzidas, as mesmas foram discutidas pelo telegram e nas últimas reuniões e chegamos a conclusão que o site ideal para nosso grupo é o <a href=https://delegaciavirtual.sids.mg.gov.br/>DELEGACIA VIRTUAL - MG</a>.</p>
 
 ## Histórico de Versão
 
@@ -88,3 +82,4 @@ O <a href="https://horariodeonibusdf.com.br/">Horário de Ônibus DF</a> é um s
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
 | `1.0`  | 21/04/2023 | Versão inicial com resumo de cada site |   Todos   |    Todos    |
 | `1.1`  | 24/04/2023 |       Colocando link com os PDFs       |   Todos   |    Todos    |
+| `2.0`  | 27/04/2023 |  Atualiza site escolhido   |  Carlos   |    Todos    |

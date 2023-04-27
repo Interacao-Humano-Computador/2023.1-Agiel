@@ -1,7 +1,7 @@
 # Grupo 07 - Interação Humano Computador
 
 
-<h1 align="center" style="color: #00427e; font-size: 3rem; font-weight: bold">Aprender3</h1>
+<img src="./imagens/logo.png" alt="logo" width="40%" style="float: none; margin: auto"/>
 
 Nós somos o Grupo 7 da disciplina de Interação Humano-Computador (IHC) do curso de Engenharia de Software da Universidade de Brasília.
 
@@ -28,3 +28,4 @@ Para mais informoções sobre o projeto acesse a nossa [Wiki](https://interacao-
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
 | 19/04/2023 | `1.0` | Versão inicial de documento de descrição do projeto | Ana Beatriz e Breno Yuri | Carlos Daniel |
+| 27/04/2023 | `1.0` | Atualiza gitpages para o site usado no projeto | Carlos Daniel |  |
