@@ -16,7 +16,6 @@ O site <a href="https://delegaciavirtual.sids.mg.gov.br/sxgn/">Delegacia Virtual
 <p align="justify">
 Em resumo, o site apresenta problemas em termos de visibilidade do status do sistema, prevenção de erros, reconhecimento em vez de recordação, bem como recursos de acessibilidade que não funcionam. 
 </p>
-ProjetoParteIndividualPlanejAvaliçãoCarlosDanielSantos.pdf
 <a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/ProjetoParteIndividualPlanejAvaliçãoCarlosDanielSantos.pdf">Planejamento da Avaliação Delegacia Virtual - MG</a><br>
 ## 2.2 Instituto Federal de Goiás (IFG)
 <p align="justify">
