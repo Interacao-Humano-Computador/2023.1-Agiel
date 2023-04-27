@@ -6,13 +6,27 @@
 A apresentação da etapa 01 tem o intuito de mostrar o que foi desenvolvido até o dia 24/04 do projeto, a mesma contém:
 </p>
 
-1. Planejamento do Projeto apresentando a equipe
-2. Listas de sites avaliados
-3. Site selecionado para o projeto
-4. Ferramentas do projeto
-5. Processo de Design selecionado
-6. Cronograma detalhado das atividades do projeto
+1. <a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/tree/main/docs/planejamento">Planejamento do Projeto<a> apresentando a equipe
+2. Listas de <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/escolha_do_site/">sites avaliados<a>
+3. <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/escolha_do_site/">Site selecionado para o projeto
+4. <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/ferramentas_utilizadas/">Ferramentas do projeto<a>
+5. <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/processo_design/">Processo de Design<a> selecionado
+6. Cronograma <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma/">planejado<a> e <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma_realizado/">realizado<a> detalhado das atividades do projeto
 
 ## Video da apresentação
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=qOyrZM04N0k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Histórico de Versão
+
+| Versão | Data  |            Descrição              |     Autor      |    Revisor    |
+|:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
+|  1.0   | 27/04 | Adição da apresentação etapa 01 do projeto | Vitor Borges | Todos|
+
+## Referências
+> Aba de planejamento do projeto <a>https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/tree/main/docs/planejamento<a>
+> Sites avaliados pela equipe <a>https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/escolha_do_site/<a>
+> Ferramentas utilizadas <a>https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/ferramentas_utilizadas/<a>
+> Processo de design escolhido
+> Cronograma planejado<a>https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma/<a>
+> Cronograma realizado<a>https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma_realizado/<a>
