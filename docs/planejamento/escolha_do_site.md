@@ -82,4 +82,4 @@ O <a href="https://horariodeonibusdf.com.br/">Horário de Ônibus DF</a> é um s
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
 | `1.0`  | 21/04/2023 | Versão inicial com resumo de cada site |   Todos   |    Todos    |
 | `1.1`  | 24/04/2023 |       Colocando link com os PDFs       |   Todos   |    Todos    |
-| `2.0`  | 27/04/2023 |       Colocando link com os PDFs       |   Atualiza site escolhido   |    Todos    |
+| `2.0`  | 27/04/2023 |  Atualiza site escolhido   |  Carlos   |    Todos    |
