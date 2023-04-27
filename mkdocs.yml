@@ -1,4 +1,4 @@
-site_name: 2023.1-Apender3
+site_name: 2023.1-Delegacia-Virtual-MG
 
 repo_name: "2023.1-Grupo07"
 repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Grupo07"
@@ -7,7 +7,7 @@ theme:
   name: material
   language: "pt"
   palette:
-    primary: indigo
+    primary: black
     accent: white
   features:
     - navigation.tabs
