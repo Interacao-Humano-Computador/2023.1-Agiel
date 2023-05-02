@@ -1,9 +1,6 @@
-# Grupo 07 - Interação Humano Computador
-
+# Agiel
 
 ![LOGO](./docs/assets/agiel.png)
-
-Nós somos o Grupo 7 da disciplina de Interação Humano-Computador (IHC) do curso de Engenharia de Software da Universidade de Brasília.
 
 ## Sobre o Projeto
 
