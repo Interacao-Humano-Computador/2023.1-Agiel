@@ -1,15 +1,11 @@
-# Grupo 07 - Interação Humano Computador
-
-
-<img src="./imagens/logo.png" alt="logo" width="40%" style="float: none; margin: auto"/>
-
-Nós somos o Grupo 7 da disciplina de Interação Humano-Computador (IHC) do curso de Engenharia de Software da Universidade de Brasília.
-
+# Agiel
 ## Sobre o Projeto
 
 O projeto da disciplina de IHC tem como objetivo melhorar a usabilidade e a experiência do usuário em um site escolhido pelo grupo. O projeto irá abordar conceitos e técnicas para análise, projeto e avaliação de interfaces para web, visando aprimorar a interação entre usuário e sistema. O resultado final será um protótipo funcional do site com melhorias em sua usabilidade e experiência do usuário.
 
-Para mais informoções sobre o projeto acesse a nossa [Wiki](https://interacao-humano-computador.github.io/2023.1-Grupo07/).
+<img src="./assets/agiel.png" alt="logo" width="40%" style="float: none; margin: auto"/>
+
+Figura 1: Logo da Agiel (Fonte: [agiel.com.br](https://www.agiel.com.br/site/))
 
 ## Equipe
 
@@ -28,4 +24,5 @@ Para mais informoções sobre o projeto acesse a nossa [Wiki](https://interacao-
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
 | 19/04/2023 | `1.0` | Versão inicial de documento de descrição do projeto | Ana Beatriz e Breno Yuri | Carlos Daniel |
-| 27/04/2023 | `1.0` | Atualiza gitpages para o site usado no projeto | Carlos Daniel |  |
+| 27/04/2023 | `1.0` | Atualiza gitpages para o site usado no projeto | Carlos Daniel | Pedro Siqueira |
+| 02/05/2023 | `1.1` | Atualização visual do gitpages | Pedro Siqueira e Bruno Henrique | Ana Beatriz |

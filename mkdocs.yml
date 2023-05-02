@@ -1,14 +1,27 @@
-site_name: 2023.1-Delegacia-Virtual-MG
+site_name: Agiel
 
 repo_name: "2023.1-Grupo07"
 repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Grupo07"
 
 theme:
   name: material
+  logo: assets/agiel-white.png
+  favicon: assets/agiel-white.png
   language: "pt"
   palette:
-    primary: black
-    accent: white
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: orange
+      toggle:
+        icon: material/brightness-7
+        name: Tema escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: orange
+      toggle:
+        icon: material/brightness-4
+        name: Tema claro
   features:
     - navigation.tabs
   font:
