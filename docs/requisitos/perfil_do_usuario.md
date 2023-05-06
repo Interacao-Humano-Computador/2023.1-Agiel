@@ -31,7 +31,27 @@ Para a coletar os dados sobre os usuários e suas necessidades de forma eficaz o
 As respostas obtidas através do questionário foram analisadas para identificar padrões e tendências no comportamento e nas necessidades dos usuários, para que dessa forma seja possível propor mudanças que satisfaçam os respectivos usuários.
 </p>
 
-## 4. Bibliografia
+## Questionário
+
+### Seção 01 - Termo de consentimento
+<p aling="justify">
+&emsp;&emsp;
+A seção inicial do questionário além de apresentar uma introdução sobre o projeto apresenta um termo de consentimento para que o indivíduo possa concordar ou não em participar do nosso projeto e compreender para que os dados coletados serão utilizados.
+</p>
+
+### Seção 02 - Dados demográficos
+<p aling="justify">
+&emsp;&emsp;
+A segunda seção apresenta as questões com o intuito de coletar informações como: idade, sexo, nível de escolaridade, status socioeconômico e afinidade com a tecnologia.
+</p>
+
+### Seção 03 - Agiel e outras plataformas
+<p aling="justify">
+&emsp;&emsp;
+A terceira seção apresenta as questões com o intuito de coletar informações acerca da experiência do usuário com o Agiel e com outras plataformas semelhantes.
+</p>
+
+## Bibliografia
 ```
-SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://leanpub.com/ihc-ux). Publicado em: 03/05/2021
+SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
 ```
