@@ -29,3 +29,5 @@ nav:
     - Reunião 01: atas/reuniao-01.md
   - Apresentações:
     - Etapa 01: apresentacoes/etapa-01.md
+  - Análise de Requisitos:
+    - Perfil do Usuário: requisitos/perfil_do_usuario.md
