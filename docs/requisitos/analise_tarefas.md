@@ -12,7 +12,11 @@ Este documento tem o fim da apresentar a análise de tarefas do site AGIEL (Agê
 Foram utilizadas duas técnicas distintas para realizar a análise de tarefas do sistema: Análise Hierárquica de
 Tarefas (HTA – Hierarchical Task Analysis (Annett, 2003; Annett e Duncan, 1967)) e o GOMS (Goals,
 Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
-Cada técnica será apresentada brevemente nas próximas sessões.
+</p>
+
+## 2. Análise Hierárquica de Tarefas
+<p align="justify">
+
 </p>
 
 
