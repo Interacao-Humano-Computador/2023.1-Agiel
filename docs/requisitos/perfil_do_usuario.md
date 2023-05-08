@@ -51,6 +51,13 @@ A segunda seção apresenta as questões com o intuito de coletar informações 
 A terceira seção apresenta as questões com o intuito de coletar informações acerca da experiência do usuário com o Agiel e com outras plataformas semelhantes.
 </p>
 
+## Resultado
+<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTdkNTQ0Y2EtYzAxOC00ODY5LWE1YjYtY2UwOTQzN2JhZTMwIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+<h6 align = "center"> Dashboard 1: Dashboard do perfil de usuário
+<br> Autor: Ana Beatriz
+<br>Fonte: Autor(es)</h6>
+
 ## Bibliografia
 ```
 SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
