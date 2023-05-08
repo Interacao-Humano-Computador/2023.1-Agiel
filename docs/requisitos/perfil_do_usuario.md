@@ -31,6 +31,12 @@ Para a coletar os dados sobre os usuários e suas necessidades de forma eficaz o
 As respostas obtidas através do questionário foram analisadas para identificar padrões e tendências no comportamento e nas necessidades dos usuários, para que dessa forma seja possível propor mudanças que satisfaçam os respectivos usuários.
 </p>
 
+<p align="justify">
+&emsp;&emsp; 
+Como método complementar utilizamos a classificação de cartões. A classificação de cartões é uma técnica de design de interface que envolve a organização de informações em cartões visuais que são categorizados de acordo com um ou mais critérios. Os critérios de classificação dos cartões em uma interface de site podem variar, dependendo da finalidade e do público-alvo do site.
+Utilizamos a classificação de cartões pois é um método que permite observar o que o usuário faz e necessita em um site.
+</p>
+
 ## Questionário
 
 ### Seção 01 - Termo de consentimento
@@ -58,7 +64,20 @@ A terceira seção apresenta as questões com o intuito de coletar informações
 <br> Autor: Ana Beatriz
 <br>Fonte: Autor(es)</h6>
 
+## Classificação de cartões
+
+<p align="justify">
+&emsp;&emsp;
+Para realizar a classificação de cartões foram coletadas e compiladas as diversas funções do Agiel e transformadas em cartões. Realizamos uma entrevista em que o entrevistado deveria classificar estes cartões em categorias de forma livre e após a classificação explicar as categorias que o mesmo formou.
+</p>
+
+## Resultado
+
 ## Bibliografia
 ```
 SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
 ```
+
+| Versão | Data  |            Descrição             |     Autor      |    Revisor    |
+|:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
+|  1.0   | 08/05 | Adição do mapa de calor | Pedro Vitor | Carlos |
