@@ -2,9 +2,11 @@
 
 ## 1. Introdução
 <p align="justify">
-O processo de design é fundamental para projetos de Interação Humano-Computador, assegurando interfaces de alta usabilidade. É importante considerar o usuário em todas as etapas do projeto, desde a análise de requisitos até a implementação, para proporcionar interações eficientes e bem-aceitas.
+A análise de tarefas tem como objetivo compreender os trabalhos dos usuários em um sistema, incluindo como são executados e o por quê. Esses trabalhos são definidos em termos dos objetivos das pessoas e organizações envolvidas no software (Diape, 2003).
 </p>
-
+<p align="justify">
+Este documento tem o fim da apresentar a análise de tarefas do site AGIEL (Agência de Estágios). O artefato produto deve apresentar uma análise concreta e bem detalhada, visto que o site já está operacional, segundo Diaper (2003).
+</p>
 
 ## 4. Bibliografia
 ```
