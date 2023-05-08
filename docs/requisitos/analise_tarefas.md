@@ -20,6 +20,27 @@ Essa técnica tem o fim de compreender as competências e habilidade exibidas em
 1967). Nesse contexto, uma tarefa é qualquer parte do trabalho que precisa ser realizado. Por sua vez, uma tarefa pode ser definida em objetivos e subobjetivos através de um processo chamado de decomposição de tarefas. Vale ressaltar que cada subobjetivo é alcançado por uma <b>operação</b>, que é a unidade fundamental em HTA.
 </p>
 
+### Análise da tarefa: candidatar para uma vaga de estágio
+
+A tarefa "candidatar para uma vaga de estágio" é a principal tarefa que o usuário realiza no sistema, já que é sua funcionalidade principal. A Tabela 1 e a Figura 2 apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
+
+| Objetivos/Operações                    | Problemas e recomendações                                                                                                                                                                                                                                                                                       |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Candidatar para uma vaga de estágio | **input**: acesso ao menu "Disponíveis (Meu Curso)" na tela inicial; <br/> **feedback**: tela de vagas, com uma lista sobre vagas relacionadas ao meu curso; <br/> **plano**: escolher vaga de estágio mais adequada ao meu interesse; <br/> **recomendação**: Agrupar as abas para ver os estagios em filtros. |
+| 1. Inscrever se na vaga                |                                                                                                                                                                                                                                                                                                                 |
+| 2. Confirmar Candidatura               |                                                                                                                                                                                                                                                                                                                 |
+| 2.1 Adicionar informações extras       | **input**: colocar informações adicionais caso haja necessidade;                                                                                                                                                                                                                                                |
+| 3. Ver minha candidatura               |                                                                                                                                                                                                                                                                                                                 |
+<div style="text-align: center">
+<p> Tabela 1: Análise Hierárquica de Tarefas para o objetivo "candidatar para uma vaga de estágio" <br/>(Fonte: autor, 2023).</p>
+</div>
+
+![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Candidatar para uma vaga de estágio"](../assets/hta.png)
+
+<div style="text-align: center">
+<p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Candidatar para uma vaga de estágio" <br/> (Fonte: autor, 2023).</p>
+</div>
+
 
 ## 4. Bibliografia
 ```
@@ -30,6 +51,6 @@ MAYHEW, D. J. The Usability Engineering Lifecycle: A Practitioner's Handbook for
 
 ## Histórico de Versão
 
-|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
-| :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
-|  '1.0'     | 08/05/2023 | Versão inicial de análise de tarefas  | Carlos e Bruno | Vitor B. |
+| Versão |    Data    |              Descrição               |   Autor(es)    | Revisor(es) |
+|:------:|:----------:|:------------------------------------:|:--------------:|:-----------:|
+| '1.0'  | 08/05/2023 | Versão inicial de análise de tarefas | Carlos e Bruno |  Vitor B.   |
