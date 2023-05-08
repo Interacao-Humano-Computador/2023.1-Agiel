@@ -34,9 +34,13 @@ Assim, estou ciente das informações acima e autorizo a utilização dos meus d
 
 ## Referências
 > SciELO - Brasil - Aspectos éticos da pesquisa científica Aspectos éticos da pesquisa científica.  Disponível em: <https://www.scielo.br/j/pob/a/MZVSYxKncfrNnsKxbjg5Gxr/?lang=pt>. Acesso em: 08 Mai. 2023.  
+
 > UNIVERSIDADE DO VALE DO PARAÍBA. Aspectos éticos da pesquisa envolvendo seres humanos. São José dos Campos: UNIVAP.  Disponível em: <https://www1.univap.br/marketing/site/cep/aspectos_eticos_pesquisas_cep.pdf>. Acesso em: 08 Mai. 2023.  
+
 >Aspectos Éticos - Skoob.  Disponível em: <https://github.com/Interacao-Humano-Computador/2022.2-Skoob/blob/main/docs/analise-de-requisitos/aspectos-eticos.md>. Acesso em: 08 Mai. 2023.
+
 >Aspectos Éticos - Lichess.  Disponível em: <https://github.com/Interacao-Humano-Computador/2022.2-Lichess/blob/main/docs/analise_requisitos/aspectos_eticos.md>. Acesso em: 08 Mai. 2023.   
+
 > Resolução N°466 - Conselho Nacional de Saúde. Disponível em : <https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>. Acesso em: 08 Mai. 2023.
 
 ## Tabela de Versionamento
