@@ -8,6 +8,14 @@ A análise de tarefas tem como objetivo compreender os trabalhos dos usuários e
 Este documento tem o fim da apresentar a análise de tarefas do site AGIEL (Agência de Estágios). O artefato produto deve apresentar uma análise concreta e bem detalhada, visto que o site já está operacional, segundo Diaper (2003).
 </p>
 
+<p align="justify">
+Foram utilizadas duas técnicas distintas para realizar a análise de tarefas do sistema: Análise Hierárquica de
+Tarefas (HTA – Hierarchical Task Analysis (Annett, 2003; Annett e Duncan, 1967)) e o GOMS (Goals,
+Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
+Cada técnica será apresentada brevemente nas próximas sessões.
+</p>
+
+
 ## 4. Bibliografia
 ```
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
