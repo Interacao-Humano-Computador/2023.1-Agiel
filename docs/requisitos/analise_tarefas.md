@@ -42,6 +42,16 @@ A tarefa "candidatar para uma vaga de estágio" é a principal tarefa que o usu�
 </div>
 
 
+## 3. Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
+
+<p align="justify">
+O GOMS é um procedimento que analisa tarefas e oferece uma descrição do conhecimento necessário para que um usuário possa realizá-las, envolvendo quatros figuras simbólicas: goals, operator, methods e selection rules.
+
+
+
+</p>
+
+
 ## 4. Bibliografia
 ```
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
