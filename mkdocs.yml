@@ -37,6 +37,8 @@ nav:
     - Cronograma Realizado: planejamento/cronograma_realizado.md 
     - Reuniões: planejamento/reunioes.md
     - Ferramentas: planejamento/ferramentas_utilizadas.md
+  - Análise de Requisitos:
+    - Aspectos Éticos: requisitos/aspectos_eticos.md
   - Atas de reunião:
     - Reunião 00: atas/reuniao-00.md
     - Reunião 01: atas/reuniao-01.md
