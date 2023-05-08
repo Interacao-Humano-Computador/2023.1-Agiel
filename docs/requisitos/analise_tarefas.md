@@ -14,9 +14,12 @@ Tarefas (HTA – Hierarchical Task Analysis (Annett, 2003; Annett e Duncan, 1967
 Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 </p>
 
-## 2. Análise Hierárquica de Tarefas
+## 2. Análise Hierárquica de Tarefas (HTA)
 <p align="justify">
-
+Essa técnica tem o fim de compreender as competências e habilidade exibidas em tarefas complexas e não repitivas (Annett, 2003; Annett e Duncan,
+1967).
+</p>
+Nesse contexto, uma tarefa é qualquer parte do trabalho que precisa ser realizada. Por sua vez, uma tarefa pode ser definida em objetivos e subobjetivos através de um processo chamado de decomposição de tarefas. Vale ressaltar que cada subobjetivo é alcançado por uma <b>operação</b>, que é a unidade fundamental em HTA.
 </p>
 
 
