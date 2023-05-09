@@ -78,7 +78,7 @@ Para realizar a classificação de cartões foram coletadas e compiladas as dive
 A entrevista pode ser visualizada abaixo:
 </p>
 
-<iframe width="560" height="315" src="https://youtu.be/ZZ3JFmUB0Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ3JFmUB0Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Resultado
 
