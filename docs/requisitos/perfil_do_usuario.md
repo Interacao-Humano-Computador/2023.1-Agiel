@@ -75,12 +75,18 @@ A quarta seção apresenta as questões com o intuito de coletar informações a
 <p align="justify">
 &emsp;&emsp;
 Para realizar a classificação de cartões foram coletadas e compiladas as diversas funções do Agiel e transformadas em cartões. Realizamos uma entrevista em que o entrevistado deveria classificar estes cartões em categorias de forma livre e após isso, explicar as categorias que o mesmo formou, assim como seus critérios utilizados.
-A entrevista pode ser visualizada abaixo:
+</p>
+
+## Resultado
+
+<p align="justify">
+&emsp;&emsp;
+Pela classificação de cartões, foram definidos os agrupamentos de gestão para empresa/instituição de ensino, gestão de currículo, auxílio em soft skills e busca de oportunidades.
+Quanto ao perfil obtido no formulário, em geral se alinha com o perfil do estudante da UnB, tendo em grande parte usuários na faixa etária mais presente entre universitários e com grande familiaridade e tempo gasto em tecnologias. 
+A entrevista para classificação de cartões pode ser visualizada abaixo:
 </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ3JFmUB0Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Resultado
 
 ## Bibliografia
 ```
@@ -89,4 +95,5 @@ SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Compu
 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
-|  1.0   | 08/05 | Adição do mapa de calor | Pedro Vitor | Carlos |
+|  1.0   | 08/05 | Adição do mapa de calor | Pedro e Vitor | Carlos |
+|  1.0   | 08/05 | Adição do player de vídeo | Pedro e Vitor | Carlos |
