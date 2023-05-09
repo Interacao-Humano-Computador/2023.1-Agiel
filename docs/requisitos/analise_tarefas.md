@@ -70,7 +70,7 @@ Nessa tarefa, o objetivo do usuário é atualizar seus dados acadêmicos e profi
 
 <p align="justify">
 Para a tarefa de atualizar e cadastrar o currículo, o sistema oferece apenas um método de resolução. Tal método apresenta um número muito grande de cliques para mudar de sessão e salvar, tornando a realização da tarefa demorada e  repetitiva.
-Uma alternativa para isso, seria um procedimento de salvamento automático e utilizar uma página única para realizar a atualização do currículo.
+Uma alternativa para isso seria um procedimento de salvamento automático e utilizar uma página única para realizar a atualização do currículo.
 <p>
 
 
