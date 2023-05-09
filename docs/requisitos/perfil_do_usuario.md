@@ -19,7 +19,7 @@ Ao definir um perfil de usuário, é possível identificar as características e
 Para a coletar os dados sobre os usuários e suas necessidades de forma eficaz optamos por utilizar um questionário online via google forms. Elaboramos o questionário com perguntas tendo o intuito de coletar as seguintes informações:
 </p>
 
-* Idade
+* Faixa etária
 * Gênero
 * Nível de escolaridade
 * Habilidades técnicas
@@ -45,16 +45,22 @@ Utilizamos a classificação de cartões pois é um método que permite observar
 A seção inicial do questionário além de apresentar uma introdução sobre o projeto apresenta um termo de consentimento para que o indivíduo possa concordar ou não em participar do nosso projeto e compreender para que os dados coletados serão utilizados.
 </p>
 
-### Seção 02 - Dados demográficos
+### Seção 02 - Verificação de uso
 <p aling="justify">
 &emsp;&emsp;
-A segunda seção apresenta as questões com o intuito de coletar informações como: idade, sexo, nível de escolaridade, status socioeconômico e afinidade com a tecnologia.
+A segunda seção visa realizar a validação de conhecimento do contribuinte em relação ao Agiel e outras plataformas que visam fornecer oportunidades de estágio. Caso a resposta seja negativa, o formulário é redirecionado ao fim, devido à não experiência suficiente para traçar um perfil de usuário.
 </p>
 
-### Seção 03 - Agiel e outras plataformas
+### Seção 03 - Dados demográficos
 <p aling="justify">
 &emsp;&emsp;
-A terceira seção apresenta as questões com o intuito de coletar informações acerca da experiência do usuário com o Agiel e com outras plataformas semelhantes.
+A terceira seção apresenta as questões com o intuito de coletar informações como: faixa etária, gênero, frequência de uso de dispositivos eletrônicos, nível de escolaridade e afinidade com a tecnologia.
+</p>
+
+### Seção 04 - Agiel e outras plataformas
+<p aling="justify">
+&emsp;&emsp;
+A quarta seção apresenta as questões com o intuito de coletar informações acerca da experiência do usuário com o Agiel e com outras plataformas semelhantes.
 </p>
 
 ## Resultado
@@ -68,8 +74,11 @@ A terceira seção apresenta as questões com o intuito de coletar informações
 
 <p align="justify">
 &emsp;&emsp;
-Para realizar a classificação de cartões foram coletadas e compiladas as diversas funções do Agiel e transformadas em cartões. Realizamos uma entrevista em que o entrevistado deveria classificar estes cartões em categorias de forma livre e após a classificação explicar as categorias que o mesmo formou.
+Para realizar a classificação de cartões foram coletadas e compiladas as diversas funções do Agiel e transformadas em cartões. Realizamos uma entrevista em que o entrevistado deveria classificar estes cartões em categorias de forma livre e após isso, explicar as categorias que o mesmo formou, assim como seus critérios utilizados.
+A entrevista pode ser visualizada abaixo:
 </p>
+
+<iframe width="560" height="315" src="https://youtu.be/ZZ3JFmUB0Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 ## Resultado
 
