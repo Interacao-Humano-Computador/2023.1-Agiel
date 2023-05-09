@@ -1,7 +1,7 @@
 site_name: Agiel
 
-repo_name: "2023.1-Grupo07"
-repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Grupo07"
+repo_name: "2023.1-Agiel"
+repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Agiel"
 
 theme:
   name: material
@@ -39,6 +39,7 @@ nav:
     - Ferramentas: planejamento/ferramentas_utilizadas.md
   - Análise de Requisitos:
     - Personas: requisitos/personas.md
+    - Análise de Tarefas: requisitos/analise_tarefas.md
   - Atas de reunião:
     - Reunião 00: atas/reuniao-00.md
     - Reunião 01: atas/reuniao-01.md
