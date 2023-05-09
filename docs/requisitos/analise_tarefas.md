@@ -54,26 +54,24 @@ Nessa tarefa, o objetivo do usuário é atualizar seus dados acadêmicos e profi
 </p>
 <p>Goal 0: Atulizar e cadastrar dados</p>
 &emsp;&emsp;- Method 1: Acessar área currículo via menu.
-<p>&emsp;&emsp;- SEL RULE (Usuário deve encontrar o botão que leva a sessão de currículo)
-<p>&emsp;&emsp;&emsp; OP 1.1: Clicar na sessão de dados acadêmicos.
-<p>&emsp;&emsp;&emsp; OP 1.2: Cadastrar dados acadêmicos.
-<p>&emsp;&emsp;&emsp; OP 1.3: Clicar no botão de salvar.
-<p>&emsp;&emsp;&emsp; OP 1.4: Clicar na sessão de dados pessoais.
-<p>&emsp;&emsp;&emsp; OP 1.5: Cadastrar dados pessoais.
-<p>&emsp;&emsp;&emsp; OP 1.6: Clicar no botão de salvar.
-<p>&emsp;&emsp;&emsp; OP 1.7: Clicar na sessão de dados profissionais.
-<p>&emsp;&emsp;&emsp; OP 1.8: Cadastrar dados profissionais.
-<p>&emsp;&emsp;&emsp; OP 1.9: Clicar no botão de salvar.
-<p>&emsp;&emsp;&emsp; OP 1.10: Clicar na sessão de conhecimentos.
-<p>&emsp;&emsp;&emsp; OP 1.11: Informar conhecimentos e qualificações.
-<p>&emsp;&emsp;&emsp; OP 1.12: Clicar no botão de salvar.
+<p>&emsp;&emsp;- SEL RULE (Usuário deve encontrar o botão que leva a sessão de currículo)</p>
+<p>&emsp;&emsp;&emsp; OP 1.1: Clicar na sessão de dados acadêmicos.</p>
+<p>&emsp;&emsp;&emsp; OP 1.2: Cadastrar dados acadêmicos.</p>
+<p>&emsp;&emsp;&emsp; OP 1.3: Clicar no botão de salvar.</p>
+<p>&emsp;&emsp;&emsp; OP 1.4: Clicar na sessão de dados pessoais.</p>
+<p>&emsp;&emsp;&emsp; OP 1.5: Cadastrar dados pessoais.</p>
+<p>&emsp;&emsp;&emsp; OP 1.6: Clicar no botão de salvar.</p>
+<p>&emsp;&emsp;&emsp; OP 1.7: Clicar na sessão de dados profissionais.</p>
+<p>&emsp;&emsp;&emsp; OP 1.8: Cadastrar dados profissionais.</p>
+<p>&emsp;&emsp;&emsp; OP 1.9: Clicar no botão de salvar.</p>
+<p>&emsp;&emsp;&emsp; OP 1.10: Clicar na sessão de conhecimentos.</p>
+<p>&emsp;&emsp;&emsp; OP 1.11: Informar conhecimentos e qualificações.</p>
+<p>&emsp;&emsp;&emsp; OP 1.12: Clicar no botão de salvar.</p>
 
 <p align="justify">
 Para a tarefa de atualizar e cadastrar o currículo, o sistema oferece apenas um método de resolução. Tal método apresenta um número muito grande de cliques para mudar de sessão e salvar, tornando a realização da tarefa demorada e  repetitiva.
 Uma alternativa para isso seria um procedimento de salvamento automático e utilizar uma página única para realizar a atualização do currículo.
-<p>
-
-
+</p>
 
 ## 4. Bibliografia
 ```
@@ -82,7 +80,8 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
-|:------:|:----------:|:--------------------:|:-------------:|:-------:|
-| 1.0 | 08/05/2023 | Criação do documento | Carlos Bruno | Vitor |
+| Versão |    Data    |      Descrição       |   Autor(es)    | Revisor(es) |
+|:------:|:----------:|:--------------------:|:--------------:|:-----------:|
+|  1.0   | 08/05/2023 | Criação do documento | Carlos e Bruno |    Vitor    |
+
 
