@@ -38,10 +38,10 @@ nav:
     - Reuniões: planejamento/reunioes.md
     - Ferramentas: planejamento/ferramentas_utilizadas.md
   - Análise de Requisitos:
+    - Perfil do Usuário: requisitos/perfil_do_usuario.md
     - Personas: requisitos/personas.md
     - Análise de Tarefas: requisitos/analise_tarefas.md
     - Aspectos Éticos: requisitos/aspectos_eticos.md
-    - Perfil do Usuário: requisitos/perfil_do_usuario.md
   - Atas de reunião:
     - Reunião 00: atas/reuniao-00.md
     - Reunião 01: atas/reuniao-01.md
