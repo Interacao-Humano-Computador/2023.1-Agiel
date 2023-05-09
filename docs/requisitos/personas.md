@@ -98,9 +98,9 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 A Tabela 6 registra o histórico de versão deste documento.
 
-|**Data** | **Versão** | **Descrição** | **Autor** | **Revisor** |
-|:---: | :---: | :---: | :---: | :---: |
-| 08/05/2023 | 1.0 | Adiconando tabela de persona e antipersona | Ana Beatriz | Breno |
+| Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
+|:------:|:----------:|:--------------------:|:-------------:|:-------:|
+| 1.0 | 08/05/2023 | Adiconando tabela de persona e antipersona | Ana Beatriz | Breno |
 
 <h6 align = "center"> Tabela 6: Histórico de Versões
 <br> Autor: Ana Beatriz 
