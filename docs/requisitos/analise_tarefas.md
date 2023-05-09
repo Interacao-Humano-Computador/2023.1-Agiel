@@ -48,13 +48,13 @@ A tarefa "candidatar para uma vaga de estágio" é a principal tarefa que o usu�
 O GOMS é um procedimento que analisa tarefas e oferece uma descrição do conhecimento necessário para que um usuário possa realizá-las, envolvendo quatros figuras simbólicas: goals, operator, methods e selection rules.
 </p>
 
-### 3.1 Análise da tarefa: atualizar currículo.
+### 3.1 Análise da tarefa: cadastrar e atualizar currículo.
 <p align="justify">
 Nessa tarefa, o objetivo do usuário é atualizar seus dados acadêmicos e profissionais, bem como suas qualificações. A partir desse currículo, o usuário poderá concorrer as vagas de estágio.
 </p>
-<p>Goal 0: Atulizar dados</p>
+<p>Goal 0: Atulizar e cadastrar dados</p>
 &emsp;&emsp;- Method 1: Acessar área currículo via menu.
-<p>&emsp;&emsp;- SEL RULE (Usuário encontraro o botão que leva a sessão de currículo currículo)
+<p>&emsp;&emsp;- SEL RULE (Usuário deve encontrar o botão que leva a sessão de currículo)
 <p>&emsp;&emsp;&emsp; OP 1.1: Clicar na sessão de dados acadêmicos.
 <p>&emsp;&emsp;&emsp; OP 1.2: Cadastrar dados acadêmicos.
 <p>&emsp;&emsp;&emsp; OP 1.3: Clicar no botão de salvar.
@@ -69,7 +69,7 @@ Nessa tarefa, o objetivo do usuário é atualizar seus dados acadêmicos e profi
 <p>&emsp;&emsp;&emsp; OP 1.12: Clicar no botão de salvar.
 
 <p align="justify">
-Para a tarefa de atualizar o currículo, o sistema oferece apenas um método de resolução. Tal método, apresente um número muito grande de cliques para mudar de sessão e salvar, tornando a realização da tarefa demorada e  repetitiva.
+Para a tarefa de atualizar e cadastrar o currículo, o sistema oferece apenas um método de resolução. Tal método apresenta um número muito grande de cliques para mudar de sessão e salvar, tornando a realização da tarefa demorada e  repetitiva.
 Uma alternativa para isso, seria um procedimento de salvamento automático e utilizar uma página única para realizar a atualização do currículo.
 <p>
 
@@ -78,8 +78,6 @@ Uma alternativa para isso, seria um procedimento de salvamento automático e uti
 ## 4. Bibliografia
 ```
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-
-MAYHEW, D. J. The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann Publishers, Burlington, 1999.
 ```
 
 ## Histórico de Versão
