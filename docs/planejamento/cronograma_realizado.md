@@ -26,12 +26,26 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 
 <figcaption align="center">Fonte: Ana Beatriz e Breno Yuri</figcaption>
 
+### Etapa 2 - Análise de Requisitos
+
+<figcaption align="center">Tabela 2 - Cronograma da equipe para a etapa 2.</figcaption>
+
+|                     Tarefa                      |             Autor             | Entrega |    Revisor    | Revisão | Início da Realização | Fim da Realização |
+|:-----------------------------------------------:|:-----------------------------:|:-------:|:-------------:|:-------:|:--------------------:|:-----------------:|
+|                Perfil do usuário                |    Pedro Siqueira, Vitor B    |  08/05  | Carlos Daniel |  08/05  |        05/05         |       08/05       |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas |          Breno Yuri           |  08/05  |  Ana Beatriz  |  08/05  |        06/05         |       08/05       |
+|                    Personas                     |          Ana Beatriz          |  08/05  |  Breno Yuri   |  08/05  |        05/05         |       08/05       |
+|               Análise de tarefas                | Bruno Henrique, Carlos Daniel |  08/05  |    Vitor B    |  08/05  |        05/05         |       08/05       |
+|        Gravação                                 |  Todos                        |  08/05  | Todos         |  08/05  |        08/05         |       08/05       |
+
+<figcaption align="center">Fonte: Vitor Borges</figcaption>
 
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 24/04 | Criação do cronograma realizado | Ana Beatriz e Breno   |        Carlos       |
+| 1.1   | 10/05 | Adição do cronograma realizado da Etapa 02 | Vitor | Todos
 
 ## Referências
 

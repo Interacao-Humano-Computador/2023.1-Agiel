@@ -39,7 +39,7 @@
 |        Gravação        |  Todos         |  25/04  | Todos          |  24/04  |        24/04         |       24/04       |
 <figcaption align="center">Fonte: Bruno Henrique</figcaption>
 
-### Etapa 2 - Perfil do Usuário
+### Etapa 2 - Análise de Requisitos
 
 <figcaption align="center">Tabela 3 - Cronograma da equipe para a etapa 2.</figcaption>
 
@@ -49,7 +49,7 @@
 | Aspectos Éticos de Pesquisas Envolvendo Pessoas |          Breno Yuri           |  08/05  |  Ana Beatriz  |  07/05  |        01/05         |       06/05       |
 |                    Personas                     |          Ana Beatriz          |  08/05  |  Breno Yuri   |  07/05  |        28/04         |       06/05       |
 |               Análise de tarefas                | Bruno Henrique, Carlos Daniel |  08/05  |    Vitor B    |  07/05  |        28/04         |       06/05       |
-|        Gravação                                 |  Todos                        |  09/05  | Todos         |  08/05  |        08/05         |       08/05       |
+|        Gravação                                 |  Todos                        |  08/05  | Todos         |  08/05  |        08/05         |       08/05       |
 
 <figcaption align="center">Fonte: Bruno Henrique</figcaption>
 
