@@ -45,7 +45,7 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 24/04 | Criação do cronograma realizado | Ana Beatriz e Breno   |        Carlos       |
-| 1.1   | 10/05 | Adição do cronograma realizado da Etapa 02 | Vitor | Todos
+| 1.1   | 10/05 | Adição do cronograma realizado da Etapa 02 | Vitor | Todos |
 
 ## Referências
 
