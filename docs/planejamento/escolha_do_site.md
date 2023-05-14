@@ -74,7 +74,7 @@ O <a href="https://horariodeonibusdf.com.br/">Horário de Ônibus DF</a> é um s
 <a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/PlojetoParteIndividualMetodoeAvaliçãoBrunoHenriqueMoreiraCardoso.pdf">Avaliação Horário de Ônibus DF</a>
 
 # 3. Site Escolhido
-<p align="justify">Após a avaliação dos sites de cada membro pelo professor as escolhas foram reduzidas, as mesmas foram discutidas pelo telegram e nas últimas reuniões e chegamos a conclusão que o site ideal para nosso grupo é o <a href=https://delegaciavirtual.sids.mg.gov.br/>DELEGACIA VIRTUAL - MG</a>.</p>
+<p align="justify">Após a avaliação dos sites de cada membro pelo professor e pela equipe, as escolhas foram filtradas, os seis sites avaliados não possuiam recursos o suficientes para possibilitar a realização de um trabalho completo para seis integrantes, a partir disso buscamos entre os sites que utilizavamos e os sites de estágio vieram a tona, entre eles IEL, CIEE, Companhia de Estágios e Agiel, optamos por analisar o Agiel pois todos os integrantes tinham conhecimento do site e após a análise vimos que a <a href="https://www.agiel.com.br/site/">Agência de Estágios Agiel</a> possuia recursos o suficiente para prosseguir nosso projeto.</p>
 
 ## Histórico de Versão
 
@@ -83,3 +83,4 @@ O <a href="https://horariodeonibusdf.com.br/">Horário de Ônibus DF</a> é um s
 | `1.0`  | 21/04/2023 | Versão inicial com resumo de cada site |   Todos   |    Todos    |
 | `1.1`  | 24/04/2023 |       Colocando link com os PDFs       |   Todos   |    Todos    |
 | `2.0`  | 27/04/2023 |  Atualiza site escolhido   |  Carlos   |    Todos    |
+| `2.1`  | 14/05/2023 |  Atualiza site escolhido   |  Vitor   |    Todos    |
