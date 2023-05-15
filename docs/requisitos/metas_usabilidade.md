@@ -24,6 +24,50 @@ Ao utilizar metas de usabilidade temos como objetivo garantir que os usuários t
 Com a combinação desses objetivos é possível criar uma experiência moldada para atender as necessidades do site e do usuário.
 </p>
 
+## As Seis Metas de Usabilidade
+
+### Eficácia:
+
+<p align="justify">
+&emsp;&emsp;
+A eficácia de um site é a medida de quão eficaz o site é em fornecer as informações e recursos necessários aos usuários para que eles alcancem seus objetivos. Sendo assim um site efetivo é aquele que permite que os usuários realizem as ações desejadas de maneira eficiente e sem obstáculos desnecessários
+</p>
+
+### Eficiência
+
+<p align="justify">
+&emsp;&emsp;
+A eficiência de um site está relacionada com a velocidade que um usuário pode alcançar seu objetivo, com o mínimo de esforço e com a menor quantidade de etapas possíveis. Um site eficiente é aquele que otimiza o processo de interação do usuário, reduzindo o tempo e os recursos necessários para que os usuários alcancem seus objetivos.
+</p>
+
+### Segurança
+
+<p align="justify">
+&emsp;&emsp;
+A segurança de um site é a forma que um site protege o usuário, a proteção pode vim em forma de garantia de poder retorna a pontos e estados anteriores do sistema ou na prevenção da realização de grandes mudanças sem a vontade prévia do usuário. Um site seguro previne erros do usuários ou do sistema.
+</p>
+
+### Utilidade
+
+<p align="justify">
+&emsp;&emsp;
+A utilidade de um site está na capacidade que um site tem de fornecer formas de atender às necessidades e expectativas dos usuários. Um site útil é aquele que oferece informações relevantes, recursos funcionais e conteúdo que seja do interesse ou que auxilie o usuário na realização de seu objetivo.
+</p>
+
+### Aprendizagem
+
+<p align="justify">
+&emsp;&emsp;
+A aprendizagem de um site está na capacidade que o site tem de permitir que o usuário aprenda a utilizar o mesmo de forma intuitiva e fácil. Um site com boa aprendizagem permite que o usuário tenha em mente do que o mesmo pode realizar e se o mesmo resolve o seu problema.
+</p>
+
+### Memorização
+
+<p align="justify">
+&emsp;&emsp;
+A memorização de um site está na perspectiva de que o usuário não deve ser obrigado a reaprender a utilizar um site toda vez que o utiliza. Um site com boa memorização apresenta boa navegação com menus de fácil compreensão e fluxos intuitivos.
+</p>
+
 ## Bibliografia
 ```
 REECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homem-computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
