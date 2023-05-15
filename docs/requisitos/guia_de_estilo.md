@@ -14,7 +14,7 @@ O objetivo desse guia é apresentar elementos que ajudam a definir a identidade 
 2. Resultados de análise • Descrição do ambiente de trabalho do usuário
 3. Elementos de interface • Disposição espacial e grid • Janelas • Tipografia • Cores
 4. Elementos de interação - • Estilos de interação • Seleção de um estilo • Aceleradores (teclas de atalho)
-5. Elementos de ação • Preenchimento de campos • Seleçã • Ativação
+5. Elementos de ação • Preenchimento de campos • SeleçãO • Ativação
 6. Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
 
 ### Público alvo
@@ -98,6 +98,55 @@ O site tem como cores principais o #ea7600 e o #004c97 como pode ver na figura 7
 <p> Figura 7: Cores principais do site <br/>(Fonte: autor, 2023).</p>
 </div>
 
+## Elementos de interação 
+### Estilos de interação 
+Os usuários interagem com o site por meio de botões, formulários e ícones.
+
+### Seleção de um estilo 
+O site tem um estilo mais minimalista nos botões e menus, mas tem muitas imagens e pode ser um pouco poluído.
+
+### Aceleradores
+O site possui 3 menus suspenso para as abas principais, são eles:
+
+EMPRESAS:
+
+* Login
+* Gestão de Estágios
+* Lei do Estágio
+* Blog do Gestor
+
+INTITUIÇÕES DE ENSINO:
+
+* Login
+* Vantagens
+
+ESTUDANTES:
+
+* Login
+* Encontrar Estágio
+* Nova Vagas
+* Processos Seletivos
+* App vagas
+* Blog do Estagiário
+
+## Elementos de ação 
+### Preenchimento de campos 
+Os elementos de preenchimento de campos ocorre em todos os menus citados acima, pois o site necessita de login e cadastrar algumas informações.
+### Seleção 
+Os elementos de seleção ocorrem quando o estudande escolher uma vaga.
+### Ativação
+A ativação é inclui botões, links e ícones.
+
+## Vocabulário e padrões 
+### Terminologia 
+O site emprega termos relacionados a vagas de estágio e utiliza um vocabulário comum para facilitar o entendimento dos usuários que acessam a plataforma.
+
+### Tipos de tela
+As telas do site apresentam um padrão simples e uniforme, com exceção da tela principal que contém muitas informações. A identidade visual é mantida em todas as telas, proporcionando uma experiência coesa e consistente ao usuário.
+
+### Sequências de diálogos
+As sequências do site são consistentes e seguem um padrão, permitindo que o usuário se familiarize com o processo de navegação. Além disso, os botões de confirmação e cancelamento são semelhantes em todas as páginas, facilitando a compreensão e ações do usuário.
+
 ## Bibliografia
 
 >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -110,5 +159,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão |    Data    |      Descrição       |   Autor(es)    | Revisor(es) |
 |:------:|:----------:|:--------------------:|:--------------:|:-----------:|
-|  1.0   | 15/05/2023 | Criação do documento e da Introdução| Ana Beatriz |    Daniel   |
-|  1.1   | 15/05/2023 | Adicionando o resultado de analise e elementos de interface | Ana Beatriz |    Daniel   |
+|  1.0   | 15/05/2023 | Criação do documento e da Introdução| Ana Beatriz |    Breno   |
+|  1.1   | 15/05/2023 | Adicionando o resultado de analise e elementos de interface | Ana Beatriz |    Breno   |
+|  1.2   | 15/05/2023 | Adicionando elementos de interação, ação e vocabulário  | Ana Beatriz |    Breno   |
