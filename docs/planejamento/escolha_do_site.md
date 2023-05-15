@@ -73,6 +73,14 @@ O <a href="https://horariodeonibusdf.com.br/">Horário de Ônibus DF</a> é um s
 <a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/AvaliacaoIndividualPlanejAvaliçãoBrunoHenriqueMoreiraCardoso.pdf">Planejamento da Avaliação Horário de Ônibus DF</a><br>
 <a href="https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/blob/main/docs/assets/sites/PlojetoParteIndividualMetodoeAvaliçãoBrunoHenriqueMoreiraCardoso.pdf">Avaliação Horário de Ônibus DF</a>
 
+## 2.7 Agência de Estágios - Agiel
+<p align="justify">
+A <a href="https://www.agiel.com.br/site/">Agência de Estágios - Agiel</a> é um site que tem o objetivo de recrutar e selecionar estudantes integrando-os ao mercado de trabalho, auxiliando, assim, as organizações na formação de um quadro de recursos humanos qualificado. O site foi escolhido para análise pois o mesmo atende três tipos de usuários, o estágiario, empresas (interessadas no processo ou na contratação de estágiarios) e instituições de ensino (interessadas na realização de um convênio). Sendo assim o site apresenta diversas funções diferentes para cada usuário, o contato aos usuários do site para futuras pesquisas de campo será fácil tendo em vista que alunos da faculdade de todos os cursos começam a buscar estágios desde o terceiro semestre do curso.
+</p>
+
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/assets/sites/Planejamento_Agiel.pdf">Planejamento da Avaliação Agiel</a>
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/assets/sites/Analise_Agiel.pdf">Avaliação do Agiel</a>
+
 # 3. Site Escolhido
 <p align="justify">Após a avaliação dos sites de cada membro pelo professor e pela equipe, as escolhas foram filtradas, os seis sites avaliados não possuiam recursos o suficientes para possibilitar a realização de um trabalho completo para seis integrantes, a partir disso buscamos entre os sites que utilizavamos e os sites de estágio vieram a tona, entre eles IEL, CIEE, Companhia de Estágios e Agiel, optamos por analisar o Agiel pois todos os integrantes tinham conhecimento do site e após a análise vimos que a <a href="https://www.agiel.com.br/site/">Agência de Estágios Agiel</a> possuia recursos o suficiente para prosseguir nosso projeto.</p>
 
