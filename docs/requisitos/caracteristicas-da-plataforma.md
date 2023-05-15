@@ -18,7 +18,7 @@ Ao considerar tanto a análise visual quanto a comportamental, os desenvolvedore
 
 Portanto, é essencial dedicar tempo para compreender as características de cada plataforma e realizar testes rigorosos em diferentes ambientes, a fim de garantir que a interface de usuário seja adequada e funcione perfeitamente em todas as plataformas relevantes. Isso proporcionará aos usuários uma experiência coesa e eficaz, aumentando a satisfação e o engajamento com a interface.</p>
 
-<p align="justify">Agiel é uma plataforma que pode ser acessada pela web, pelo link: <a href="https://www.agiel.com.br/site/">Skoob</a>. Pode ser acessado pelos principais navegadores, tais como:</p>
+<p align="justify">Agiel é uma plataforma que pode ser acessada pela web, pelo link: <a href="https://www.agiel.com.br/site/">Agiel</a>. Pode ser acessado pelos principais navegadores, tais como:</p>
 <ul>
 <li>Google Chrome;</li>
 <li>Mozilla Firefox;</li>
