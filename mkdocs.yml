@@ -44,6 +44,7 @@ nav:
     - Aspectos Éticos: requisitos/aspectos_eticos.md
     - Metas de Usabilidade: requisitos/metas_usabilidade.md
     - Caract. da Plataforma: requisitos/caracteristicas-da-plataforma.md
+    - Princípios Gerais de Projeto: requisitos/principios_gerais.md
     - Guia de Estilo: requisitos/guia_de_estilo.md
   - Atas de reunião:
     - Reunião 00: atas/reuniao-00.md
