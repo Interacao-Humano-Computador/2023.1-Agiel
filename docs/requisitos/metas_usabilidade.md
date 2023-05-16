@@ -30,7 +30,7 @@ Com a combinação desses objetivos é possível criar uma experiência moldada 
 
 <p align="justify">
 &emsp;&emsp;
-A eficácia de um site é a medida de quão eficaz o site é em fornecer as informações e recursos necessários aos usuários para que eles alcancem seus objetivos. Sendo assim um site efetivo é aquele que permite que os usuários realizem as ações desejadas de maneira eficiente e sem obstáculos desnecessários
+A eficácia de um site é a medida de quão eficaz o site é em fornecer as informações e recursos necessários aos usuários para que eles alcancem seus objetivos. Sendo assim um site efetivo é aquele que permite que os usuários realizem as ações desejadas sem obstáculos desnecessários.
 </p>
 
 ### Eficiência:
@@ -58,38 +58,43 @@ A utilidade de um site está na capacidade que um site tem de fornecer formas de
 
 <p align="justify">
 &emsp;&emsp;
-A aprendizagem de um site está na capacidade que o site tem de permitir que o usuário aprenda a utilizar o mesmo de forma intuitiva e fácil. Um site com boa aprendizagem permite que o usuário tenha em mente do que o mesmo pode realizar e se o mesmo resolve o seu problema.
+A aprendizagem de um site está na capacidade que o site tem de permitir que o usuário aprenda a utilizar o mesmo de forma intuitiva e fácil. Um site com boa aprendizagem permite que o usuário tenha em mente o que pode realizar e se o sistema pode resolver o seu problema.
 </p>
 
 ### Memorização:
 
 <p align="justify">
 &emsp;&emsp;
-A memorização de um site está na perspectiva de que o usuário não deve ser obrigado a reaprender a utilizar um site toda vez que o utiliza. Um site com boa memorização apresenta boa navegação com menus de fácil compreensão e fluxos intuitivos.
+A memorização de um site está na perspectiva de que o usuário não deve ser obrigado a reaprender a utilizar um site toda vez que o utiliza. Um site com boa memorização apresenta boa navegação com menus de fácil compreensão e fluxos intuitivos. 
 </p>
 
 ## Metas selecionadas
 
 <p align="justify">
 &emsp;&emsp;
-Para realizar a escolha das metas que proporcionam mais valor para nosso projeto levamos em consideração o nosso perfil do usuário (estágiarios habituados com a tecnologia) e os seus objetivos ao utilizar o site.
+Para realizar a escolha das metas que proporcionam mais valor para nosso projeto foi levado em consideração o perfil de usuário definido, e seus objetivos ao utilizar o site.
 </p>
 
 * Meta de Utilidade
 
 <p align="justify">
 &emsp;&emsp;
- O site deve oferecer ao usuário funcionalidades que permitam a busca/filtragem de vagas (por curso, carga horária, salário, local, função), a visualização do andamento de processos seletivos e a visualização de novas vagas.
+ O Agiel deve oferecer ao usuário funcionalidades que permitam a busca/filtragem de vagas (por curso, carga horária, salário, local, função), a visualização do andamento de processos seletivos e a visualização de novas vagas.
 </p>
 
 * Meta de Eficácia
 
 <p align="justify">
 &emsp;&emsp;
- O site deve fornecer ao usuário formas de cadastrar/atualizar currículos de forma intuitiva, se interar em relação as condutas esperadas de um estágiario e as lesgilações que um estágiario está sujeito. 
+ O Agiel deve fornecer ao usuário formas de cadastrar/atualizar currículos de forma intuitiva, se interar em relação as condutas esperadas de um estágiario e as lesgilações que um estágiario está sujeito. 
 </p>
 
-* Meta de E
+* Meta de Aprendizagem
+
+<p align="justify">
+&emsp;&emsp;
+O Agiel falha em apresentar recursos intuitivos e claros para seu usuário, o que, além de afetar a eficácia do sistema, faz com que o utilizador tenha que buscar recursos alternativos e não consiga usá-lo facilmente. Deve fornecer caminhos mais claros para solução de problemas e trazer mais profundidade para sua interface.
+</p>
 
 ## Bibliografia
 ```
