@@ -40,12 +40,27 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
+### Etapa 3 - Princípios Gerais do Projeto
+
+<figcaption align="center">Tabela 3 - Cronograma da equipe para a etapa 3.</figcaption>
+
+|                    Tarefa                    |           Autor            | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
+|:--------------------------------------------:|:--------------------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
+|         Princípios Gerais de Projeto         |       Bruno Henrique       |  15/05  | Pedro Siqueira |  14/05  |        09/05         |       15/05       |
+|             Metas de usabilidade             |  Pedro Siqueira, Vitor B   |  15/05  |  Ana Beatriz   |  14/05  |        09/05         |       15/05       |
+|                Guia de Estilo                | Carlos Daniel, Ana Beatriz |  15/05  | Carlos Daniel  |  14/05  |        10/05         |       15/05       |
+| Características da plataforma para o projeto |         Breno Yuri         |  15/05  | Bruno Henrique |  14/05  |        10/05         |       15/05       |
+|        Gravação                              |  Todos                     |  16/05  | Todos          |  15/05  |        15/05         |       15/05       |
+
+<figcaption align="center">Fonte: Vitor Borges</figcaption>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 24/04 | Criação do cronograma realizado | Ana Beatriz e Breno   |        Carlos       |
 | 1.1   | 10/05 | Adição do cronograma realizado da Etapa 02 | Vitor | Todos |
+| 1.2   | 15/05 | Adição do cronograma realizado da Etapa 03 | Vitor | Todos |
 
 ## Referências
 
