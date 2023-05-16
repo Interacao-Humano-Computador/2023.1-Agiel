@@ -45,21 +45,21 @@ Na parte inferior mostra conteúdos do site como Blog do Gestor (Figura 2), Proc
 
 Na Figura 3 vemos o rodapé onde contém as informações de contado 
 
-<div style="text-align: center">
-
 ![](../imagens/barra_sup.png)
+
+<div style="text-align: center">
 <p> Figura 1: Captura de tela do site Agiel <br/>(Fonte: autor, 2023).</p>
 </div>
 
-<div style="text-align: center">
-
 ![](../imagens/inferior.png)
+
+<div style="text-align: center">
 <p> Figura 2: Captura de tela do site Agiel <br/>(Fonte: autor, 2023).</p>
 </div>
 
-<div style="text-align: center">
-
 ![](../imagens/rodape.png)
+
+<div style="text-align: center">
 <p> Figura 3: Captura de tela do site Agiel <br/>(Fonte: autor, 2023).</p>
 </div>
 
@@ -67,21 +67,21 @@ Na Figura 3 vemos o rodapé onde contém as informações de contado
 
 O site possui diversas janelas que permitem a interação entre as empresas, as instituições de ensino e os estudantes. Dentre essas janelas, destacam-se a Gestão de Estágios (figura 4), utilizada pelas empresas para gerenciar seus programas de estágio; o Convênio com Instituição de Ensino(figura 5), utilizada pelas faculdades para se cadastrarem e gerenciarem as informações dos seus alunos; e a janela de Vagas Disponíveis(figura 6), utilizada pelos estudantes para buscar e se candidatar às oportunidades de estágio disponíveis no site. Cada uma dessas janelas é projetada para atender às necessidades específicas dos diferentes públicos-alvo do site.
 
-<div style="text-align: center">
-
 ![](../imagens/gestao.png)
+
+<div style="text-align: center">
 <p> Figura 4: Captura de tela da janela Gestão de Estágios do site Agiel <br/>(Fonte: autor, 2023).</p>
 </div>
 
-<div style="text-align: center">
-
 ![](../imagens/convenio.png)
+
+<div style="text-align: center">
 <p> Figura 5: Captura de tela da janela Convênio com Instituição de Ensino do site Agiel <br/>(Fonte: autor, 2023).</p>
 </div>
 
-<div style="text-align: center">
-
 ![](../imagens/vagas.png)
+
+<div style="text-align: center">
 <p> Figura 6: Captura de tela da janela Vagas Disponíveis do site Agiel <br/>(Fonte: autor, 2023).</p>
 </div>
 
@@ -92,9 +92,9 @@ O site utiliza uma combinação de fontes para garantir uma boa legibilidade e e
 
 O site tem como cores principais o #ea7600 e o #004c97 como pode ver na figura 7. O primeiro é um tom de laranja que transmite energia e entusiasmo, enquanto o segundo é um azul escuro e forte. Essas cores são usadas em vários elementos do site, como botões, links e cabeçalhos, e ajudam a criar um visual moderno e vibrante. Além disso, a combinação dessas cores é bastante atraente aos olhos e pode ajudar a destacar informações importantes ou chamadas à ação no site.
 
-<div style="text-align: center">
-
 ![](../imagens/cores.png)
+
+<div style="text-align: center">
 <p> Figura 7: Cores principais do site <br/>(Fonte: autor, 2023).</p>
 </div>
 
