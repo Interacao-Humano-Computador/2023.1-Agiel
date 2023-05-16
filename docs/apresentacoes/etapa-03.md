@@ -11,6 +11,9 @@ A apresentação da etapa 03 tem o intuito de mostrar o que foi desenvolvido at�
 3. Guia de Estilo
 4. Características da Plataforma
 
+## Video da apresentação
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9FNERJh48LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
