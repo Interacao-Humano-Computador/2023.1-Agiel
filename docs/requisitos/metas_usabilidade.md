@@ -89,7 +89,7 @@ Para realizar a escolha das metas que proporcionam mais valor para nosso projeto
  O site deve fornecer ao usuário formas de cadastrar/atualizar currículos de forma intuitiva, se interar em relação as condutas esperadas de um estágiario e as lesgilações que um estágiario está sujeito. 
 </p>
 
-
+* Meta de E
 
 ## Bibliografia
 ```
