@@ -86,14 +86,14 @@ Para realizar a escolha das metas que proporcionam mais valor para nosso projeto
 
 <p align="justify">
 &emsp;&emsp;
- O Agiel deve fornecer ao usuário formas de cadastrar/atualizar currículos de forma intuitiva, se interar em relação as condutas esperadas de um estágiario e as lesgilações que um estágiario está sujeito. 
+ O Agiel deve fornecer ao usuário formas de cadastrar/atualizar currículos de forma intuitiva, se interar em relação as condutas esperadas de um estágiario e as legislações que um estágiario está sujeito. 
 </p>
 
 * Meta de Aprendizagem
 
 <p align="justify">
 &emsp;&emsp;
-O Agiel falha em apresentar recursos intuitivos e claros para seu usuário, o que, além de afetar a eficácia do sistema, faz com que o utilizador tenha que buscar recursos alternativos e não consiga usá-lo facilmente. Deve fornecer caminhos mais claros para solução de problemas e trazer mais profundidade para sua interface.
+O Agiel falha em apresentar recursos intuitivos e claros para seu usuário, o que, além de afetar a eficácia do sistema, faz com que o utilizador tenha que buscar recursos alternativos e não consiga usá-lo facilmente. Deve fornecer mais clareza nas vagas ofertadas durante a listagem e permitir com que seja possível a busca de vagas por área de conhecimento, não apenas pelo curso.
 </p>
 
 ## Bibliografia
