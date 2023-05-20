@@ -43,7 +43,7 @@ A tarefa "candidatar para uma vaga de estágio" é a principal tarefa que o usu�
 
 ### 2.2 Análise da tarefa: cadastrar instituição de ensino
 
-<p> A tarefa "cadastrar instituição de ensino" é realizada por coordenadores de uma instituição que tenham interesse em vincular a mesmas a agência Agiel.
+<p> A tarefa "cadastrar instituição de ensino" é realizada por coordenadores de uma instituição que tenham interesse em vincular a mesma a agência Agiel por meio de um convênio entre a instituição e a agência.
 </p>
 
 | Objetivos/Operações                    | Problemas e recomendações                                                                                                                                                                                                                                                                                       |
