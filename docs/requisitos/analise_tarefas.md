@@ -56,9 +56,16 @@ A tarefa "candidatar para uma vaga de estágio" é a principal tarefa que o usu�
 | 2.2 Passar as informações solicitados pelo atendente | |
 | 3. Entrar em contato via rede social | |
 | 3.1 Selecionar a rede de sua preferência | **input**: escolher uma rede (facebook, twitter, instagram, linkedin ou youtube) para realizar o cadastro atráves de botões; <br/> **recomendação**: apenas divulgar as redes onde o usuário consiga entrar em contato direto com os atendentes (twitter, facebook, linkedin e instagram)|
+| 3.2 Entrar em contato com a agência | |
 
 <div style="text-align: center">
-<p> Tabela 2: Análise Hierárquica de Tarefas para o objetivo "cadastrar instituição de ensino" <br/>(Fonte: autor, 2023).</p>
+<p> Tabela 2: Análise Hierárquica de Tarefas para o objetivo "Cadastrar instituição de ensino" <br/>(Fonte: autor, 2023).</p>
+</div>
+
+![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Cadastrar instituição de ensino"](../assets/fluxo_tarefa_cadastro_instituicao.jpg)
+
+<div style="text-align: center">
+<p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Candidatar para uma vaga de estágio" <br/> (Fonte: autor, 2023).</p>
 </div>
 
 ## 3. Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
