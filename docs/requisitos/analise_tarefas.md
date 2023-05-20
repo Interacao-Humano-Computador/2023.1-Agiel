@@ -99,6 +99,33 @@ Para a tarefa de atualizar e cadastrar o currículo, o sistema oferece apenas um
 Uma alternativa para isso seria um procedimento de salvamento automático e utilizar uma página única para realizar a atualização do currículo.
 </p>
 
+### 3.2 Análise da tarefa: Inscrição em processo seletivo.
+
+<p align="justify">
+Nessa tarefa, o objetivo do usuário é realizar a inscrição em um processo seletivo de sua escolha.
+</p>
+
+<p>Goal 0: Se inscrever em um processo seletivo</p>
+&emsp;&emsp;- Method 1: Acessar área "Processos Seletivos" via menu.
+<p>&emsp;&emsp;&emsp; OP 1.1: Clicar na sessão de "Estudante".</p>
+<p>&emsp;&emsp;&emsp; OP 1.2: Clicar na sessão de "processos seletivos".</p>
+<p>&emsp;&emsp;&emsp; OP 1.3: Visualizar os processos seletivos disponíveis.</p>
+<p>&emsp;&emsp;&emsp; OP 1.4: Clicar em "saiba mais" no processo de sua escolha.</p>
+<p>&emsp;&emsp;&emsp; OP 1.5: Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas).</p>
+<p>&emsp;&emsp;&emsp; OP 1.6: Enviar candidatura</p>
+&emsp;&emsp;- Method 2: Acessar área "Estudante" via menu.
+<p>&emsp;&emsp;&emsp; OP 1.1: Realizar o login na plataforma.</p>
+<p>&emsp;&emsp;&emsp; OP 1.2: Clicar em "Disponíveis (Meu Curso)".</p>
+<p>&emsp;&emsp;&emsp; OP 1.3: Visualizar os processos seletivos disponíveis.</p>
+<p>&emsp;&emsp;&emsp; OP 1.4: Clicar em "saiba mais" no processo de sua escolha.</p>
+<p>&emsp;&emsp;&emsp; OP 1.5: Clicar em "saiba mais" no processo de sua escolha.</p>
+<p>&emsp;&emsp;&emsp; OP 1.6: Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas).</p>
+<p>&emsp;&emsp;&emsp; OP 1.7: Enviar candidatura</p>
+
+<p align="justify">
+No primeiro método o usuário consegue visualizar processos que o mesmo não tem os requisitos minpimos, o mesmo pode só vir a descobrir deste detalha no momento em que tenta apertar o botão de "quero me cadastrar" onde o mesmo caso não tenha os requisitos é impedido pelo site.
+</p>
+
 ## 4. Bibliografia
 ```
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
