@@ -20,7 +20,7 @@ Essa técnica tem o fim de compreender as competências e habilidade exibidas em
 1967). Nesse contexto, uma tarefa é qualquer parte do trabalho que precisa ser realizado. Por sua vez, uma tarefa pode ser definida em objetivos e subobjetivos através de um processo chamado de decomposição de tarefas. Vale ressaltar que cada subobjetivo é alcançado por uma <b>operação</b>, que é a unidade fundamental em HTA.
 </p>
 
-### Análise da tarefa: candidatar para uma vaga de estágio
+### 2.1 Análise da tarefa: candidatar para uma vaga de estágio
 
 A tarefa "candidatar para uma vaga de estágio" é a principal tarefa que o usuário realiza no sistema, já que é sua funcionalidade principal. A Tabela 1 e a Figura 2 apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
 
@@ -41,6 +41,25 @@ A tarefa "candidatar para uma vaga de estágio" é a principal tarefa que o usu�
 <p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Candidatar para uma vaga de estágio" <br/> (Fonte: autor, 2023).</p>
 </div>
 
+### 2.2 Análise da tarefa: cadastrar instituição de ensino
+
+<p> A tarefa "cadastrar instituição de ensino" é realizada por coordenadores de uma instituição que tenham interesse em vincular a mesmas a agência Agiel.
+</p>
+
+| Objetivos/Operações                    | Problemas e recomendações                                                                                                                                                                                                                                                                                       |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Navegar até a página de cadastro de instituição | Localizar o menu principal; <br/> Passar o mouse sobre a opção "Instituições" no menu; <br/> **input**: Clicar na opção "Cadastrar" |
+| 1. Preencher o formulário de cadastro de instituição             | **input**: Preencher dados da instituição (nome, endereço)<br/> **input**: Preencher dados do solicitante (nome, email, telefone)<br/> **input** Adicionar mensagem <br/> **recomendações**: permitir o envio de dois emails ou telefones para contato |
+| 1.1. Enviar formulário | **input**: pressionar o botão de envio com as informações já preenchidas|
+| 2. Telefonar a agência diretamente | |
+| 2.1 Selecionar o número do seu respectivo estado | |
+| 2.2 Passar as informações solicitados pelo atendente | |
+| 3. Entrar em contato via rede social | |
+| 3.1 Selecionar a rede de sua preferência | **input**: escolher uma rede (facebook, twitter, instagram, linkedin ou youtube) para realizar o cadastro atráves de botões; <br/> **recomendação**: apenas divulgar as redes onde o usuário consiga entrar em contato direto com os atendentes (twitter, facebook, linkedin e instagram)|
+
+<div style="text-align: center">
+<p> Tabela 2: Análise Hierárquica de Tarefas para o objetivo "cadastrar instituição de ensino" <br/>(Fonte: autor, 2023).</p>
+</div>
 
 ## 3. Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
 
