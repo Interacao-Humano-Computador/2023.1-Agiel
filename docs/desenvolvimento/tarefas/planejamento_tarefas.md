@@ -103,7 +103,31 @@ Ao identificar as questões práticas, é importante considerar os seguintes asp
 
 ### Decidir como lidar com as questões éticas
 <p align="justify">
-&emsp;&emsp; Na avaliação do Percurso Cognitivo, é importante considerar as questões éticas envolvidas no processo. Embora não seja necessário um termo de consentimento se não houver entrevistas, ainda é fundamental garantir que o processo seja conduzido de maneira ética e respeitosa. Isso inclui proteger a privacidade e a confidencialidade dos dados coletados durante a avaliação e assegurar que os participantes sejam informados sobre o propósito e a natureza da avaliação. É essencial respeitar a autonomia dos participantes e agir de maneira responsável com os dados coletados.
+&emsp;&emsp; Na avaliação do Percurso Cognitivo, é importante considerar as questões éticas envolvidas no processo. Embora não haja entrevistas, ainda é fundamental garantir que o processo seja conduzido de maneira ética e respeitosa. Isso inclui proteger a privacidade e a confidencialidade dos dados coletados durante a avaliação e assegurar que os participantes sejam informados sobre o propósito e a natureza da avaliação. É essencial respeitar a autonomia dos participantes e agir de maneira responsável com os dados coletados.
+ 
+<div style="text-align: center">
+<h4>
+Termo de Consentimento Livre e Esclarecido
+</h4>
+</div>
+
+------
+
+Declaro ter sido informado(a) sobre os objetivos da pesquisa realizada pelo Grupo 7 da disciplina de Interação Humano-Computador da Universidade de Brasília, a qual tem como finalidade coletar informações para tornar o site "Agiel" sobre oportunidades de estágio mais eficiente e amigável ao usuário.
+
+Fui esclarecido(a) de que minha participação na pesquisa é voluntária e não receberei qualquer tipo de remuneração ou benefício em troca. Além disso, as informações coletadas serão utilizadas somente para fins acadêmicos e respeitando os princípios éticos e humanitários estabelecidos pela Resolução nº 466/2012 do Conselho Nacional de Saúde e outras normas aplicáveis.
+
+Fui informado(a) de que tais informações serão tratadas de forma confidencial e somente serão divulgadas com minha autorização prévia ou mediante determinação judicial ou solicitação de órgão público competente. Fui esclarecido(a) de que poderei optar por não responder a qualquer pergunta ou interromper minha participação na pesquisa a qualquer momento, sem penalidades ou prejuízos.
+
+Declaro ainda ter sido informado(a) sobre meus direitos éticos e humanitários durante a pesquisa, seguindo os princípios da bioética que engloba os princípios da não maleficência, beneficência, da autonomia e da justiça, conforme estabelecido pela Resolução nº 466/2012 do Conselho Nacional de Saúde e outras normas aplicáveis.
+
+Assim, estou ciente das informações acima e autorizo a utilização dos meus dados para fins acadêmicos pelo Grupo 7 da disciplina de Interação Humano-Computador da Universidade de Brasília, em conformidade com as normas aplicáveis.
+
+\(  \) Sim, estou de acordo em fornecer meus dados para a pesquisa.
+
+\(  \) Não estou de acordo em fornecer meus dados para a pesquisa.
+
+-----
 </p>
 
 ### Evaluate (Avaliar), interpretar e apresentar os dados
