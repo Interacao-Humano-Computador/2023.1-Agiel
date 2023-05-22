@@ -114,17 +114,46 @@ Nessa tarefa, o objetivo do usuário é realizar a inscrição em um processo se
 <p>&emsp;&emsp;&emsp; OP 1.5: Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas).</p>
 <p>&emsp;&emsp;&emsp; OP 1.6: Enviar candidatura</p>
 &emsp;&emsp;- Method 2: Acessar área "Estudante" via menu.
-<p>&emsp;&emsp;&emsp; OP 1.1: Realizar o login na plataforma.</p>
-<p>&emsp;&emsp;&emsp; OP 1.2: Clicar em "Disponíveis (Meu Curso)".</p>
-<p>&emsp;&emsp;&emsp; OP 1.3: Visualizar os processos seletivos disponíveis.</p>
-<p>&emsp;&emsp;&emsp; OP 1.4: Clicar em "saiba mais" no processo de sua escolha.</p>
-<p>&emsp;&emsp;&emsp; OP 1.5: Clicar em "saiba mais" no processo de sua escolha.</p>
-<p>&emsp;&emsp;&emsp; OP 1.6: Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas).</p>
-<p>&emsp;&emsp;&emsp; OP 1.7: Enviar candidatura</p>
+<p>&emsp;&emsp;&emsp; OP 2.1: Realizar o login na plataforma.</p>
+<p>&emsp;&emsp;&emsp; OP 2.2: Clicar em "Disponíveis (Meu Curso)".</p>
+<p>&emsp;&emsp;&emsp; OP 2.3: Visualizar os processos seletivos disponíveis.</p>
+<p>&emsp;&emsp;&emsp; OP 2.4: Clicar em "saiba mais" no processo de sua escolha.</p>
+<p>&emsp;&emsp;&emsp; OP 2.5: Clicar em "saiba mais" no processo de sua escolha.</p>
+<p>&emsp;&emsp;&emsp; OP 2.6: Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas).</p>
+<p>&emsp;&emsp;&emsp; OP 2.7: Enviar candidatura</p>
 
 <p align="justify">
-No primeiro método o usuário consegue visualizar processos que o mesmo não tem os requisitos minpimos, o mesmo pode só vir a descobrir deste detalha no momento em que tenta apertar o botão de "quero me cadastrar" onde o mesmo caso não tenha os requisitos é impedido pelo site.
+No primeiro método o usuário consegue visualizar processos que o mesmo não tem os requisitos mínimos, o mesmo pode só vir a descobrir deste detalha no momento em que tenta apertar o botão de "quero me cadastrar" onde o mesmo caso não tenha os requisitos é impedido pelo site.
 </p>
+
+### 3.3 Análise da tarefa: Obter dicas sobre a gestão de carreira.
+
+<p align="justify">
+Nessa tarefa, o objetivo do usuário é obter dicas que o auxiliem a traçar objetivos para sua carreira.
+</p>
+
+<p>Goal 0: Obter dicas sobre gestão de carreira</p>
+&emsp;&emsp;- Method 1: Acessar área "Blog do Estagiário" via menu.
+<p>&emsp;&emsp;&emsp; OP 1.1: Encontrar a barra de pesquisa.</p>
+<p>&emsp;&emsp;&emsp; OP 1.2: Digitar o contéudo de interesse.</p>
+<p>&emsp;&emsp;&emsp; OP 1.3: Realizar busca.</p>
+<p>&emsp;&emsp;&emsp; OP 1.4: Visualizar os artigos apresentados.</p>
+<p>&emsp;&emsp;&emsp; OP 1.5: Clicar em "Leia Mais" no artigo de interesse.</p>
+<p>&emsp;&emsp;&emsp; OP 1.6: Ler o artigo completo</p>
+&emsp;&emsp;- Method 2: Acessar área "Blog do Estagiário" via menu.
+<p>&emsp;&emsp;&emsp; OP 2.1: Encontrar a área de "Categorias".</p>
+<p>&emsp;&emsp;&emsp; OP 2.2: Selecionar o campo "Gestão de Carreira".</p>
+<p>&emsp;&emsp;&emsp; OP 2.3: Visualizar os artigos apresentados.</p>
+<p>&emsp;&emsp;&emsp; OP 2.4: Clicar em "Leia Mais" no artigo de interesse.</p>
+<p>&emsp;&emsp;&emsp; OP 2.5: Ler o artigo completo</p>
+&emsp;&emsp;- Method 3: Acessar área "Blog do Estagiário" via menu.
+<p>&emsp;&emsp;&emsp; OP 3.1: Encontrar a área de "Tags".</p>
+<p>&emsp;&emsp;&emsp; OP 3.2: Selecionar o campo "Carreira Profissional".</p>
+<p>&emsp;&emsp;&emsp; OP 3.3: Visualizar os artigos apresentados.</p>
+<p>&emsp;&emsp;&emsp; OP 3.4: Clicar em "Leia Mais" no artigo de interesse.</p>
+<p>&emsp;&emsp;&emsp; OP 3.5: Ler o artigo completo</p>
+
+Os três métodos apresentam o mesmo problema de ao filtrar pelos artigos desejados alguns artigos são mostrados mais de uma vez
 
 ## 4. Bibliografia
 ```
@@ -136,6 +165,6 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 | Versão |    Data    |      Descrição       |   Autor(es)    | Revisor(es) |
 |:------:|:----------:|:--------------------:|:--------------:|:-----------:|
 |  1.0   | 08/05/2023 | Criação do documento | Carlos e Bruno |    Vitor    |
-|  2.0   | 20/05/2023 | Adição de nova tarefa | Vitor | |
-
+|  2.0   | 20/05/2023 | Adição de nova tarefa | Vitor | Breno |
+|  2.1   | 22/05/2023 | Adição de nova tarefa | Vitor | Breno |
 
