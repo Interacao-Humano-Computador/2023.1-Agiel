@@ -1,4 +1,4 @@
-# Planejamento do relato dos resultados da análise de tarefas
+# Planejamento do relato da Avaliação de Storyboard
 
 ## Introdução
 <p align="justify">
