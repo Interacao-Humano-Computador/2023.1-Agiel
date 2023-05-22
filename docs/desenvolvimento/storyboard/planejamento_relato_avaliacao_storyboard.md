@@ -13,7 +13,7 @@ O relato de uma avaliação é muito importante, pois demonstra e documenta a vi
 É essencial que os resultados da avaliação sejam apresentados de forma clara e direta, para que a visão e as necessidades do usuário sejam bem transmitidas. Desta forma, é importante que o relato tenha os seguintes elementos da avaliação documentados.
 </p>
 
-### 2.1 Objetivo
+### 2.1 Objetivos
 <p align="justify">
 O documento deve apresentar os objetivos atividade realizada, contextualizando o projeto. Posteriormente, é necessário verificar se os objetivos foram atingidos.
 </p>
@@ -25,7 +25,7 @@ O relato deve apresentar qual foi a metodologia usada na atividade, demonstrando
 O avaliador, bem como os demais participantes devem ser apresentados no documento.
 
 ### 2.4 Problemas encontrados
-Os adversidades encontradas durante a avaliação devem ser documentas.
+Os problemas ocorridos e adversidades encontradas durante a avaliação devem ser documentas.
 
 ### 2.5 Sugestões de melhoria
 Após a avaliação, certamente surgirão pontos a melhoras que devem ser documentados, bem como soluções para os problemas que ocorreram durante o processo.
