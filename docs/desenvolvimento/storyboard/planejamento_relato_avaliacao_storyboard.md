@@ -10,5 +10,5 @@ O relato de uma avaliação é muito importante, pois demonstra e documenta a vi
 
 ## 2. Metodologia
 <p align="justify">
-É essencial que os resultados da avaliação sejam apresentados de forma clara e direta, para que a visão e necessidade do usuário sejam bem transmitidas. Desta, é importante que o relato tenha elementos visuais e descritivos.
+É essencial que os resultados da avaliação sejam apresentados de forma clara e direta, para que a visão e necessidade do usuário sejam bem transmitidas. Desta forma, é importante que o relato tenha elementos visuais e descritivos das atividades realizadas e resultado da avaliação.
 </p>
