@@ -60,7 +60,7 @@
 <br>
 &emsp;&emsp;2. Tarefas selecionadas: Candidatar para uma vaga de estágio; Cadastrar currículo; Atualizar Currículo; Inscrição em processo seletivo; Obter dicas sobre a gestão de carreira.
 <br>
-&emsp;&emsp;3. As ações para cada tarefa estão mais detalhadas na "Tabela 2: Ações para realizar as tarefas".
+&emsp;&emsp;3. As ações para cada tarefa estão mais detalhadas na "Tabela 2: Roteiro para realizar as tarefas".
 </p>
 
 | Tarefas | Ações |
@@ -70,6 +70,10 @@
 | Atualizar currículo |  1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Realizar login <br> 4. Selecionar sessão que deseja alterar (dados acadêmicos, dados pessoais, dados profissionais, conhecimentos, qualificações) <br> 5. Clicar em "salvar" |
 | Inscrição em processo seletivo | 1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Clicar em "processos seletivos" <br> 4. Visualizar os processos seletivos disponíveis <br> 5. Clicar em "saiba mais" no processo de sua escolha <br> 6. Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas) <br> 7. Enviar candidatura |
 | Obter dicas sobre a gestão de carreira | 1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Clicar em "Blog do Estagiário" <br> 4. Encontrar a área de "Categorias" <br> 5. Selecionar o campo "Gestão de Carreira" <br> 6. Visualizar os artigos apresentados <br> 7. Clicar em "Leia Mais" no artigo de interesse <br> 8. Ler o artigo completo |
+
+<div style="text-align: center">
+<p>Tabela 2: Roteiro para realizar as tarefas<br/> (Fonte: Vitor B., 2023).</p>
+</div>
 
 * Coleta de dados e interpretação
 <p align="justify">
@@ -110,8 +114,7 @@ Ao identificar as questões práticas, é importante considerar os seguintes asp
 ## Referências
 
 > [1] Annett, J. & Duncan, K. (1967). Task analysis and training design. <br>
-> [2] Kieras, 2004; Card et al., 1983
-<br>
+> [2] Kieras, 2004; Card et al., 1983 <br>
 > [3] Silva & Barbosa, 2010, p.323
 
 ## Histórico de Versão
