@@ -30,7 +30,7 @@
 
 *  Verificar se as tarefas propostas no site Agiel são adequadas e atendem às necessidades dos usuários.
 
-### Explorar perguntas a serem respondidas
+### Explorar questões a serem respondidas
 <p align="justify">
 &emsp;&emsp;Tomando como base os objetivos que visamos alcançar a "Tabela 1: Questões a serem respondidas" contém as questões relacionadas a cada objetivo.
 </p>
