@@ -54,13 +54,28 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
+### Etapa 4 - Planejamento da Avaliação do Storyboard
+
+<figcaption align="center">Tabela 4 - Cronograma da equipe para a etapa 4.</figcaption>
+
+|                                  Tarefa                                   |            Autor            | Entrega |    Revisor    | Revisão | Início da Realização | Fim da Realização |
+|:-------------------------------------------------------------------------:|:---------------------------:|:-------:|:-------------:|:-------:|:--------------------:|:-----------------:|
+|                  Planejamento da Avaliação do Storyboard                  | Bruno Henrique, Ana Beatriz |  22/05  |  Breno Yuri   |  20/05  |        19/05         |       22/05       |
+|     Planejamento do relato dos resultados da avaliação do Storyboard      |        Carlos Daniel        |  22/05  |    Vitor B    |  20/05  |        18/05         |       22/05       |
+|              Planejamento da Avaliação do Análise de tarefas              |     Breno Yuri, Vitor B     |  22/05  | Bruno Henriqe |  20/05  |        19/05         |       22/05       |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas. |       Pedro Siqueira        |  22/05  |  Ana Beatriz  |  20/05  |        18/05         |       22/05       |
+|        Gravação                                                           |  Todos                      |  22/05  | Todos         |  22/05  |        22/05         |       22/05       |
+
+<figcaption align="center">Fonte: Vitor Borges</figcaption>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 24/04 | Criação do cronograma realizado | Ana Beatriz e Breno   |        Carlos       |
-| 1.1   | 10/05 | Adição do cronograma realizado da Etapa 02 | Vitor | Todos |
-| 1.2   | 15/05 | Adição do cronograma realizado da Etapa 03 | Vitor | Todos |
+| 2.0   | 10/05 | Adição do cronograma realizado da Etapa 02 | Vitor | Todos |
+| 3.0   | 15/05 | Adição do cronograma realizado da Etapa 03 | Vitor | Todos |
+| 4.0   | 22/05 | Adição do cronograma realizado da Etapa 04 | Vitor | Todos |
 
 ## Referências
 
