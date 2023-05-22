@@ -30,6 +30,9 @@ Os problemas ocorridos e adversidades encontradas durante a avaliação devem se
 ### 2.5 Sugestões de melhoria
 Após a avaliação, certamente surgirão pontos a melhoras que devem ser documentados, bem como soluções para os problemas que ocorreram durante o processo.
 
+### 2.6 Gravação ou Dados coletados
+Por fim, é necessário apresentar a gravação do teste piloto, bem como a gravação da avaliação em si. Caso a atividade seja feita via formulários, os dados obtidos devem ser apresentados de gráfica e textual.
+
 ## Histórico de Versão
 
 | Versão |    Data    |               Descrição                | Autor(es) | Revisor(es) |
