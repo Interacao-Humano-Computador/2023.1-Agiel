@@ -30,6 +30,22 @@
 
 *  Verificar se as tarefas propostas no site Agiel são adequadas e atendem às necessidades dos usuários.
 
+### Explorar perguntas a serem respondidas
+<p align="justify">
+&emsp;&emsp;Tomando como base os objetivos que visamos alcançar a "Tabela 1: Questões a serem respondidas" contém as questões relacionadas a cada objetivo.
+</p>
+
+| Objetivo | Questões Relacionadas |
+|:--------:|:---------------------:|
+|1. Identificar problemas de usabilidade | 1.1 Os elementos de navegação do site Agiel são claros e intuitivos? <br> 1.2 As informações fornecidas no site Agiel são apresentadas de forma organizada e compreensível? <br> 1.3 Os usuários encontram facilmente as funcionalidades necessárias para realizar as tarefas propostas? <br> 1.4 Os usuários consideram o site Agiel fácil de usar e intuitivo?|
+|2. Avaliar a eficiência da realização das tarefas | 2.1 Quanto tempo os usuários levam em média para concluir as tarefas propostas no site Agiel? <br> 2.2 Quantos cliques ou etapas são necessários para concluir cada tarefa? <br> 2.3 O fluxo de interação entre as etapas das tarefas é fluido e sem interrupções desnecessárias? <br> 2.4 Eles encontram as informações e funcionalidades desejadas sem frustração ou confusão? |
+|3. Identificar oportunidades de melhoria | 3.1 Existem pontos específicos nas tarefas do site Agiel que causam confusão ou dificuldade para os usuários? <br> 3.2 Quais aspectos do design do site Agiel podem ser aprimorados para tornar as tarefas mais eficientes e satisfatórias? <br> 3.3 Os usuários têm alguma sugestão de melhorias ou funcionalidades adicionais que poderiam ser implementadas? <br> 3.4 Os usuários sentem-se satisfeitos com a experiência geral de uso do site Agiel?|
+|4. Validar a adequação das tarefas propostas | 4.1 As tarefas propostas no site Agiel são relevantes e alinhadas com as necessidades e expectativas dos usuários? <br> 4.2 As instruções fornecidas para as tarefas são claras e compreensíveis? <br> 4.3 As tarefas propostas refletem adequadamente os objetivos e funcionalidades principais do site Agiel?|
+
+<div style="text-align: center">
+<p>Tabela 1: Questões a serem respondidas<br/> (Fonte: Vitor B., 2023).</p>
+</div>
+
 ## Referências
 
 > [1] Annett, J. & Duncan, K. (1967). Task analysis and training design. <br>
