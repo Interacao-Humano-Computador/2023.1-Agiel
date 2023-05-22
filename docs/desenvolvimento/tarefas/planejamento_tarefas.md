@@ -46,12 +46,37 @@
 <p>Tabela 1: Questões a serem respondidas<br/> (Fonte: Vitor B., 2023).</p>
 </div>
 
+### Escolha do método de avaliação
+* Método Escolhido:
+<p align="justify">
+&emsp;&emsp;Para a avaliação selecionamos o método de percuso cognitivo [3]. Escolhemos este método pois o mesmo permite aos avaliadores obter uma compreensão profunda da experiência do usuário ao interagir com o site Agiel, o mesmo ajuda a identificar os pensamentos, estratégias e percepções dos usuários durante a realização das tarefas, fornecendo insights valiosos sobre como eles compreendem e interpretam as informações apresentadas. Além disso o mesmo permite avaliar a interação individual de um usuário com o site Agiel e como sua experiência pode ser melhorada de forma personalizada, desta forma podemos alcançar um site mais intuitivo, eficaz e satisfatório para os usuários.
+</p>
+
+* Preparação:
+
+<p align="justify">
+&emsp;&emsp;Para utilizar o método de percuso cognitivo é necessário antes definir o perfil de usuário, as tarefas que serão avaliadas e as ações necessárias para realizar cada tarefa. <br>
+&emsp;&emsp;1. Perfil do Usuário: Estágiarios do ensino superior
+<br>
+&emsp;&emsp;2. Tarefas selecionadas: Candidatar para uma vaga de estágio; Cadastrar currículo; Atualizar Currículo; Inscrição em processo seletivo; Obter dicas sobre a gestão de carreira.
+<br>
+&emsp;&emsp;3. As ações para cada tarefa estão mais detalhadas na "Tabela 2: Ações para realizar as tarefas".
+</p>
+
+| Tarefas | Ações |
+|:-------:|:-----:|
+| Candidatar para uma vaga de estágio | 1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Clicar em "Novas Vagas" <br> 4. Preencher o formulário (Curso, Estado e Cidade) <br> 5. Clicar em "Buscar Vagas" <br> 6. Selecionar uma vaga clicando em "Saiba Mais" <br> 7. Realizar login <br> 8. Visualizar detalhes da vaga <br> 9. Clicar em "Inscrever" <br> 10. Adicionar informações extras (opcional)|
+| Cadastrar currículo | 1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Clicar em "cadastrar currículo" <br> 4. Preencher formulário de cadastro <br> 5. Clicar em cadastrar <br> 6. Acessar o email do formulário <br> 7. Selecionar link para continuar cadastro <br> 8. Preencher os formulários de cada seção (dados acadêmicos, dados pessoais, dados profissionais, conhecimentos, qualificações) <br> 9. Clicar em "salvar" em cada sessão |
+| Atualizar currículo |  1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Realizar login <br> 4. Selecionar sessão que deseja alterar (dados acadêmicos, dados pessoais, dados profissionais, conhecimentos, qualificações) <br> 5. Clicar em "salvar" |
+| Inscrição em processo seletivo | 1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Clicar em "processos seletivos" <br> 4. Visualizar os processos seletivos disponíveis <br> 5. Clicar em "saiba mais" no processo de sua escolha <br> 6. Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas) <br> 7. Enviar candidatura |
+| Obter dicas sobre a gestão de carreira | 1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Clicar em "Blog do Estagiário" <br> 4. Encontrar a área de "Categorias" <br> 5. Selecionar o campo "Gestão de Carreira" <br> 6. Visualizar os artigos apresentados <br> 7. Clicar em "Leia Mais" no artigo de interesse <br> 8. Ler o artigo completo |
+
 ## Referências
 
 > [1] Annett, J. & Duncan, K. (1967). Task analysis and training design. <br>
 > [2] Kieras, 2004; Card et al., 1983
 <br>
-> [3] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
+> [3] Silva & Barbosa, 2010, p.323
 
 ## Histórico de Versão
 
