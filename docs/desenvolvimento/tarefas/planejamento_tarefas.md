@@ -76,6 +76,11 @@
 &emsp;&emsp;Para a coleta de dados membros do grupo farão o papel de avaliadores do site, para realizar este papel os mesmos irão se colocar lugar dos usuários, seguindo as ações de cada tarefa, para cada ação os avaliadores devem avaliar se o usuário conseguiria prosseguir com o fluxo. Ao percorrer esse caminho cognitivo, os avaliadores devem relatar se os usuários conseguem facilmente alcançar seus objetivos e caso contrário relatar as possíveis confusões ou dificuldades encontradas no caminho. 
 </p>
 
+* Relatório de resultados
+<p align="justify">
+&emsp;&emsp;Após a realização de todas as etapas com os fluxos de cada terafa sendo percorridos, os dados serão coletados e analisados de forma que seja possível alterar a análise de tarefas se necessário ou compreender as dificuldades encontradas para propor uma interface que atenda as necessidades dos usuários
+</p>
+
 ## Referências
 
 > [1] Annett, J. & Duncan, K. (1967). Task analysis and training design. <br>
