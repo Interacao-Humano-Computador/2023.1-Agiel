@@ -17,4 +17,4 @@ O relato de uma avaliação é muito importante, pois demonstra e documenta a vi
 
 | Versão |    Data    |               Descrição                | Autor(es) | Revisor(es) |
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
-| `1.0`  | 22/05/2023 | Criação do aterfato |   Carlos   |    Vitor    |
+| `1.0`  | 22/05/2023 | Criação do artefato |   Carlos   |    Vitor    |
