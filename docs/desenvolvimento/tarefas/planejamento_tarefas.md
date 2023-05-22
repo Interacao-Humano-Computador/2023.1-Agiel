@@ -71,6 +71,11 @@
 | Inscrição em processo seletivo | 1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Clicar em "processos seletivos" <br> 4. Visualizar os processos seletivos disponíveis <br> 5. Clicar em "saiba mais" no processo de sua escolha <br> 6. Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas) <br> 7. Enviar candidatura |
 | Obter dicas sobre a gestão de carreira | 1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Clicar em "Blog do Estagiário" <br> 4. Encontrar a área de "Categorias" <br> 5. Selecionar o campo "Gestão de Carreira" <br> 6. Visualizar os artigos apresentados <br> 7. Clicar em "Leia Mais" no artigo de interesse <br> 8. Ler o artigo completo |
 
+* Coleta de dados e interpretação
+<p align="justify">
+&emsp;&emsp;Para a coleta de dados membros do grupo farão o papel de avaliadores do site, para realizar este papel os mesmos irão se colocar lugar dos usuários, seguindo as ações de cada tarefa, para cada ação os avaliadores devem avaliar se o usuário conseguiria prosseguir com o fluxo. Ao percorrer esse caminho cognitivo, os avaliadores devem relatar se os usuários conseguem facilmente alcançar seus objetivos e caso contrário relatar as possíveis confusões ou dificuldades encontradas no caminho. 
+</p>
+
 ## Referências
 
 > [1] Annett, J. & Duncan, K. (1967). Task analysis and training design. <br>
