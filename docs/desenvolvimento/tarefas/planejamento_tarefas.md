@@ -81,6 +81,32 @@
 &emsp;&emsp;Após a realização de todas as etapas com os fluxos de cada terafa sendo percorridos, os dados serão coletados e analisados de forma que seja possível alterar a análise de tarefas se necessário ou compreender as dificuldades encontradas para propor uma interface que atenda as necessidades dos usuários
 </p>
 
+### Identificar e administrar as questões práticas da avaliação
+<p align="justify">
+&emsp;&emsp; A etapa "Identify" é fundamental para identificar as questões práticas relacionadas à avaliação do Percurso Cognitivo. Nesta fase, é necessário analisar e compreender as habilidades cognitivas que serão avaliadas, bem como os critérios e as métricas que serão utilizados.
+Ao identificar as questões práticas, é importante considerar os seguintes aspectos:
+
+- Definição de habilidades cognitivas: Identifique e defina claramente as habilidades cognitivas específicas que serão avaliadas. Isso pode incluir memória, atenção, raciocínio lógico, resolução de problemas, entre outras. Compreender quais habilidades são relevantes para o Percurso Cognitivo em questão ajudará a direcionar a avaliação de maneira adequada.
+
+- Seleção de métodos de avaliação: Identifique os métodos de avaliação mais apropriados para cada habilidade cognitiva. Existem várias opções disponíveis, como testes padronizados, tarefas específicas, questionários e observação direta. Considere a validade, a confiabilidade e a sensibilidade desses métodos para garantir resultados precisos.
+
+- Estabelecimento de critérios de avaliação: Defina os critérios pelos quais as habilidades cognitivas serão avaliadas. Isso pode incluir pontuações numéricas, categorias ou escalas qualitativas. Ter critérios claros ajudará a objetivar o processo de avaliação e facilitará a comparação dos resultados.
+
+- Consideração do contexto: Leve em consideração o contexto em que as habilidades cognitivas são aplicadas. Por exemplo, se a avaliação estiver relacionada a uma tarefa específica, é importante considerar o ambiente, as demandas cognitivas envolvidas e os recursos disponíveis para executar a tarefa.
+
+- Utilização de ferramentas e tecnologias apropriadas: Identifique as ferramentas e tecnologias adequadas para apoiar a avaliação do Percurso Cognitivo. Isso pode incluir a utilização de software especializado, equipamentos de medição ou outras tecnologias que possam fornecer dados relevantes sobre as habilidades cognitivas avaliadas.
+</p>
+
+### Decidir como lidar com as questões éticas
+<p align="justify">
+&emsp;&emsp; Na avaliação do Percurso Cognitivo, é importante considerar as questões éticas envolvidas no processo. Embora não seja necessário um termo de consentimento se não houver entrevistas, ainda é fundamental garantir que o processo seja conduzido de maneira ética e respeitosa. Isso inclui proteger a privacidade e a confidencialidade dos dados coletados durante a avaliação e assegurar que os participantes sejam informados sobre o propósito e a natureza da avaliação. É essencial respeitar a autonomia dos participantes e agir de maneira responsável com os dados coletados.
+</p>
+
+### Evaluate (Avaliar), interpretar e apresentar os dados
+<p align="justify">
+&emsp;&emsp;Na etapa "Evaluate" (Avaliar) do framework DECIDE, interpretar e apresentar os dados é essencial para a avaliação do Percurso Cognitivo do site Agiel. Coletando os dados relevantes, analisando-os cuidadosamente e avaliando os resultados, é possível identificar padrões e entender o impacto das habilidades cognitivas dos usuários. A apresentação dos resultados permitirá uma compreensão clara do desempenho cognitivo e auxiliará na identificação de áreas de melhoria no site Agiel.
+ </p>
+
 ## Referências
 
 > [1] Annett, J. & Duncan, K. (1967). Task analysis and training design. <br>
