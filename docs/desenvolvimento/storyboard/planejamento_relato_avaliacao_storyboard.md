@@ -18,8 +18,17 @@ O relato de uma avaliação é muito importante, pois demonstra e documenta a vi
 O documento deve apresentar os objetivos atividade realizada, contextualizando o projeto. Posteriormente, é necessário verificar se os objetivos foram atingidos.
 </p>
 
-### 2.2 Avaliadores e Participantes
+### 2.2 Metodologia
+O relato deve apresentar qual foi a metodologia usada na atividade, demonstrando como ocorreu o processo de avaliação.
+
+### 2.3 Avaliadores e Participantes
 O avaliador, bem como os demais participantes devem ser apresentados no documento.
+
+### 2.4 Problemas encontrados
+Os adversidades encontradas durante a avaliação devem ser documentas.
+
+### 2.5 Sugestões de melhoria
+Após a avaliação, certamente surgirão pontos a melhoras que devem ser documentados, bem como soluções para os problemas que ocorreram durante o processo.
 
 ## Histórico de Versão
 
