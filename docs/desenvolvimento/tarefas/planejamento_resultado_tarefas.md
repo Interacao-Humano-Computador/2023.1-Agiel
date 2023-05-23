@@ -2,11 +2,11 @@
 
 ## Introdução
 <p align="justify">
-&emsp;&emsp;Este documento tem como base o documento de Planejamento da avaliação da Análise de tarefas. Sua função primária é estruturar padronizar o relato dos resultados obtidos durante a avaliação da análise de tarefas. Tal relatório irá gerar tópicos de melhoria e reprojeto para o Agiel, levantados através da avaliação.
+&emsp;&emsp;Este documento tem como base o documento de Planejamento da avaliação da Análise de tarefas. Sua função primária é estruturar e padronizar o relato dos resultados obtidos durante a avaliação da análise de tarefas. Tal relatório irá gerar tópicos de melhoria e reprojeto para o Agiel, levantados através da avaliação.
 </p>
 
 ## Metodologia
-&emsp;&emsp; Os elementos de avaliação são:
+&emsp;&emsp; Os elementos de avaliação são: 
 * Objetivo e escopo da avaliação;
 * Como a avaliação foi realizada;
 * O número e o perfil de usuários e avaliadores que participaram da avaliação;
