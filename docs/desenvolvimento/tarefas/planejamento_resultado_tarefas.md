@@ -6,7 +6,10 @@
 </p>
 
 ## Metodologia
+<p align="justify">
 &emsp;&emsp; Os elementos de avaliação são: 
+</p>
+
 * Objetivo e escopo da avaliação;
 * Como a avaliação foi realizada;
 * O número e o perfil de usuários e avaliadores que participaram da avaliação;
