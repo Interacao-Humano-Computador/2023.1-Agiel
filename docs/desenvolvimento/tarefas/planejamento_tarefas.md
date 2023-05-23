@@ -77,7 +77,7 @@
 
 * Coleta de dados e interpretação
 <p align="justify">
-&emsp;&emsp;Para a coleta de dados membros do grupo farão o papel de avaliadores do site, para realizar este papel os mesmos irão se colocar lugar dos usuários, seguindo as ações de cada tarefa, para cada ação os avaliadores devem avaliar se o usuário conseguiria prosseguir com o fluxo. Ao percorrer esse caminho cognitivo, os avaliadores devem relatar se os usuários conseguem facilmente alcançar seus objetivos e caso contrário relatar as possíveis confusões ou dificuldades encontradas no caminho. 
+&emsp;&emsp;Para a coleta de dados membros do grupo e participantes que façam parte do perfil do usuário ou utilizem sistemas parecidos ao Agiel farão o papel de avaliadores do site, para realizar este papel os mesmos irão se colocar lugar dos usuários, seguindo as ações de cada tarefa, para cada ação os avaliadores devem avaliar se o usuário conseguiria prosseguir com o fluxo. Ao percorrer esse caminho cognitivo, os avaliadores devem relatar se os usuários conseguem facilmente alcançar seus objetivos e caso contrário relatar as possíveis confusões ou dificuldades encontradas no caminho. 
 </p>
 
 * Relatório de resultados
@@ -133,7 +133,20 @@ Assim, estou ciente das informações acima e autorizo a utilização dos meus d
 ### Evaluate (Avaliar), interpretar e apresentar os dados
 <p align="justify">
 &emsp;&emsp;Na etapa "Evaluate" (Avaliar) do framework DECIDE, interpretar e apresentar os dados é essencial para a avaliação do Percurso Cognitivo do site Agiel. Coletando os dados relevantes, analisando-os cuidadosamente e avaliando os resultados, é possível identificar padrões e entender o impacto das habilidades cognitivas dos usuários. A apresentação dos resultados permitirá uma compreensão clara do desempenho cognitivo e auxiliará na identificação de áreas de melhoria no site Agiel.
- </p>
+</p>
+
+### Teste Piloto
+<p align="justify">
+O teste piloto permite a avaliação do método do fluxo cognitivo, desta forma podemos visualizar se o mesmo está sendo aplicado adequadamente, se as tarefas são adequadas e se você é possível obtendo os feedbacks desejados. Ao realizar o teste piloto poderemos realizar mudanças no método, no roteiro e até nas tarefas selecionadas. Sendo assim o nosso teste piloto consiste na realização dos seguintes passos:
+</p>
+
+1. Iremos selecionar um avaliador que seja familiarizados com o uso de sites ou sistemas similares ao Agiel e que faça parte do perfil de usuário do planejamento.
+2. Será selecionado um conjunto de tarefas relevantes para o site para serem avaliadas.
+3. O avaliador terá conhecimento do termo de consentimento e o propósito da avaliação.
+4. O avaliador deverá realizar as tarefas com base no roteiro das mesmas.
+5. O avaliador deve realizar anotações sobre quaisquer problemas, confusões ou dificuldades encontradas na realização da tarefa.
+6. Os dados gerados pelo avaliador devem ser coletados
+7. Os dados devem ser analisados
 
 ## Referências
 
