@@ -148,6 +148,18 @@ O teste piloto permite a avaliação do método do fluxo cognitivo, desta forma 
 6. Os dados gerados pelo avaliador devem ser coletados
 7. Os dados devem ser analisados
 
+### Cronograma de Tarefas
+
+| Tarefa |    Data    |          
+| :-----: | :-------: |
+|  Teste Piloto  | 26/05/2023 |
+|  Avaliação e coleta de dados  | 27/05/2023 |
+|  Entrega  | 29/05/2023 |
+
+<div style="text-align: center">
+<p> Cronograma de tarefas (Fonte: Breno, 2023).</p>
+</div>
+
 ## Referências
 
 > [1] Annett, J. & Duncan, K. (1967). Task analysis and training design. <br>
