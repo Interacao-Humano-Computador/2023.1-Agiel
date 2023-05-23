@@ -82,7 +82,7 @@
 
 * Relatório de resultados
 <p align="justify">
-&emsp;&emsp;Após a realização de todas as etapas com os fluxos de cada terafa sendo percorridos, os dados serão coletados e analisados de forma que seja possível alterar a análise de tarefas se necessário ou compreender as dificuldades encontradas para propor uma interface que atenda as necessidades dos usuários
+&emsp;&emsp;Após a realização de todas as etapas com os fluxos de cada terafa sendo percorridos, os dados serão coletados e analisados de forma que seja possível alterar a análise de tarefas se necessário ou compreender as dificuldades encontradas para propor uma interface que atenda as necessidades dos usuários.
 </p>
 
 ### Identificar e administrar as questões práticas da avaliação
