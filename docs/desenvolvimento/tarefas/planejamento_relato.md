@@ -27,7 +27,7 @@
 
 * Sumário dos dados
 <p align="justify">
-&emsp;&emsp;O avaliador deverá registrar as respostas do entrevistado para cada uma das [perguntas planejadas](desenvolvimento/tarefas/planejamento_tarefas.md). Também deve registrar as considerações, caso existam.
+&emsp;&emsp;O avaliador deverá registrar as respostas do entrevistado para cada uma das perguntas planejadas. Também deve registrar as considerações, caso existam.
 </p>
 
 * Problemas encontrados
