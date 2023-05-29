@@ -93,7 +93,7 @@ Dessa forma, gostaríamos que você pronunciasse em alto e bom som:
 Após coletar os dados, faremos uma análise cuidadosa para identificar padrões, tendências e insights relevantes que nos ajudarão a aprimorar o protótipo de papel. Os resultados serão interpretados e apresentados de forma clara e concisa, destacando os principais pontos para facilitar a compreensão. Essa etapa nos permitirá tomar decisões informadas e melhorar o projeto com base nos dados obtidos.
 
 ## 4. Bibliografia
-> Barbosa, S. D. J., Silva, B. S. da, Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário.*
+> Barbosa, S. D. J., Silva, B. S. da, Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2023). Interação Humano-Computador e Experiência do Usuário.*
 
 ## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
