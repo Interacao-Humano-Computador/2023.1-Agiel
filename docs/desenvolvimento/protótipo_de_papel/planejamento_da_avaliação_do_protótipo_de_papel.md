@@ -32,12 +32,12 @@ Com esses objetivos, buscamos garantir uma experiência de uso satisfatória e i
 As perguntas abaixo serão usadas durante a entrevista com o usuário.
 | Nº | Pergunta | Resposta |
 |:--:|:--------:|:-------:|
-| 1  | No que se refere aos protótipos de papel apresentados, você acha que todos eles são viáveis? | [ ] Sim<br>[ ] Não |
-| 2  | Qual dos protótipos de papel apresentados você acredita não ser viável? | Número do protótipo |
-| 3  | Por quê você acha que este protótipo de papel não é viável? | Resposta aberta |
-| 4  | Você teria alguma sugestão de melhoria ou alteração para algum dos protótipos? | [ ] Sim <br>[ ] Não |
-| 5  | Qual dos protótipos de papel apresentados você gostaria de dar sua opinião? | Número do protótipo |
-| 6  | Qual sugestão de melhoria ou alteração você gostaria de compartilhar? | Resposta aberta |
+| 1  | Você acha que os protótipos de papel apresentados são fáceis de entender e utilizar? | [ ] Sim<br>[ ] Não |
+| 2  | Qual dos protótipos de papel você acha mais intuitivo e amigável para os usuários? | Número do protótipo |
+| 3  | O que faz você considerar esse protótipo de papel mais fácil de entender e utilizar em comparação aos outros? | Resposta aberta |
+| 4  | Você identificou algum aspecto dos protótipos de papel que possa gerar confusão ou dificuldades para os usuários? | Se sim, por favor, descreva. |
+| 5  | Dos protótipos de papel apresentados, há algum que você acredita que precise de melhorias para facilitar a compreensão e uso pelos usuários? | Número do protótipo |
+| 6  | Quais sugestões você teria para tornar esse protótipo de papel mais claro e fácil de usar? | Resposta aberta |
 
 <figcaption align="center">Tabela 1 com as perguntas - Fonte: Breno</figcaption>
 
