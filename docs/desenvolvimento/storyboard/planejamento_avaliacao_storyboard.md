@@ -85,6 +85,12 @@ Dessa forma, gostaríamos que você pronunciasse em alto e bom som:
 
 Com base na análise dos dados, identificaremos padrões, tendências e insights relevantes para aprimorar o storyboard. Os resultados seram interpretados e organizados de forma clara e concisa, e uma apresentação dos principais pontos será preparada.
 
+## Storyboards Desenvolvidos
+As imagagen 1 - 6 são os storyboards feitos pela equipe.
+
+![](./img/storyboard-1.jpg)
+<figcaption align="center">Imagem 1 - Storyboard Canditadar a uma vaga. Fonte: Ana Beatriz</figcaption>
+
 ## Histórico de Versão
 
 | Versão |    Data    |                  Descrição                   |  Autor(es)  | Revisor(es) |
