@@ -91,6 +91,9 @@ As imagagen 1 - 6 são os storyboards feitos pela equipe.
 ![](./img/storyboard-1.jpg)
 <figcaption align="center">Imagem 1 - Storyboard Canditadar a uma vaga. Fonte: Ana Beatriz</figcaption>
 
+![](./img/storyboard-2.png)
+<figcaption align="center">Imagem 2 - Storyboard Inscrição em processo seletivo. Fonte: Bruno Henrique</figcaption>
+
 ## Histórico de Versão
 
 | Versão |    Data    |                  Descrição                   |  Autor(es)  | Revisor(es) |
