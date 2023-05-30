@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O relato de resultados da avaliação do storyboard é um artefato que tem como objetivo documentar os resultados obtidos por meio da avaliação feita mediante entrevista. Antes da entrevista, foram checados os materiais técnicos produzidos e a verificação de qualidade da plataforma audiovisual utilizada também foi feita.
+O relato de resultados da avaliação do storyboard é um artefato que tem como objetivo documentar os resultados obtidos por meio da avaliação feita mediante entrevista e identificar se os artefatos entregues são condizentes com o contexto do usuário e se há necessidade de melhoria. Antes da entrevista, foram checados os materiais técnicos produzidos e a verificação de qualidade da plataforma audiovisual utilizada também foi feita.
 
 ### Objetivos da Avaliação
 
