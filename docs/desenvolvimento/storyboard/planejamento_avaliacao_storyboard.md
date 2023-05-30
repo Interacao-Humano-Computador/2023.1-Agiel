@@ -86,13 +86,18 @@ Dessa forma, gostaríamos que você pronunciasse em alto e bom som:
 Com base na análise dos dados, identificaremos padrões, tendências e insights relevantes para aprimorar o storyboard. Os resultados seram interpretados e organizados de forma clara e concisa, e uma apresentação dos principais pontos será preparada.
 
 ## Storyboards Desenvolvidos
-As imagagen 1 - 6 são os storyboards feitos pela equipe.
-
+As imagens 1 - 6 são os storyboards feitos pela equipe.
 ![](./img/storyboard-1.jpg)
 <figcaption align="center">Imagem 1 - Storyboard Canditadar a uma vaga. Fonte: Ana Beatriz</figcaption>
 
+![](../../assets/storyboard_cadastroinstituicao.jpeg)
+<figcaption align="center">Imagem 2 - Storyboard Canditadar uma instituição de ensino. Fonte: Breno Yuri</figcaption>
+
 ![](./img/storyboard-2.png)
-<figcaption align="center">Imagem 2 - Storyboard Inscrição em processo seletivo. Fonte: Bruno Henrique</figcaption>
+<figcaption align="center">Imagem 5 - Storyboard Inscrição em processo seletivo. Fonte: Bruno Henrique</figcaption>
+
+![](../../assets/storyboard_gestao_carreira.jpeg)
+<figcaption align="center">Imagem 6 - Storyboard Obter dicas sobre Gestão de carreira. Fonte: Vitor Borges</figcaption>
 
 ## Histórico de Versão
 
