@@ -1,7 +1,7 @@
 # Agiel
 ## Sobre o Projeto
-
-O projeto da disciplina de IHC tem como objetivo melhorar a usabilidade e a experiência do usuário em um site escolhido pelo grupo. O projeto irá abordar conceitos e técnicas para análise, projeto e avaliação de interfaces para web, visando aprimorar a interação entre usuário e sistema. O resultado final será um protótipo funcional do site com melhorias em sua usabilidade e experiência do usuário.
+&emsp;&emsp; Esta página é voltada para expor o desenvolvimento do projeto de Interação Humano Computador (IHC) da Universidade de Brasília (Unb) e seus respectivos artefatos. Com base no sistema web 
+[Agiel](https://www.agiel.com.br/site/), aborda conceitos e técnicas para análise, projeto e avaliação de interfaces para web, visando aprimorar a interação entre usuário e sistema. O resultado final será um protótipo funcional do site com melhorias em sua usabilidade e experiência do usuário.
 
 <img src="./assets/agiel.png" alt="logo" width="40%" style="float: none; margin: auto"/>
 
