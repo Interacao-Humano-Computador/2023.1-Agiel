@@ -2,17 +2,11 @@
 
 ## 1.Introdução
 
-O percurso cognitivo é um método de avaliação de IHC por
-inspeção cujo principal objetivo é avaliar a facilidade de aprendizado de um sistema
-interativo, através da exploração da sua interface (IHC - BARBOSA,SILVA).
-Esse método foi criado motivado pela vontade das pessoas de "aprender fazendo", ao invés de aprender estudando, pesquisando ou lendo sobre os tal assunto.
+Esse documento tem como objetivo planejar o relato de análise de tarefas, definindo metodologias e atividades que serão avaliadas sobre a plataforma. Visando compreender e ter melhor entendimento sobre o papel dos usuários, havendo-se a preocupação com as formas de realização de atividades e os motivos que os levam a realiza-las.
 
 ## 2.Objetivo
 
-O percurso cognitivo guia a inspeção da interface pelas tarefas do usuário. Nesse
-método, o avaliador percorre a interface inspecionando as ações projetadas para um
-usuário concluir cada tarefa utilizando o sistema. Para cada ação, o avaliador tenta se
-colocar no papel de um usuário e detalha como seria sua interação com o sistema naquele momento (IHC - BARBOSA,SILVA). Um site bem planejado possui uma interface gráfica que seja intuitiva, que não force o usuário a pensar demais, geralmente tenta simular processos que pertencem ao cotidiano do usuário, ou pertencente um padrão ja conhecido e implementado.
+O objetivo desse documento é relatar de que forma a avaliação da análise de tarefas foi realizada e relatar todos os resultados encontrados a partir das avaliações com os participantes.
 
 ## 3. Metodologia
 
