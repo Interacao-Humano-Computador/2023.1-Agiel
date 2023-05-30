@@ -87,9 +87,11 @@ Com base na análise dos dados, identificaremos padrões, tendências e insights
 
 ## Storyboards Desenvolvidos
 As imagagen 1 - 6 são os storyboards feitos pela equipe.
-
 ![](./img/storyboard-1.jpg)
 <figcaption align="center">Imagem 1 - Storyboard Canditadar a uma vaga. Fonte: Ana Beatriz</figcaption>
+
+![](../../assets/storyboard_cadastroinstituicao.jpeg)
+<figcaption align="center">Imagem 2 - Storyboard Canditadar uma instituição de ensino. Fonte: Breno Yuri</figcaption>
 
 ## Histórico de Versão
 
