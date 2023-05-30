@@ -93,6 +93,9 @@ As imagens 1 - 6 são os storyboards feitos pela equipe.
 ![](../../assets/storyboard_cadastroinstituicao.jpeg)
 <figcaption align="center">Imagem 2 - Storyboard Canditadar uma instituição de ensino. Fonte: Breno Yuri</figcaption>
 
+![](./img/storyboard-2.png)
+<figcaption align="center">Imagem 5 - Storyboard Inscrição em processo seletivo. Fonte: Bruno Henrique</figcaption>
+
 ![](../../assets/storyboard_gestao_carreira.jpeg)
 <figcaption align="center">Imagem 6 - Storyboard Obter dicas sobre Gestão de carreira. Fonte: Vitor Borges</figcaption>
 

@@ -50,7 +50,8 @@ nav:
     - Nível 1:
       - Análise de Tarefas:
         - Planejamento da avaliação: desenvolvimento/tarefas/planejamento_tarefas.md
-        - Planejamento do relato de resultados: desenvolvimento/tarefas/planejamento_resultado_tarefas.md 
+        - Planejamento do relato de resultados: desenvolvimento/tarefas/planejamento_resultado_tarefas.md
+        - Relato de resultados: desenvolvimento/tarefas/relatos_analise_tarefas.md  
       - Storyboard:
         - Planejamento da avaliação: desenvolvimento/storyboard/planejamento_avaliacao_storyboard.md
         - Planejamento do relato de resultados: desenvolvimento/storyboard/planejamento_relato_avaliacao_storyboard.md
