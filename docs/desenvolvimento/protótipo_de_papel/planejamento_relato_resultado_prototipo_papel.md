@@ -25,7 +25,7 @@ O relato deve apresentar qual foi a metodologia usada na atividade, demonstrando
 O avaliador, bem como os demais participantes devem ser apresentados no documento.
 
 ### 2.4 Problemas encontrados
-Os problemas ocorridos e adversidades encontradas durante a avaliação devem ser documentas.
+Os problemas ocorridos e adversidades encontradas durante a avaliação devem ser documentados.
 
 ### 2.5 Sugestões de melhoria
 Após a avaliação, certamente surgirão pontos a melhoras que devem ser documentados, bem como soluções para os problemas que ocorreram durante o processo.
@@ -33,7 +33,7 @@ Após a avaliação, certamente surgirão pontos a melhoras que devem ser docume
 ### 2.6 Gravação ou Dados coletados
 Por fim, é necessário apresentar a gravação do teste piloto, bem como a gravação da avaliação em si. Caso a atividade seja feita via formulários, os dados obtidos devem ser apresentados de forma gráfica e textual.
 
-## 4. Bibliografia
+## 3. Bibliografia
 ```
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 ```
