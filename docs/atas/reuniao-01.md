@@ -41,7 +41,7 @@ Reunião de alinhamento do projeto de IHC.
 
 
 
-## Link para gravação da reunião
+## Gravação da reunião
 
 [Clique aqui](https://www.youtube.com/watch?v=nbu129Cztkg)
 

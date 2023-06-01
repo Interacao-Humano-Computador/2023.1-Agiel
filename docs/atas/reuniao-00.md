@@ -37,7 +37,7 @@ O documento a seguir se refere à primeira reunião do grupo 07, com os seus dev
 | Criar a planilha de disponibilidade | 08/04 | Vitor |
 | Preencher a planilha de disponibilidade | 10/04 | Todos |
 
-## Link para gravação da reunião
+## Gravação da reunião
 
 [Clique aqui](https://www.youtube.com/watch?v=nQLAU6U-oxs)
 

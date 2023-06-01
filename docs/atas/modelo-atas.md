@@ -32,7 +32,7 @@ Breve descrição sobre o documento.
 | --------- | ----------- | ----------- |
 | Descrição | dd/mm | Fulano |
 
-## Link para gravação da reunião
+## Gravação da reunião
 
 [Clique aqui](Endereço)
 
