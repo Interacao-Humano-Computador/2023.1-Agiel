@@ -24,7 +24,7 @@ O documento a seguir se refere à primeira reunião do grupo 07, com os seus dev
 - Verificação e listagem de artefatos que necessitam de melhorias
   - Revisar os princípios gerais do projeto
   - Etapa 3 necessita de aprofundamento 
-  - Correção nas perguntas e cronograma no planejamento da análise de tarefas*
+  - Correção nas perguntas e cronograma no planejamento da análise de tarefas**
   - Questões práticas da avaliação de storyboard e análise de tarefas
   - Realizar o teste piloto da avaliação de storyboard
   - Realizar mais entrevistas para coletar resultados do storyboard
@@ -35,7 +35,8 @@ O documento a seguir se refere à primeira reunião do grupo 07, com os seus dev
 - Discussão sobre o andamento do projeto como equipe e individualmente
 - Definição dos responsáveis pelas atividades de melhoria 
   - Serão levantados na plataforma de comunicação 
-* Tópicos a serem levados para o professor durante a aula.
+
+** Tópicos a serem levados para o professor durante a aula.
 
 ## Gravação da reunião
 
