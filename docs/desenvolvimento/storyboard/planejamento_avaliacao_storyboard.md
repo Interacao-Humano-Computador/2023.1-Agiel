@@ -102,9 +102,13 @@ As imagens 1 - 5 são os storyboards feitos pela equipe.
 ![](../../assets/storyboard_gestao_carreira.jpeg)
 <figcaption align="center">Imagem 5 - Storyboard Obter dicas sobre Gestão de carreira. Fonte: Vitor Borges</figcaption>
 
+![](./img/storyboard-4.jpeg)
+<figcaption align="center">Imagem 6 - Storyboard Atualização de currículo. Fonte: Carlos Daniel</figcaption>
+
 ## Histórico de Versão
 
 | Versão |    Data    |                  Descrição                   |  Autor(es)  | Revisor(es) |
 |:------:|:----------:|:--------------------------------------------:|:-----------:|:-----------:|
 |  1.0   | 22/05/2023 |             Criação do documento             | Ana Beatriz |    Bruno    |
 |  1.1   | 22/05/2023 | Adição do termo de consentimento e perguntas |    Bruno    | Ana Beatriz |
+|  1.2   | 03/06/2023 | Adição de um novo storyboard |    Carlos   | Ana Beatriz |
