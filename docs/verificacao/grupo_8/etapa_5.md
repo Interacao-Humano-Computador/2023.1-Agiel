@@ -2,65 +2,25 @@
 
 ## 1. Relatório dos resultados dos storyboards
 
-### Introdução
+| ID | Descrição  | Avaliação |
+|:--:|:----------:|:---------:|
+| 1 | O artefato possui introdução? | O relatório dos resultados possui uma breve introdução explicando a importância do artefato no projeto. |
+| 2 | O artefato apresenta os objetivos da avaliação? | O artefato possui uma seção descrevendo os objetivos visados com a avaliação. |
+| 3 | O artefato apresenta a metodologia utilizada? | O artefato possui uma seção descrevendo os objetivos visados com a avaliação. |
+| 4 | O artefato apresenta o número de avaliadores, participantes e seus perfis? | O número de avaliadores e participantes está definido em uma seção porém não é apresentado o perfil dos participantes. |
+| 5 | O artefato apresenta as perguntas utilizadas na entrevista? | As perguntas utilizadas na entrevista são apresentadas |
+| 6 | O artefato apresenta as respostas coletadas com as entrevistas? | As respostas coletadas na entrevista são apresentadas |
+| 7 | O artefato apresenta os problemas/melhorias encontrados? | Os problemas indetificados e as melhorias propostas são apresentadas, porém algumas melhorias estão voltadas a interface gráfica do site.
+| 8 | O artefato apresenta uma bibliografia/referência padronizada | O artefato possui uma bibliografia padronizada |
+| 9 | O artefato apresenta o histórico de versão padronizado? | O artefato possui o histórico de versão padronizado |
 
-<p align='justify'>
-    O relatório dos resultados possui uma breve introdução explicando a importância do artefato no projeto.
-</p>
-
-### Metodologia
-
-<p align='justify'>
-    O artefato possui uma seção descrevendo os objetivos visados com a avaliação.
-</p>
-
-### Avaliadores e participantes
-
-<p align='justify'>
-    O número de avaliadores e participantes está definido na seção porém não é apresentado o perfil dos participantes.
-</p>
-
-### Dados obtidos
-
-<p align='justify'>
-    As perguntas e respostas obtidas nas entrevistas são apresentadas
-</p>
-
-### Problemas encontrados e sugestões
-
-<p align='justify'>
-    Após a análise dos dados obtidos foram identificados melhorias: 
-</p>
-
-* Adição de uma caixa de pesquisa ou filtro no menu principal do site
-* Preenchimento de campos obrigatórios de forma automatica após a inserção do CNPJ
-
-<p align='justify'>
-    Existe algumas sugestões relacionadas a interface do site, porém as mesmas não deveriam ser coletadas nesta etapa.
-</p>
-
-### Conclusão
-
-<p align='justify'>
-    O artefato apresenta uma breve conclusão das lições aprendidas e como o artefato será utilizado futuramente no projeto.
-</p>
-
-### Bibliografia
-
-<p align='justify'>
-    O artefato apresenta uma bibliografica seguindo os padrões esperados
-</p>
-
-### Histórico de Versão
-
-<p align='justify'>
-    O artefato apresenta um histórico de versão com a versão, data, descrição autores e revisores.
-</p>
+<figcaption align="center">Tabela 1 - Verificação do artefato relatório dos resultados dos storyboards.</figcaption>
 
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 05/06 | Verificação do artefato de relato de resultados do storyboard | Vitor | Ana Beatriz |
+|  1.1   | 05/06 | Adicionando verificação utilizando tabela | Vitor | Ana Beatriz 
 
 ## Referências
