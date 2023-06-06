@@ -44,7 +44,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 <figcaption align="center">Tabela 2 - Verificação do artefato do planejamento da avaliação do protótipo de papel - Fonte: Breno Yuri</figcaption>
 
 
-## 3. Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas
+## 3. Planejamento Do Relato dos Resultados Avaliação do Protótipo de Papel
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
 
