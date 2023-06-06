@@ -29,6 +29,20 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <figcaption align="center">Tabela 1 - Verificação do artefato relatório dos resultados dos storyboards - Fonte: Vitor Borges</figcaption>
 
+## 2. Relatório do planejamento da avaliação do protótipo de papel
+
+| ID | Descrição  | Avaliação |
+|:--:|:----------:|:---------:|
+| 1 | O artefato possui introdução? | O relatório dos resultados possui uma breve introdução explicando a importância do artefato no projeto. |
+| 2 | O artefato apresenta os objetivos da avaliação? | O artefato possui um pequeno texto descrevendo os objetivos visados com a avaliação. |
+| 3 | O artefato apresenta a metodologia utilizada? | Metodologia escolhida pelo grupo para a avaliação foi a entrevista |
+| 4 | O artefato apresenta o número de avaliadores, participantes e seus perfis? | O número de avaliadores e participantes está definido em uma seção exceto os participantes. |
+| 5 | O artefato apresenta as perguntas utilizadas na entrevista? | As perguntas utilizadas na entrevista são apresentadas |roblemas indetificados e as melhorias propostas são apresentadas, porém algumas melhorias estão voltadas a interface gráfica do site.
+| 6 | O artefato apresenta uma bibliografia/referência padronizada | O artefato possui uma bibliografia padronizada |
+| 7 | O artefato apresenta o histórico de versão padronizado? | O artefato possui o histórico de versão padronizado |
+
+<figcaption align="center">Tabela 2 - Verificação do artefato do planejamento da avaliação do protótipo de papel - Fonte: Breno Yuri</figcaption>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
@@ -36,5 +50,6 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 |  1.0   | 05/06 | Verificação do artefato de relato de resultados do storyboard | Vitor | Ana Beatriz |
 |  1.1   | 05/06 | Adicionando verificação utilizando tabela | Vitor | Ana Beatriz 
 |  1.2   | 05/06 | Introdução, Objetivo e Metodologia | Carlos |  
+|  1.3   | 05/06 | Verificação do artefato do planejamento de avaliação do protótipo de papel | Breno Yuri |  Ana Beatriz |
 
 ## Referências
