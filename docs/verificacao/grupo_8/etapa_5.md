@@ -55,7 +55,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 3 | O escopo do relatório planejado apresenta os objetivos da avaliação?| Sim |
 | 4 | O escopo do relatório planejado apresenta a metodologia da avaliação? | Sim, porém é planejado usar um framework de planejamento (DECIDE) em uma apresentação da metodologia de avaliação. |
 | 5 | O escopo do relatório plajenado apresenta os participantes? | Sim |
-| 5 | O escopo do relatório plajenado apresenta a análise dos dados coletados e resultados? | Sim, além é plajenado apresentar recomendações de melhorias do protótipos a partir da resultados. |
+| 5 | O escopo do relatório plajenado apresenta a análise dos dados coletados e resultados? | Sim, além disso é plajenado apresentar recomendações de melhorias do protótipos a partir da resultados. |
 | 5 | O escopo do relatório plajenado apresenta os problemas encontrados? | Não |
 | 6 | O escopo do relatório plajenado apresenta sugestões de melhoria no processo de avaliação? | Não |
 | 7 | O artefato apresenta uma bibliografia/referência padronizada | Sim |
