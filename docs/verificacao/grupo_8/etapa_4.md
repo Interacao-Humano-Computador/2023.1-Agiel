@@ -49,7 +49,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
 
 ## 2. Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas
 
@@ -76,7 +76,8 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 05/06 | Introdução, Objetivo e Metodologia | Carlos | |
 |  1.1   | 05/06 | Planejamento da Avaliação de Análise de Tarefas | Carlos | |
-|  1.2   | 06/06 | Planejamento da Avaliação do Storyboard | Ana Beatriz | |
+|  1.2   | 05/06 | Planejamento da Avaliação do Storyboard | Ana Beatriz | |
+|  1.3   | 05/06 | Relato dos Resultados da Avaliação de Análise de Tarefa | Carlos | |
 
 
 ## Referências
