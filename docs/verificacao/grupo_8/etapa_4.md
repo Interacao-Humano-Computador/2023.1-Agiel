@@ -33,7 +33,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 11 | O artefato possui storyboard para cada tarefa| O artefato possui apenas 3 storyboards sendo insuficiente para cada membro do grupo mas atendendo cada tarefa apresentada anteriormente|
 | 12 | O artefato possui definição do teste piloto|Não foi encontrado nada relacionado ao teste piloto no artefato|
 
-<figcaption align="center">Tabela 1: Avaliação do Planejamento da Avaliação do Storyboard - Fonte: Ana Beatriz</f>
+<font size="3"><p style="text-align: center">Fonte: [Ana Beatriz](https://github.com/anabfs).</p></font>
 
 
 ## Planejamento da Avaliação da Análise de Tarefas
