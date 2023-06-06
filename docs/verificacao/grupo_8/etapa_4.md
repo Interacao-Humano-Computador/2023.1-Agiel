@@ -34,9 +34,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <figcaption align="center">Tabela 1: Avaliação do Planejamento da Avaliação do Storyboard - Fonte: Ana Beatriz</f
   
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Avaliação da Análise de Tarefas</p></font>
 
 ## 2. Planejamento Da Avaliação da Análise de Tarefas
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Avaliação da Análise de Tarefas</p></font>
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -51,9 +52,9 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
-
 ## 3. Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
