@@ -13,9 +13,28 @@ Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo 
 ## Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Avaliação da Análise de Tarefas</p></font>
+## 1. Planejamento da Avaliação do Storyboard
 
-## 1. Planejamento Da Avaliação da Análise de Tarefas
+| ID | Descrição  | Avaliação |
+|:--:|:----------:|:---------:|
+| 1 | O artefato possui introdução? | O relatório dos resultados possui uma breve introdução explicando a importância do artefato no projeto. |
+| 2 | O artefato apresenta os objetivos da avaliação? | O artefato possui uma seção descrevendo os objetivos visados com a avaliação. |
+| 3 | O artefato apresenta a metodologia utilizada? | O artefato possui uma seção descrevendo os objetivos visados com a avaliação. |
+| 4 | O planejamento da avaliação segue o Framework DECIDE | O artefato utiliza o Framework DECIDE para o planejamento|
+| 5 | Descreve o(s) objetivo(s) da avaliação | O artefato descreve os objetivos da avaliação|
+| 6 | O artefato possui os métodos de avaliação a serem utilizados| O artefato apresenta entrevista como método da avaliação|
+| 7 | O artefato possui as questões práticas da avaliação| O artefato possui os participantes, os equipamentos necessários e o cronograma|
+| 8 | O artefato possui as questões éticas da avaliação| O artefato tem um termo de consentimento para lidar com as questões éticas|
+| 9 | O artefato possui a estrutura do relatório do resultado da avaliação| Sim, o artefato possui a estrutura do relatório do resultado da avaliação|
+| 10 | O artefato possui cronograma para realização da avaliação|O artefato possui um cronograma com Storyboard avaliado, Local	Data de realização, Horário,	Entrevistador e Entrevistado|
+| 11 | O artefato possui storyboard para cada tarefa| O artefato possui apenas 3 storyboards sendo insuficiente para cada membro do grupo mas atendendo cada tarefa apresentada anteriormente|
+| 12 | O artefato possui definição do teste piloto|Não foi encontrado nada relacionado ao teste piloto no artefato|
+
+<figcaption align="center">Tabela 1: Avaliação do Planejamento da Avaliação do Storyboard - Fonte: Ana Beatriz</f
+  
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Avaliação da Análise de Tarefas</p></font>
+
+## 2. Planejamento Da Avaliação da Análise de Tarefas
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -57,7 +76,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 05/06 | Introdução, Objetivo e Metodologia | Carlos | |
 |  1.1   | 05/06 | Planejamento da Avaliação de Análise de Tarefas | Carlos | |
-|  1.1   | 05/06 | Relato dos Resultados da Avaliação de Análise de Tarefas | Carlos | |
+|  1.2   | 06/06 | Planejamento da Avaliação do Storyboard | Ana Beatriz | |
 
 
 ## Referências
