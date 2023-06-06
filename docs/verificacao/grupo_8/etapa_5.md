@@ -43,6 +43,28 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <figcaption align="center">Tabela 2 - Verificação do artefato do planejamento da avaliação do protótipo de papel - Fonte: Breno Yuri</figcaption>
 
+
+## 3. Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
+
+| ID | Descrição  | Avaliação |
+|:--:|:----------:|:---------:|
+| 1 | O artefato possui introdução? | Sim |
+| 2 | O plajemanto apresenta o escopo do relatório da avaliação? | Sim |
+| 3 | O escopo do relatório planejado apresenta os objetivos da avaliação?| Sim |
+| 4 | O escopo do relatório planejado apresenta a metodologia da avaliação? | Sim, porém é planejado usar um framework de planejamento (DECIDE) em uma apresentação da metodologia de avaliação. |
+| 5 | O escopo do relatório plajenado apresenta os participantes? | Sim |
+| 5 | O escopo do relatório plajenado apresenta a análise dos dados coletados e resultados? | Sim, além é plajenado apresentar recomendações de melhorias do protótipos a partir da resultados. |
+| 5 | O escopo do relatório plajenado apresenta os problemas encontrados? | Não |
+| 6 | O escopo do relatório plajenado apresenta sugestões de melhoria no processo de avaliação? | Não |
+| 7 | O artefato apresenta uma bibliografia/referência padronizada | Sim |
+| 8 | O artefato apresenta o histórico de versão padronizado? | Sim |
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
