@@ -62,7 +62,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 1 | O artefato possui introdução? | Sim |
 | 2 | O plajemanto apresenta o escopo do relatório da avaliação? | Sim |
 | 3 | O escopo do relatório planejado apresenta os objetivos da avaliação?| Sim |
-| 4 | O escopo do relatório planejado apresenta a metodologia da avaliação? | Sim, porém considera como apresentação da metodologia a descrição das atividades realizadas. |
+| 4 | O escopo do relatório planejado apresenta a metodologia da avaliação? | Sim |
 | 5 | O escopo do relatório plajenado apresenta os participantes? | Sim |
 | 5 | O escopo do relatório plajenado apresenta a análise dos dados coletados? | Sim |
 | 5 | O escopo do relatório plajenado apresenta os problemas encontrados? | Não |
