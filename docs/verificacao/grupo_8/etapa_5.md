@@ -61,9 +61,21 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 7 | O artefato apresenta uma bibliografia/referência padronizada | Sim |
 | 8 | O artefato apresenta o histórico de versão padronizado? | Sim |
 
-
-
 <font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
+
+## 4. Relato dos resultados da Análise de tarefas
+
+| ID | Descrição  | Avaliação |
+|:--:|:----------:|:---------:|
+| 1 | O artefato possui introdução? | O artefato apresenta uma introdução especificando como foi realizdo avaliação por entrevistas |
+| 2 | O artefato possui objetivos? | O artefato apresenta objetivos |
+| 3 | O artefato apresenta a metodologia usada? | O grupo optou por utilizar entrevistas |
+| 4 | O artefato apresenta os avaliadores e participantes especificados? | O artefato apresenta os avaliadores e os participantes |
+| 5 | O artefato apresenta os dados obtidos? | O artefato apresenta as perguntas e respostas transcritas a partir da entrevista |
+| 6 | O artefato apresenta bibliografia? | Sim |
+| 7 | O artefato apresenta o histórico de versão padronizado? | Sim |
+
+<figcaption align="center">Tabela 4 - Verificação do artefato do relato de resultados da análise de tarefas - Fonte: Vitor Borges</figcaption>
 
 ## Histórico de Versão
 
@@ -74,6 +86,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 |  1.2   | 05/06 | Introdução, Objetivo e Metodologia | Carlos |  
 |  1.3   | 05/06 | Verificação do artefato do planejamento de avaliação do protótipo de papel | Breno Yuri |  Ana Beatriz |
 |  1.4   | 05/06 | Verificação do Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas | Carlos |  Pedro |
+|  1.5   | 05/06 | Verificação do artefato do relato de resultados da análise de tarefas | Vitor | Pedro |
 
 
 ## Referências
