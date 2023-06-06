@@ -36,9 +36,29 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 <font size="3"><p style="text-align: center">Fonte: [Ana Beatriz](https://github.com/anabfs).</p></font>
 
 
-## 2. Planejamento da Avaliação da Análise de Tarefas
+## 2. Planejamento Do Relato dos Resultados da Avaliação da Storyboard
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Avaliação da Análise de Tarefas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Relato dos Resultados da Avaliação de Storyboard</p></font>
+
+| ID | Descrição  | Avaliação |
+|:--:|:----------:|:---------:|
+| 1 | O artefato possui introdução? | Sim, de forma clara. |
+| 2 | O plajemanto apresenta o escopo do relatório da avaliação? | Sim, estes estão descritos no artefato. |
+| 3 | O artefato apresenta os seus objetivos?| Não, apenas os objetivos do relato de resultados. |
+| 4 | O escopo do relatório planejado apresenta os objetivos da avaliação?| Não, apenas faz referência ao objetivo definido no planejamento da avaliação, sem maiores especificações. |
+| 5 | O escopo do relatório planejado apresenta a metodologia da avaliação? | Não, também faz referência à metodologia definida no planejamento. |
+| 6 | O escopo do relatório plajenado apresenta os participantes? | Sim, faz menção ao número de participantes presentes na avaliação.|
+| 7 | O escopo do relatório plajenado apresenta a análise dos dados coletados? | Sim, cita que os dados obtidos devem ser tratados após a coleta.|
+| 8 | O escopo do relatório plajenado apresenta os problemas encontrados? | Sim |
+| 9 | O escopo do relatório plajenado apresenta sugestões de melhoria? | Sim |
+| 10 | O artefato apresenta uma bibliografia/referência padronizada | Sim |
+| 11 | O artefato apresenta o histórico de versão padronizado? | Sim |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro](https://github.com/PedroSiq).</p></font>
+
+## 3. Planejamento da Avaliação da Análise de Tarefas
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Avaliação da Análise de Tarefas</p></font>
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -53,9 +73,9 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
 
-## 3. Planejamento Do Relato dos Resultados da Avaliação da Análise de Tarefas
+## 4. Planejamento Do Relato dos Resultados da Avaliação da Análise de Tarefas
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -82,6 +102,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 |  1.1   | 05/06 | Planejamento da Avaliação de Análise de Tarefas | Carlos | Pedro |
 |  1.2   | 05/06 | Planejamento da Avaliação do Storyboard | Ana Beatriz | |
 |  1.3   | 05/06 | Relato dos Resultados da Avaliação de Análise de Tarefas | Carlos | Pedro |
+|  1.4   | 05/06 | Relato dos Resultados da Avaliação de Storyboard | Pedro Siqueira | Pedro |
 
 
 ## Referências
