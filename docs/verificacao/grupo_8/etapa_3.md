@@ -13,7 +13,20 @@ Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo 
 ## Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-## . Princípios Gerais
+## 1. Características da plataforma do projeto
+
+| ID | Descrição  | Avaliação |
+|:--:|:----------:|:---------:|
+| 1 | O artefato possui introdução? | O relatório dos resultados possui uma breve introdução explicando a importância do artefato no projeto. |
+| 2 | O artefato apresenta os objetivos da avaliação? | O artefato possui uma seção descrevendo os objetivos visados com a avaliação. |
+| 3 | O artefato apresenta a metodologia utilizada? | O artefato possui uma seção descrevendo os objetivos visados com a avaliação. |
+| 4 | O artefato possui características da plataforma para o projeto| Sim, o artefato características da plataforma para o projeto|
+| 5 | O artefato possui as limitações da plataforma | O artefato apresenta as limitações|
+| 6 | O artefato possui as possibilidades da plataforma| O artefato contem as possibilidades|
+
+<figcaption align="center">Tabela 1: Avaliação das características da plataforma do projeto - Fonte: Ana Beatriz</figcaption>
+
+## 2. Princípios Gerais
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -30,11 +43,13 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 11| Projeto para erros|O artefato possui projeto para os erros|
 |12 |Foram identificados quais os Princípios Gerais do Projeto que serão utilizados no projeto|O artefato não especifica quais Princípios Gerais do Projeto que serão utilizados no projeto|
 
+<figcaption align="center">Tabela 2: Avaliação dos princípios gerais - Fonte: Ana Beatriz</figcaption>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 05/06 | Introdução, Objetivo e Metodologia | Carlos | |
-|  1.1   | 06/06 | Princípios gerais | Ana Beatriz | |
+|  1.1   | 06/06 | Caracteristica da Plataforma e Princípios gerais | Ana Beatriz | |
 
 ## Referências
