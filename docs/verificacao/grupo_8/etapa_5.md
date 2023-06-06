@@ -73,5 +73,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 |  1.1   | 05/06 | Adicionando verificação utilizando tabela | Vitor | Ana Beatriz 
 |  1.2   | 05/06 | Introdução, Objetivo e Metodologia | Carlos |  
 |  1.3   | 05/06 | Verificação do artefato do planejamento de avaliação do protótipo de papel | Breno Yuri |  Ana Beatriz |
+|  1.4   | 05/06 | Verificação do Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas | Carlos |  Pedro |
+
 
 ## Referências
