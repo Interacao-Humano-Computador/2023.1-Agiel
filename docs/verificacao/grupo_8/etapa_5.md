@@ -27,7 +27,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 8 | O artefato apresenta uma bibliografia/referência padronizada | O artefato possui uma bibliografia padronizada |
 | 9 | O artefato apresenta o histórico de versão padronizado? | O artefato possui o histórico de versão padronizado |
 
-<figcaption align="center">Tabela 1 - Verificação do artefato relatório dos resultados dos storyboards.</figcaption>
+<figcaption align="center">Tabela 1 - Verificação do artefato relatório dos resultados dos storyboards - Fonte: Vitor Borges</figcaption>
 
 ## Histórico de Versão
 
@@ -35,6 +35,6 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 05/06 | Verificação do artefato de relato de resultados do storyboard | Vitor | Ana Beatriz |
 |  1.1   | 05/06 | Adicionando verificação utilizando tabela | Vitor | Ana Beatriz 
-|  1.1   | 05/06 | Introdução, Objetivo e Metodologia | Carlos |  
+|  1.2   | 05/06 | Introdução, Objetivo e Metodologia | Carlos |  
 
 ## Referências
