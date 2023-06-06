@@ -46,14 +46,14 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 2 | O artefato apresenta os objetivos do planejamento? | Sim, no entanto apresenta como objetivo da etapa 04 já realizar a avalição de análise de tarefas |
 | 3 | O planejemanto usa do framework DECIDE? | Sim, no entanto na fase "Determine" o artefato apenas apresenta os objetivos da avaliação e não determina as metas claramente. |
 | 4 | O planejemanto determina a plataforma e ferramentas que serão usada na avaliação? | Sim |
-| 5 | O artefato apresenta o número de avaliadore, de participantes e seus respectivos perfis | Sim, porém não apresenta quem foi avaliado, nem os seus perfis.|
+| 5 | O artefato apresenta o número de avaliadores, de participantes e seus respectivos perfis | Sim, porém não apresenta quem foi avaliado, nem os seus perfis.|
 | 6 | O artefato apresenta as perguntas que serão utilizadas na avaliação? | Sim |
 | 7 | O artefato apresenta uma bibliografia/referência padronizada | Sim |
 | 8 | O artefato apresenta o histórico de versão padronizado? | Sim |
 
 <font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
 
-## 3. Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas
+## 3. Planejamento Do Relato dos Resultados da Avaliação da Análise de Tarefas
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
 
@@ -62,7 +62,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 1 | O artefato possui introdução? | Sim |
 | 2 | O plajemanto apresenta o escopo do relatório da avaliação? | Sim |
 | 3 | O escopo do relatório planejado apresenta os objetivos da avaliação?| Sim |
-| 4 | O escopo do relatório planejado apresenta a metodologia da avaliação? | Sim, porém considera como apresentação da metodologia a descrição das atividades realizadas. |
+| 4 | O escopo do relatório planejado apresenta a metodologia da avaliação? | Sim |
 | 5 | O escopo do relatório plajenado apresenta os participantes? | Sim |
 | 5 | O escopo do relatório plajenado apresenta a análise dos dados coletados? | Sim |
 | 5 | O escopo do relatório plajenado apresenta os problemas encontrados? | Não |
