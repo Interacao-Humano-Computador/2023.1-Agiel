@@ -82,6 +82,29 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
+<figcaption align="center">Tabela 6 - Cronograma da equipe para a etapa 6.1.</figcaption>
+
+|                                        Tarefa                                        |     Autor      | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
+|:------------------------------------------------------------------------------------:|:--------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
+|                           Verificação do perfil do usuário                           | Bruno Henrique |  05/06  |  Lucas Lopes   |  05/06  |        04/06         |       05/06       |
+|                           Verificação dos aspectos éticos                            |   Breno Yuri   |  05/06  |    Philipe     |  05/06  |        04/06         |       05/06       |
+|                               Verificação de personas                                | Bruno Henrique |  05/06  |   Breno Yuri   |  05/06  |        04/06         |       05/06       |
+|                     Verificação dos princípios gerais de projeto                     |  Ana Beatriz   |  05/06  |    Vitor B     |  05/06  |        04/06         |       05/06       |
+|                         Verificação das metas de usabilidade                         | Pedro Siqueira |  05/06  | Carlos Daniel  |  05/06  |        03/06         |       05/06       |
+|                            Verificação do guia de estilo                             | Bruno Henrique |  05/06  |   Breno Yuri   |  05/06  |        03/06         |       05/06       |
+|                    Verificação das características da plataforma                     |  Ana Beatriz   |  05/06  | Bruno Henrique |  05/06  |        03/06         |       05/06       |
+|                Verificação do planejamento da avaliação do Storyboard                |  Ana Beatriz   |  05/06  | Bruno Henrique |  05/06  |        04/06         |       05/06       |
+|          Verificação do planejamento do relato dos resultado do Storyboard           | Pedro Siqueira |  05/06  | Carlos Daniel  |  05/06  |        04/06         |       05/06       |
+|            Verificação do planejamento da avaliação da análise de tarefas            | Carlos Daniel  |  05/06  | Pedro Siqueira |  05/06  |        04/06         |       05/06       |
+|      Verificação do planejamento do relato dos resultado da análise de tarefas       | Carlos Daniel  |  05/06  | Pedro Siqueira |  05/06  |        03/06         |       05/06       |
+|                 Verificação dos relatos dos resultados do Storyboard                 |    Vitor B     |  05/06  |  Ana Beatriz   |  05/06  |        03/06         |       05/06       |
+|                          Verificação da análise de tarefas                           | Vitor B |  05/06  |    Pedro Siqueira     |  05/06  |        03/06         |       05/06       |
+|            Verificação do planejamento da avaliação do protótipo de papel            |   Breno Yuri   |  05/06  |  Ana Beatriz   |  05/06  |        04/06         |       05/06       |
+|      Verificação do planejamento do relato dos resultados do protótipo de papel      | Carlos Daniel  |  05/06  | Pedro Siqueira |  05/06  |        04/06         |       05/06       |
+|        Gravação                                                                      |  Todos         |  05/06  | Todos          |  05/06  |        04/06         |       05/06       |
+
+<figcaption align="center">Fonte: Vitor Borges</figcaption>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
@@ -91,6 +114,7 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | 3.0   | 15/05 | Adição do cronograma realizado da Etapa 03 | Vitor | Todos |
 | 4.0   | 22/05 | Adição do cronograma realizado da Etapa 04 | Vitor | Todos |
 | 5.0 | 29/05 | Adição do cronograma realizado da Etapa 05 | Vitor | Todos |
+| 6.0 | 05/06 | Adição do cronograma realizado da Etapa 06 | Vitor | Todos |
 
 ## Referências
 
