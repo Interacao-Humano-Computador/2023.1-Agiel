@@ -79,9 +79,9 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 05/06 | Introdução, Objetivo e Metodologia | Carlos | |
-|  1.1   | 05/06 | Planejamento da Avaliação de Análise de Tarefas | Carlos | |
+|  1.1   | 05/06 | Planejamento da Avaliação de Análise de Tarefas | Carlos | Pedro |
 |  1.2   | 05/06 | Planejamento da Avaliação do Storyboard | Ana Beatriz | |
-|  1.3   | 05/06 | Relato dos Resultados da Avaliação de Análise de Tarefas | Carlos | |
+|  1.3   | 05/06 | Relato dos Resultados da Avaliação de Análise de Tarefas | Carlos | Pedro |
 
 
 ## Referências
