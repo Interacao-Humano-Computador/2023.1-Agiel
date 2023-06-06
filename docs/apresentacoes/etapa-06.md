@@ -14,11 +14,14 @@ A apresentação da etapa 6.1 tem o intuito de mostrar o que foi desenvolvido at
 
 ## Video da apresentação
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSoKhyvFGm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 05/06 | Adição de modelo de aba para etapa 06 | Vitor Borges | Todos|
+|  1.0   | 05/06 | Adição de modelo de aba para etapa 06 | Vitor Borges | Todos |
+|  1.1   | 05/06 | Adição do vídeo de apresentação | Vitor Borges | Todos |
 
 ## Referências
 > Verificação dos artefatos Grupo 08 - Etapa 01 <https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/verificacao/grupo_8/etapa_1.md>
