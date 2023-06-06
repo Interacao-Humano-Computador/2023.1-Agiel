@@ -36,7 +36,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 <font size="3"><p style="text-align: center">Fonte: [Ana Beatriz](https://github.com/anabfs).</p></font>
 
 
-## Planejamento da Avaliação da Análise de Tarefas
+## 2. Planejamento da Avaliação da Análise de Tarefas
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Avaliação da Análise de Tarefas</p></font>
 
