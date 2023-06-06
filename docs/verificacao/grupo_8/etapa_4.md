@@ -13,9 +13,10 @@ Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo 
 ## Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Avaliação do Storyboard</p></font>
 
 ## 1. Planejamento da Avaliação do Storyboard
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Avaliação do Storyboard</p></font>
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
