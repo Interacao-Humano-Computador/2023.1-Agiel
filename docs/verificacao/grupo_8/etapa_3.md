@@ -13,7 +13,7 @@ Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo 
 ## Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-## 1. Características da plataforma do projeto
+## 1. Características da plataforma do projeto (Versão 0.1)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -26,7 +26,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <figcaption align="center">Tabela 1: Avaliação das características da plataforma do projeto - Fonte: Ana Beatriz</figcaption>
 
-## 2. Princípios Gerais
+## 2. Princípios Gerais (Versão 0.4)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -45,7 +45,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <figcaption align="center">Tabela 2: Avaliação dos princípios gerais - Fonte: Ana Beatriz</figcaption>
 
-## 3. Metas de usabilidade
+## 3. Metas de usabilidade (Versão 0.1)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
