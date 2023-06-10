@@ -88,5 +88,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 |  1.4   | 05/06 | Verificação do Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas | Carlos |  Pedro |
 |  1.5   | 05/06 | Verificação do artefato do relato de resultados da análise de tarefas | Vitor | Pedro |
 
-
 ## Referências
+```
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+```

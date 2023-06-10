@@ -84,3 +84,6 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 |  1.3   | 05/06 | Análise das Tarefas                | Vitor Borges | Pedro     |
 
 ## Referências
+```
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+```

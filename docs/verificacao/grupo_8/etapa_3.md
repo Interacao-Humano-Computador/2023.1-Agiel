@@ -67,5 +67,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 |  1.1   | 05/06 | Caracteristica da Plataforma e Princípios gerais | Ana Beatriz | |
 |  1.2   | 05/06 | Metas de usabilidade | Pedro Siqueira | |
 
-
 ## Referências
+```
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+```
