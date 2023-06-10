@@ -13,7 +13,7 @@ Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo 
 ## Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-## 1. Relatório dos resultados dos storyboards
+## 1. Relatório dos resultados dos storyboards (Versão 0.6)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -29,7 +29,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <figcaption align="center">Tabela 1 - Verificação do artefato relatório dos resultados dos storyboards - Fonte: Vitor Borges</figcaption>
 
-## 2. Relatório do planejamento da avaliação do protótipo de papel
+## 2. Relatório do planejamento da avaliação do protótipo de papel (Versão 0.2)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -44,7 +44,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 <figcaption align="center">Tabela 2 - Verificação do artefato do planejamento da avaliação do protótipo de papel - Fonte: Breno Yuri</figcaption>
 
 
-## 3. Planejamento Do Relato dos Resultados da Avaliação do Protótipo de Papel
+## 3. Planejamento Do Relato dos Resultados da Avaliação do Protótipo de Papel (Versão 0.1)
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
 
@@ -63,7 +63,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
 
-## 4. Relato dos resultados da Análise de tarefas
+## 4. Relato dos resultados da Análise de tarefas (Versão 0.2)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
