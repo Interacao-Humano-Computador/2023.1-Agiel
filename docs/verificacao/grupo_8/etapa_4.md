@@ -14,7 +14,7 @@ Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo 
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
 
-## 1. Planejamento da Avaliação do Storyboard
+## 1. Planejamento da Avaliação do Storyboard (Versão 0.2)
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Avaliação do Storyboard</p></font>
 
@@ -36,7 +36,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 <font size="3"><p style="text-align: center">Fonte: [Ana Beatriz](https://github.com/anabfs).</p></font>
 
 
-## 2. Planejamento Do Relato dos Resultados da Avaliação da Storyboard
+## 2. Planejamento Do Relato dos Resultados da Avaliação da Storyboard (Versão 0.4)
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Relato dos Resultados da Avaliação de Storyboard</p></font>
 
@@ -56,7 +56,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro](https://github.com/PedroSiq).</p></font>
 
-## 3. Planejamento da Avaliação da Análise de Tarefas
+## 3. Planejamento da Avaliação da Análise de Tarefas (Versão 0.3)
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Avaliação da Análise de Tarefas</p></font>
 
@@ -73,7 +73,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
 
-## 4. Planejamento Do Relato dos Resultados da Avaliação da Análise de Tarefas
+## 4. Planejamento Do Relato dos Resultados da Avaliação da Análise de Tarefas (Versão 0.1)
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
 
