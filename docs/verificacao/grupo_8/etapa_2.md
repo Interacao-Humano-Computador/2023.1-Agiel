@@ -13,7 +13,7 @@ Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo 
 ## Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-## 1. Perfil do usuário
+## 1. Perfil do usuário (Versão 0.4)
 
 | ID |                                                                                                                           Descrição                                                                                                                            |        Avaliação         |
 |:--:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|
@@ -28,7 +28,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <figcaption align="center">Tabela 1: Checklist artefato perfil do usuario. - Fonte: Bruno Henrique </figcaption>
 
-## 2. Aspectos Éticos
+## 2. Aspectos Éticos (Versão 0.3)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -40,7 +40,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <figcaption align="center">Tabela 2: Avaliação das características da plataforma do projeto - Fonte: Breno Yuri</figcaption>
 
-## 3. Personas 
+## 3. Personas (Versão 0.2)
 
 | ID |                                                     Descrição                                                     |   Avaliação   |
 |:--:|:-----------------------------------------------------------------------------------------------------------------:|:-------------:|
@@ -62,7 +62,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 <figcaption align="center">Tabela 3: Checklist artefato personas. - Fonte: Bruno Henrique </figcaption>
 
-## 4. Análise de tarefas
+## 4. Análise de tarefas (Versão 0.4)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
