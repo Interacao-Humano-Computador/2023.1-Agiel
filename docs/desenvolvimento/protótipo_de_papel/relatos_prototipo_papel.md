@@ -1,4 +1,4 @@
-# Relato de Resultados da Avaliação do Prototipo de Papel
+# Relato de Resultados da Avaliação do Protótipo de Papel
 
 ## Introdução
 
