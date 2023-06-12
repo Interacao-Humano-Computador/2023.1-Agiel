@@ -22,6 +22,12 @@ Na figura 2 temos o protótipo de papel da tarefa de obter dicas sobre gestão d
 
 <figcaption align="center">Imagem 2 - Protótipo de Papel - Tarefa: obter dicas sobre gestão de carreira. Fonte: Vitor Borges</figcaption>
 
+Na figura 3 temos o protótipo de papel da tarefa de cadastrar uma instituição de ensino
+
+![alt text](./img/PrototipoPapelBreno.gif)
+
+<figcaption align="center">Imagem 3 - Protótipo de Papel - Tarefa: Cadastrar uma instituição de ensino. Fonte: Breno Yuri</figcaption>
+
 ### Sumário dos dados
 
 #### Gravação do áudio da entrevista
