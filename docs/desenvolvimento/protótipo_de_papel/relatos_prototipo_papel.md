@@ -1,4 +1,4 @@
-# Relato de Resultados da Avaliação do Storyboard
+# Relato de Resultados da Avaliação do Prototipo de Papel
 
 ## Introdução
 
@@ -15,6 +15,12 @@ Na figura 1 temos o protótipo de papel da tarefa de se candidatar para uma vaga
 ![alt text](./img/PrototipoDePapelAna.gif)
 
 <figcaption align="center">Imagem 1 - Protótipo de Papel - Tarefa: candidatar para uma vaga de estágio. Fonte: Ana Beatriz</figcaption>
+
+Na figura 2 temos o protótipo de papel da tarefa de obter dicas sobre gestão de carreira.
+
+![alt text](./img/PrototipodePapelVitor.gif)
+
+<figcaption align="center">Imagem 2 - Protótipo de Papel - Tarefa: obter dicas sobre gestão de carreira. Fonte: Vitor Borges</figcaption>
 
 ### Sumário dos dados
 
