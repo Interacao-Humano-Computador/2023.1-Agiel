@@ -19,6 +19,26 @@ O relato incluirá a descrição da metodologia utilizada na atividade de Avalia
 No documento, será abordada a apresentação do avaliador responsável pela atividade de Avaliação do Protótipo de Alta Fidelidade, juntamente com os demais participantes envolvidos. Além disso, é importante mencionar que o Termo de Consentimento deve ser apresentado ao participante entrevistado durante a avaliação. O Termo de Consentimento informa os detalhes do estudo, incluindo o propósito, os procedimentos, os direitos do participante e a garantia de confidencialidade dos dados coletados.
 
 ### 2.4 Problemas encontrados
+Nesta sessão esperamos que o avaliador após a realização da avaliação apresente os seguintes pontos:
+* Identifique e descrever os problemas encontrados:
+<p>
+Descrever cada problema de forma clara e concisa, destacando os principais aspectos relevantes, como ações do usuário, expectativas não atendidas, confusões ou dificuldades enfrentadas.
+</p> 
+
+* Forneça detalhes sobre cada problema:
+<p>
+Descrever o contexto em que o problema ocorreu (página, fluxo de interação, etapa do processo).
+</p> 
+
+* Explicar as consequências ou impactos do problema para o usuário:
+<p>
+O usuário após a avaliação pode expressar frustração, dificuldade em concluir a tarefa e falta de confiança na interface.
+</p> 
+
+* Classifique a gravidade dos problemas:
+<p>
+Avaliar o problema com base na sua importância e impacto para a experiência do usuário.
+</p>
 
 ### 2.5 Sugestões de melhoria
 
