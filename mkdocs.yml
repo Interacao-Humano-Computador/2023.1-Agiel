@@ -63,6 +63,7 @@ nav:
         - Relato de resultados: desenvolvimento/protótipo_de_papel/relatos_prototipo_papel.md
     - Nível 3:
       - Protótipo de alta fidelidade:
+        - Planejamento da avaliação: desenvolvimento/prototipo_alta_fidelidade/planejamento_alta_fidelidade
         - Planejamento do relato de resultados: desenvolvimento/prototipo_alta_fidelidade/planejamento_relato.md
   - Atas de reunião:
     - Reunião 00: atas/reuniao-00.md
