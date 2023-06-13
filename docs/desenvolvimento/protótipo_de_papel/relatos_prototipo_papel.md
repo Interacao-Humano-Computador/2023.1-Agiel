@@ -4,18 +4,23 @@
 O relato de resultados da avaliação dos protótipos de papel é um artefato que tem como objetivo documentar os resultados obtidos por meio da avaliação feita mediante entrevista e identificar se os artefatos entregues são condizentes com o contexto do usuário e se há necessidade de melhoria. Antes da entrevista, foram checados os materiais técnicos produzidos e a verificação de qualidade da plataforma audiovisual utilizada também foi feita.
 
 ### Objetivos da Avaliação
-A avaliação dos protótipos desenvolvidos tem como objetivos:
+A avaliação dos [protótipos desenvolvidos](planejamento_da_avaliação_do_protótipo_de_papel.md#4.-Protótipos-de-Papel-realizados) tem como objetivos:
 
  - Identificar possíveis problemas de usabilidade nos protótipos do site Agiel.
  - Propor melhorias para aprimorar a experiência do usuário.
    
 ### Metodologia
-As avaliações foram realizadas por meio de entrevistas agendadas previamente e realizadas com devido consentimento do entrevistado. As entrevistas foram realizadas de acordo com o planejamento. Nessas os protótipos produzidos foram apresentados e, após isso, uma série de perguntas pré-estabelecidas foram feitas.
+As avaliações foram realizadas por meio de entrevistas agendadas previamente e realizadas com devido consentimento do entrevistado. As entrevistas foram realizadas de acordo com o [planejamento](planejamento_da_avaliação_do_protótipo_de_papel.md). Nessas os protótipos produzidos foram apresentados e, após isso, uma série de perguntas pré-estabelecidas foram feitas.
 
 ### Avaliadores e Participantes
 Os avaliadores, respectivamente, em ordem de execução de entrevista, foram os estudantes Ana Beatriz e Breno Yuri, e os participantes foram Gustavo Henrique e Lívia Rodrigues.
 
 ### Sumário dos dados
+
+#### Teste Piloto
+Um teste piloto de uma entrevista é uma prática comum realizada antes de conduzir a entrevista em escala total. O objetivo principal é identificar possíveis problemas, ajustar e aprimorar o processo da entrevista antes de realizar a versão final.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CRGQAF-LNmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Gravação do áudio da entrevista
 
@@ -30,7 +35,7 @@ Os avaliadores, respectivamente, em ordem de execução de entrevista, foram os 
 #### Respostas 
 
 #### Entrevista 1
-O usúario Gustavo relatou na entrevista que achou facil o entendimento da tarefa do protótipo de papel, ele não apresentou nenhuma dificuldade ao realizar a tarefa. Em relação ao layout, ele mostrou uma satisfação do desing apresentado dando enfase no espaçamento dizendo "não ficou uma coisa em ciima da outra" o que para ele deixou "mais fácil de ler". Ele não identificou nenhum problema de interface.
+O usúario Gustavo relatou na entrevista que achou facil o entendimento da tarefa do protótipo de papel, ele não apresentou nenhuma dificuldade ao realizar a tarefa. Em relação ao layout, ele mostrou uma satisfação do desing apresentado dando enfase no espaçamento dizendo "não ficou uma coisa em cima da outra" o que para ele deixou "mais fácil de ler". Ele não identificou nenhum problema de interface.
 
 #### Entrevista 2
 A usúaria Lívia relatou que achou o prototipo fácil de entender e de utilizar. Ela achou o prototipo bem intuitivo e direto sendo assim mais difícil um usúario comum cometer um erro ou ficar em duvida sobre a tarefa que deve ser realizada. A Lívia não acha necessaria nenhuma melhoria ou mudança no protótipo, ela acredita que já está muito bom e já pode ser utilizado.
