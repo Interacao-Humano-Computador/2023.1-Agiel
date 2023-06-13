@@ -41,6 +41,8 @@ Avaliar o problema com base na sua importância e impacto para a experiência do
 </p>
 
 ### 2.5 Sugestões de melhoria
+Levando em consideração os problemas encontrados na sessão anterior o avaliador deve a partir dos feedbacks dos usuários e de outras referências sugerir correções ou melhorias para resolver os problemas encontrados.
+
 
 ### 2.6 Gravação ou Dados coletados
 
