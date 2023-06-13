@@ -12,12 +12,15 @@ A apresentação da etapa 7 tem o intuito de mostrar o que foi desenvolvido até
 
 ## Video da apresentação
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Yolk2PQ_o4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 10/06 | Adição de modelo de aba para etapa 07 | Vitor Borges | Todos |
-| 1.1 | 12/06 | Adicionando referências para as abas | Vitor Borges | Todos |
+| 1.1 | 12/06 | Adicionado referências para as abas | Vitor Borges | Todos |
+| 1.2 | 12/06 | Adicionado video de apresentação | Vitor Borges | Todos |
 
 ## Referências
 >Relato dos resultados do Protótipo de Papel <https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/desenvolvimento/prot%C3%B3tipo_de_papel/relatos_prototipo_papel.md>
