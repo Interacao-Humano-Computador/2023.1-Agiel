@@ -105,6 +105,19 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
+### Etapa 7 - Relato dos resultados do Protótipo de Papel
+
+<figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 7.</figcaption>
+
+|                                       Tarefa                                       |             Autor             | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
+|:----------------------------------------------------------------------------------:|:-----------------------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
+|                    Relato dos resultados do Protótipo de Papel                     |  Bruno Henrique, Ana Beatriz  |  12/06  |   Breno Yuri   |  12/06  |        10/06         |       12/06       |
+|             Planejamento da Avaliação do protótipo de alta fidelidade              | Carlos Daniel, Pedro Siqueira |  12/06  |    Vitor B     |  12/06  |        11/06         |       12/06       |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |      Vitor B, Breno Yuri      |  12/06  | Bruno Henrique |  12/06  |        11/06         |       12/06       |
+|        Gravação                                                                    |  Todos                        |  12/06  | Todos          |  12/06  |        11/06         |       12/06       |
+
+<figcaption align="center">Fonte: Vitor Borges</figcaption>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
@@ -115,6 +128,7 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | 4.0   | 22/05 | Adição do cronograma realizado da Etapa 04 | Vitor | Todos |
 | 5.0 | 29/05 | Adição do cronograma realizado da Etapa 05 | Vitor | Todos |
 | 6.0 | 05/06 | Adição do cronograma realizado da Etapa 06 | Vitor | Todos |
+| 7.0 | 12/06 | Adição do cronograma realizado da Etapa 07 | Vitor | Todos |
 
 ## Referências
 
