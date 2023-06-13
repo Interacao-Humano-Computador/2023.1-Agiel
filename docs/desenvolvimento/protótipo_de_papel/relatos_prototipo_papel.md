@@ -1,12 +1,19 @@
 # Relato de Resultados da Avaliação do Protótipo de Papel
 
 ## Introdução
+O relato de resultados da avaliação dos protótipos de papel é um artefato que tem como objetivo documentar os resultados obtidos por meio da avaliação feita mediante entrevista e identificar se os artefatos entregues são condizentes com o contexto do usuário e se há necessidade de melhoria. Antes da entrevista, foram checados os materiais técnicos produzidos e a verificação de qualidade da plataforma audiovisual utilizada também foi feita.
 
 ### Objetivos da Avaliação
+A avaliação dos protótipos desenvolvidos tem como objetivos:
 
+ - Identificar possíveis problemas de usabilidade nos protótipos do site Agiel.
+ - Propor melhorias para aprimorar a experiência do usuário.
+   
 ### Metodologia
+As avaliações foram realizadas por meio de entrevistas agendadas previamente e realizadas com devido consentimento do entrevistado. As entrevistas foram realizadas de acordo com o planejamento. Nessas os protótipos produzidos foram apresentados e, após isso, uma série de perguntas pré-estabelecidas foram feitas.
 
 ### Avaliadores e Participantes
+Os avaliadores, respectivamente, em ordem de execução de entrevista, foram os estudantes Ana Beatriz e Breno Yuri, e os participantes foram Gustavo Henrique e Lívia Rodrigues.
 
 ### Sumário dos dados
 
@@ -37,7 +44,9 @@ Durante a avaliação não foram encontrados problemas com os protótipos de pap
 
 ## Histórico de Versão
 
-| Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| 1.0  | 11/06/2023 | Criação do documento | Ana Beatriz  |  Pedro Siqueira |
-| 1.1  | 11/06/2023 | Adição das entrevistas e dos relatos | Ana Beatriz  |  Bruno |
+| Versão | Data       | Descrição                                                        | Autor(es)      | Revisor(es)    |
+|--------|------------|------------------------------------------------------------------|----------------|----------------|
+| 1.0    | 11/06/2023 | Criação do documento                                             | Ana Beatriz    | Pedro Siqueira |
+| 1.1    | 11/06/2023 | Adição das entrevistas e dos relatos                             | Ana Beatriz    | Bruno          |
+| 1.2    | 11/06/2023 | Introdução, Objetivos, Metodologia e Avaliadores e Participantes | Bruno Henrique | Ana Beatriz    |
+
