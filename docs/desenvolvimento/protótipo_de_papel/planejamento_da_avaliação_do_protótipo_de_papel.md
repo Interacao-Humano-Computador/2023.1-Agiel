@@ -92,10 +92,30 @@ Dessa forma, gostaríamos que você pronunciasse em alto e bom som:
 ### 3.6 E - Avaliar (Evaluate), interpretar e apresentar os dados:
 Após coletar os dados, faremos uma análise cuidadosa para identificar padrões, tendências e insights relevantes que nos ajudarão a aprimorar o protótipo de papel. Os resultados serão interpretados e apresentados de forma clara e concisa, destacando os principais pontos para facilitar a compreensão. Essa etapa nos permitirá tomar decisões informadas e melhorar o projeto com base nos dados obtidos.
 
-## 4. Bibliografia
+## 4. Protótipos de Papel realizados
+
+Na figura 1 temos o protótipo de papel da tarefa de se candidatar para uma vaga de estágio.
+
+![alt text](./img/PrototipoDePapelAna.gif)
+
+<figcaption align="center">Imagem 1 - Protótipo de Papel - Tarefa: candidatar para uma vaga de estágio. Fonte: Ana Beatriz</figcaption>
+
+Na figura 2 temos o protótipo de papel da tarefa de obter dicas sobre gestão de carreira.
+
+![alt text](./img/PrototipodePapelVitor.gif)
+
+<figcaption align="center">Imagem 2 - Protótipo de Papel - Tarefa: obter dicas sobre gestão de carreira. Fonte: Vitor Borges</figcaption>
+
+Na figura 3 temos o protótipo de papel da tarefa de cadastrar uma instituição de ensino
+
+![alt text](./img/PrototipoPapelBreno.gif)
+
+<figcaption align="center">Imagem 3 - Protótipo de Papel - Tarefa: Cadastrar uma instituição de ensino. Fonte: Breno Yuri</figcaption>
+
+## 5. Bibliografia
 > Barbosa, S. D. J., Silva, B. S. da, Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2023). Interação Humano-Computador e Experiência do Usuário.*
 
-## 5. Histórico de Versão
+## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 29/05/23 | Criação do documento e adição do conteúdo | Breno Yuri | Pedro Siqueira |
