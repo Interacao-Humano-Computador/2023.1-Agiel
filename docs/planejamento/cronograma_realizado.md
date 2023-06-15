@@ -82,6 +82,8 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
+### Etapa 6.1 - Planejamento da Avaliação do Storyboard
+
 <figcaption align="center">Tabela 6 - Cronograma da equipe para a etapa 6.1.</figcaption>
 
 |                                        Tarefa                                        |     Autor      | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
