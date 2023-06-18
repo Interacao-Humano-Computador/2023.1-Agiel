@@ -25,7 +25,7 @@ A verificação é da versão 1.0 e foi realizada no dia 18/06 pela integrante A
 | 01 | O artefato possui introdução.  | Sim | |
 | 02 | O artefato possui histórico de versionamento completo (datas, descrição, autores, versão).  | Sim | |
 | 03 |  O artefato apresenta as referências utilizadas na sua produção.  | Sim | |
-| 04 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto | A tabela de Histórico de versões não possui. |
+| 04 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto | A tabela de Histórico de versões não possui legenda e fonte. |
 | 05 | O artefato define claramente os objetivos do projeto, incluindo as metas de design e as necessidades dos usuários.| Sim | |
 | 06 | O artefato descreve o contexto de uso do sistema, incluindo as características dos usuários, as tarefas que serão realizadas e o ambiente em que o sistema será utilizado. | Sim | |
 | 07 | O artefato identifica e documentar os requisitos do usuário, considerando suas necessidades, preferências e restrições.| Sim | |
