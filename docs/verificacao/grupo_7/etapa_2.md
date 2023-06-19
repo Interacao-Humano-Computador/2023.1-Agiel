@@ -75,15 +75,35 @@ A verificação é da versão 1.0 e foi realizada no dia 18/06 pelo integrante V
 <h6 align = "center"> Tabela 3: Checklist para Verificação
 <br> Autor(es): Vitor Borges
 <br>Fonte: Autor(es)</h6>
+
+#### Análise de Tarefas
+
+A tabela 4 apresenta o checklist de verificação do artefato de <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/analise_tarefas/">Análise de Tarefas</a>. Esse checklist foi criado com base no livro [Interação Humano-Computador](#referências).
+A verificação é da versão 2.1 e foi realizada no dia 18/06 pelo integrante Vitor Borges.
+
+| ID |Questão| Resultado da Verificação | Observação |
+| :---: | --- | :---: |  :---: |
+| 01 | O artefato possui introdução.  | Sim | |
+| 02 | O artefato possui histórico de versionamento completo (datas, descrição, autores, versão).  | Sim | |
+| 03 |  O artefato apresenta as referências utilizadas na sua produção.  | Incompleto | Em alguns pontos o livro não é chamado no texto |
+| 04 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto | Os autores não são especificados nas tabelas |
+| 05 | O artefato apresenta a análise de tarefas? | Sim | |
+| 06 | São utilizados no minímo duas técnicas para análise as tarefas? | Sim | |
+| 07 | O artefato possui os cenários? | Não | |
+
+<h6 align = "center"> Tabela 4: Checklist para Verificação
+<br> Autor(es): Vitor Borges
+<br>Fonte: Autor(es)</h6>
  
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 15/06  | Introdução, Objetivo e Metodologia | Vitor | |
-|  1.1   | 18/06 | Adição de checklist para o perfil de usuário | Vitor | |
-|  1.2   | 18/06 | Adição de checklist para os aspectos éticos | Vitor | |
-|  1.3   | 18/06 | Adição de checklist para as personas | Vitor | |
+|  1.1   | 18/06 | Adição de checklist para o perfil de usuário | Vitor | Ana Beatriz |
+|  1.2   | 18/06 | Adição de checklist para os aspectos éticos | Vitor | Ana Beatriz|
+|  1.3   | 18/06 | Adição de checklist para as personas | Vitor | Ana Beatriz |
+|  1.4   | 18/06 | Adição de checklist para a análise de tarefas | Vitor | Ana Beatriz |
 
 ## Referências
 ```
