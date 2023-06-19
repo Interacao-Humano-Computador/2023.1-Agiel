@@ -28,7 +28,7 @@ A verificação é da versão 1.0 e foi realizada no dia 18/06 pela integrante A
 | 04 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto | A tabela de Histórico de versões não possui legenda e fonte. |
 | 05 | O artefato define claramente os objetivos do projeto, incluindo as metas de design e as necessidades dos usuários.| Sim | |
 | 06 | O artefato descreve o contexto de uso do sistema, incluindo as características dos usuários, as tarefas que serão realizadas e o ambiente em que o sistema será utilizado. | Sim | |
-| 07 | O artefato identifica e documentar os requisitos do usuário, considerando suas necessidades, preferências e restrições.| Sim | |
+| 07 | O artefato identifica e documenta os requisitos do usuário, considerando suas necessidades, preferências e restrições.| Sim | |
 | 08 | O artefato apresenta os princípios de usabilidade que serão aplicados no projeto, como a simplicidade, consistência, feedback adequado, entre outros.| Sim | |
 | 09 | O artefato define os princípios de design que serão seguidos no projeto, considerando aspectos como a organização da informação, a disposição dos elementos na interface, a legibilidade, entre outros.| Incompleto | Embora o artefato mencione a simplicidade e a padronização, não fornece uma descrição detalhada dos princípios de design que serão seguidos no projeto. |
 | 10 | O artefato estabelece diretrizes de interação que orientem o design das interações entre o usuário e o sistema, incluindo a forma como as ações são realizadas, os controles utilizados e as respostas esperadas do sistema.| Incompleto | O artefato menciona a necessidade de feedback visual e informativo, mas não inclui diretrizes específicas para as interações entre o usuário e o sistema. |
@@ -89,7 +89,7 @@ A verificação é da versão 1.2 e foi realizada no dia 19/06 pela integrante A
 #### Características da plataforma para o projeto
 
 A tabela 4 apresenta o checklist de verificação do artefato [Características da plataforma](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/caracteristicas-da-plataforma/) para o projeto. Esse checklist foi criado com base no documento [Características da plataforma [Arquivo Markdown]](https://github.com/Interacao-Humano-Computador/2022.2-Skoob/blob/main/docs/analise-de-requisitos/caracteristicas-da-plataforma.md?plain=1).
-A verificação é da versão 1.0 e foi realizada no dia 18/06 pela integrante Ana Beatriz.
+A verificação é da versão 1.0 e foi realizada no dia 19/06 pela integrante Ana Beatriz.
 
 
 | ID |Questão| Resultado da Verificação | Observação |
@@ -98,6 +98,11 @@ A verificação é da versão 1.0 e foi realizada no dia 18/06 pela integrante A
 | 02 | O artefato possui histórico de versionamento completo (datas, descrição, autores, versão).  | Sim | |
 | 03 |  O artefato apresenta as referências utilizadas na sua produção.  | Sim | |
 | 04 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto | A tabela de Histórico de versões não possui legenda e fonte. |
+| 05 | O artefato possui uma descrição geral da plataforma, abordando sua finalidade, público-alvo e principais funcionalidades.| Sim |  |
+| 06 | O artefato possui uma lista dos requisitos técnicos do sistema necessários para executar a plataforma, como sistemas operacionais suportados, navegadores compatíveis, requisitos de hardware, entre outros. | Não | Não há informações específicas sobre requisitos técnicos do sistema no documento. |
+| 07 | O artefato possui uma descrição detalhada das principais funcionalidades oferecidas pela plataforma, incluindo suas finalidades e como utilizá-las. | Sim |  |
+| 08 | O artefato identifica quaisquer limitações ou restrições da plataforma, como funcionalidades ausentes, requisitos adicionais, ou incompatibilidades conhecidas. | Sim |  |
+| 09 | O artefato possui informações sobre como os usuários podem obter suporte em caso de dúvidas ou problemas, bem como recursos adicionais, como documentação técnica, tutoriais ou FAQs. | Sim |  |
 
 <h6 align = "center"> Tabela 4: Checklist para Verificação
 <br> Autor(es): Ana Beatriz
@@ -111,7 +116,8 @@ A Tabela 5 registra o histórico de versão desse documento.
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 15/06  | Introdução, Objetivo e Metodologia | Vitor | Ana Beatriz|
-|  1.1   | 18/06  | Verificação dos Princípios Gerais de Projeto e Metas de usabilidade | Ana Beatriz | Breno Yuri |
+|  1.1   | 18/06  | Verificação dos Princípios Gerais de Projeto e Metas de usabilidade | Ana Beatriz | Bruno Henrique |
+|  1.2   | 18/06  | Verificação do Guia de Estilo e Características da plataforma | Ana Beatriz | Bruno Henrique |
 
 <h6 align = "center"> Tabela 5: Histórico de Versões
 <br> Autor(es): Vitor e Ana Beatriz
