@@ -61,8 +61,8 @@ A verificação é da versão 1.0 e foi realizada no dia 18/06 pela integrante A
 
 #### Guia de Estilo
 
-A tabela 3 apresenta o checklist de verificação do artefato [Guia de Estilo](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/guia_de_estilo/). Esse checklist foi criado com base  no livro [Interação Humano-Computador](#referências).
-A verificação é da versão 1.2 e foi realizada no dia 18/06 pela integrante Ana Beatriz.
+A tabela 3 apresenta o checklist de verificação do artefato [Guia de Estilo](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/guia_de_estilo/). Esse checklist foi criado com base  no livro [Interação Humano-Computador e Experiência do usuário](#referências).
+A verificação é da versão 1.2 e foi realizada no dia 19/06 pela integrante Ana Beatriz.
 
 | ID |Questão| Resultado da Verificação | Observação |
 | :---: | --- | :---: |  :---: |
@@ -70,6 +70,17 @@ A verificação é da versão 1.2 e foi realizada no dia 18/06 pela integrante A
 | 02 | O artefato possui histórico de versionamento completo (datas, descrição, autores, versão).  | Sim | |
 | 03 |  O artefato apresenta as referências utilizadas na sua produção.  | Sim | |
 | 04 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto | A tabela de Histórico de versões não possui legenda e fonte. |
+| 05 | O artefato define a identidade visual do sistema, incluindo logotipo, cores, tipografia e elementos gráficos.| Sim |  |
+| 06 | O artefato especifica as diretrizes para o layout e estrutura das páginas, como a disposição dos elementos, alinhamentos, espaçamentos e hierarquia visual.| Sim |  |
+| 07 | O artefato estabelece os padrões de navegação, como menus, botões, links e outros elementos de interação que permitem aos usuários percorrer o sistema.| Sim | Embora não seja mencionado explicitamente, são fornecidos exemplos de menus e janelas utilizados para a interação dos usuários. |
+| 08 | O artefato define os componentes de interface utilizados no sistema, como botões, caixas de seleção, campos de formulário, barras de rolagem, entre outros, e fornecer orientações para o uso consistente desses elementos.| Sim |  |
+| 09 | O artefato especifica as diretrizes para o uso de tipografia, como famílias de fontes, tamanhos, estilos, espaçamentos e hierarquia de texto.| Sim |  |
+| 10 | O artefato estabelece a paleta de cores do sistema, incluindo cores primárias, secundárias, de destaque, de fundo, entre outras, e fornecer orientações sobre o uso adequado das cores em diferentes contextos.| Sim |  |
+| 11 | O artefato define os ícones utilizados no sistema, fornecendo orientações sobre o estilo, forma, tamanho, consistência e significado dos ícones.| Sim | Embora não seja mencionada explicitamente, são fornecidos exemplos de ícones utilizados nas capturas de tela. |
+| 12 | O artefato considera as diretrizes para a adaptação do design em diferentes dispositivos e tamanhos de tela, garantindo uma experiência consistente e adequada em diferentes plataformas.| Sim |  |
+| 13 | O artefato inclui diretrizes para tornar o sistema acessível a usuários com diferentes necessidades, como legibilidade de texto, contraste, suporte a tecnologias assistivas e conformidade com as diretrizes de acessibilidade.| Sim |  |
+| 14 | O artefato fornece exemplos visuais e demonstrações de como aplicar corretamente as diretrizes de estilo em diferentes componentes e páginas do sistema.| Sim |  |
+
 
 <h6 align = "center"> Tabela 3: Checklist para Verificação
 <br> Autor(es): Ana Beatriz
@@ -110,7 +121,9 @@ A Tabela 5 registra o histórico de versão desse documento.
 ```
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 ```
-
+```
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677
+```
 ```
 Mendonça, H. F. (15 de maio de 2023). Características da plataforma [Arquivo Markdown]. GitHub. Disponível em: https://github.com/Interacao-Humano-Computador/2022.2-Skoob/blob/main/docs/analise-de-requisitos/caracteristicas-da-plataforma.md?plain=1
 ```
