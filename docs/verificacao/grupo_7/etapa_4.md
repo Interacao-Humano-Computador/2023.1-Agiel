@@ -65,16 +65,15 @@ Versão Analisada: 1.2
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Avaliação da Análise de Tarefas</p></font>
 
-| ID |                                        Descrição                                         |                    Resultado da Verificação                     | Observação |
-|:--:|:----------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|:----------:|
-| 1  |                              O artefato possui introdução?                               |                               Sim                               |            |
-| 2  |                    O artefato apresenta os objetivos do planejamento?                    |                               Sim                               |            |
-| 3  |                         O planejemanto usa do framework DECIDE?                          |                               Sim                               |            |
-| 4  |    O planejemanto determina a plataforma e ferramentas que serão usada na avaliação?     |                               Sim                               |            |
-| 5  | O artefato apresenta o número de avaliadores, de participantes e seus respectivos perfis | Sim, porém não apresenta quem foi avaliado, nem os seus perfis. |            |
-| 6  |           O artefato apresenta as perguntas que serão utilizadas na avaliação?           |                               Sim                               |            |
-| 7  |               O artefato apresenta uma bibliografia/referência padronizada               |                               Sim                               |            |
-| 8  |                 O artefato apresenta o histórico de versão padronizado?                  |                               Sim                               |            |
+| ID |                                     Descrição                                     | Resultado da Verificação | Observação |
+|:--:|:---------------------------------------------------------------------------------:|:------------------------:|:----------:|
+| 1  |                           O artefato possui introdução?                           |           Sim            |            |
+| 2  |                O artefato apresenta os objetivos do planejamento?                 |           Sim            |            |
+| 3  |                      O planejemanto usa do framework DECIDE?                      |           Sim            |            |
+| 4  | O planejemanto determina a plataforma e ferramentas que serão usada na avaliação? |           Sim            |            |
+| 5  |       O artefato apresenta as perguntas que serão utilizadas na avaliação?        |           Sim            |            |
+| 6  |           O artefato apresenta uma bibliografia/referência padronizada            |           Sim            |            |
+| 7  |              O artefato apresenta o histórico de versão padronizado?              |           Sim            |            |
 
 <font size="3"><p style="text-align: center">Fonte: [Bruno Henrique](https://github.com/BrunoHenrique00).</p></font>
 
@@ -103,9 +102,10 @@ Versão Analisada: 1.0
 
 ## Histórico de Versão
 
-| Versão | Data  |      Descrição      |     Autor      |  Revisor   |
-|:------:|:-----:|:-------------------:|:--------------:|:----------:|
-|  1.0   | 18/06 | Criação do artefato | Bruno Henrique | Breno Yuri |
+| Versão | Data  |               Descrição                |     Autor      |  Revisor   |
+|:------:|:-----:|:--------------------------------------:|:--------------:|:----------:|
+|  1.0   | 18/06 |          Criação do artefato           | Bruno Henrique | Breno Yuri |
+|  1.1   | 18/06 | Corrige Checklist Avaliação de tarefas | Bruno Henrique | Breno Yuri |
 
 ## Referências
 ```
