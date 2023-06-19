@@ -34,6 +34,24 @@ A verificação é da versão 1.1 e foi realizada no dia 18/06 pelo integrante V
 <h6 align = "center"> Tabela 1: Checklist para Verificação
 <br> Autor(es): Vitor Borges
 <br>Fonte: Autor(es)</h6>
+
+#### Aspectos Éticos
+
+A tabela 2 apresenta o checklist de verificação do artefato de <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/aspectos_eticos/">Aspectos Éticos</a>. Esse checklist foi criado com base no livro [Interação Humano-Computador](#referências).
+A verificação é da versão 1.0 e foi realizada no dia 18/06 pelo integrante Vitor Borges.
+
+| ID |Questão| Resultado da Verificação | Observação |
+| :---: | --- | :---: |  :---: |
+| 01 | O artefato possui introdução.  | Sim | |
+| 02 | O artefato possui histórico de versionamento completo (datas, descrição, autores, versão).  | Sim | |
+| 03 |  O artefato apresenta as referências utilizadas na sua produção.  | Sim | |
+| 04 | Tabelas e figuras utilizadas apresentam legendas e fontes.  | Incompleto | A tabela de Histórico de versões não possui legenda e fonte. |
+| 05 | O artefato apresenta o objetivo do termo de consentimento? | Sim |
+| 06 | O artefato apresenta o termo de consentimento livre e esclarecido? | Sim | O mesmo apresenta os detalhes importantes da pesquisa para os partipantes |
+
+<h6 align = "center"> Tabela 2: Checklist para Verificação
+<br> Autor(es): Vitor Borges
+<br>Fonte: Autor(es)</h6>
  
 ## Histórico de Versão
 
@@ -41,6 +59,7 @@ A verificação é da versão 1.1 e foi realizada no dia 18/06 pelo integrante V
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 15/06  | Introdução, Objetivo e Metodologia | Vitor | |
 |  1.1   | 18/06 | Adição de checklist para o perfil de usuário | Vitor | |
+|  1.2   | 18/06 | Adição de checklist para os aspectos éticos | Vitor | |
 
 ## Referências
 ```
