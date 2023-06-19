@@ -117,7 +117,7 @@ A Tabela 5 registra o histórico de versão desse documento.
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 15/06  | Introdução, Objetivo e Metodologia | Vitor | Ana Beatriz|
 |  1.1   | 18/06  | Verificação dos Princípios Gerais de Projeto e Metas de usabilidade | Ana Beatriz | Bruno Henrique |
-|  1.2   | 18/06  | Verificação do Guia de Estilo e Características da plataforma | Ana Beatriz | Bruno Henrique |
+|  1.2   | 19/06  | Verificação do Guia de Estilo e Características da plataforma | Ana Beatriz | Bruno Henrique |
 
 <h6 align = "center"> Tabela 5: Histórico de Versões
 <br> Autor(es): Vitor e Ana Beatriz
