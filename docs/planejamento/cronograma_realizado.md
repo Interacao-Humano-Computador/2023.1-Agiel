@@ -120,6 +120,22 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
+### Etapa 6.2 - Verificação dos Artefatos 2
+
+<figcaption align="center">Tabela 8 - Cronograma da equipe para a etapa 7.</figcaption>
+
+|                Tarefa                |                                      Autor                                      | Entrega |            Revisor             | Revisão | Início da Realização | Fim da Realização |
+|:------------------------------------:|:-------------------------------------------------------------------------------:|:-------:|:------------------------------:|:-------:|:--------------------:|:-----------------:|
+| Artefatos Etapa 02 | Vitor Borges |  19/06  | Ana Beatriz |  19/06  |        18/06         |       19/06       |
+| Artefatos Etapa 03 | Ana Beatriz |  19/06  | Bruno Henrique |  19/06  |       18/06         |       19/06       |
+| Artefatos Etapa 04 | Bruno Henrique |  19/06  | Breno Yuri |  19/06  |        18/06         |       19/06       |
+| Artefatos Etapa 05 | Breno Yuri |  19/06  | Carlos Daniel |  19/06  |        18/06         |       19/06       |
+| Artefatos Etapa 06 | Carlos Daniel |  19/06  | Pedro Siqueira |  19/06  |        18/06         |       19/06       |
+| Artefatos Etapa 07 | Pedro Siqueira |  19/06  | Vitor Borges |  19/06  |        18/06         |       19/06       |
+|        Gravação                      | Todos |  19/06  | Todos                          |  19/06  |        19/06         |       19/06       |
+
+<figcaption align="center">Fonte: Vitor Borges</figcaption>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
@@ -131,6 +147,7 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | 5.0 | 29/05 | Adição do cronograma realizado da Etapa 05 | Vitor | Todos |
 | 6.0 | 05/06 | Adição do cronograma realizado da Etapa 06 | Vitor | Todos |
 | 7.0 | 12/06 | Adição do cronograma realizado da Etapa 07 | Vitor | Todos |
+| 8.0 | 19/06 | Adição do cronograma realizado da Etapa 6.2 | Vitor | Todos |
 
 ## Referências
 
