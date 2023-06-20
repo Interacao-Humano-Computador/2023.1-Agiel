@@ -7,7 +7,7 @@ A verificação da qualidade dos artefatos produzidos em um projeto desempenha u
 
 ## Objetivo
 <p align="justify">
-Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel">grupo 07</a>, responsável pela avaliação do site <a href="https://www.agiel.com.br/site/">Agiel</a>, na etapa 01.
+Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel">grupo 07</a>, responsável pela avaliação do site <a href="https://www.agiel.com.br/site/">Agiel</a>, na etapa 06.
 </p>
 
 ## Metodologia
@@ -17,7 +17,7 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 #### Verificação dos artefatos grupo 08 (IssNet)
 
-A tabela 1 apresenta o checklist de verificação do artefato de [Relato de Resultados da Avaliação do Storyboard](https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/desenvolvimento/storyboard/relatos_storyboard.md). 
+A tabela 1 apresenta o checklist de verificação do artefato de [Verificação dos Artefatos](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_8/etapa_1/). 
 
 | ID | Questão | Resultado da Verificação | Observação |
 |:---:| --- | :---: | :---: |
