@@ -40,8 +40,3 @@ A tabela 1 apresenta o checklist de verificação do artefato de [Verificação 
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 15/06  | Introdução, Objetivo e Metodologia | Vitor | |
 |  1.1   | 15/06  | Adição do checklist geral da verificação de artefatos do grupo 08 | Vitor | |
-
-## Referências
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```

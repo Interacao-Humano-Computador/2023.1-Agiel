@@ -7,7 +7,7 @@ A verificação da qualidade dos artefatos produzidos em um projeto desempenha u
 
 ## Objetivo
 <p align="justify">
-Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel">grupo 07</a>, responsável pela avaliação do site <a href="https://www.agiel.com.br/site/">Agiel</a>, na etapa 01.
+Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel">grupo 07</a>, responsável pela avaliação do site <a href="https://www.agiel.com.br/site/">Agiel</a>, na etapa 05.
 </p>
 
 ## Metodologia
