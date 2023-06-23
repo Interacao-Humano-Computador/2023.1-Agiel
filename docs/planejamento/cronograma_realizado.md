@@ -130,7 +130,7 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | Artefatos Etapa 03 | Ana Beatriz |  19/06  | Bruno Henrique |  19/06  |       18/06         |       19/06       |
 | Artefatos Etapa 04 | Bruno Henrique |  19/06  | Breno Yuri |  19/06  |        18/06         |       19/06       |
 | Artefatos Etapa 05 | Breno Yuri |  19/06  | Carlos Daniel |  19/06  |        18/06         |       19/06       |
-| Artefatos Etapa 06 | Carlos Daniel |  19/06  | Pedro Siqueira |  19/06  |        18/06         |       19/06       |
+| Artefatos Etapa 06 | Vitor Borges |  19/06  | Pedro Siqueira |  19/06  |        18/06         |       19/06       |
 | Artefatos Etapa 07 | Pedro Siqueira |  19/06  | Vitor Borges |  19/06  |        18/06         |       19/06       |
 |        Gravação                      | Todos |  19/06  | Todos                          |  19/06  |        19/06         |       19/06       |
 
