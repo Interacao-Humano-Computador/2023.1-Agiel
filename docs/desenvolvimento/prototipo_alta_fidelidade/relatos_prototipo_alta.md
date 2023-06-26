@@ -68,7 +68,16 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 2. (Problema 2) Apresenta gravidade alta pois o usuário tem que voltar no fluxo para checar as informações multiplas vezes. 
 
 ### 2.5 Sugestões de melhoria
-Levando em consideração os problemas encontrados na sessão anterior o avaliador deve a partir dos feedbacks dos usuários e de outras referências sugerir correções ou melhorias para resolver os problemas encontrados.
+
+### Sugestões (Obter Dicas sobre Gestão de Carreira)
+
+* (Problema 1): Inserir uma descrição ou um campo direto na home para acessar ou tomar conhecimento sobre o blog do estagiário
+
+### Sugestões (Cadastrar em Nova Vaga)
+
+* (Problema 1): Ir direto para as vagas disponíveis no fluxo
+* (Problema 2): Inserir uma preview do currículo do usuário antes da confirmação da participação.
+* (Problema 2): Permitir que o usuário edite o currículo na tela de confirmação de candidatura.
 
 ### 2.6 Gravação ou Dados coletados
 
@@ -94,3 +103,4 @@ Levando em consideração os problemas encontrados na sessão anterior o avaliad
 | `1.0`  | 26/06/2023 | Criação do artefato |   Vitor   |    Todos    |
 | `1.1`  | 26/06/2023 | Adição das entrevistas | Vitor | Todos |
 | `1.2`  | 26/06/2023 | Adição dos problemas encontrados | Vitor | Todos |
+| `1.3`  | 26/06/2023 | Adição das sugestões | Vitor | Todos |
