@@ -27,25 +27,45 @@ Os avaliadores, respectivamente foram Vitor Borges e os entrevistados foram os e
 
 ### 2.4 Problemas encontrados
 Nesta sessão esperamos que o avaliador após a realização da avaliação apresente os seguintes pontos:
-* Identifique e descrever os problemas encontrados:
-<p>
-Descrever cada problema de forma clara e concisa, destacando os principais aspectos relevantes, como ações do usuário, expectativas não atendidas, confusões ou dificuldades enfrentadas.
-</p> 
 
-* Forneça detalhes sobre cada problema:
-<p>
-Descrever o contexto em que o problema ocorreu (página, fluxo de interação, etapa do processo).
-</p> 
+### Tarefa: Obter dicas sobre Gestão de Carreira
+* Descrição dos problemas
 
-* Explicar as consequências ou impactos do problema para o usuário:
-<p>
-O usuário após a avaliação pode expressar frustração, dificuldade em concluir a tarefa e falta de confiança na interface.
-</p> 
+1. (Problema 1) Usuários gostariam que o blog do estagiário tivesse mais destaque na home
 
-* Classifique a gravidade dos problemas:
-<p>
-Avaliar o problema com base na sua importância e impacto para a experiência do usuário.
-</p>
+* Detalhes dos problemas:
+
+1. (Problema 1) O problema ocorre quando o usuário tem que explorar a interface em busca de dicas para sua vida profissional.
+
+* Consequências/impactos do problema para o usuário:
+
+1. (Problema 1) O usuário pode acreditar que o site Agiel apenas oferece vagas de estágio e processos seletivos.
+
+* Gravidade dos problemas:
+
+1. (Problema 1) Apresenta gravidade leve pois o usuário ao realizar outras tarefas do site acaba descobrindo o blog.
+
+### Tarefa: Cadastrar em Vaga
+
+* Descrição dos problemas
+
+1. Os usuários se sentem confusos no momento em que são redirecionados para a tela de perfil após buscarem por vagas.
+2. Os usuários gostariam de poder checar os dados do próprio currículo antes de confirmarem a inscrição para a vaga.
+
+* Detalhes dos problemas:
+
+1. (Problema 1) O problema ocorre quando o usuário tenta ir atrás de novas vagas e se depara com sua tela de perfil ao invés de ir diretamente para uma tela contendo todas as vagas disponíveis.
+2. (Problema 2) O problema ocorre no ato de inscrição para nova vaga, os usuários gostariam antes de confirma a candidatura visualizar o próprio currículo para evitar possíveis erros.
+
+* Consequências/impactos do problema para o usuário:
+
+1. (Problema 1) O usuário pode ficar frustado ao não encontrar as vagas de primeira.
+2. (Problema 2) O usuário pode ficar frustado em ter que voltar para seu perfil para checar suas informações.
+
+* Gravidade dos problemas:
+
+1. (Problema 1) Apresenta gravidade média pois o usuário após visualizar as outras opções encontra rapidamente o campo de vagas.
+2. (Problema 2) Apresenta gravidade alta pois o usuário tem que voltar no fluxo para checar as informações multiplas vezes. 
 
 ### 2.5 Sugestões de melhoria
 Levando em consideração os problemas encontrados na sessão anterior o avaliador deve a partir dos feedbacks dos usuários e de outras referências sugerir correções ou melhorias para resolver os problemas encontrados.
@@ -73,3 +93,4 @@ Levando em consideração os problemas encontrados na sessão anterior o avaliad
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
 | `1.0`  | 26/06/2023 | Criação do artefato |   Vitor   |    Todos    |
 | `1.1`  | 26/06/2023 | Adição das entrevistas | Vitor | Todos |
+| `1.2`  | 26/06/2023 | Adição dos problemas encontrados | Vitor | Todos |
