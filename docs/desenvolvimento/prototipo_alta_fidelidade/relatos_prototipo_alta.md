@@ -51,7 +51,18 @@ Avaliar o problema com base na sua importância e impacto para a experiência do
 Levando em consideração os problemas encontrados na sessão anterior o avaliador deve a partir dos feedbacks dos usuários e de outras referências sugerir correções ou melhorias para resolver os problemas encontrados.
 
 ### 2.6 Gravação ou Dados coletados
-Nesta sessão o avaliador deve apresentar as gravações realizadas na avaliação, caso haja mudanças após o teste piloto ou haja a necessidade de realizar uma nova avaliação as gravações devem ser adicionados posteriormente. Além disso deve-se apresentar uma visão geral dos dados coletados na avaliação.
+
+### Entrevista Dia 23/06 18:00, local: remoto, participante: Vitor M.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GOONwLDIw6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Entrevista Dia 24/06 17:00, local: remoto, participante: Rennan O.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ebzRdrrjJV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Entrevista Dia 25/06 18:00, local: remoto, participante: Geovannne F.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PsXMQwx26L8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 3. Bibliografia
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
@@ -61,3 +72,4 @@ Nesta sessão o avaliador deve apresentar as gravações realizadas na avaliaç�
 | Versão |    Data    |               Descrição                | Autor(es) | Revisor(es) |
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
 | `1.0`  | 26/06/2023 | Criação do artefato |   Vitor   |    Todos    |
+| `1.1`  | 26/06/2023 | Adição das entrevistas | Vitor | Todos |
