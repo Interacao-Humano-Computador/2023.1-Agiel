@@ -136,6 +136,23 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
+### Etapa 8 - Relatos dos resultados
+
+<figcaption align="center">Tabela 8 - Cronograma da equipe para a etapa 8.</figcaption>
+
+| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
+|:------:|:-----:|:-------:|:-------:|:-------:|:--------------------:|:-----------------:|
+| Produção da home do prótotipo de alta fidelidade | Vitor B. |  26/06  | Ana Beatriz |  23/06 | 22/06 | 23/06 |
+| Produção do fluxo da tarefa obter dicas sobre gestão de carreira do prótotipo de alta fidelidade | Vitor B. |  26/06  | Breno Yuri |  24/06  | 23/06 | 23/06 |
+| Produção do fluxo da tarefa cadastrar vaga do prótotipo de alta fidelidade | Ana Beatriz | 26/06 |Pedro Siqueira | 25/06  | 24/06 | 24/06 |
+| Produçaõ do fluxo da tarefa cadastrar em processo seletivo do prótotipo de alta fidelidade | Bruno Henrique | Vitor B. | 25/06  | 24/06 | 24/06 |
+| Produçaõ do fluxo da tarefa cadastrar em instituição de ensino | Breno Yuri e Pedro Siqueira | Bruno Henrique | 25/06  | 24/06 | 24/06 |
+| Relatos dos resultados do protótipo de alta fidelidade | Todos |  26/06  | Todos |  26/06  |        26/06         |       26/06       |
+|        Gravação                                        | Todos |  27/06  | Todos                  |  26/06  |        26/06        |       26/06       |
+
+
+<figcaption align="center">Fonte: Vitor Borges</figcaption>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
@@ -148,6 +165,7 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | 6.0 | 05/06 | Adição do cronograma realizado da Etapa 06 | Vitor | Todos |
 | 7.0 | 12/06 | Adição do cronograma realizado da Etapa 07 | Vitor | Todos |
 | 8.0 | 19/06 | Adição do cronograma realizado da Etapa 6.2 | Vitor | Todos |
+| 9.0 | 26/06 | Adição do cronograma realizado da Etapa 08 | Vitor | Todos |
 
 ## Referências
 
