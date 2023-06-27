@@ -11,12 +11,15 @@ A apresentação da etapa 8 tem o intuito de mostrar o que foi desenvolvido até
 
 ## Video da apresentação
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ePGaADe4jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  1.0   | 25/06 | Adição de modelo de aba para etapa 08 | Vitor Borges | Todos |
 |  1.1   | 26/06 | Adição das referências do trabalho feito na etapa 08 | Vitor Borges | Todos |
+|  1.2   | 26/06 | Adição do vídeo de apresentação da etapa 08 | Vitor Borges | Todos |
 
 ## Referências
 
