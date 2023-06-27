@@ -93,6 +93,10 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PsXMQwx26L8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Entrevista Dia 26/06 18:00, local: remoto, participante: Gustavo H.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VGZdVzgWo0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 3. Bibliografia
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
@@ -104,3 +108,4 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 | `1.1`  | 26/06/2023 | Adição das entrevistas | Vitor | Todos |
 | `1.2`  | 26/06/2023 | Adição dos problemas encontrados | Vitor | Todos |
 | `1.3`  | 26/06/2023 | Adição das sugestões | Vitor | Todos |
+| `1.4`  | 26/06/2023 | Adição da entrevista | Ana Beatriz | Vitor |
