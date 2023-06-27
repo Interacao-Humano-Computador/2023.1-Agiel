@@ -22,10 +22,13 @@ A avaliação do protótipo de alta fidelidade tem como principal objetivo ident
 ### 2.2 Metodologia
 As avaliações foram realizadas por meio de entrevistas agendadas previamente e realizadas com devido consentimento do entrevistado. As entrevistas não foram realizadas 100% conforme o planejado [planejamento](planejamento_alta_fidelidade.md). Nas entrevistas os protótipos produzidos foram apresentados e, após isso, o entrevistador apresenta um roteiro do que deve ser realizado em cada tarefa para o entrevistado, o entrevistado por sua vez deve seguir o roteiro enquanto expressa seu pensamento em voz alta, ao final da tarefa o mesmo deve realizar um feedback geral sobre a tarefa realizada.
 
-### 2.3 Avaliadores e Participantes
-Os avaliadores, respectivamente foram Vitor Borges e os entrevistados foram os estudantes Vitor Manoel, Rennan Oliveira e Geovanne Freitas.
+### 2.3 Protótipo de Alta Fidelidade
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FuIASKVWfrkY0CpKDNld4wm%2FPrototipo-Agiel%3Ftype%3Ddesign%26node-id%3D51%253A62%26mode%3Ddesign%26t%3DwC4yab2baSFOcvao-1" allowfullscreen></iframe>
 
-### 2.4 Problemas encontrados
+### 2.4 Avaliadores e Participantes
+Os avaliadores, respectivamente foram Vitor Borges e Ana Beatriz, e os entrevistados foram os estudantes Vitor Manoel, Rennan Oliveira, Geovanne Freitas e Gustavo Henrique.
+
+### 2.5 Problemas encontrados
 Nesta sessão esperamos que o avaliador após a realização da avaliação apresente os seguintes pontos:
 
 ### Tarefa: Obter dicas sobre Gestão de Carreira
@@ -67,7 +70,7 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 1. (Problema 1) Apresenta gravidade média pois o usuário após visualizar as outras opções encontra rapidamente o campo de vagas.
 2. (Problema 2) Apresenta gravidade alta pois o usuário tem que voltar no fluxo para checar as informações multiplas vezes. 
 
-### 2.5 Sugestões de melhoria
+### 2.6 Sugestões de melhoria
 
 ### Sugestões (Obter Dicas sobre Gestão de Carreira)
 
@@ -79,7 +82,7 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 * (Problema 2): Inserir uma preview do currículo do usuário antes da confirmação da participação.
 * (Problema 2): Permitir que o usuário edite o currículo na tela de confirmação de candidatura.
 
-### 2.6 Gravação ou Dados coletados
+### 2.7 Gravação ou Dados coletados
 
 ### Entrevista Dia 23/06 18:00, local: remoto, participante: Vitor M.
 
@@ -109,3 +112,4 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 | `1.2`  | 26/06/2023 | Adição dos problemas encontrados | Vitor | Todos |
 | `1.3`  | 26/06/2023 | Adição das sugestões | Vitor | Todos |
 | `1.4`  | 26/06/2023 | Adição da entrevista | Ana Beatriz | Vitor |
+| `1.5`  | 26/06/2023 | Adição do protótipo | Ana Beatriz | Vitor |
