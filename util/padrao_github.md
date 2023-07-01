@@ -61,9 +61,9 @@ Resolve #(numero_da_issue)
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
-| 19/04/2023 | `1.0` | Versão inicial com os padrões para criar issue, branch,commit e pull request | Ana Beatriz e Breno Yuri | Carlos Daniel |
+| `1.0`      | 19/04/2023 | Versão inicial com os padrões para criar issue, branch,commit e pull request | Ana Beatriz e Breno Yuri | Carlos Daniel |
 
 ## Referências
-
+'''
 RIBEIRO, V. Conventional Commits Pattern. Disponível em: <https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657>. Acesso em: 19 abr. 2023.
-‌
+‌'''

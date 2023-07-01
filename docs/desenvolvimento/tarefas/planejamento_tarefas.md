@@ -170,4 +170,4 @@ O teste piloto permite a avaliação do método do fluxo cognitivo, desta forma 
 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
-|  1.0   | 22/05 | Adição do planejamento de avaliação das tarefas | Breno e Vitor | Bruno |
+| `1.0`  | 22/05/2023 | Adição do planejamento de avaliação das tarefas | Breno e Vitor | Bruno |

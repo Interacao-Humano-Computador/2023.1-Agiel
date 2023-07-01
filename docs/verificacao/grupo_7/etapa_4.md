@@ -104,8 +104,8 @@ Versão Analisada: 1.0
 
 | Versão | Data  |               Descrição                |     Autor      |  Revisor   |
 |:------:|:-----:|:--------------------------------------:|:--------------:|:----------:|
-|  1.0   | 18/06 |          Criação do artefato           | Bruno Henrique | Breno Yuri |
-|  1.1   | 18/06 | Corrige Checklist Avaliação de tarefas | Bruno Henrique | Breno Yuri |
+| `1.0`  | 18/06/2023 |          Criação do artefato           | Bruno Henrique | Breno Yuri |
+| `1.1`  | 18/06/2023 | Corrige Checklist Avaliação de tarefas | Bruno Henrique | Breno Yuri |
 
 ## Referências
 ```

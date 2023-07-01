@@ -164,7 +164,7 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 
 | Versão |    Data    |      Descrição       |   Autor(es)    | Revisor(es) |
 |:------:|:----------:|:--------------------:|:--------------:|:-----------:|
-|  1.0   | 08/05/2023 | Criação do documento | Carlos e Bruno |    Vitor    |
-|  2.0   | 20/05/2023 | Adição de nova tarefa | Vitor | Breno |
-|  2.1   | 22/05/2023 | Adição de nova tarefa | Vitor | Breno |
+| `1.0`  | 08/05/2023 | Criação do documento | Carlos e Bruno |    Vitor    |
+| `2.0`  | 20/05/2023 | Adição de nova tarefa | Vitor | Breno |
+| `2.1`  | 22/05/2023 | Adição de nova tarefa | Vitor | Breno |
 

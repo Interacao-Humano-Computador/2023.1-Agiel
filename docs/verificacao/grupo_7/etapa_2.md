@@ -99,11 +99,11 @@ A verificação é da versão 2.1 e foi realizada no dia 18/06 pelo integrante V
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 15/06  | Introdução, Objetivo e Metodologia | Vitor | |
-|  1.1   | 18/06 | Adição de checklist para o perfil de usuário | Vitor | Ana Beatriz |
-|  1.2   | 18/06 | Adição de checklist para os aspectos éticos | Vitor | Ana Beatriz|
-|  1.3   | 18/06 | Adição de checklist para as personas | Vitor | Ana Beatriz |
-|  1.4   | 18/06 | Adição de checklist para a análise de tarefas | Vitor | Ana Beatriz |
+| `1.0`  | 15/06/2023 | Introdução, Objetivo e Metodologia | Vitor | |
+| `1.1`  | 18/06/2023 | Adição de checklist para o perfil de usuário | Vitor | Ana Beatriz |
+| `1.2`  | 18/06/2023 | Adição de checklist para os aspectos éticos | Vitor | Ana Beatriz|
+| `1.3`  | 18/06/2023 | Adição de checklist para as personas | Vitor | Ana Beatriz |
+| `1.4`  | 18/06/2023 | Adição de checklist para a análise de tarefas | Vitor | Ana Beatriz |
 
 ## Referências
 ```

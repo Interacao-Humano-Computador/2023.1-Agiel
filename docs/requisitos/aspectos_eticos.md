@@ -47,4 +47,4 @@ Assim, estou ciente das informações acima e autorizo a utilização dos meus d
 
 | Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ------- |
-| 1.0  | 08/05/2023 | Criação do documento | Breno Yuri | Ana Beatriz    |
+| `1.0`  | 08/05/2023 | Criação do documento | Breno Yuri | Ana Beatriz    |

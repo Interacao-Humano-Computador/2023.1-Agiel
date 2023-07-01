@@ -18,7 +18,7 @@ A apresentação da etapa 04 tem o intuito de mostrar o que foi desenvolvido at�
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 22/05 | Adição de modelo de aba para etapa 04 | Vitor Borges | Todos|
+| `1.0`  | 22/05/2023 | Adição de modelo de aba para etapa 04 | Vitor Borges | Todos|
 
 ## Referências
 > Planejamento da avaliação do Storyboard <https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/desenvolvimento/storyboard/planejamento_avaliacao_storyboard.md>

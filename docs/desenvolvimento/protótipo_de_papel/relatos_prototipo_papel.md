@@ -51,7 +51,7 @@ Durante a avaliação não foram encontrados problemas com os protótipos de pap
 
 | Versão | Data       | Descrição                                                        | Autor(es)      | Revisor(es)    |
 |--------|------------|------------------------------------------------------------------|----------------|----------------|
-| 1.0    | 11/06/2023 | Criação do documento                                             | Ana Beatriz    | Pedro Siqueira |
-| 1.1    | 11/06/2023 | Adição das entrevistas e dos relatos                             | Ana Beatriz    | Bruno          |
-| 1.2    | 11/06/2023 | Introdução, Objetivos, Metodologia e Avaliadores e Participantes | Bruno Henrique | Ana Beatriz    |
+| `1.0`    | 11/06/2023 | Criação do documento                                             | Ana Beatriz    | Pedro Siqueira |
+| `1.1`     | 11/06/2023 | Adição das entrevistas e dos relatos                             | Ana Beatriz    | Bruno          |
+| `1.2`     | 11/06/2023 | Introdução, Objetivos, Metodologia e Avaliadores e Participantes | Bruno Henrique | Ana Beatriz    |
 

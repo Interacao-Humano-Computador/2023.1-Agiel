@@ -109,6 +109,6 @@ As imagens 1 - 5 são os storyboards feitos pela equipe.
 
 | Versão |    Data    |                  Descrição                   |  Autor(es)  | Revisor(es) |
 |:------:|:----------:|:--------------------------------------------:|:-----------:|:-----------:|
-|  1.0   | 22/05/2023 |             Criação do documento             | Ana Beatriz |    Bruno    |
-|  1.1   | 22/05/2023 | Adição do termo de consentimento e perguntas |    Bruno    | Ana Beatriz |
-|  1.2   | 03/06/2023 | Adição de um novo storyboard |    Carlos   | Ana Beatriz |
+| `1.0`  | 22/05/2023 |             Criação do documento             | Ana Beatriz |    Bruno    |
+| `1.1`  | 22/05/2023 | Adição do termo de consentimento e perguntas |    Bruno    | Ana Beatriz |
+| `1.2`  | 03/06/2023 | Adição de um novo storyboard |    Carlos   | Ana Beatriz |

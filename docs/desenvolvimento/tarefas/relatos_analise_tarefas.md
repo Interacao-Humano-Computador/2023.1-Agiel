@@ -195,4 +195,4 @@ De acordo com os relatórios dos resultados feitos nas tarefas anteriores pelo m
 
 | Versão | Data       | Descrição            | Autor(es)      | Revisor |
 |--------|------------|----------------------|----------------|---------|
-| 1.0    | 29/05/2023 | Criação do documento | Bruno Henrique | Vitor B |
+| `1.0`  | 29/05/2023 | Criação do documento | Bruno Henrique | Vitor B |

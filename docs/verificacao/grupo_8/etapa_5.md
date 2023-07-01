@@ -81,12 +81,12 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 05/06 | Verificação do artefato de relato de resultados do storyboard | Vitor | Ana Beatriz |
-|  1.1   | 05/06 | Adicionando verificação utilizando tabela | Vitor | Ana Beatriz 
-|  1.2   | 05/06 | Introdução, Objetivo e Metodologia | Carlos |  
-|  1.3   | 05/06 | Verificação do artefato do planejamento de avaliação do protótipo de papel | Breno Yuri |  Ana Beatriz |
-|  1.4   | 05/06 | Verificação do Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas | Carlos |  Pedro |
-|  1.5   | 05/06 | Verificação do artefato do relato de resultados da análise de tarefas | Vitor | Pedro |
+| `1.0`  | 05/06/2023 | Verificação do artefato de relato de resultados do storyboard | Vitor | Ana Beatriz |
+| `1.1`  | 05/06/2023 | Adicionando verificação utilizando tabela | Vitor | Ana Beatriz 
+| `1.2`  | 05/06/2023 | Introdução, Objetivo e Metodologia | Carlos |  
+| `1.3`  | 05/06/2023 | Verificação do artefato do planejamento de avaliação do protótipo de papel | Breno Yuri |  Ana Beatriz |
+| `1.4`  | 05/06/2023 | Verificação do Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas | Carlos |  Pedro |
+| `1.5`  | 05/06/2023 | Verificação do artefato do relato de resultados da análise de tarefas | Vitor | Pedro |
 
 ## Referências
 ```

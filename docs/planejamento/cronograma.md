@@ -163,8 +163,8 @@
 
 | Versão | Data  |            Descrição                      |     Autor      |    Revisor    |
 |:------:|:-----:|:-----------------------------------------:|:--------------:|:-------------:|
-|  1.0   | 19/04 | Criação dos cronogramas iniciais          | Bruno Henrique | Carlos Daniel |
-|  1.1   | 24/04 | Adicionando datas de gravações das etapas | Breno Yuri     | Ana Beatriz   |
+|  `1.0`   | 19/04/2023 | Criação dos cronogramas iniciais          | Bruno Henrique | Carlos Daniel |
+|  `1.1`   | 24/04/2023 | Adicionando datas de gravações das etapas | Breno Yuri     | Ana Beatriz   |
 
 ## Referências
 

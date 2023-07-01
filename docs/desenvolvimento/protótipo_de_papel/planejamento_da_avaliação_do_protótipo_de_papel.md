@@ -118,4 +118,4 @@ Na figura 3 temos o protótipo de papel da tarefa de cadastrar uma instituição
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
-| `1.0` | 29/05/23 | Criação do documento e adição do conteúdo | Breno Yuri | Pedro Siqueira |
+| `1.0` | 29/05/2023 | Criação do documento e adição do conteúdo | Breno Yuri | Pedro Siqueira |

@@ -78,10 +78,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 
 | Versão | Data  |             Descrição              |     Autor      | Revisor |
 |:------:|:-----:|:----------------------------------:|:--------------:|:-------:|
-|  1.0   | 05/06 | Introdução, Objetivo e Metodologia |     Carlos     |         |
-|  1.1   | 05/06 |          Aspectos Éticos           |   Breno Yuri   |         |
-|  1.2   | 05/06 |    Perfil do Usuario e Personas    | Bruno Henrique |         |
-|  1.3   | 05/06 | Análise das Tarefas                | Vitor Borges | Pedro     |
+| `1.0`  | 05/06/2023 | Introdução, Objetivo e Metodologia |     Carlos     |         |
+| `1.1`  | 05/06/2023 |          Aspectos Éticos           |   Breno Yuri   |         |
+| `1.2`  | 05/06/2023 |    Perfil do Usuario e Personas    | Bruno Henrique |         |
+| `1.3`  | 05/06/2023 | Análise das Tarefas                | Vitor Borges | Pedro     |
 
 ## Referências
 ```

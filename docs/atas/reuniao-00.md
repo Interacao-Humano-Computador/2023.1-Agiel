@@ -45,6 +45,6 @@ O documento a seguir se refere à primeira reunião do grupo 07, com os seus dev
 
 | Versão | Descrição | Autor(es) | 
 | ------ | --------- | --------- |
-| 1.0 | Criação do documento | Pedro |  
+| `1.0`  | Criação do documento | Pedro |  
 
 

@@ -50,4 +50,4 @@ Reunião de alinhamento do projeto de IHC.
 
 | Versão | Descrição | Autor(es) | 
 | ------ | --------- | --------- |
-| 1.0 | Elaboração | Carlos |  
+| `1.0`  | Elaboração | Carlos |  

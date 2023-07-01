@@ -157,15 +157,15 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 24/04 | Criação do cronograma realizado | Ana Beatriz e Breno   |        Carlos       |
-| 2.0   | 10/05 | Adição do cronograma realizado da Etapa 02 | Vitor | Todos |
-| 3.0   | 15/05 | Adição do cronograma realizado da Etapa 03 | Vitor | Todos |
-| 4.0   | 22/05 | Adição do cronograma realizado da Etapa 04 | Vitor | Todos |
-| 5.0 | 29/05 | Adição do cronograma realizado da Etapa 05 | Vitor | Todos |
-| 6.0 | 05/06 | Adição do cronograma realizado da Etapa 06 | Vitor | Todos |
-| 7.0 | 12/06 | Adição do cronograma realizado da Etapa 07 | Vitor | Todos |
-| 8.0 | 19/06 | Adição do cronograma realizado da Etapa 6.2 | Vitor | Todos |
-| 9.0 | 26/06 | Adição do cronograma realizado da Etapa 08 | Vitor | Todos |
+| `1.0`  | 24/04/2023 | Criação do cronograma realizado | Ana Beatriz e Breno   |        Carlos       |
+| `2.0`  | 10/05/2023 | Adição do cronograma realizado da Etapa 02 | Vitor | Todos |
+| `3.0`  | 15/05/2023 | Adição do cronograma realizado da Etapa 03 | Vitor | Todos |
+| `4.0`  | 22/05/2023 | Adição do cronograma realizado da Etapa 04 | Vitor | Todos |
+| `5.0`  | 29/05/2023 | Adição do cronograma realizado da Etapa 05 | Vitor | Todos |
+| `6.0`  | 05/06/2023 | Adição do cronograma realizado da Etapa 06 | Vitor | Todos |
+| `7.0`  | 12/06/2023 | Adição do cronograma realizado da Etapa 07 | Vitor | Todos |
+| `8.0`  | 19/06/2023 | Adição do cronograma realizado da Etapa 6.2 | Vitor | Todos |
+| `9.0`  | 26/06/2023 | Adição do cronograma realizado da Etapa 08 | Vitor | Todos |
 
 ## Referências
 

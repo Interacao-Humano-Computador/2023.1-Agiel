@@ -129,6 +129,6 @@ SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Compu
 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
-|  1.0   | 08/05 | Adição do mapa de calor | Pedro e Vitor | Carlos |
-|  1.0   | 08/05 | Adição do player de vídeo | Pedro e Vitor | Carlos |
-|  1.1   | 10/05 | Adição dos objetivos | Vitor | Carlos |
+| `1.0`  | 08/05 | Adição do mapa de calor | Pedro e Vitor | Carlos |
+| `1.1`  | 08/05 | Adição do player de vídeo | Pedro e Vitor | Carlos |
+| `1.2`  | 10/05 | Adição dos objetivos | Vitor | Carlos |

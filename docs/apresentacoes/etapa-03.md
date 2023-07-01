@@ -18,7 +18,7 @@ A apresentação da etapa 03 tem o intuito de mostrar o que foi desenvolvido at�
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 15/05 | Adição de modelo de aba para etapa 03 | Vitor Borges | Todos|
+| `1.0` | 15/05/2023 | Adição de modelo de aba para etapa 03 | Vitor Borges | Todos|
 
 ## Referências
 > Princípios Gerais do Projeto. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/requisitos/principios_gerais.md>

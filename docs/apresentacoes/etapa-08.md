@@ -17,9 +17,9 @@ A apresentação da etapa 8 tem o intuito de mostrar o que foi desenvolvido até
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 25/06 | Adição de modelo de aba para etapa 08 | Vitor Borges | Todos |
-|  1.1   | 26/06 | Adição das referências do trabalho feito na etapa 08 | Vitor Borges | Todos |
-|  1.2   | 26/06 | Adição do vídeo de apresentação da etapa 08 | Vitor Borges | Todos |
+| `1.0`  | 25/06/2023 | Adição de modelo de aba para etapa 08 | Vitor Borges | Todos |
+| `1.1`  | 26/06/2023 | Adição das referências do trabalho feito na etapa 08 | Vitor Borges | Todos |
+| `1.2`  | 26/06/2023 | Adição do vídeo de apresentação da etapa 08 | Vitor Borges | Todos |
 
 ## Referências
 

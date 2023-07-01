@@ -83,4 +83,4 @@ Durante a avaliação não foram encontrados problemas com o storyboard, tampouc
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| 1.0  | 29/05/2023 | Criação do documento | Pedro Siqueira |  Ana Beatriz  |
+| `1.0`  | 29/05/2023 | Criação do documento | Pedro Siqueira |  Ana Beatriz  |

@@ -106,8 +106,8 @@ A tabela 4 apresenta o checklist de verificação do artefato de [Planejamento d
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 15/06  | Introdução, Objetivo e Metodologia | Vitor | |
-|  1.1   | 19/06  | Verficação: Relato dos resultados do Storyboard, Relato dos resultados da Análise de tarefas, Planejamento da Avaliação do Protótipo de Papel, Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Breno Yuri | Ana Beatriz |
+| `1.0`  | 15/06/2023  | Introdução, Objetivo e Metodologia | Vitor | |
+| `1.1`  | 19/06/2023  | Verficação: Relato dos resultados do Storyboard, Relato dos resultados da Análise de tarefas, Planejamento da Avaliação do Protótipo de Papel, Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Breno Yuri | Ana Beatriz |
 
 ## Referências
 ```

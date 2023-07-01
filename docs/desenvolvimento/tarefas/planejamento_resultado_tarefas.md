@@ -68,4 +68,4 @@
 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
-|  1.0   | 22/05 | Criação do documento | Pedro Siqueira | Ana Beatriz |
+| `1.0`  | 22/05/2023 | Criação do documento | Pedro Siqueira | Ana Beatriz |

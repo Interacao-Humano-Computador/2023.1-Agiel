@@ -18,7 +18,7 @@ A apresentação da etapa 02 tem o intuito de mostrar o que foi desenvolvido at�
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 08/05 | Adição da apresentação etapa 02 do projeto | Vitor Borges | Todos|
+| `1.0` | 08/05/2023 | Adição da apresentação etapa 02 do projeto | Vitor Borges | Todos|
 
 ## Referências
 > Perfil do Usuário. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/requisitos/perfil_do_usuario.md>

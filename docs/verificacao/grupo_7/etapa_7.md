@@ -80,8 +80,8 @@ A tabela 3 apresenta o checklist de verificação do artefato de [Planejamento d
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 15/06  | Introdução, Objetivo e Metodologia | Vitor | |
-|  1.1   | 19/06  | Verficação: Relato dos resultados do protótipo de papel, Planejamento da avaliação de protótipo de alta fidelidade e planejamento do relato dos resultados do protótipo de alta fidelidade | Pedro Siqueira | Vitor |
+| `1.0`  | 15/06/2023  | Introdução, Objetivo e Metodologia | Vitor | |
+| `1.1`  | 19/06/2023  | Verficação: Relato dos resultados do protótipo de papel, Planejamento da avaliação de protótipo de alta fidelidade e planejamento do relato dos resultados do protótipo de alta fidelidade | Pedro Siqueira | Vitor |
 ## Referências
 ```
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

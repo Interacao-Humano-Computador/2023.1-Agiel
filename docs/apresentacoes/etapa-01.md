@@ -21,7 +21,7 @@ A apresentação da etapa 01 tem o intuito de mostrar o que foi desenvolvido at�
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 27/04 | Adição da apresentação etapa 01 do projeto | Vitor Borges | Todos|
+|  `1.0`   | 27/04/2023 | Adição da apresentação etapa 01 do projeto | Vitor Borges | Todos|
 
 ## Referências
 > Aba de planejamento do projeto. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/tree/main/docs/planejamento><br>

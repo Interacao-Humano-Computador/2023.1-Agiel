@@ -38,5 +38,5 @@ A tabela 1 apresenta o checklist de verificação do artefato de [Verificação 
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 15/06  | Introdução, Objetivo e Metodologia | Vitor | |
-|  1.1   | 15/06  | Adição do checklist geral da verificação de artefatos do grupo 08 | Vitor | |
+| `1.0`  | 15/06/2023  | Introdução, Objetivo e Metodologia | Vitor | |
+| `1.1`  | 15/06/2023  | Adição do checklist geral da verificação de artefatos do grupo 08 | Vitor | |

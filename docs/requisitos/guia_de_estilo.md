@@ -159,6 +159,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão |    Data    |      Descrição       |   Autor(es)    | Revisor(es) |
 |:------:|:----------:|:--------------------:|:--------------:|:-----------:|
-|  1.0   | 15/05/2023 | Criação do documento e da Introdução| Ana Beatriz |    Breno   |
-|  1.1   | 15/05/2023 | Adicionando o resultado de analise e elementos de interface | Ana Beatriz |    Breno   |
-|  1.2   | 15/05/2023 | Adicionando elementos de interação, ação e vocabulário  | Ana Beatriz |    Breno   |
+| `1.0`  | 15/05/2023 | Criação do documento e da Introdução| Ana Beatriz |    Breno   |
+| `1.1`  | 15/05/2023 | Adicionando o resultado de analise e elementos de interface | Ana Beatriz |    Breno   |
+| `1.2`  | 15/05/2023 | Adicionando elementos de interação, ação e vocabulário  | Ana Beatriz |    Breno   |

@@ -19,8 +19,8 @@ Saber escolher as ferramentas corretas pode otimizar o trabalho, tornando-o mais
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 23/04 | Adição das ferramentas utilizadas | Vitor Borges   | Carlos        |
-|  1.1   | 27/04 | Adição de novas ferramentas e referências | Vitor Borges | Vitor Borges|
+| `1.0`   | 23/04/2023 | Adição das ferramentas utilizadas | Vitor Borges   | Carlos        |
+| `1.1`   | 27/04/2023 | Adição de novas ferramentas e referências | Vitor Borges | Vitor Borges|
 
 ## Referências
 

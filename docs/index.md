@@ -23,6 +23,6 @@ Figura 1: Logo da Agiel (Fonte: [agiel.com.br](https://www.agiel.com.br/site/))
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
-| 19/04/2023 | `1.0` | Versão inicial de documento de descrição do projeto | Ana Beatriz e Breno Yuri | Carlos Daniel |
-| 27/04/2023 | `1.0` | Atualiza gitpages para o site usado no projeto | Carlos Daniel | Pedro Siqueira |
-| 02/05/2023 | `1.1` | Atualização visual do gitpages | Pedro Siqueira e Bruno Henrique | Ana Beatriz |
+| `1.0` | 19/04/2023 | Versão inicial de documento de descrição do projeto | Ana Beatriz e Breno Yuri | Carlos Daniel |
+| `2.0` | 27/04/2023 | Atualiza gitpages para o site usado no projeto | Carlos Daniel | Pedro Siqueira |
+| `3.0` | 02/05/2023 | Atualização visual do gitpages | Pedro Siqueira e Bruno Henrique | Ana Beatriz |

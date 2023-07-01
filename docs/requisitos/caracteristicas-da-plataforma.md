@@ -71,7 +71,7 @@ No momento do cadastro, uma mensagem tranquilizadora é exibida: "Fique tranquil
 
 | Versão |    Data    |              Descrição             | Autor      |  Revisor       |
 | :----: | :--------: | :--------------------------------: | :--------: | :------------: |
-|  1.0   | 15/05/2023 | Desenvolvimento do documento.      | Breno Yuri | Bruno Henrique |
+| `1.0`  | 15/05/2023 | Desenvolvimento do documento.      | Breno Yuri | Bruno Henrique |
 
 ## Referências
 

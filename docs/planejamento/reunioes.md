@@ -17,9 +17,9 @@ Com o intuito de ter reuniões com todos os membros da equipe, com o auxílio de
 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
-|  1.0   | 21/04 | Adição do mapa de calor | Vitor Borges | Carlos Daniel |
-|  1.1   | 23/04 | Aba movida para planejamento     | Vitor Borges | Carlos Daniel | 
-|  1.2   | 27/04 | Adiçao de referências            | Vitor Borges | Carlos Daniel |
+| `1.0`  | 21/04/2023 | Adição do mapa de calor | Vitor Borges | Carlos Daniel |
+| `1.1`  | 23/04/2023 | Aba movida para planejamento     | Vitor Borges | Carlos Daniel | 
+| `1.2`  | 27/04/2023 | Adiçao de referências            | Vitor Borges | Carlos Daniel |
   
 ## Referências
 > Saiba mais sobre mapas de calor: <https://pt.wikipedia.org/wiki/Mapa_de_calor> Acesso em 27/04

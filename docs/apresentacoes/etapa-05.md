@@ -18,4 +18,4 @@ A apresentação da etapa 05 tem o intuito de mostrar o que foi desenvolvido at�
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
-|  1.0   | 28/05 | Adição de modelo de aba para etapa 05 | Vitor Borges | Todos|
+| `1.0`  | 28/05/2023 | Adição de modelo de aba para etapa 05 | Vitor Borges | Todos|
