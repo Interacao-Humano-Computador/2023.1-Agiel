@@ -29,7 +29,7 @@ A avaliação tem como objetivo principal confirmar a usabilidade do site AGIEL 
 Com esses objetivos, buscamos garantir uma experiência de uso satisfatória e intuitiva para os usuários do site AGIEL.
 
 ### 3.2 E - Explorar perguntas a serem respondidas:
-As perguntas abaixo serão usadas durante a entrevista com o usuário.
+As perguntas abaixo, na tabela 1, serão usadas durante a entrevista com o usuário.
 | Nº | Pergunta | Resposta |
 |:--:|:--------:|:-------:|
 | 1  | Você acha que os protótipos de papel apresentados são fáceis de entender e utilizar? | [ ] Sim<br>[ ] Não |
@@ -39,7 +39,8 @@ As perguntas abaixo serão usadas durante a entrevista com o usuário.
 | 5  | Dos protótipos de papel apresentados, há algum que você acredita que precise de melhorias para facilitar a compreensão e uso pelos usuários? | Número do protótipo |
 | 6  | Quais sugestões você teria para tornar esse protótipo de papel mais claro e fácil de usar? | Resposta aberta |
 
-<figcaption align="center">Tabela 1 com as perguntas - Fonte: Breno</figcaption>
+<h6 align = "center"> Tabela 1: Perguntas para entrevista
+<br> Autor: Breno </h6>
 
 ### 3.3 C - Escolher (Choose) os métodos de avaliação:
 No planejamento da avaliação do protótipo de papel, decidimos utilizar entrevistas como método de coleta de dados. As entrevistas são uma abordagem qualitativa que nos permite obter percepções valiosas e feedback direto dos usuários. Essa escolha nos proporcionará uma compreensão aprofundada das experiências e opiniões dos usuários em relação ao protótipo de papel, permitindo-nos identificar áreas de melhoria e realizar ajustes necessários para aprimorar a usabilidade e a eficácia do projeto.
@@ -54,13 +55,14 @@ Para garantir uma amostra representativa, definimos o perfil de usuários adequa
 Após selecionar os participantes, entramos em contato com cada um deles para agendar as entrevistas de forma individualizada. Levamos em consideração suas disponibilidades e preferências para garantir a participação de todos. Ao realizar o agendamento de forma cuidadosa, podemos facilitar a participação dos usuários e obter um conjunto diversificado de perspectivas sobre o protótipo de papel.
 
 #### Cronograma das entrevistas
-
+A Tabela 2 registra o cronograma das entrevistas.
 | Data  | Horário | Local  |         Atividade          | Entrevistador(es) | Entrevistado(s)  |
 |:-----:|:-------:|:------:|:--------------------------:|:-----------------:|:----------------:|
 | 29/05 |  19:30  | Remoto | Realização do teste piloto |    Breno          |  Bruno Camargos  |
 | 29/05 |  20:00  | Remoto |  Realização da entrevista  |    Breno          | Danielle Barbosa |
 | 29/05 |  20:00  | Remoto |  Realização da entrevista  |    Ana Beatriz    |  Lívia Rodrigues |
-<figcaption align="center">Tabela 2 - Fonte: Ana Beatriz e Breno</figcaption>
+<h6 align = "center"> Tabela 2: Cronograma das entrevistas
+<br> Autor: Ana Beatriz e Breno </h6>
 
 ### 3.5 D - Decidir como lidar com as questões éticas:
 Elaboramos um Termo de Consentimento. Esse termo tem como objetivo garantir a proteção dos participantes e o cumprimento dos princípios éticos ao conduzir a avaliação.
@@ -112,10 +114,18 @@ Na figura 3 temos o protótipo de papel da tarefa de cadastrar uma instituição
 
 <figcaption align="center">Imagem 3 - Protótipo de Papel - Tarefa: Cadastrar uma instituição de ensino. Fonte: Breno Yuri</figcaption>
 
-## 5. Bibliografia
-> Barbosa, S. D. J., Silva, B. S. da, Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2023). Interação Humano-Computador e Experiência do Usuário.*
 
-## 6. Histórico de Versão
+## Histórico de Versão
+A Tabela 3 registra o histórico de versão desse documento.
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 29/05/2023 | Criação do documento e adição do conteúdo | Breno Yuri | Pedro Siqueira |
+| `2.0`  | 03/07/2023  | Padronização do documento |  Ana Beatriz | Breno Yuri |
+
+<h6 align = "center"> Tabela 3: Histórico de Versões
+<br> Autor: Breno </h6>
+
+
+## Bibliografia
+> Barbosa, S. D. J., Silva, B. S. da, Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2023). Interação Humano-Computador e Experiência do Usuário.*
