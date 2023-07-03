@@ -1,6 +1,6 @@
 # Apresentação Etapa 04
 
-## Introdução
+## 1. Introdução
 
 <p align="justify">
 A apresentação da etapa 04 tem o intuito de mostrar o que foi desenvolvido até o dia 15/05 do projeto, a mesma contém:
@@ -11,7 +11,7 @@ A apresentação da etapa 04 tem o intuito de mostrar o que foi desenvolvido at�
 3. <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/desenvolvimento/tarefas/planejamento_tarefas.md">Planejamento da avaliação da Análise de tarefas</a>
 4. <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/desenvolvimento/tarefas/planejamento_resultado_tarefas.md">Planejamento do relato dos resultados da avaliação da Análise de tarefas</a>
 
-## Video da apresentação
+## 2. Video da apresentação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qT6Tj-M2Odk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de Versão

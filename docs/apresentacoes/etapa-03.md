@@ -1,6 +1,6 @@
 # Apresentação Etapa 03
 
-## Introdução
+## 1. Introdução
 
 <p align="justify">
 A apresentação da etapa 03 tem o intuito de mostrar o que foi desenvolvido até o dia 15/05 do projeto, a mesma contém:
@@ -11,7 +11,7 @@ A apresentação da etapa 03 tem o intuito de mostrar o que foi desenvolvido at�
 3. <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/requisitos/guia_de_estilo.md">Guia de Estilo</a>
 4. <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/requisitos/caracteristicas-da-plataforma.md">Características da Plataforma</a>
 
-## Video da apresentação
+## 2. Video da apresentação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9FNERJh48LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de Versão

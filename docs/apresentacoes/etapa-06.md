@@ -1,6 +1,6 @@
 # Apresentação Etapa 6.1
 
-## Introdução
+## 1. Introdução
 
 <p align="justify">
 A apresentação da etapa 6.1 tem o intuito de mostrar o que foi desenvolvido até o dia 05/06 do projeto, a mesma contém:
@@ -12,7 +12,7 @@ A apresentação da etapa 6.1 tem o intuito de mostrar o que foi desenvolvido at
 4. <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_8/etapa_4/">Verificação dos artefatos Grupo 08 - Etapa 04</a>
 5. <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_8/etapa_5/">Verificação dos artefatos Grupo 08 - Etapa 01</a>
 
-## Video da apresentação
+## 2. Video da apresentação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSoKhyvFGm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

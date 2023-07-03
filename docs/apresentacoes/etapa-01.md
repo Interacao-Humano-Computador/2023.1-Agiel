@@ -1,6 +1,6 @@
 # Apresentação Etapa 01
 
-## Introdução
+## 1. Introdução
 
 <p align="justify">
 A apresentação da etapa 01 tem o intuito de mostrar o que foi desenvolvido até o dia 24/04 do projeto, a mesma contém:
@@ -13,7 +13,7 @@ A apresentação da etapa 01 tem o intuito de mostrar o que foi desenvolvido at�
 5. <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/processo_design/">Processo de Design<a> selecionado
 6. Cronograma <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma/">planejado<a> e <a href="https://interacao-humano-computador.github.io/2023.1-Grupo07/planejamento/cronograma_realizado/">realizado<a> detalhado das atividades do projeto
 
-## Video da apresentação
+## 2. Video da apresentação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qOyrZM04N0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

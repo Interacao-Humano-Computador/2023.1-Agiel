@@ -1,6 +1,6 @@
 # Apresentação Etapa 02
 
-## Introdução
+## 1. Introdução
 
 <p align="justify">
 A apresentação da etapa 02 tem o intuito de mostrar o que foi desenvolvido até o dia 08/05 do projeto, a mesma contém:
@@ -11,7 +11,7 @@ A apresentação da etapa 02 tem o intuito de mostrar o que foi desenvolvido at�
 3. <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/requisitos/analise_tarefas.md">Análise das Tarefas</a>
 4. <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/requisitos/aspectos_eticos.md">Aspectos Éticos</a>
 
-## Video da apresentação
+## 2. Video da apresentação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9JlRSLM8Bm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de Versão

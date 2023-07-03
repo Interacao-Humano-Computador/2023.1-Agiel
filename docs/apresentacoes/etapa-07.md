@@ -1,6 +1,6 @@
 # Apresentação Etapa 7
 
-## Introdução
+## 1. Introdução
 
 <p align="justify">
 A apresentação da etapa 7 tem o intuito de mostrar o que foi desenvolvido até o dia 05/06 do projeto, a mesma contém:
@@ -10,7 +10,7 @@ A apresentação da etapa 7 tem o intuito de mostrar o que foi desenvolvido até
 2. <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prototipo_alta_fidelidade/planejamento_alta_fidelidade/">Planejamento da Avaliação do protótipo de alta fidelidade</a>
 3. <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prototipo_alta_fidelidade/planejamento_relato/">Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</a>
 
-## Video da apresentação
+## 2. Video da apresentação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Yolk2PQ_o4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
