@@ -17,12 +17,15 @@ A apresentação da etapa 6.2 tem o intuito de mostrar o que foi desenvolvido at
 <iframe width="560" height="315" src="https://www.youtube.com/embed/au5ujzZn-zM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de Versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 | `1.0`  | 18/06/2023 | Adição de modelo de aba para etapa 6.2 | Vitor Borges | Todos |
 | `1.1`  | 19/06/2023 | Adição do vídeo de apresentação da etapa 6.2 | Vitor Borges | Todos|
 | `1.2`  | 19/06/2023 | Adição das referências | Vitor Borges | Todos|
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Vitor Borges </h6>
 
 ## Referências
 > Verificação dos artefatos da etapa 02 do grupo 07 <https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/verificacao/grupo_7/etapa_2.md>

@@ -12,10 +12,13 @@ A apresentação da etapa 05 tem o intuito de mostrar o que foi desenvolvido at�
 4. <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/desenvolvimento/prot%C3%B3tipo_de_papel/planejamento_relato_resultado_prototipo_papel.md">Planejamento do relato dos resultados da avaliação do Protótipo de Papel</a>
 
 ## 2. Video da apresentação
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ZNzqNc-eK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de Versão
-
+A Tabela 1 registra o histórico de versão desse documento.
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 | `1.0`  | 28/05/2023 | Adição de modelo de aba para etapa 05 | Vitor Borges | Todos|
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Vitor Borges </h6>

@@ -18,10 +18,14 @@ A apresentação da etapa 01 tem o intuito de mostrar o que foi desenvolvido at�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qOyrZM04N0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de Versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 |  `1.0`   | 27/04/2023 | Adição da apresentação etapa 01 do projeto | Vitor Borges | Todos|
+
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Vitor Borges </h6>
 
 ## Referências
 > Aba de planejamento do projeto. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-Grupo07/tree/main/docs/planejamento><br>
