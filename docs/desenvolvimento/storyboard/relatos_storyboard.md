@@ -78,10 +78,13 @@ Segue abaixo os áudios relato das entrevistas.
 Durante a avaliação não foram encontrados problemas com o storyboard, tampouco com a qualidade visual dos mesmos. Após a avaliação, é possível concluir que os storyboards entregues estão de acordo com os usuários e suas necessidades estão representadas nos mesmos. Não há necessidade de alteração.
 
 ## Histórico de Versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 29/05/2023 | Criação do documento | Pedro Siqueira |  Ana Beatriz  |
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Ana Beatriz </h6>
 
 ## Bibliografia
 
