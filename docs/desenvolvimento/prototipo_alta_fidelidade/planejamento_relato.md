@@ -46,8 +46,6 @@ Levando em consideração os problemas encontrados na sessão anterior o avaliad
 ### 2.6 Gravação ou Dados coletados
 Nesta sessão o avaliador deve apresentar as gravações realizadas na avaliação, caso haja mudanças após o teste piloto ou haja a necessidade de realizar uma nova avaliação as gravações devem ser adicionados posteriormente. Além disso deve-se apresentar uma visão geral dos dados coletados na avaliação.
 
-## 3. Bibliografia
-[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de Versão
 
@@ -55,3 +53,7 @@ Nesta sessão o avaliador deve apresentar as gravações realizadas na avaliaç�
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
 | `1.0`  | 12/06/2023 | Criação do artefato |   Vitor e Breno   |    Bruno Henrique    |
 | `1.1` | 12/06/2023 | Adição das sessões | Vitor e Breno | Bruno
+| `2.0`  | 03/07/2023  | Padronização do documento |  Ana Beatriz | Bruno |
+
+## 3. Bibliografia
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

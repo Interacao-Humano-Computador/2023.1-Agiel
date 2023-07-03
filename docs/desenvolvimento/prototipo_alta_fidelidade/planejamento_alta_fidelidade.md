@@ -1,6 +1,6 @@
 # Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
-## Introdução
+## 1. Introdução
 
 O  artefato seguinte trata sobre o planejamento da avaliação do protótipo de alta fidelidade, que será elaborado para o sistema web Agiel. Tal planejamento da avaliação baseia-se nos ritos do _framework_ DECIDE:
 
@@ -11,7 +11,7 @@ O  artefato seguinte trata sobre o planejamento da avaliação do protótipo de 
 - D: Decidir como lidar com as questões éticas
 - E: Avaliar, interpretar e apresentar os dados
 
-## Objetivos
+## 2. Objetivos
 
 A avaliação do protótipo de alta fidelidade tem como principal objetivo identificar problemas na interação e interface do protótipo de alta fidelidade produzido pelo grupo. Algumas questões devem ser respondidas com a avaliação:
 
@@ -22,13 +22,13 @@ A avaliação do protótipo de alta fidelidade tem como principal objetivo ident
 - Quais problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? Onde eles se manifestam? Com qual frequência ocorrem? Qual a gravidade deles?
 - Quais barreiras o usuário encontra para atingir seus objetivos?
 
-## Metodologia
+## 3. Metodologia
 
 <p align="justify">
 A avaliação será feita em um ambiente controlado, pois esse tipo de avaliação fornece um maior controle sobre as interferências do ambiente na interação entre o sistema e usuário, além de proporcionar fácil tratamento de dados. A avaliação será realizada através de um teste de usabilidade, que utiliza o método de observação. O teste de usabilidade visa proporcionar maior precisão em relação à avaliação dos artefatos elaborados no protótipo de alta fidelidade.
 </p>
 
-## Questões práticas
+## 4. Questões práticas
 
 A preparação para a avaliação consiste em:
 
@@ -43,13 +43,13 @@ Antes de iniciar a coleta de dados, o grupo deve preparar o material para avalia
 - Termo de consentimento
 - Orientações para o usuário, como as tarefas que serão realizadas e o comportamento esperado
 
-### Recrutamento dos participantes
+### 4.1 Recrutamento dos participantes
 
 <p align="justify">
 De acordo com Krug, um teste de usabilidade realizado com 3/4 participantes é suficiente para detectar a maioria dos problemas [3]. Tal escopo também permite a realização de todas as entrevistas em um curto espaço de tempo. Devido ao tempo disponível, além de demais atividades, o teste será realizado com 3 participantes. Caso seja possível/haja necessidade de aumento do escopo de participantes na avaliação, este número pode subir para 4 participantes, com as devidas mudanças documentadas. Através do perfil de usuário definido previamente no projeto, o perfil a ser procurado se trata de idade universitária padrão(18 a 25 anos), com grande familiaridade e tempo gasto em tecnologias. Esta busca será feita por fóruns e grupos em redes sociais da Universidade de Brasília, podendo também ser efetuada em outras faculdades. Após identificar um potencial participante, o membro do grupo deve confirmar tais características com o mesmo.
 </p>
 
-### Cronograma da avaliação
+### 4.2 Cronograma da avaliação
 
 As datas, horários e atribuições abaixo estão sujeitas à alteração. Tais alterações devem ser realizadas com antecedência, e caso aconteçam, devem ser registradas no cronograma abaixo.
 <div style="text-align: center">
@@ -72,31 +72,31 @@ Tabela 1 - Cronograma da Avaliação.
 </div>
 </p> 
 
-### Papéis dos Avaliadores
+### 4.3 Papéis dos Avaliadores
 
 <p align="justify">
 Durante a entrevista, um membro do grupo deverá exercer o papel de avaliador. O membro em questão ficará responsável por observar e validar os comportamentos, comunicação não verbal e respostas do entrevistado, tal qual o cumprimento das tarefas por parte do usuário, além de conduzir a entrevista.
 </p>
 
-### Ferramentas utilizadas na avaliação
+### 4.4 Ferramentas utilizadas na avaliação
 
 <p align="justify">
 A entrevista será realizada no Microsoft Teams, utilizando os mecanismos de gravação e reunião da plataforma. Os avaliadores e o entrevistado podem também utilizar materiais físicos para fazer registros durante a entrevista. Em caso de impossibilidade de utilização da plataforma, o grupo deve levantar e utilizar uma plataforma que contenha as mesmas especificações citadas acima, como Google Meet e Zoom.
 </p>
 
-### Teste piloto
+### 4.5 Teste piloto
 
 <p align="justify">
 Antes da execução da entrevista, será realizado um teste piloto, mediante cronograma do planejamento, presente no atual documento. O teste piloto consistirá na execução da avaliação com um integrante do grupo, para avaliar o funcionamento correto das feramentas e artefatos, além da qualidade dos registros.
 </p>
 
-## Questões Éticas
+## 5. Questões Éticas
 
 <p align="justify">
 Como a avaliação do protótipo de alta fidelidade é realizada juntamente com participantes recrutados, é necessário apresentar aos mesmos o aspectos éticos definidos para o projeto e validar a participação a partir da confirmação dos participantes.
 </p>
 
-## Relato de Resultados
+## 6. Relato de Resultados
 
 A avaliação, interpretação e apresentação dos dados obtidos será feita por meio do relato de resultados, de acordo com o planejamento de relato de resultados realizado.
 
@@ -109,9 +109,9 @@ O relato deve conter:
 - Tabelas e gráficos que sumarizam as medições realizadas;
 - Uma lista de problemas encontrados.
 
-## Material de Apoio
+## 7. Material de Apoio
 
-### Termo de Consentimento livre e esclarecido
+### 7.1 Termo de Consentimento livre e esclarecido
 
 <p align="justify">
 Antes de iniciar a avaliação, o avaliador deve apresentar o termo de consentimento ao entrevistado e verificar o consentimento em relação à participação do mesmo na entrevista, assim como a disponibilização de sua imagem para fins internos.
@@ -139,7 +139,7 @@ Assim, estou ciente das informações acima e autorizo a utilização dos meus d
 
 -----
 
-### Protótipo de Alta Fidelidade
+### 7.2 Protótipo de Alta Fidelidade
 
 <p align="justify">
 Antes de iniciar a avaliação, o avaliador deve deixar claro para o usuário o que é um protótipo, é possível utilizar o texto abaixo para contextualização.
@@ -147,7 +147,7 @@ A prototipagem de alta fidelidade utiliza materiais que você espera que estejam
 A utilização de protótipos, seja de baixa ou alta fidelidade, facilita a comunicação entre os membros da equipe e o dono do produto, além de auxiliar a equipe de desenvolvimento a tomar decisões de design.
 </p>
 
-### Roteiro de Tarefas
+### 7.3 Roteiro de Tarefas
 
 O usuário deverá executar as seguintes tarefas no protótipo de alta fidelidade:
 
@@ -158,16 +158,18 @@ O usuário deverá executar as seguintes tarefas no protótipo de alta fidelidad
 
 O avaliador deverá apresentar para o usuário o caminho que ele deverá executar dentro do sistema para realizar as tarefas e os dados que deverão ser inseridos nos campos, caso necessário.
 
-## Bibliografia
-
-[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-
-[2] PREECE, J. Design de Interação: Além da interação homem-computador. Editora Bookman, 2013.
-
-[3] Avaliação E Projeto No Design De Interfaces Capa comum – 1 janeiro 2010. Edição Português por José Guilherme Santa Rosa (Autor).
 
 ## Histórico de Versão
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 12/06/2023  | Criação do documento|  Pedro Siqueira | Vitor Borges |
+| `2.0`  | 03/07/2023  | Padronização do documento |  Ana Beatriz | Vitor Borges |
+
+## Bibliografia
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+> [2] PREECE, J. Design de Interação: Além da interação homem-computador. Editora Bookman, 2013.
+
+> [3] Avaliação E Projeto No Design De Interfaces Capa comum – 1 janeiro 2010. Edição Português por José Guilherme Santa Rosa (Autor).
