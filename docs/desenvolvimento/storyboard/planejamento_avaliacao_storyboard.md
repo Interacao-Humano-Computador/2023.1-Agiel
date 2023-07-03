@@ -1,9 +1,9 @@
 # Planejamento da avaliação - Storyboard
 
-## Introdução
+## 1. Introdução
 Este documento apresenta o planejamento da avaliação do storyboard do site Agiel. O objetivo da avaliação é identificar possíveis melhorias no design e na usabilidade do storyboard, a fim de otimizar a experiência do usuário. A avaliação será conduzida utilizando a framework DECIDE, que oferece uma estrutura sistemática para a análise e avaliação de interfaces digitais.
 
-## Metodologia
+## 2. Metodologia
 A metodologia utilizada nesta avaliação seguirá a framework DECIDE, que é composta por seis etapas distintas:
 
 - D - Determinar os objetivos da avaliação dos storyboards;
@@ -13,15 +13,15 @@ A metodologia utilizada nesta avaliação seguirá a framework DECIDE, que é co
 - D - Decidir como lidar com as questões éticas;
 - E - Avaliar (Evaluate), interpretar e apresentar os dados.
 
-## Planejamento da Avaliação
+## 3. Planejamento da Avaliação
 
-### 1. D - Determinar os objetivos:
+### 3.1 D - Determinar os objetivos:
  - Identificar possíveis problemas de usabilidade no storyboard do site Agiel.
  - Propor melhorias para aprimorar a experiência do usuário.
 
-### 2. E - Explorar perguntas a serem respondidas:
+### 3.2 E - Explorar perguntas a serem respondidas:
 
-As perguntas abaixo serão usadas durante a entrevista com o usuário.
+As perguntas abaixo, tabela 1, serão usadas durante a entrevista com o usuário.
 
 | Nº |                                             Pergunta                                              |        Resposta         |
 |:--:|:-------------------------------------------------------------------------------------------------:|:-----------------------:|
@@ -31,33 +31,38 @@ As perguntas abaixo serão usadas durante a entrevista com o usuário.
 | 4  |    Você teria alguma sugestão de melhoria ou alteração em algum dos storyboards apresentados?     | [ ] Sim <br>[ ] Não<br> |
 | 5  |         Qual dos storyboards apresentados você gostaria de contribuir com a sua opinião?          |  Número do storyboard   |
 | 6  |               Qual sugestão de melhoria ou alteração você gostaria de compartilhar?               |     Resposta aberta     |
+<h6 align = "center"> Tabela 1: Perguntas para entrevista
+<br> Autor: Bruno  </h6>
 
-<figcaption align="center">Tabela 1 com as perguntas - Fonte: Bruno</figcaption>
-
-### 3. C - Escolher (Choose) os métodos de avaliação:
+### 3.3 C - Escolher (Choose) os métodos de avaliação:
 No planejamento da avaliação do storyboard, optamos por utilizar entrevistas como método de coleta de dados. As entrevistas são uma técnica qualitativa que nos permite obter insights valiosos e feedback direto dos usuários.
 
-### 4. I - Identificar e administrar as questões práticas:
+### 3.4 I - Identificar e administrar as questões práticas:
 
-#### Seleção e recrutamento dos participantes: 
+#### 3.4.1 Seleção e recrutamento dos participantes: 
 Para garantir uma amostra representativa, identificamos o perfil de usuários adequado e realizamos o recrutamento de amigos para as entrevistas.
 
-#### Agendamento das entrevistas: 
+#### 3.4.2 Agendamento das entrevistas: 
 Entramos em contato com os participantes selecionados, agendando as entrevistas individualmente. Consideramos suas disponibilidades para garantir a participação de todos.
 
-#### Cronograma das entrevistas
+#### 3.4.3 Cronograma das entrevistas
+
+A Tabela 2 registra o cronograma das entrevistas
 
 | Data  | Horário | Local  |         Atividade          | Entrevistador(es) | Entrevistado(s)  |
 |:-----:|:-------:|:------:|:--------------------------:|:-----------------:|:----------------:|
 | 26/05 |  19:30  | Remoto | Realização do teste piloto |    Ana Beatriz    |      Bruno       |
 | 26/05 |  20:00  | Remoto |  Realização da entrevista  |    Ana Beatriz    | Danielle Barbosa |
 | 26/05 |  20:00  | Remoto |  Realização da entrevista  |       Bruno       |  Pedro Siqueira  |
-<figcaption align="center">Tabela 2 - Fonte: Ana Beatriz e Bruno</figcaption>
 
-### 5. D - Decidir como lidar com as questões éticas:
+<h6 align = "center"> Tabela 2: Cronograma das entrevistas
+<br> Autor: Ana Beatriz e Bruno  </h6>
+
+
+### 3.5 D - Decidir como lidar com as questões éticas:
 Elaboramos um Termo de Consentimento. Esse termo tem como objetivo garantir a proteção dos participantes e o cumprimento dos princípios éticos ao conduzir a avaliação.
 
-#### 5.1 Termo de Consentimento
+#### 3.5.1 Termo de Consentimento
 
 <p align="justify">
 Para a realização das entrevistas, os entrevistados devem ler e concordar com o seguinte termo de consentimento:
@@ -81,11 +86,11 @@ Dessa forma, gostaríamos que você pronunciasse em alto e bom som:
 </p>
 <b>Eu, [nome do entrevistado], aceito os termos e dou meu consentimento para a realização da entrevista.</b>
 
-### 6. E - Avaliar (Evaluate), interpretar e apresentar os dados:
+### 3.6 E - Avaliar (Evaluate), interpretar e apresentar os dados:
 
 Com base na análise dos dados, identificaremos padrões, tendências e insights relevantes para aprimorar o storyboard. Os resultados seram interpretados e organizados de forma clara e concisa, e uma apresentação dos principais pontos será preparada.
 
-## Storyboards Desenvolvidos
+## 4. Storyboards Desenvolvidos
 As imagens 1 - 5 são os storyboards feitos pela equipe.
 ![](./img/storyboard-1.jpg)
 <figcaption align="center">Imagem 1 - Storyboard Canditadar a uma vaga. Fonte: Ana Beatriz</figcaption>
@@ -106,9 +111,14 @@ As imagens 1 - 5 são os storyboards feitos pela equipe.
 <figcaption align="center">Imagem 6 - Storyboard Atualização de currículo. Fonte: Carlos Daniel</figcaption>
 
 ## Histórico de Versão
+A Tabela 3 registra o histórico de versão desse documento.
 
 | Versão |    Data    |                  Descrição                   |  Autor(es)  | Revisor(es) |
 |:------:|:----------:|:--------------------------------------------:|:-----------:|:-----------:|
 | `1.0`  | 22/05/2023 |             Criação do documento             | Ana Beatriz |    Bruno    |
 | `1.1`  | 22/05/2023 | Adição do termo de consentimento e perguntas |    Bruno    | Ana Beatriz |
 | `1.2`  | 03/06/2023 | Adição de um novo storyboard |    Carlos   | Ana Beatriz |
+
+
+<h6 align = "center"> Tabela 3: Histórico de Versões
+<br> Autor: Ana Beatriz </h6>

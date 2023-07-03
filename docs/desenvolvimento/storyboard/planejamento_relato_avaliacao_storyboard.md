@@ -33,13 +33,15 @@ Após a avaliação, certamente surgirão pontos a melhoras que devem ser docume
 ### 2.6 Gravação ou Dados coletados
 Por fim, é necessário apresentar a gravação do teste piloto, bem como a gravação da avaliação em si. Caso a atividade seja feita via formulários, os dados obtidos devem ser apresentados de forma gráfica e textual.
 
-## 4. Bibliografia
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```
-
 ## Histórico de Versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão |    Data    |               Descrição                | Autor(es) | Revisor(es) |
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
 | `1.0`  | 22/05/2023 | Criação do artefato |   Carlos   |    Vitor    |
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Carlos </h6>
+
+## Bibliografia
+
+>BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
