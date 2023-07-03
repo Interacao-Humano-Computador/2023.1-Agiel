@@ -1,21 +1,21 @@
 # Verificicação dos artefatos da etapa 03 do Grupo 07 (Agiel)
 
-## Introdução
+## 1. Introdução
 <p align="justify">
 A verificação da qualidade dos artefatos produzidos em um projeto desempenha um papel fundamental no controle de qualidade de um projeto de IHC. Garantir que os artefatos entregues satisfaçam requisitos preestabelecidos individualmente resulta em um projeto final de muito mais valor.
 </p>
 
-## Objetivo
+## 2. Objetivo
 <p align="justify">
 Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel">grupo 07</a>, responsável pela avaliação do site <a href="https://www.agiel.com.br/site/">Agiel</a>, na etapa 03.
 </p>
 
-## Metodologia
+## 3. Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-## Verificação
+## 4. Verificação
 
-#### Princípios Gerais de Projeto
+#### 4.1 Princípios Gerais de Projeto
 
 A tabela 1 apresenta o checklist de verificação do artefato de [Princípios Gerais de Projeto](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/principios_gerais/). Esse checklist foi criado com base  no livro [Interação Humano-Computador](#referências).
 A verificação é da versão 1.0 e foi realizada no dia 18/06 pela integrante Ana Beatriz.
@@ -35,11 +35,10 @@ A verificação é da versão 1.0 e foi realizada no dia 18/06 pela integrante A
 | 11 | O artefato cria fluxos de tarefas que representem as sequências de ações realizadas pelos usuários para atingir seus objetivos, levando em consideração as diferentes tarefas que podem ser executadas no sistema.| Não | O artefato não apresenta fluxos de tarefas que representem as sequências de ações realizadas pelos usuários. |
 
 <h6 align = "center"> Tabela 1: Checklist para Verificação
-<br> Autor(es): Ana Beatriz
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Ana Beatriz</h6>
 
 
-#### Metas de usabilidade
+#### 4.2 Metas de usabilidade
 
 A tabela 2 apresenta o checklist de verificação do artefato de [Metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/metas_usabilidade/). Esse checklist foi criado com base  no livro [Interação Humano-Computador](#referências).
 A verificação é da versão 1.0 e foi realizada no dia 18/06 pela integrante Ana Beatriz.
@@ -56,10 +55,9 @@ A verificação é da versão 1.0 e foi realizada no dia 18/06 pela integrante A
 | 08 | O artefato documentar os requisitos específicos de usabilidade, incluindo aspectos como facilidade de aprendizagem, eficiência, satisfação do usuário, acessibilidade, entre outros.| Sim | |
 
 <h6 align = "center"> Tabela 2: Checklist para Verificação
-<br> Autor(es): Ana Beatriz
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Ana Beatriz</h6>
 
-#### Guia de Estilo
+#### 4.3 Guia de Estilo
 
 A tabela 3 apresenta o checklist de verificação do artefato [Guia de Estilo](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/guia_de_estilo/). Esse checklist foi criado com base  no livro [Interação Humano-Computador e Experiência do usuário](#referências).
 A verificação é da versão 1.2 e foi realizada no dia 19/06 pela integrante Ana Beatriz.
@@ -83,10 +81,9 @@ A verificação é da versão 1.2 e foi realizada no dia 19/06 pela integrante A
 
 
 <h6 align = "center"> Tabela 3: Checklist para Verificação
-<br> Autor(es): Ana Beatriz
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Ana Beatriz</h6>
 
-#### Características da plataforma para o projeto
+#### 4.4 Características da plataforma para o projeto
 
 A tabela 4 apresenta o checklist de verificação do artefato [Características da plataforma](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/caracteristicas-da-plataforma/) para o projeto. Esse checklist foi criado com base no documento [Características da plataforma [Arquivo Markdown]](https://github.com/Interacao-Humano-Computador/2022.2-Skoob/blob/main/docs/analise-de-requisitos/caracteristicas-da-plataforma.md?plain=1).
 A verificação é da versão 1.0 e foi realizada no dia 19/06 pela integrante Ana Beatriz.
@@ -105,13 +102,11 @@ A verificação é da versão 1.0 e foi realizada no dia 19/06 pela integrante A
 | 09 | O artefato possui informações sobre como os usuários podem obter suporte em caso de dúvidas ou problemas, bem como recursos adicionais, como documentação técnica, tutoriais ou FAQs. | Sim |  |
 
 <h6 align = "center"> Tabela 4: Checklist para Verificação
-<br> Autor(es): Ana Beatriz
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Ana Beatriz</h6>
 
 ## Histórico de Versão
 
 A Tabela 5 registra o histórico de versão desse documento.
-
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
@@ -120,16 +115,13 @@ A Tabela 5 registra o histórico de versão desse documento.
 | `1.2`  | 19/06/2023  | Verificação do Guia de Estilo e Características da plataforma | Ana Beatriz | Bruno Henrique |
 
 <h6 align = "center"> Tabela 5: Histórico de Versões
-<br> Autor(es): Vitor e Ana Beatriz
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Vitor e Ana Beatriz</h6>
 
-## Referências
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```
-```
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677
-```
-```
-Mendonça, H. F. (15 de maio de 2023). Características da plataforma [Arquivo Markdown]. GitHub. Disponível em: https://github.com/Interacao-Humano-Computador/2022.2-Skoob/blob/main/docs/analise-de-requisitos/caracteristicas-da-plataforma.md?plain=1
-```
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677
+
+> Mendonça, H. F. (15 de maio de 2023). Características da plataforma [Arquivo Markdown]. GitHub. Disponível em: https://github.com/Interacao-Humano-Computador/2022.2-Skoob/blob/main/docs/analise-de-requisitos/caracteristicas-da-plataforma.md?plain=1
+

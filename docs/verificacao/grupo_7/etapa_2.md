@@ -1,21 +1,21 @@
 # Verificicação dos artefatos da etapa 02 do Grupo 07 (Agiel)
 
-## Introdução
+## 1. Introdução
 <p align="justify">
 A verificação da qualidade dos artefatos produzidos em um projeto desempenha um papel fundamental no controle de qualidade de um projeto de IHC. Garantir que os artefatos entregues satisfaçam requisitos preestabelecidos individualmente resulta em um projeto final de muito mais valor.
 </p>
 
-## Objetivo
+## 2. Objetivo
 <p align="justify">
 Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel">grupo 07</a>, responsável pela avaliação do site <a href="https://www.agiel.com.br/site/">Agiel</a>, na etapa 02 (<a href="https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/cronograma/#etapa-2-analise-de-requisitos">Análise de Requisitos</a>).
 </p>
 
-## Metodologia
+## 3. Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-## Verificação
+## 4. Verificação
 
-#### Perfil do Usuário
+#### 4.1 Perfil do Usuário
 
 A tabela 1 apresenta o checklist de verificação do artefato de <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/perfil_do_usuario/">Perfil do Usuário</a>. Esse checklist foi criado com base no livro [Interação Humano-Computador](#referências).
 A verificação é da versão 1.1 e foi realizada no dia 18/06 pelo integrante Vitor Borges.
@@ -33,10 +33,9 @@ A verificação é da versão 1.1 e foi realizada no dia 18/06 pelo integrante V
 | 09 | O termo de consentimento livre e esclarecido dos participantes? | Sim | Antes de responder o questionário os participantes tem acesso ao termo de consentimento e podem opter por não responder a qualquer momento que se sintam desconfortáveis ou que não queiram mais participar |
 
 <h6 align = "center"> Tabela 1: Checklist para Verificação
-<br> Autor(es): Vitor Borges
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Vitor Borges</h6>
 
-#### Aspectos Éticos
+#### 4.2 Aspectos Éticos
 
 A tabela 2 apresenta o checklist de verificação do artefato de <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/aspectos_eticos/">Aspectos Éticos</a>. Esse checklist foi criado com base no livro [Interação Humano-Computador](#referências).
 A verificação é da versão 1.0 e foi realizada no dia 18/06 pelo integrante Vitor Borges.
@@ -51,10 +50,9 @@ A verificação é da versão 1.0 e foi realizada no dia 18/06 pelo integrante V
 | 06 | O artefato apresenta o termo de consentimento livre e esclarecido? | Sim | O mesmo apresenta os detalhes importantes da pesquisa para os partipantes |
 
 <h6 align = "center"> Tabela 2: Checklist para Verificação
-<br> Autor(es): Vitor Borges
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Vitor Borges</h6>
 
-#### Personas
+#### 4.3 Personas
 
 A tabela 3 apresenta o checklist de verificação do artefato de <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/personas/">Personas</a>. Esse checklist foi criado com base no livro [Interação Humano-Computador](#referências).
 A verificação é da versão 1.0 e foi realizada no dia 18/06 pelo integrante Vitor Borges.
@@ -73,10 +71,9 @@ A verificação é da versão 1.0 e foi realizada no dia 18/06 pelo integrante V
 | 10 | É apresentado no artefato uma razão para a quantidade de personas? | Sim | Falta a referência do livro em questão no texto|
 
 <h6 align = "center"> Tabela 3: Checklist para Verificação
-<br> Autor(es): Vitor Borges
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Vitor Borges</h6>
 
-#### Análise de Tarefas
+#### 4.4 Análise de Tarefas
 
 A tabela 4 apresenta o checklist de verificação do artefato de <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/analise_tarefas/">Análise de Tarefas</a>. Esse checklist foi criado com base no livro [Interação Humano-Computador](#referências).
 A verificação é da versão 2.1 e foi realizada no dia 18/06 pelo integrante Vitor Borges.
@@ -92,10 +89,11 @@ A verificação é da versão 2.1 e foi realizada no dia 18/06 pelo integrante V
 | 07 | O artefato possui os cenários? | Não | |
 
 <h6 align = "center"> Tabela 4: Checklist para Verificação
-<br> Autor(es): Vitor Borges
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Vitor Borges</h6>
  
 ## Histórico de Versão
+
+A Tabela 5 registra o histórico de versão desse documento.
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
@@ -105,7 +103,9 @@ A verificação é da versão 2.1 e foi realizada no dia 18/06 pelo integrante V
 | `1.3`  | 18/06/2023 | Adição de checklist para as personas | Vitor | Ana Beatriz |
 | `1.4`  | 18/06/2023 | Adição de checklist para a análise de tarefas | Vitor | Ana Beatriz |
 
-## Referências
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```
+<h6 align = "center"> Tabela 5: Histórico de Versões
+<br> Autor: Vitor  </h6>
+
+## Bibliografia
+
+>BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

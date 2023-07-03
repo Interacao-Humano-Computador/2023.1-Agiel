@@ -1,21 +1,21 @@
 # Verificicação dos artefatos da etapa 07 do Grupo 07 (Agiel)
 
-## Introdução
+## 1. Introdução
 <p align="justify">
 A verificação da qualidade dos artefatos produzidos em um projeto desempenha um papel fundamental no controle de qualidade de um projeto de IHC. Garantir que os artefatos entregues satisfaçam requisitos preestabelecidos individualmente resulta em um projeto final de muito mais valor.
 </p>
 
-## Objetivo
+## 2. Objetivo
 <p align="justify">
 Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel">grupo 07</a>, responsável pela avaliação do site <a href="https://www.agiel.com.br/site/">Agiel</a>, na etapa 07.
 </p>
 
-## Metodologia
+## 3. Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-## Verificação
+## 4. Verificação
 
-#### Relato dos Resultados do Protótipo de Papel
+#### 4.1 Relato dos Resultados do Protótipo de Papel
 
 A tabela 1 apresenta o checklist de verificação do artefato de [Relato de Resultados da Avaliação do Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/desenvolvimento/prot%C3%B3tipo_de_papel/relatos_prototipo_papel.md). 
 
@@ -35,10 +35,9 @@ A tabela 1 apresenta o checklist de verificação do artefato de [Relato de Resu
 | 12 | O documento propõe sugestões de melhoria com base nos resultados da avaliação? | Não | A avaliação julgou não necessário ter alterações. |
 
 <h6 align = "center"> Tabela 1: Checklist para Verificação
-<br> Autor(es): Pedro Siqueira
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Pedro Siqueira</h6>
 
-#### Planejamento da Avaliação do Protótipo de Alta Fidelidade
+#### 4.2 Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
 A tabela 2 apresenta o checklist de verificação do artefato de [Planejamento da avaliação do Protótipo de Alta Fidelidade](https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/desenvolvimento/prototipo_alta_fidelidade/planejamento_alta_fidelidade.md). 
 
@@ -56,10 +55,9 @@ A tabela 2 apresenta o checklist de verificação do artefato de [Planejamento d
 | 10 | O documento apresenta o protótipos de alta fidelidade realizados? | Não |  |
 
 <h6 align = "center"> Tabela 2: Checklist para Verificação
-<br> Autor(es): Pedro Siqueira
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Pedro Siqueira</h6>
 
-#### Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade
+#### 4.3 Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade
 
 A tabela 3 apresenta o checklist de verificação do artefato de [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/desenvolvimento/prototipo_alta_fidelidade/planejamento_relato.md). 
 
@@ -73,8 +71,7 @@ A tabela 3 apresenta o checklist de verificação do artefato de [Planejamento d
 | 06 | O documento possui uma metodologia? | Sim | |
 
 <h6 align = "center"> Tabela 3: Checklist para Verificação
-<br> Autor(es): Pedro Siqueira
-<br>Fonte: Autor(es)</h6>
+<br> Autor(es): Pedro Siqueira</h6>
 
 ## Histórico de Versão
 
@@ -82,7 +79,10 @@ A tabela 3 apresenta o checklist de verificação do artefato de [Planejamento d
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 | `1.0`  | 15/06/2023  | Introdução, Objetivo e Metodologia | Vitor | |
 | `1.1`  | 19/06/2023  | Verficação: Relato dos resultados do protótipo de papel, Planejamento da avaliação de protótipo de alta fidelidade e planejamento do relato dos resultados do protótipo de alta fidelidade | Pedro Siqueira | Vitor |
-## Referências
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```
+
+<h6 align = "center"> Tabela 3: Histórico de Versões
+<br> Autor: Vitor e Pedro Siqueira </h6>
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
