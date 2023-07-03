@@ -1,19 +1,19 @@
 # Verificicação dos artefatos da etapa 05 do Grupo 08 (ISSNet)
 
-## Introdução
+## 1. Introdução
 <p align="justify">
 A verificação da qualidade dos artefatos produzidos em um projeto desempenha um papel fundamental no controle de qualidade de um projeto de IHC. Garantir que os artefatos entregues satisfaçam requisitos preestabelecidos individualmente resulta em um projeto final de muito mais valor.
 </p>
 
-## Objetivo
+## 2. Objetivo
 <p align="justify">
 Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/">grupo 08</a>, responsável pela avaliação do site <a href="https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline">ISSNet</a>, na etapa 05.
 </p>
 
-## Metodologia
+## 3. Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-## 1. Relatório dos resultados dos storyboards (Versão 0.6)
+## 4.1 Relatório dos resultados dos storyboards (Versão 0.6)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -27,9 +27,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 8 | O artefato apresenta uma bibliografia/referência padronizada | O artefato possui uma bibliografia padronizada |
 | 9 | O artefato apresenta o histórico de versão padronizado? | O artefato possui o histórico de versão padronizado |
 
-<figcaption align="center">Tabela 1 - Verificação do artefato relatório dos resultados dos storyboards - Fonte: Vitor Borges</figcaption>
+<h6 align = "center"> Tabela 1: Verificação do artefato relatório dos resultados dos storyboards
+<br> Autor: Vitor Borges </h6>
 
-## 2. Relatório do planejamento da avaliação do protótipo de papel (Versão 0.2)
+## 4.2 Relatório do planejamento da avaliação do protótipo de papel (Versão 0.2)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -41,12 +42,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 6 | O artefato apresenta uma bibliografia/referência padronizada | O artefato possui uma bibliografia padronizada |
 | 7 | O artefato apresenta o histórico de versão padronizado? | O artefato possui o histórico de versão padronizado |
 
-<figcaption align="center">Tabela 2 - Verificação do artefato do planejamento da avaliação do protótipo de papel - Fonte: Breno Yuri</figcaption>
+<h6 align = "center"> Tabela 2: Verificação do artefato do planejamento da avaliação do protótipo de papel
+<br> Autor: Breno Yuri </h6>
 
-
-## 3. Planejamento Do Relato dos Resultados da Avaliação do Protótipo de Papel (Versão 0.1)
-
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
+## 4.3 Planejamento Do Relato dos Resultados da Avaliação do Protótipo de Papel (Versão 0.1)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -61,9 +60,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 7 | O artefato apresenta uma bibliografia/referência padronizada | Sim |
 | 8 | O artefato apresenta o histórico de versão padronizado? | Sim |
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
+<h6 align = "center"> Tabela 3: Relato dos Resultados da Avaliação da Análise de Tarefas
+<br> Autor: Carlos </h6>
 
-## 4. Relato dos resultados da Análise de tarefas (Versão 0.2)
+## 4.4 Relato dos resultados da Análise de tarefas (Versão 0.2)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -75,9 +75,11 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 6 | O artefato apresenta bibliografia? | Sim |
 | 7 | O artefato apresenta o histórico de versão padronizado? | Sim |
 
-<figcaption align="center">Tabela 4 - Verificação do artefato do relato de resultados da análise de tarefas - Fonte: Vitor Borges</figcaption>
+<h6 align = "center"> Tabela 4: Verificação do artefato do relato de resultados da análise de tarefas
+<br> Autor: Vitor Borges </h6>
 
 ## Histórico de Versão
+A Tabela 5 registra o histórico de versão desse documento.
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
@@ -88,7 +90,9 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | `1.4`  | 05/06/2023 | Verificação do Planejamento Do Relato dos Resultados Avaliação da Análise de Tarefas | Carlos |  Pedro |
 | `1.5`  | 05/06/2023 | Verificação do artefato do relato de resultados da análise de tarefas | Vitor | Pedro |
 
-## Referências
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```
+<h6 align = "center"> Tabela 5: Histórico de Versões
+<br> Autor: Vitor </h6>
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

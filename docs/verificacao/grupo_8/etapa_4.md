@@ -1,22 +1,20 @@
 # Verificicação dos artefatos da etapa 04 do Grupo 08 (ISSNet)
 
-## Introdução
+## 1. Introdução
 <p align="justify">
 A verificação da qualidade dos artefatos produzidos em um projeto desempenha um papel fundamental no controle de qualidade de um projeto de IHC. Garantir que os artefatos entregues satisfaçam requisitos preestabelecidos individualmente resulta em um projeto final de muito mais valor.
 </p>
 
-## Objetivo
+## 2. Objetivo
 <p align="justify">
 Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/">grupo 08</a>, responsável pela avaliação do site <a href="https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline">ISSNet</a>, na etapa 04.
 </p>
 
-## Metodologia
+## 3. Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
 
-## 1. Planejamento da Avaliação do Storyboard (Versão 0.2)
-
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Avaliação do Storyboard</p></font>
+## 4.1 Planejamento da Avaliação do Storyboard (Versão 0.2)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -33,12 +31,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 11 | O artefato possui storyboard para cada tarefa| O artefato possui apenas 3 storyboards sendo insuficiente para cada membro do grupo mas atendendo cada tarefa apresentada anteriormente|
 | 12 | O artefato possui definição do teste piloto|Não foi encontrado nada relacionado ao teste piloto no artefato|
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Beatriz](https://github.com/anabfs).</p></font>
-
+<h6 align = "center"> Tabela 1: Avaliação do Storyboard
+<br> Autor: Ana Beatriz </h6>
 
 ## 2. Planejamento Do Relato dos Resultados da Avaliação da Storyboard (Versão 0.4)
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Relato dos Resultados da Avaliação de Storyboard</p></font>
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -54,11 +50,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 10 | O artefato apresenta uma bibliografia/referência padronizada | Sim |
 | 11 | O artefato apresenta o histórico de versão padronizado? | Sim |
 
-<font size="3"><p style="text-align: center">Fonte: [Pedro](https://github.com/PedroSiq).</p></font>
+<h6 align = "center"> Tabela 2: Relato dos Resultados da Avaliação de Storyboard
+<br> Autor: Pedro </h6>
 
 ## 3. Planejamento da Avaliação da Análise de Tarefas (Versão 0.3)
-
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Avaliação da Análise de Tarefas</p></font>
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -71,11 +66,11 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 7 | O artefato apresenta uma bibliografia/referência padronizada | Sim |
 | 8 | O artefato apresenta o histórico de versão padronizado? | Sim |
 
-<font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
+<h6 align = "center"> Tabela 3: Avaliação da Análise de Tarefas
+<br> Autor: Carlos </h6>
+
 
 ## 4. Planejamento Do Relato dos Resultados da Avaliação da Análise de Tarefas (Versão 0.1)
-
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Relato dos Resultados da Avaliação da Análise de Tarefas</p></font>
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -90,11 +85,12 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 7 | O artefato apresenta uma bibliografia/referência padronizada | Sim |
 | 8 | O artefato apresenta o histórico de versão padronizado? | Sim |
 
+<h6 align = "center"> Tabela 4: Relato dos Resultados da Avaliação da Análise de Tarefas
+<br> Autor: Carlos </h6>
 
-
-<font size="3"><p style="text-align: center">Fonte: [Carlos](https://github.com/carlinhos_pinheiro).</p></font>
 
 ## Histórico de Versão
+A Tabela 5 registra o histórico de versão desse documento.
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
@@ -104,7 +100,9 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | `1.3`  | 05/06/2023 | Relato dos Resultados da Avaliação de Análise de Tarefas | Carlos | Pedro |
 | `1.4`  | 05/06/2023 | Relato dos Resultados da Avaliação de Storyboard | Pedro Siqueira | Pedro |
 
-## Referências
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```
+<h6 align = "center"> Tabela 5: Histórico de Versões
+<br> Autor: Ana Beatriz </h6>
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

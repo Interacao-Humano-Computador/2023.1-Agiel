@@ -1,19 +1,19 @@
 # Verificicação dos artefatos da etapa 02 do Grupo 08 (ISSNet)
 
-## Introdução
+## 1. Introdução
 <p align="justify">
 A verificação da qualidade dos artefatos produzidos em um projeto desempenha um papel fundamental no controle de qualidade de um projeto de IHC. Garantir que os artefatos entregues satisfaçam requisitos preestabelecidos individualmente resulta em um projeto final de muito mais valor.
 </p>
 
-## Objetivo
+## 2. Objetivo
 <p align="justify">
 Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/">grupo 08</a>, responsável pela avaliação do site <a href="https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline">ISSNet</a>, na etapa 02.
 </p>
 
-## Metodologia
+## 3. Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-## 1. Perfil do usuário (Versão 0.4)
+## 4.1 Perfil do usuário (Versão 0.4)
 
 | ID |                                                                                                                           Descrição                                                                                                                            |        Avaliação         |
 |:--:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|
@@ -26,9 +26,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 7  |                                                                         Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários?                                                                         | Por meio de questionário |
 | 8  |                                                           Os perfis de usuário são agrupados por faixa etária, experiência com o produto, atitude perante tecnologia e tarefas primárias no sistema?                                                           |        Incompleto        |
 
-<figcaption align="center">Tabela 1: Checklist artefato perfil do usuario. - Fonte: Bruno Henrique </figcaption>
+<h6 align = "center"> Tabela 1: Checklist artefato perfil do usuario.
+<br> Autor: Bruno Henrique </h6>
 
-## 2. Aspectos Éticos (Versão 0.3)
+## 4.2 Aspectos Éticos (Versão 0.3)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -38,9 +39,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 4 | O artefato possui termo de consentimento? | Possui um termo exclarecido |
 | 5 | O artefato apresenta o histórico de versão padronizado? | O artefato possui o histórico de versão padronizado |
 
-<figcaption align="center">Tabela 2: Avaliação das características da plataforma do projeto - Fonte: Breno Yuri</figcaption>
+<h6 align = "center"> Tabela 2: Avaliação das características da plataforma do projeto.
+<br> Autor: Bruno Henrique </h6>
 
-## 3. Personas (Versão 0.2)
+## 4.3 Personas (Versão 0.2)
 
 | ID |                                                     Descrição                                                     |   Avaliação   |
 |:--:|:-----------------------------------------------------------------------------------------------------------------:|:-------------:|
@@ -60,9 +62,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 14 |                                Possui objetivos pessoais, corporativos e práticos?                                |      Sim      |
 | 15 |                                   Há algum objetivo de experiência da persona?                                    |      Sim      |
 
-<figcaption align="center">Tabela 3: Checklist artefato personas. - Fonte: Bruno Henrique </figcaption>
+<h6 align = "center"> Tabela 3: Checklist artefato personas.
+<br> Autor: Bruno Henrique </h6>
 
-## 4. Análise de tarefas (Versão 0.4)
+## 4.4 Análise de tarefas (Versão 0.4)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -72,9 +75,11 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 4 | O artefato possui termo de consentimento? | Possui um termo exclarecido |
 | 5 | O artefato apresenta o histórico de versão padronizado? | O artefato possui o histórico de versão padronizado |
 
-<figcaption align="center">Tabela 4: Avaliação da análise de tarefas - Fonte: Vitor Borges</figcaption>
+<h6 align = "center"> Tabela 4: Avaliação da análise de tarefas.
+<br> Autor: Bruno Henrique </h6>
 
 ## Histórico de Versão
+A Tabela 5 registra o histórico de versão desse documento.
 
 | Versão | Data  |             Descrição              |     Autor      | Revisor |
 |:------:|:-----:|:----------------------------------:|:--------------:|:-------:|
@@ -83,7 +88,9 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | `1.2`  | 05/06/2023 |    Perfil do Usuario e Personas    | Bruno Henrique |         |
 | `1.3`  | 05/06/2023 | Análise das Tarefas                | Vitor Borges | Pedro     |
 
-## Referências
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```
+<h6 align = "center"> Tabela 5: Histórico de Versões
+<br> Autor: Carlos </h6>
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

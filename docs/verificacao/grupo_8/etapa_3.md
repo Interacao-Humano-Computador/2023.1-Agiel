@@ -1,19 +1,19 @@
 # Verificicação dos artefatos da etapa 03 do Grupo 08 (ISSNet)
 
-## Introdução
+## 1. Introdução
 <p align="justify">
 A verificação da qualidade dos artefatos produzidos em um projeto desempenha um papel fundamental no controle de qualidade de um projeto de IHC. Garantir que os artefatos entregues satisfaçam requisitos preestabelecidos individualmente resulta em um projeto final de muito mais valor.
 </p>
 
-## Objetivo
+## 2. Objetivo
 <p align="justify">
 Este documento tem como fim verificar a qualidade dos artefatos produzidos pelo <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/">grupo 08</a>, responsável pela avaliação do site <a href="https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline">ISSNet</a>, na etapa 03.
 </p>
 
-## Metodologia
+## 3. Metodologia
 A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), utilizando um checklist. Esse checklist é baseado nos requisitos apresentados no plano de ensino da disciplina, bem como no feedback dos monitores e do professor em entregas anteriores.
 
-## 1. Características da plataforma do projeto (Versão 0.1)
+## 3.1 Características da plataforma do projeto (Versão 0.1)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -24,9 +24,11 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 5 | O artefato possui as limitações da plataforma | O artefato apresenta as limitações|
 | 6 | O artefato possui as possibilidades da plataforma| O artefato contem as possibilidades|
 
-<figcaption align="center">Tabela 1: Avaliação das características da plataforma do projeto - Fonte: Ana Beatriz</figcaption>
+<h6 align = "center"> Tabela 1: Avaliação das características da plataforma do projeto
+<br> Autor: Ana Beatriz </h6>
 
-## 2. Princípios Gerais (Versão 0.4)
+
+## 3.2 Princípios Gerais (Versão 0.4)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -43,9 +45,10 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 11| Projeto para erros|O artefato possui projeto para os erros|
 |12 |Foram identificados quais os Princípios Gerais do Projeto que serão utilizados no projeto|O artefato não especifica quais Princípios Gerais do Projeto que serão utilizados no projeto|
 
-<figcaption align="center">Tabela 2: Avaliação dos princípios gerais - Fonte: Ana Beatriz</figcaption>
+<h6 align = "center"> Tabela 2: Avaliação dos princípios gerais
+<br> Autor: Ana Beatriz </h6>
 
-## 3. Metas de usabilidade (Versão 0.1)
+## 3.3 Metas de usabilidade (Versão 0.1)
 
 | ID | Descrição  | Avaliação |
 |:--:|:----------:|:---------:|
@@ -57,9 +60,12 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | 6 | Foram contextualizadas para o projeto?| Sim.|
 | 7 | Foram identificados os requisitos de usabilidade?| Sim. |
 
-<figcaption align="center">Tabela 3: Verificação do artefato de metas de usabilidade - Fonte: Pedro Siqueira </figcaption>
+<h6 align = "center"> Tabela 3: Verificação do artefato de metas de usabilidade
+<br> Autor: Pedro Siqueira </h6>
+
 
 ## Histórico de Versão
+A Tabela 4 registra o histórico de versão desse documento.
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
@@ -67,7 +73,9 @@ A verificação dos artefatos será feita por meio de inspeção FAGAN (1976), u
 | `1.1`  | 05/06/2023 | Caracteristica da Plataforma e Princípios gerais | Ana Beatriz | |
 | `1.2`  | 05/06/2023 | Metas de usabilidade | Pedro Siqueira | |
 
-## Referências
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```
+<h6 align = "center"> Tabela 4: Histórico de Versões
+<br> Autor: Carlos </h6>
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
