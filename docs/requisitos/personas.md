@@ -1,14 +1,14 @@
-## Introdução
+## 1. Introdução
 As personas são representações fictícias de nossos clientes ideais, criadas com base em informações demográficas, comportamentais e psicológicas.
 
 Ao desenvolver essas personas, buscamos identificar os principais desafios e objetivos de cada grupo de clientes, bem como entender como eles interagem com nossos produtos e serviços. Com essas informações em mãos, podemos criar soluções mais eficazes e personalizadas para atender às necessidades de nossos clientes.
 
-## Metodologia
+## 2. Metodologia
 Para criar as personas, utilizamos uma metodologia que envolveu a coleta de dados por meio de um questionário detalhado.
 
 Com base nas informações coletadas, criamos perfis detalhados de nossos usuários ideais, que serviram como a base para a criação das personas. Cada persona representa um grupo de usuário com características, comportamentos e necessidades semelhantes.
 
-## Elenco de Personas
+## 3. Elenco de Personas
 O elenco de personas conta com 4 personas, 2 primarias (Tabela 1 e 2), 1 secundaria (Tabela 3) e uma antipersona (Tabela 4). Foi escolhido essa quantidade de personas pois o livro que usamos como referencia recomenda de 3 até 12.
 
 | Persona | |
@@ -27,8 +27,7 @@ O elenco de personas conta com 4 personas, 2 primarias (Tabela 1 e 2), 1 secunda
 |Expectativas:| "Eu espero que o site da Agiel seja um recurso confiável e eficiente para encontrar estágios na minha área de interesse. Eu espero que o site me ajude a organizar e gerenciar minhas candidaturas e me forneça informações relevantes sobre as empresas que oferecem as vagas de estágio".|
 
 <h6 align = "center"> Tabela 1: Persona: Ana Paula Silva
-<br> Autor: Ana Beatriz
-<br>Fonte: Autor(es)</h6>
+<br> Autor: Ana Beatriz</h6>
 
 | Persona | |
 |:--:|:--:|
@@ -46,8 +45,7 @@ O elenco de personas conta com 4 personas, 2 primarias (Tabela 1 e 2), 1 secunda
 |Expectativas:| "Eu espero que o site da Agiel ofereça um sistema intuitivo e eficiente para publicar vagas e gerenciar candidaturas, apresente candidatos qualificados e compatíveis com as necessidades da empresa e ofereça recursos para simplificar o processo de seleção e agilizar a contratação de estagiários"|
 
 <h6 align = "center"> Tabela 2: Persona: Jonas da Silva
-<br> Autor: Ana Beatriz
-<br>Fonte: Autor(es)</h6>
+<br> Autor: Ana Beatriz</h6>
 
 | Persona | |
 |:--:|:--:|
@@ -65,8 +63,7 @@ O elenco de personas conta com 4 personas, 2 primarias (Tabela 1 e 2), 1 secunda
 |Expectativas:| Miguel acredita que o site Agiel seja uma plataforma confiável e segura para busca de estágios na área contábil, com informações precisas e atualizadas. Ele organiza as informações das vagas de acordo com o local de trabalho, benefícios oferecidos e requisitos do cargo.|
 
 <h6 align = "center"> Tabela 3: Persona: Miguel Oliveira
-<br> Autor: Ana Beatriz
-<br>Fonte: Autor(es)</h6>
+<br> Autor: Ana Beatriz</h6>
 
 
 | Persona | |
@@ -84,15 +81,7 @@ O elenco de personas conta com 4 personas, 2 primarias (Tabela 1 e 2), 1 secunda
 |Expectativas:| Não acredita que o produto seja útil para ele ou sua empresa, e pode ter uma visão negativa sobre o uso de estagiários em geral. Não se importa com a experiência de candidatos a estágio, mas sim com sua própria posição no mercado de trabalho.|
 
 <h6 align = "center"> Tabela 4: Persona: João da Silva
-<br> Autor: Ana Beatriz
-<br>Fonte: Autor(es)</h6>
-
-## 4. Referências
-
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
-Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acessado em 07 de Maio de 2023
-
-> This Person Does Not Exist. [link](https://this-person-does-not-exist.com/en). Acessado em: 07 de Maio de 2023 e em 08 de Maio de 2023.
+<br> Autor: Ana Beatriz</h6>
 
 ## Histórico de Versões
 
@@ -103,5 +92,11 @@ A Tabela 6 registra o histórico de versão deste documento.
 | `1.0`  | 08/05/2023 | Adiconando tabela de persona e antipersona | Ana Beatriz | Breno |
 
 <h6 align = "center"> Tabela 6: Histórico de Versões
-<br> Autor: Ana Beatriz 
-<br>Fonte: Autor(es)</h6>
+<br> Autor: Ana Beatriz</h6>
+
+## Bibliografia
+
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acessado em 07 de Maio de 2023
+
+> This Person Does Not Exist. [link](https://this-person-does-not-exist.com/en). Acessado em: 07 de Maio de 2023 e em 08 de Maio de 2023.

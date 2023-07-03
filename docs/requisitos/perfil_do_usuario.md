@@ -1,6 +1,6 @@
 # Perfil do Usuário
 
-## Introdução
+## 1. Introdução
 
 <p align="justify">
 &emsp;&emsp; 
@@ -12,7 +12,7 @@ Definir um perfil de usuário é importante no desenvolvimento de software porqu
 Ao definir um perfil de usuário, é possível identificar as características e comportamentos dos usuários, como idade, gênero, nível de escolaridade, habilidades técnicas, preferências de interface, entre outros fatores. Com essas informações, os desenvolvedores podem criar interfaces e recursos que atendam às necessidades específicas dos usuários, melhorando a usabilidade e a experiência do usuário.
 </p>
 
-## Metodologia
+## 2. Metodologia
 
 <p align="justify">
 &emsp;&emsp; 
@@ -37,13 +37,13 @@ Como método complementar utilizamos a classificação de cartões. A classifica
 Utilizamos a classificação de cartões pois é um método que permite observar o que o usuário faz e necessita em um site.
 </p>
 
-## Objetivos
+## 3. Objetivos
 <p align="justify">
 &emsp;&emsp;
 A coleta de dados dos usuários do site a partir do questionário e da classificação de cartões é muito importante, além de possibilitar a criação de personas mais próximas da realidade, futuramente os dados poderão auxiliar nas tomadas de decisões acerca da interface, desta forma as mudanças que iremos propor terão uma base mais concreta e serão menos suscetíveis a causar desconforto aos usuários do site.
 </p>
 
-## Questionário
+## 4. Questionário
 
 ### Seção 01 - Termo de consentimento
 <p aling="justify">
@@ -74,22 +74,22 @@ A quarta seção apresenta as questões com o intuito de coletar informações a
 Após a formulação do questionário o mesmo foi divulgado por todos os membros do grupo em grupos da universidade, grupos de estágio e para colegas que estão buscando estágio ou estão estagiando atualmente.
 </p>
 
-## Resultado
+## 5. Resultado
 <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTdkNTQ0Y2EtYzAxOC00ODY5LWE1YjYtY2UwOTQzN2JhZTMwIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 <h6 align = "center"> Dashboard 1: Dashboard do perfil de usuário
 <br> Autor: Ana Beatriz
 <br>Fonte: Autor(es)</h6>
 
-## Classificação de cartões
+## 6. Classificação de cartões
 
-### Preparação
+### 6.1 Preparação
 <p align="justify">
 &emsp;&emsp;
 Para realizar a classificação de cartões foram coletadas e compiladas as diversas funções de cada usuário (estágiario, instituição de ensino e empresas) do site Agiel e transformadas em cartões. Realizamos uma entrevista em que o entrevistado deveria classificar estes cartões em categorias de forma livre e após isso, explicar as categorias que o mesmo formou, assim como seus critérios utilizados.
 </p>
 
-### Cartões Gerados
+### 6.2 Cartões Gerados
 1. Encontrar vagas para meu curso
 2. Encontrar processos seletivos
 3. Cadastrar currículo
@@ -110,7 +110,7 @@ Para realizar a classificação de cartões foram coletadas e compiladas as dive
 18. Se interar sobre os convênios com instituições
 19. Solicitar convênio de uma instituição
 
-## Resultado
+## 7 Resultado
 
 <p align="justify">
 &emsp;&emsp;
@@ -122,13 +122,19 @@ A entrevista para classificação de cartões pode ser visualizada abaixo:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ3JFmUB0Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h6 align = "center"> Entrevista realizando a classificação de cartões </h6>
 
-## Bibliografia
-```
-SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
-```
+## Histórico de Versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
 | `1.0`  | 08/05 | Adição do mapa de calor | Pedro e Vitor | Carlos |
 | `1.1`  | 08/05 | Adição do player de vídeo | Pedro e Vitor | Carlos |
 | `1.2`  | 10/05 | Adição dos objetivos | Vitor | Carlos |
+
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Pedro e Vitor </h6>
+
+
+## Bibliografia
+
+> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.

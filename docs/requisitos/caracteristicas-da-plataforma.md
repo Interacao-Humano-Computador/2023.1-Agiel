@@ -1,10 +1,10 @@
 # Características da plataforma
 
-## Introdução
+## 1. Introdução
 
 <p align="justify">Este documento tem como objetivo analisar as características da plataforma do site "Agiel Agência de Estágios" no contexto de Interação Humano-Computador (IHC). A plataforma em questão é um site voltado para o oferecimento de oportunidades de estágio para estudantes universitários em diferentes áreas de atuação.</p>
 
-## Características da Plataforma
+## 2. Características da Plataforma
 
 <p align="justify">Quando estamos projetando uma interface de usuário, é fundamental considerar a plataforma na qual essa interface será utilizada. Isso significa que os desenvolvedores precisam entender como a interface irá se comportar em diferentes contextos, como navegadores da web, sistemas operacionais e dispositivos móveis. Ao fazer isso, podemos garantir que o design da interface funcione corretamente em todas essas plataformas, sem impor restrições desnecessárias aos usuários.
 
@@ -27,7 +27,7 @@ Portanto, é essencial dedicar tempo para compreender as características de cad
 </ul>
 <p align="justify">Também é possível fazer o download do aplicativo pelo sistema Android.</p>
 
-## Acesso
+## 3. Acesso
 <p align="justify">Acesso como estudante:
 
 Como estudante, o acesso ao site requer um cadastro simples, fornecendo informações como nome completo (ou social), data de nascimento, CPF e e-mail. Para se cadastrar, é necessário atender aos seguintes requisitos:
@@ -45,7 +45,7 @@ Já para as empresas, o acesso ao site oferece diferentes opções de cadastro, 
 No momento do cadastro, uma mensagem tranquilizadora é exibida: "Fique tranquilo! Nós gerenciamos todo o processo para sua empresa, e o melhor é que você só começa a pagar depois que o estagiário estiver contratado!". Isso significa que o site oferece suporte e orientação durante o processo de contratação de estagiários, permitindo que as empresas aproveitem os serviços sem qualquer pagamento inicial até que a contratação seja efetuada com sucesso.
 </p>
 
-## Limitações
+## 4. Limitações
 
 <p align="justify">O site possui algumas limitações:
 <ul>
@@ -57,7 +57,7 @@ No momento do cadastro, uma mensagem tranquilizadora é exibida: "Fique tranquil
 </ul>
 </p>
 
-## Possibilidades
+## 5. Possibilidades
 
 <p align="justify">Apesar das suas limitações o site possue muitas funcionalidades por se tratar de uma rede social para leitores mais utilizada do Brasil, como: 
 <ul>
@@ -68,10 +68,14 @@ No momento do cadastro, uma mensagem tranquilizadora é exibida: "Fique tranquil
 </p>
 
 ## Histórico de versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão |    Data    |              Descrição             | Autor      |  Revisor       |
 | :----: | :--------: | :--------------------------------: | :--------: | :------------: |
 | `1.0`  | 15/05/2023 | Desenvolvimento do documento.      | Breno Yuri | Bruno Henrique |
+
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Breno Yuri </h6>
 
 ## Referências
 

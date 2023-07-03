@@ -155,12 +155,8 @@ Nessa tarefa, o objetivo do usuário é obter dicas que o auxiliem a traçar obj
 
 Os três métodos apresentam o mesmo problema de ao filtrar pelos artigos desejados alguns artigos são mostrados mais de uma vez
 
-## 4. Bibliografia
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```
-
 ## Histórico de Versão
+A Tabela 3 registra o histórico de versão desse documento.
 
 | Versão |    Data    |      Descrição       |   Autor(es)    | Revisor(es) |
 |:------:|:----------:|:--------------------:|:--------------:|:-----------:|
@@ -168,3 +164,9 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 | `2.0`  | 20/05/2023 | Adição de nova tarefa | Vitor | Breno |
 | `2.1`  | 22/05/2023 | Adição de nova tarefa | Vitor | Breno |
 
+<h6 align = "center"> Tabela 3: Histórico de Versões
+<br> Autor:  Carlos e Bruno </h6>
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

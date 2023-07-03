@@ -1,12 +1,12 @@
 # Princípios Gerais do Projeto
 
-## Introdução
+## 1. Introdução
 
 Os princípios gerais do projeto de interface do usuário são diretrizes fundamentais que os designers seguem para criar interfaces eficazes, intuitivas e agradáveis para os usuários. Esses princípios visam melhorar a usabilidade e a experiência do usuário, garantindo que a interação com um sistema ou aplicativo seja fácil, eficiente e satisfatória.
 
 Alguns dos princípios gerais comuns incluem a encontrabilidade, que diz respeito à capacidade do usuário de encontrar facilmente as informações desejadas; o projeto para erros, que envolve a previsão e a recuperação de erros por parte do usuário; a visibilidade e o reconhecimento, que se referem à apresentação clara de ações, objetos e opções para os usuários; a simplicidade, que preconiza a simplificação das tarefas complexas, dividindo-as em etapas menores e mais gerenciáveis; e a padronização, que busca manter uma interface consistente e familiar para os usuários.
 
-## Princípios Gerais
+## 2. Princípios Gerais
 
 - **Encontrabilidade**: O usuário deve ser capaz de encontrar facilmente as informações que precisa no site, seja através de uma pesquisa eficiente ou de uma navegação clara e intuitiva.
 
@@ -37,12 +37,16 @@ Alguns dos princípios gerais comuns incluem a encontrabilidade, que diz respeit
 <p> Figura 2:  Botões de editar espalhados<br/> (Fonte: autor, 2023).</p>
 </div>
 
-## Bibliografia
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-```
 ## Histórico de Versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão |    Data    |      Descrição       | Autor(es) |  Revisor(es)   |
 |:------:|:----------:|:--------------------:|:---------:|:--------------:|
 | `1.0`  | 08/05/2023 | Criação do documento |   Bruno   | Pedro Siqueira |
+
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Bruno </h6>
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
