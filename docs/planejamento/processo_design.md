@@ -65,16 +65,19 @@ Instalação: O design deve coletar opiniões dos usuários depois de algum temp
 <p align="justify">Em conclusão, o modelo de design mais adequado para o projeto é a Engenharia de Usabilidade de Mayhew. Este modelo é mais detalhado e iterativo, o que o torna benéfico para o aprendizado de designers inexperientes. A Engenharia de Usabilidade de Mayhew fornece uma estrutura clara e passo a passo, guiando os designers ao longo de todas as etapas do processo, desde a análise de requisitos até a instalação. Dessa forma, ela não apenas garante a qualidade da interface (por avaliação contínua), mas também contribui para o desenvolvimento das habilidades e conhecimentos dos designers, tornando-se uma escolha ideal para o projeto em questão.
 </p>
 
-## 4. Bibliografia
-```
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-
-MAYHEW, D. J. The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann Publishers, Burlington, 1999.
-```
-
 ## Histórico de Versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
 |  `1.0`     | 21/04/2023 | Versão inicial com apresentação dos processos  | Carlos | Vitor B. |
 |  `1.1`     | 25/04/2023 | Ajusta bibliografia | Carlos |
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Carlos </h6>
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+> MAYHEW, D. J. The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann Publishers, Burlington, 1999.
+

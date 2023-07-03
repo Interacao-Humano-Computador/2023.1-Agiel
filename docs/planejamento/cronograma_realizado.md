@@ -1,12 +1,14 @@
 # Cronograma Realizado
 
-## Introdução
+## 1. Introdução
 
 O cronograma realizado é um documento que descreve as atividades que foram executadas no projeto em relação ao cronograma planejado. Neste documento, serão apresentados os resultados da comparação entre o [Cronograma Planejado](cronograma.md) e o realizado.
 
-### Etapa 1 - Planejamento
+## 2. Cronogramas
 
-<figcaption align="center">Tabela 1 - Cronograma da equipe para a etapa 1.</figcaption>
+### 2.1 Etapa 1 - Planejamento
+
+A Tabela 1 registra o cronograma realizado da etapa 1.
 
 |         Tarefa         |     Autor      | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:----------------------:|:--------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
@@ -24,11 +26,11 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 |     Revisão dos artefatos    | Todos |  24/04  |    Todos     |  24/04  |        21/04         |       24/04       |
 |     Gravação da Apresentação    | Todos |  24/04  |    Todos     |  24/04  |        24/04         |       24/04       |
 
+<figcaption align="center">Tabela 1 - Cronograma da equipe para a etapa 1.</figcaption>
 <figcaption align="center">Fonte: Ana Beatriz e Breno Yuri</figcaption>
 
 ### Etapa 2 - Análise de Requisitos
-
-<figcaption align="center">Tabela 2 - Cronograma da equipe para a etapa 2.</figcaption>
+A Tabela 2 registra o cronograma realizado da etapa 2.
 
 |                     Tarefa                      |             Autor             | Entrega |    Revisor    | Revisão | Início da Realização | Fim da Realização |
 |:-----------------------------------------------:|:-----------------------------:|:-------:|:-------------:|:-------:|:--------------------:|:-----------------:|
@@ -38,11 +40,11 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 |               Análise de tarefas                | Bruno Henrique, Carlos Daniel |  08/05  |    Vitor B    |  08/05  |        05/05         |       08/05       |
 |        Gravação                                 |  Todos                        |  08/05  | Todos         |  08/05  |        08/05         |       08/05       |
 
+<figcaption align="center">Tabela 2 - Cronograma da equipe para a etapa 2.</figcaption>
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
 ### Etapa 3 - Princípios Gerais do Projeto
-
-<figcaption align="center">Tabela 3 - Cronograma da equipe para a etapa 3.</figcaption>
+A Tabela 3 registra o cronograma realizado da etapa 3.
 
 |                    Tarefa                    |           Autor            | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:--------------------------------------------:|:--------------------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
@@ -52,11 +54,11 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | Características da plataforma para o projeto |         Breno Yuri         |  15/05  | Bruno Henrique |  15/05  |        10/05         |       15/05       |
 |        Gravação                              |  Todos                     |  16/05  | Todos          |  15/05  |        15/05         |       15/05       |
 
+<figcaption align="center">Tabela 3 - Cronograma da equipe para a etapa 3.</figcaption>
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
 ### Etapa 4 - Planejamento da Avaliação do Storyboard
-
-<figcaption align="center">Tabela 4 - Cronograma da equipe para a etapa 4.</figcaption>
+A Tabela 4 registra o cronograma realizado da etapa 4.
 
 |                                  Tarefa                                   |            Autor            | Entrega |    Revisor    | Revisão | Início da Realização | Fim da Realização |
 |:-------------------------------------------------------------------------:|:---------------------------:|:-------:|:-------------:|:-------:|:--------------------:|:-----------------:|
@@ -66,11 +68,11 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas. |       Pedro Siqueira        |  22/05  |  Ana Beatriz  |  22/05  |        18/05         |       22/05       |
 |        Gravação                                                           |  Todos                      |  22/05  | Todos         |  22/05  |        22/05         |       22/05       |
 
+<figcaption align="center">Tabela 4 - Cronograma da equipe para a etapa 4.</figcaption>
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
 ### Etapa 5 - Relato dos resultados
-
-<figcaption align="center">Tabela 5 - Cronograma da equipe para a etapa 5.</figcaption>
+A Tabela 5 registra o cronograma realizado da etapa 5.
 
 |                                  Tarefa                                  |             Autor             | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:------------------------------------------------------------------------:|:-----------------------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
@@ -80,11 +82,11 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |      Ana Beatriz,Vitor B      |  29/05  | Carlos Daniel  |  29/05  |        23/05         |       29/05       |
 |        Gravação                                                          |  Todos                        |  29/05  | Todos          |  29/05  |        29/05         |       29/05       |
 
+<figcaption align="center">Tabela 5 - Cronograma da equipe para a etapa 5.</figcaption>
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
 ### Etapa 6.1 - Planejamento da Avaliação do Storyboard
-
-<figcaption align="center">Tabela 6 - Cronograma da equipe para a etapa 6.1.</figcaption>
+A Tabela 6 registra o cronograma realizado da etapa 6.1.
 
 |                                        Tarefa                                        |     Autor      | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:------------------------------------------------------------------------------------:|:--------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
@@ -105,11 +107,11 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 |      Verificação do planejamento do relato dos resultados do protótipo de papel      | Carlos Daniel  |  05/06  | Pedro Siqueira |  05/06  |        04/06         |       05/06       |
 |        Gravação                                                                      |  Todos         |  05/06  | Todos          |  05/06  |        04/06         |       05/06       |
 
+<figcaption align="center">Tabela 6 - Cronograma da equipe para a etapa 6.1.</figcaption>
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
 ### Etapa 7 - Relato dos resultados do Protótipo de Papel
-
-<figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 7.</figcaption>
+A Tabela 7 registra o cronograma realizado da etapa 7.
 
 |                                       Tarefa                                       |             Autor             | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:----------------------------------------------------------------------------------:|:-----------------------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
@@ -118,11 +120,12 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |      Vitor B, Breno Yuri      |  12/06  | Bruno Henrique |  12/06  |        11/06         |       12/06       |
 |        Gravação                                                                    |  Todos                        |  12/06  | Todos          |  12/06  |        11/06         |       12/06       |
 
+<figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 7.</figcaption>
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
 ### Etapa 6.2 - Verificação dos Artefatos 2
+A Tabela 8 registra o cronograma realizado da etapa 6.2.
 
-<figcaption align="center">Tabela 8 - Cronograma da equipe para a etapa 7.</figcaption>
 
 |                Tarefa                |                                      Autor                                      | Entrega |            Revisor             | Revisão | Início da Realização | Fim da Realização |
 |:------------------------------------:|:-------------------------------------------------------------------------------:|:-------:|:------------------------------:|:-------:|:--------------------:|:-----------------:|
@@ -134,11 +137,11 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | Artefatos Etapa 07 | Pedro Siqueira |  19/06  | Vitor Borges |  19/06  |        18/06         |       19/06       |
 |        Gravação                      | Todos |  19/06  | Todos                          |  19/06  |        19/06         |       19/06       |
 
+<figcaption align="center">Tabela 8 - Cronograma da equipe para a etapa 7.</figcaption>
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
 ### Etapa 8 - Relatos dos resultados
-
-<figcaption align="center">Tabela 8 - Cronograma da equipe para a etapa 8.</figcaption>
+A Tabela 9 registra o cronograma realizado da etapa 8.
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 |:------:|:-----:|:-------:|:-------:|:-------:|:--------------------:|:-----------------:|
@@ -150,10 +153,11 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | Relatos dos resultados do protótipo de alta fidelidade | Todos |  26/06  | Todos |  26/06  |        26/06         |       26/06       |
 |        Gravação                                        | Todos |  27/06  | Todos                  |  26/06  |        26/06        |       26/06       |
 
-
+<figcaption align="center">Tabela 9 - Cronograma da equipe para a etapa 8.</figcaption>
 <figcaption align="center">Fonte: Vitor Borges</figcaption>
 
 ## Histórico de Versão
+A Tabela 10 registra o histórico de versão desse documento.
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
@@ -167,6 +171,9 @@ O cronograma realizado é um documento que descreve as atividades que foram exec
 | `8.0`  | 19/06/2023 | Adição do cronograma realizado da Etapa 6.2 | Vitor | Todos |
 | `9.0`  | 26/06/2023 | Adição do cronograma realizado da Etapa 08 | Vitor | Todos |
 
-## Referências
+<h6 align = "center"> Tabela 10: Histórico de Versões
+<br> Autor: Ana Beatriz e Breno </h6>
+
+## Bibliografia
 
 > Curso: FGA0173 - INTERAÇÃO HUMANO COMPUTADOR - 2023/1. Disponível em: <https://aprender3.unb.br/course/view.php?id=18552>. Acesso em: 24 abril. 2023.

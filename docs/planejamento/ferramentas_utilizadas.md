@@ -5,6 +5,7 @@ Saber escolher as ferramentas corretas pode otimizar o trabalho, tornando-o mais
 </p>
 
 # 2. Ferramentas utilizadas
+A Tabela 1 registra as ferramentas utilizadas no projeto.
 
 |                                            | Ferramenta      | Utilidade                                               |
 |:------------------------------------------:|:---------------:|:-------------------------------------------------------:|
@@ -21,13 +22,21 @@ Saber escolher as ferramentas corretas pode otimizar o trabalho, tornando-o mais
 |![Logo Miro](../assets/miro-icon.png) | <a href="https://miro.com/pt/">Miro</a> | Criação dos <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/storyboard/planejamento_avaliacao_storyboard/">storyboards</a> e <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prot%C3%B3tipo_de_papel/planejamento_da_avalia%C3%A7%C3%A3o_do_prot%C3%B3tipo_de_papel/">protótipos de papel</a> |
 |![Figma Logo](../assets/figma-icon.png)| <a href="https://www.figma.com/">Figma</a>| Elaboração do protótipo de alta fidelidade |
 
+<h6 align = "center"> Tabela 1: Ferramentas utilizadas
+<br> Autor: Vitor Borges </h6>
+
+## Histórico de Versão
+A Tabela 2 registra o histórico de versão desse documento.
+
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
 | `1.0`  | 23/04/2023 | Adição das ferramentas utilizadas | Vitor Borges   | Carlos        |
 | `1.1`  | 27/04/2023 | Adição de novas ferramentas e referências | Vitor Borges | |
 | `1.2`  | 01/07/2023 | Adição de novas ferramentas e referências | Vitor Borges | |
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Vitor Borges </h6>
 
-## Referências
+## Bibliografia
 
 > Saiba mais Google Sheets - <https://www.google.com/sheets/about/> Acesso em 26/04 <br>
 > Saiba mais Microsoft Teams - <https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software> Acesso em 26/04 <br>

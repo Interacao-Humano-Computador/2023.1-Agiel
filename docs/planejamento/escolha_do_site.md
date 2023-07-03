@@ -85,6 +85,7 @@ A <a href="https://www.agiel.com.br/site/">Agência de Estágios - Agiel</a> é 
 <p align="justify">Após a avaliação dos sites de cada membro pelo professor e pela equipe, as escolhas foram filtradas, os seis sites avaliados não possuiam recursos o suficientes para possibilitar a realização de um trabalho completo para seis integrantes, a partir disso buscamos entre os sites que utilizavamos e os sites de estágio vieram a tona, entre eles IEL, CIEE, Companhia de Estágios e Agiel, optamos por analisar o Agiel pois todos os integrantes tinham conhecimento do site e após a análise vimos que a <a href="https://www.agiel.com.br/site/">Agência de Estágios Agiel</a> possuia recursos o suficiente para prosseguir nosso projeto.</p>
 
 ## Histórico de Versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão |    Data    |               Descrição                | Autor(es) | Revisor(es) |
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
@@ -92,3 +93,7 @@ A <a href="https://www.agiel.com.br/site/">Agência de Estágios - Agiel</a> é 
 | `1.1`  | 24/04/2023 |       Colocando link com os PDFs       |   Todos   |    Todos    |
 | `2.0`  | 27/04/2023 |  Atualiza site escolhido   |  Carlos   |    Todos    |
 | `2.1`  | 14/05/2023 |  Atualiza site escolhido   |  Vitor   |    Todos    |
+
+
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Todos </h6>
