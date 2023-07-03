@@ -48,12 +48,15 @@ Nesta sessão o avaliador deve apresentar as gravações realizadas na avaliaç�
 
 
 ## Histórico de Versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão |    Data    |               Descrição                | Autor(es) | Revisor(es) |
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
 | `1.0`  | 12/06/2023 | Criação do artefato |   Vitor e Breno   |    Bruno Henrique    |
 | `1.1` | 12/06/2023 | Adição das sessões | Vitor e Breno | Bruno
 | `2.0`  | 03/07/2023  | Padronização do documento |  Ana Beatriz | Bruno |
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Vitor e Breno </h6>
 
-## 3. Bibliografia
+## Bibliografia
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

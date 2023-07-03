@@ -101,6 +101,7 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VGZdVzgWo0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de Versão
+A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão |    Data    |               Descrição                | Autor(es) | Revisor(es) |
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
@@ -111,6 +112,8 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 | `1.4`  | 26/06/2023 | Adição da entrevista | Ana Beatriz | Vitor |
 | `1.5`  | 26/06/2023 | Adição do protótipo | Ana Beatriz | Vitor |
 | `2.0`  | 03/07/2023  | Padronização do documento |  Ana Beatriz | Vitor |
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Vitor </h6>
 
-## 3. Bibliografia
+## Bibliografia
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

@@ -51,11 +51,7 @@ De acordo com Krug, um teste de usabilidade realizado com 3/4 participantes é s
 
 ### 4.2 Cronograma da avaliação
 
-As datas, horários e atribuições abaixo estão sujeitas à alteração. Tais alterações devem ser realizadas com antecedência, e caso aconteçam, devem ser registradas no cronograma abaixo.
-<div style="text-align: center">
-Tabela 1 - Cronograma da Avaliação.
-</p>
-</div>
+As datas, horários e atribuições abaixo, na tabela 1, estão sujeitas à alteração. Tais alterações devem ser realizadas com antecedência, e caso aconteçam, devem ser registradas no cronograma abaixo.
 
 | Data e horário | Atividade | Autor(es) | Revisor(es) |
 | :-: | - | - | - |
@@ -64,13 +60,9 @@ Tabela 1 - Cronograma da Avaliação.
 | 21/06/2023 até às 23:50 | Ajustes antes da avaliação | Ana | Vitor |
 | 24/06/2023 até às 23:50 (horário e data a ser agendado com avaliado) | Aplicação da avaliação | Ana e Pedro | Bruno |
 | 26/06/2023 até 23:50 | Entrega do relato de resultados da avaliação | Carlos e Vitor | Breno |
+<h6 align = "center"> Tabela 1: Cronograma da Avaliação.
+<br> Autor: Pedro Siqueira </h6>
 
-<div style="text-align: center">
-<p>
-(Fonte: Pedro Siqueira, 2023)
-</p>
-</div>
-</p> 
 
 ### 4.3 Papéis dos Avaliadores
 
@@ -160,11 +152,14 @@ O avaliador deverá apresentar para o usuário o caminho que ele deverá executa
 
 
 ## Histórico de Versão
+A Tabela 2 registra o histórico de versão desse documento.
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 12/06/2023  | Criação do documento|  Pedro Siqueira | Vitor Borges |
 | `2.0`  | 03/07/2023  | Padronização do documento |  Ana Beatriz | Vitor Borges |
+<h6 align = "center"> Tabela 2: Histórico de Versões
+<br> Autor: Pedro Siqueira </h6>
 
 ## Bibliografia
 
