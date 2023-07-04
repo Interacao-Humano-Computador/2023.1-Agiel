@@ -2,27 +2,27 @@
 
 ## **1. Introdução**
 <p align="justify">
-Uma persona é um <b>personagem	fictício</b>,	modelo	hipotético	de	um	
+&emsp;&emsp; Uma persona é um <b>personagem	fictício</b>,	modelo	hipotético	de	um	
 grupo	de	usuários	reais,	criado	para	descrever	um	usuário	típico (Barbosa e Silva, 2010, cap. 6).
 </p>
 <p align="justify">
-Ao desenvolver essas personas, buscamos identificar os principais desafios e objetivos de cada grupo de clientes, bem como entender como eles interagem com nossos produtos e serviços. Com essas informações em mãos, podemos criar soluções mais eficazes e personalizadas para atender às necessidades de nossos clientes.
+&emsp;&emsp; Ao desenvolver essas personas, buscamos identificar os principais desafios e objetivos de cada grupo de clientes, bem como entender como eles interagem com nossos produtos e serviços. Com essas informações em mãos, podemos criar soluções mais eficazes e personalizadas para atender às necessidades de nossos clientes.
 </p>
 <p align="justify">
-Todas as imagens utilizadas foram retiradas do site <a href='https://this-person-does-not-exist.com/en'>ThisPersonDoesNotExist</a>, que utiliza inteligência artificial para gerar imagens de pessoas fictícias. De tal modo, o uso de tais imagens é permitido por lei e não infringe nenhum direito de imagem.
+&emsp;&emsp; Todas as imagens utilizadas foram retiradas do site <a href='https://this-person-does-not-exist.com/en'>ThisPersonDoesNotExist</a>, que utiliza inteligência artificial para gerar imagens de pessoas fictícias. De tal modo, o uso de tais imagens é permitido por lei e não infringe nenhum direito de imagem.
 </p>
 
 ## **2. Metodologia**
 <p align="justify">
-Para criar as personas, seguiu-se uma metodologia que envolveu a coleta de dados por meio de um questionário detalhado.
+&emsp;&emsp; Para criar as personas, seguiu-se uma metodologia que envolveu a coleta de dados por meio de um questionário detalhado.
 </p>
 <p align="justify">
-Com base nas informações coletadas, foi possível criar perfis detalhados dos usuários do sistema, conforme pode ser observado no artefato de <a href='https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/perfil_do_usuario/'>Perfil do Usuário</a>. Tais perfis serviram como base para a <b>criação das personas</b> no presente artefato. Cada persona representa um grupo de usuário com características, comportamentos e necessidades semelhantes. 
+&emsp;&emsp; Com base nas informações coletadas, foi possível criar perfis detalhados dos usuários do sistema, conforme pode ser observado no artefato de <a href='https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/perfil_do_usuario/'>Perfil do Usuário</a>. Tais perfis serviram como base para a <b>criação das personas</b> no presente artefato. Cada persona representa um grupo de usuário com características, comportamentos e necessidades semelhantes. 
 </p>
 
 ## **3. Elenco de Personas**
 <p align="justify">
-Um elenco de personas se trata do grupo de personas selecionadas para uso no projeto. Tal elenco conta com <b>quatro personas</b>. Sendo elas, duas primárias (Tabelas 1 e 2), uma secundária (Tabela 3) e uma antipersona (Tabela 4). Tal quantia foi escolhida devido ao fato de que o AUTOR recomenda de três até doze, e, pela baixa disponibilidade dos membros, somada à média quantidade de dados coletados, esta quantia foi considerada a ideal para o contexto.
+&emsp;&emsp; Um elenco de personas se trata do grupo de personas selecionadas para uso no projeto. Tal elenco conta com <b>quatro personas</b>. Sendo elas, duas primárias (Tabelas 1 e 2), uma secundária (Tabela 3) e uma antipersona (Tabela 4). Tal quantia foi escolhida devido ao fato de que o AUTOR recomenda de três até doze, e, pela baixa disponibilidade dos membros, somada à média quantidade de dados coletados, esta quantia foi considerada a ideal para o contexto.
 </p>
 
 | Persona | |
@@ -99,12 +99,13 @@ Um elenco de personas se trata do grupo de personas selecionadas para uso no pro
 
 ## **Histórico de Versões**
 <p align="justify">
-A Tabela 6 registra o histórico de versão deste documento.
+&emsp;&emsp; A Tabela 6 registra o histórico de versão deste documento.
 </p>
 
 | Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
 |:------:|:----------:|:--------------------:|:-------------:|:-------:|
-| `1.0`  | 08/05/2023 | Adicionando tabela de persona e antipersona | Ana Beatriz | Breno |
+| `1.0`  | 08/05 | Adicionando tabela de persona e antipersona | Ana Beatriz | Breno |
+| `1.1`  | 04/07 | Alterações na estrutura do documento| Pedro | Ana |
 
 <h6 align = "center"> Tabela 6: Histórico de Versões
 <br> Autor: Ana Beatriz</h6>
