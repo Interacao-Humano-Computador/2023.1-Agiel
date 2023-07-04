@@ -71,10 +71,10 @@
 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
-| `1.0`  | 08/05 | Adição do mapa de calor | Pedro e Vitor | Carlos |
-| `1.1`  | 08/05 | Adição do player de vídeo | Pedro e Vitor | Carlos |
-| `1.2`  | 10/05 | Adição dos objetivos | Vitor | Carlos |
-| `1.3`  | 04/07 | Alterações na estrutura do documento| Pedro | Vitor |
+| `1.0`  | 08/05/2023 | Adição do mapa de calor | Pedro e Vitor | Carlos |
+| `1.1`  | 08/05/2023  | Adição do player de vídeo | Pedro e Vitor | Carlos |
+| `1.2`  | 10/05/2023  | Adição dos objetivos | Vitor | Carlos |
+| `1.3`  | 04/07/2023  | Alterações na estrutura do documento| Pedro | Vitor |
 
 <h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Pedro e Vitor </h6>

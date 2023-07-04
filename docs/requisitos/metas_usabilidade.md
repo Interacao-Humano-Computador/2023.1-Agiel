@@ -87,7 +87,7 @@
 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
-| `1.0`  | 15/05 | Adição aba metas de usabilidade | Pedro e Vitor | Ana Beatriz |
+| `1.0`  | 15/05/2023 | Adição aba metas de usabilidade | Pedro e Vitor | Ana Beatriz |
 
 <h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Pedro e Vitor </h6>
