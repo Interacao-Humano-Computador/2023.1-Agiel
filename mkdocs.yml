@@ -49,24 +49,24 @@ nav:
   - Design Avaliação e Desenvolvimento:
     - Nível 1:
       - Análise de Tarefas:
-        - Planejamento da avaliação: desenvolvimento/tarefas/planejamento_tarefas.md
-        - Planejamento do relato de resultados: desenvolvimento/tarefas/planejamento_resultado_tarefas.md
-        - Relato de resultados: desenvolvimento/tarefas/relatos_analise_tarefas.md  
+        - Planejamento da Avaliação: desenvolvimento/tarefas/planejamento_tarefas.md
+        - Planejamento do Relato de Resultados: desenvolvimento/tarefas/planejamento_resultado_tarefas.md
+        - Relato de Resultados: desenvolvimento/tarefas/relatos_analise_tarefas.md  
       - Storyboard:
-        - Planejamento da avaliação: desenvolvimento/storyboard/planejamento_avaliacao_storyboard.md
-        - Planejamento do relato de resultados: desenvolvimento/storyboard/planejamento_relato_avaliacao_storyboard.md
-        - Relato de resultados: desenvolvimento/storyboard/relatos_storyboard.md
+        - Planejamento da Avaliação: desenvolvimento/storyboard/planejamento_avaliacao_storyboard.md
+        - Planejamento do Relato de Resultados: desenvolvimento/storyboard/planejamento_relato_avaliacao_storyboard.md
+        - Relato de Resultados: desenvolvimento/storyboard/relatos_storyboard.md
     - Nível 2:
-      - Protótipo de papel:
-        - Planejamento da avaliação: desenvolvimento/protótipo_de_papel/planejamento_da_avaliação_do_protótipo_de_papel.md
-        - Planejamento do relato de resultados: desenvolvimento/protótipo_de_papel/planejamento_relato_resultado_prototipo_papel.md
-        - Relato de resultados: desenvolvimento/protótipo_de_papel/relatos_prototipo_papel.md
+      - Protótipo de Papel:
+        - Planejamento da Avaliação: desenvolvimento/protótipo_de_papel/planejamento_da_avaliação_do_protótipo_de_papel.md
+        - Planejamento do Relato de Resultados: desenvolvimento/protótipo_de_papel/planejamento_relato_resultado_prototipo_papel.md
+        - Relato de Resultados: desenvolvimento/protótipo_de_papel/relatos_prototipo_papel.md
     - Nível 3:
-      - Protótipo de alta fidelidade:
-        - Planejamento da avaliação: desenvolvimento/prototipo_alta_fidelidade/planejamento_alta_fidelidade.md
-        - Planejamento do relato de resultados: desenvolvimento/prototipo_alta_fidelidade/planejamento_relato.md
-        - Relato de resultados: desenvolvimento/prototipo_alta_fidelidade/relatos_prototipo_alta.md
-  - Atas de reunião:
+      - Protótipo de Alta Fidelidade:
+        - Planejamento da Avaliação: desenvolvimento/prototipo_alta_fidelidade/planejamento_alta_fidelidade.md
+        - Planejamento do Relato de Resultados: desenvolvimento/prototipo_alta_fidelidade/planejamento_relato.md
+        - Relato de Resultados: desenvolvimento/prototipo_alta_fidelidade/relatos_prototipo_alta.md
+  - Atas de Reunião:
     - Reunião 00: atas/reuniao-00.md
     - Reunião 01: atas/reuniao-01.md
     - Reunião 02: atas/reuniao-02.md

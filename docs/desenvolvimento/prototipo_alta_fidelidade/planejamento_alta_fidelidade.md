@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-O  artefato seguinte trata sobre o planejamento da avaliação do protótipo de alta fidelidade, que será elaborado para o sistema web Agiel. Tal planejamento da avaliação baseia-se nos ritos do _framework_ DECIDE:
+O artefato seguinte trata sobre o **planejamento da avaliação do protótipo de alta fidelidade**, que será elaborado para o sistema web Agiel. Tal planejamento da avaliação baseia-se nos ritos do _framework_ DECIDE:
 
 - D: Determinar os objetivos da avaliação;
 - E: Explorar perguntas a serem respondidas com a avaliação

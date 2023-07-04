@@ -1,7 +1,7 @@
 # Planejamento da avaliação do protótipo de papel
 
 ## 1. Introdução
-O planejamento da avaliação do protótipo de papel é essencial para garantir uma análise eficiente e eficaz do projeto em questão. A prototipação em papel é uma técnica amplamente adotada devido à sua baixa complexidade e custo, permitindo uma rápida iteração e validação de ideias. Neste processo, a equipe tem a oportunidade de coletar feedback valioso dos usuários, explorar novas soluções e realizar ajustes com facilidade. Este documento aborda o planejamento para a avaliação do protótipo de papel, visando otimizar a compreensão e aperfeiçoamento do projeto.
+O **planejamento da avaliação do protótipo de papel** é essencial para garantir uma análise eficiente e eficaz do projeto em questão. A prototipação em papel é uma técnica amplamente adotada devido à sua baixa complexidade e custo, permitindo uma rápida iteração e validação de ideias. Neste processo, a equipe tem a oportunidade de coletar feedback valioso dos usuários, explorar novas soluções e realizar ajustes com facilidade. Este documento aborda o planejamento para a avaliação do protótipo de papel, visando otimizar a compreensão e aperfeiçoamento do projeto.
 
 ## 2. Metodologia
 Para o planejamento da avaliação do protótipo de papel, utilizaremos uma abordagem metodológica baseada no framework DECIDE. Esse framework é amplamente reconhecido na área de Interação Humano-Computador e fornece diretrizes para uma avaliação eficaz do protótipo. O DECIDE é composto pelos seguintes passos:
