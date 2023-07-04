@@ -12,22 +12,17 @@ O objetivo desse guia é <b>apresentar elementos que ajudem a definir a identida
 
 ## **3. Organização**
 <p align="justify">
-<UL>1. Introdução (com Objetivo do guia de estilo, Organização e conteúdo do guia de estilo, Público alvo do guia de estilos (programadores, gerentes, equipe de suporte), Como utilizar o guia (em produção e manutenção), Como manter o guia)
-</UL>
-<UL>2. Resultados de análise • Descrição do ambiente de trabalho do usuário
-</UL>
-<UL>3. Elementos de interface • Disposição espacial e grid • Janelas • Tipografia • Cores
-</UL>
-<UL>4. Elementos de interação - • Estilos de interação • Seleção de um estilo • Aceleradores (teclas de atalho)
-</UL>
-<UL>5. Elementos de ação • Preenchimento de campos • SeleçãO • Ativação
-</UL>
-<UL>
-6. Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
-</UL>
+<ul>
+<li>Introdução (com Objetivo do guia de estilo, Organização e conteúdo do guia de estilo, Público alvo do guia de estilos (programadores, gerentes, equipe de suporte), Como utilizar o guia (em produção e manutenção), Como manter o guia)</li>
+<li>Resultados de análise • Descrição do ambiente de trabalho do usuário</li>
+<li>Elementos de interface • Disposição espacial e grid • Janelas • Tipografia • Cores</li>
+<li>Elementos de interação - • Estilos de interação • Seleção de um estilo • Aceleradores (teclas de atalho)</li>
+<li>Elementos de ação • Preenchimento de campos • SeleçãO • Ativação</li>
+<li>Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)</li>
+</ul>
 </p>
 
-### **3.1 Público alvo**
+### **3.1 Público-Alvo**
 <p align="justify">
 O público-alvo do guia de estilo depende da organização ou empresa em questão e de como ela deseja utilizar o guia. Em geral, o guia de estilo é direcionado a todos os membros da equipe que participam da criação de materiais de comunicação, como escritores, designers, editores, desenvolvedores e gerentes de projeto. Também pode ser útil para membros da equipe de suporte, que podem precisar fornecer orientações de comunicação aos clientes.
 </p>
@@ -35,18 +30,18 @@ O público-alvo do guia de estilo depende da organização ou empresa em questã
 Nesse projeto, como é um Guia de Etilo feito por estudantes de software, o público-alvo seria principalmente outros desenvolvedores e programadores, bem como gerentes de projeto e equipes de suporte que trabalham no desenvolvimento de software.
 </p>
 
-### **3.2 Como utilizar o guia**
+### **3.2 Como Utilizar o Guia**
 <p align="justify">
 Para utilizar o guia de estilo em produção e manutenção, é importante aplicar as diretrizes a todos os novos materiais, revisitar o guia periodicamente, integrá-lo às ferramentas de desenvolvimento e treinar a equipe. Isso garante a consistência e a qualidade das comunicações da empresa ou do desenvolvimento de software, melhorando a experiência do usuário e fortalecendo a identidade da marca.
 </p>
 
-### **3.3 Como manter o guia**
+### **3.3 Como Manter o Guia**
 <p align="justify">
 Para manter o guia de estilo atualizado, é necessário fazer revisões periódicas, solicitar feedback dos usuários, adaptá-lo às novas tecnologias, documentar as decisões tomadas, e comunicar as atualizações para toda a equipe envolvida na produção de comunicações ou desenvolvimento de software. Ao manter o guia de estilo atualizado, a equipe pode garantir que as diretrizes e as melhores práticas reflitam a evolução da empresa e da tecnologia, melhorando a qualidade do desenvolvimento de software e a experiência do usuário.
 </p>
 
-## **4. Resultados de análise**
-### **4.1 Descrição do ambiente de trabalho do usuário**
+## **4. Resultados de Análise**
+### **4.1 Descrição do Ambiente de Trabalho do Usuário**
 <p align="justify">
 Em geral, o ambiente de trabalho do usuário no site da Agiel é projetado para tornar o processo de busca e candidatura a vagas de estágio o mais fácil e eficiente possível, fornecendo acesso a um grande número de vagas e recursos úteis.
 </p>
@@ -54,8 +49,8 @@ Em geral, o ambiente de trabalho do usuário no site da Agiel é projetado para 
 Uma vez que o usuário encontre uma vaga de interesse, ele pode ler a descrição completa da vaga, que geralmente inclui informações sobre a empresa, requisitos específicos, responsabilidades e benefícios. O usuário também pode enviar sua candidatura diretamente pelo site.
 </p>
 
-## **5. Elementos de interface**
-### **5.1 Disposição espacial e grid**
+## **5. Elementos de Interface**
+### **5.1 Disposição Espacial e Grid**
 <p align="justify">
 A interface do site é dividida em três áreas principais. A parte superior, mostrada na figura 1, apresenta um menu de opções de como o usúario quer fazer o login. 
 </p>
@@ -120,13 +115,13 @@ O site tem como cores principais o #ea7600 e o #004c97 como pode ver na figura 7
 <p> Figura 7: Cores principais do site <br/>(Fonte: autor, 2023).</p>
 </div>
 
-## **6. Elementos de interação** 
-### **6.1 Estilos de interação**
+## **6. Elementos de Interação** 
+### **6.1 Estilos de Interação**
 <p align="justify">
 Os usuários interagem com o site por meio de botões, formulários e ícones.
 </p>
 
-### **6.2 Seleção de um estilo**
+### **6.2 Seleção de um Estilo**
 <p align="justify">
 O site tem um estilo mais minimalista nos botões e menus, mas tem muitas imagens e pode ser um pouco poluído.
 </p>
@@ -156,8 +151,8 @@ ESTUDANTES:
 * App vagas
 * Blog do Estagiário
 
-## **6. Elementos de ação**
-### **6.1 Preenchimento de campos** 
+## **6. Elementos de Ação**
+### **6.1 Preenchimento de Campos** 
 <p align="justify">
 Os elementos de preenchimento de campos ocorre em todos os menus citados acima, pois o site necessita de login e cadastrar algumas informações.
 </p>
@@ -172,18 +167,18 @@ Os elementos de seleção ocorrem quando o estudande escolher uma vaga.
 A ativação é inclui botões, links e ícones.
 </p>
 
-## **7. Vocabulário e padrões** 
+## **7. Vocabulário e Padrões** 
 ### **7.1 Terminologia**
 <p align="justify">
 O site emprega termos relacionados a vagas de estágio e utiliza um vocabulário comum para facilitar o entendimento dos usuários que acessam a plataforma.
 </p>
 
-### **7.2 Tipos de tela**
+### **7.2 Tipos de Tela**
 <p align="justify">
 As telas do site apresentam um padrão simples e uniforme, com exceção da tela principal que contém muitas informações. A identidade visual é mantida em todas as telas, proporcionando uma experiência coesa e consistente ao usuário.
 </p>
 
-### **7.3 Sequências de diálogos**
+### **7.3 Sequências de Diálogos**
 <p align="justify">
 As sequências do site são consistentes e seguem um padrão, permitindo que o usuário se familiarize com o processo de navegação. Além disso, os botões de confirmação e cancelamento são semelhantes em todas as páginas, facilitando a compreensão e ações do usuário.
 </p>

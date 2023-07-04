@@ -37,14 +37,14 @@ Alguns dos princípios gerais comuns incluem a encontrabilidade, que diz respeit
 <p> Figura 2:  Botões de editar espalhados<br/> (Fonte: autor, 2023).</p>
 </div>
 
-## Histórico de Versão
+## **Histórico de Versão**
 A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão |    Data    |      Descrição       | Autor(es) |  Revisor(es)   |
 |:------:|:----------:|:--------------------:|:---------:|:--------------:|
 | `1.0`  | 08/05/2023 | Criação do documento |   Bruno   | Pedro Siqueira |
 
-<h6 align = "center"> Tabela 1: Histórico de Versões
+<h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Bruno </h6>
 
 ## Bibliografia
