@@ -26,7 +26,7 @@ As avaliações foram realizadas por meio de entrevistas agendadas previamente e
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FuIASKVWfrkY0CpKDNld4wm%2FPrototipo-Agiel%3Ftype%3Ddesign%26node-id%3D51%253A62%26mode%3Ddesign%26t%3DwC4yab2baSFOcvao-1" allowfullscreen></iframe>
 
 ### 2.4 Avaliadores e Participantes
-Os avaliadores, respectivamente foram Vitor Borges e Ana Beatriz, e os entrevistados foram os estudantes Vitor Manoel, Rennan Oliveira, Geovanne Freitas e Gustavo Henrique.
+Os avaliadores, respectivamente foram Vitor Borges, Ana Beatriz e Breno Yuri, e os entrevistados foram os estudantes Vitor Manoel, Rennan Oliveira, Geovanne Freitas, Gustavo Henrique e Bruno Camargos.
 
 ### 2.5 Problemas encontrados
 Nesta sessão esperamos que o avaliador após a realização da avaliação apresente os seguintes pontos:
@@ -70,6 +70,25 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 1. (Problema 1) Apresenta gravidade média pois o usuário após visualizar as outras opções encontra rapidamente o campo de vagas.
 2. (Problema 2) Apresenta gravidade alta pois o usuário tem que voltar no fluxo para checar as informações multiplas vezes. 
 
+### Tarefa: Cadastrar Instituição de Ensino
+
+* Descrição dos problemas
+
+1. O usuário considerou a seta do dropdown pouco intuitiva e visualmente insatisfatória.
+
+* Detalhes dos problemas:
+
+1. (Problema 1) O problema está na seta que abre o dropdown no topo da página inicial (header), pois seu design visual se assemelha a um "v" e não é intuitivo para os usuários.
+
+* Consequências/impactos do problema para o usuário:
+
+1. (Problema 1) A seta do dropdown não é apenas pouco intuitiva, mas também não possui um design visual atraente, o que afeta negativamente a experiência estética do usuário.
+
+* Gravidade dos problemas:
+
+1. (Problema 1) A gravidade desse problema não é alta, pois se trata de um aspecto visual e de usabilidade específico relacionado à seta do dropdown.
+
+
 ### 2.6 Sugestões de melhoria
 
 ### Sugestões (Obter Dicas sobre Gestão de Carreira)
@@ -81,6 +100,10 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 * (Problema 1): Ir direto para as vagas disponíveis no fluxo
 * (Problema 2): Inserir uma preview do currículo do usuário antes da confirmação da participação.
 * (Problema 2): Permitir que o usuário edite o currículo na tela de confirmação de candidatura.
+
+### Sugestões (Cadastrar Instituição de Ensino)
+
+* (Problema 1): Substituir a seta do dropdown, tornando-a mais intuitiva e esteticamente agradável.
 
 ### 2.7 Gravação ou Dados coletados
 
@@ -100,6 +123,11 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VGZdVzgWo0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Entrevista Dia 27/06 19:00, local: presencial (casa), participante: Bruno C.
+
+<iframe width="560" height="315" src="https://youtu.be/gi-MfYaYgYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ### 3.0 Metas Alcançadas
 
 Na definição dos requisitos do projeto algumas metas de usabilidade foram selecionadas (utilidade, eficácia, aprendizagem), essas metas guiaram a elaboração dos protótipos de baixa, média e alta fidelidade, com o protótipo de alta fidelidade e os dados coletados nas entrevistas podemos aferir se o protótipo alcançou essas metas ou não.
@@ -108,10 +136,13 @@ Na definição dos requisitos do projeto algumas metas de usabilidade foram sele
 |:-------------------:|:------:|:------:|:-----------:|
 | Utilidade | Obter Dicas Sobre Gestão de Carreira | Parcialmente alcançada | Os usuários que realizaram o fluxo desta tarefa levantaram a falta de filtros para busca e a falta de tags pré-definidas |
 | Utilidade | Cadastrar em vaga | | |
+| Utilidade | Cadastrar instituição de ensino | Alcançada | Os usuários conseguiram realizar a tarefa sem dificuldades. |
 | Eficácia | Obter Dicas Sobre Gestão de Carreira | Alcançada | Os usuários conseguiram realizar o fluxo completo desta tarefa de forma acertiva (em média 3 a 4 cliques) e em pouco tempo, um usuário levantou que esta tarefa poderia estar diretamente alocada na home, porém esta alteração deve ser estudada |
 | Eficácia | Cadastrar em vaga | | |
+| Eficácia | Cadastrar instituição de ensino | Alcançada | Os usuários conseguiram realizar o fluxo completo desta tarefa de forma rápida e acertiva. |
 | Aprendizagem | Obter Dicas Sobre Gestão de Carreira | Parcialmente alcançada | Os usuários que realizaram o fluxo enquanto pensavam em voz alta relataram as intuições e pensamentos acerca da interface e os mesmos conseguiram aprender enquanto passavam pelo fluxo da tarefa |
 | Aprendizagem | Cadastrar em vaga | | |
+| Aprendizagem | Cadastrar instituição de ensino | Alcançada | O usuário concluiu a tarefa com total clareza e confiança, entendendo cada passo sem nenhuma dúvida. |
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br> Autor: Vitor </h6>
 
@@ -129,6 +160,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 | `2.0`  | 03/07/2023  | Padronização do documento |  Ana Beatriz | Vitor |
 | `2.1`  | 04/07/2023  | Adição de tabela para elencar as metas alcançadas |  Vitor | Ana Beatriz |
 | `2.2`  | 04/07/2023  | Adição das metas alcançadas da tarefa obter dicas sobre gestão de carreira |  Vitor | Ana Beatriz |
+| `2.3`  | 04/07/2023  | Adição de entrevista da tarefa cadastrar instituição de ensino |  Breno Yuri | Vitor |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Vitor </h6>
