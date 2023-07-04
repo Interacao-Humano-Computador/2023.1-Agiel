@@ -1,19 +1,33 @@
-## 1. Introdução
-As personas são representações fictícias de nossos clientes ideais, criadas com base em informações demográficas, comportamentais e psicológicas.
+# ***Personas*** 
 
+## **1. Introdução**
+<p align="justify">
+Uma persona é um <b>personagem	fictício</b>,	modelo	hipotético	de	um	
+grupo	de	usuários	reais,	criado	para	descrever	um	usuário	típico (Barbosa e Silva, 2010, cap. 6).
+</p>
+<p align="justify">
 Ao desenvolver essas personas, buscamos identificar os principais desafios e objetivos de cada grupo de clientes, bem como entender como eles interagem com nossos produtos e serviços. Com essas informações em mãos, podemos criar soluções mais eficazes e personalizadas para atender às necessidades de nossos clientes.
+</p>
+<p align="justify">
+Todas as imagens utilizadas foram retiradas do site <a href='https://this-person-does-not-exist.com/en'>ThisPersonDoesNotExist</a>, que utiliza inteligência artificial para gerar imagens de pessoas fictícias. De tal modo, o uso de tais imagens é permitido por lei e não infringe nenhum direito de imagem.
+</p>
 
-## 2. Metodologia
-Para criar as personas, utilizamos uma metodologia que envolveu a coleta de dados por meio de um questionário detalhado.
+## **2. Metodologia**
+<p align="justify">
+Para criar as personas, seguiu-se uma metodologia que envolveu a coleta de dados por meio de um questionário detalhado.
+</p>
+<p align="justify">
+Com base nas informações coletadas, foi possível criar perfis detalhados dos usuários do sistema, conforme pode ser observado no artefato de <a href='https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/perfil_do_usuario/'>Perfil do Usuário</a>. Tais perfis serviram como base para a <b>criação das personas</b> no presente artefato. Cada persona representa um grupo de usuário com características, comportamentos e necessidades semelhantes. 
+</p>
 
-Com base nas informações coletadas, criamos perfis detalhados de nossos usuários ideais, que serviram como a base para a criação das personas. Cada persona representa um grupo de usuário com características, comportamentos e necessidades semelhantes.
-
-## 3. Elenco de Personas
-O elenco de personas conta com 4 personas, 2 primarias (Tabela 1 e 2), 1 secundaria (Tabela 3) e uma antipersona (Tabela 4). Foi escolhido essa quantidade de personas pois o livro que usamos como referencia recomenda de 3 até 12.
+## **3. Elenco de Personas**
+<p align="justify">
+Um elenco de personas se trata do grupo de personas selecionadas para uso no projeto. Tal elenco conta com <b>quatro personas</b>. Sendo elas, duas primárias (Tabelas 1 e 2), uma secundária (Tabela 3) e uma antipersona (Tabela 4). Tal quantia foi escolhida devido ao fato de que o AUTOR recomenda de três até doze, e, pela baixa disponibilidade dos membros, somada à média quantidade de dados coletados, esta quantia foi considerada a ideal para o contexto.
+</p>
 
 | Persona | |
 |:--:|:--:|
-|Foto:| ![](../imagens/Ana.png) <p>Figura 1: Persona</p><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>|
+|Foto:| ![](../imagens/Ana.png) <p>Figura 1: Persona</p><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>ThisPersonDoesNotExist</a> </small>|
 |Nome:| Ana Paula Silva|
 |Idade:| 22 anos |
 |Status:| Persona Primaria |
@@ -31,7 +45,7 @@ O elenco de personas conta com 4 personas, 2 primarias (Tabela 1 e 2), 1 secunda
 
 | Persona | |
 |:--:|:--:|
-|Foto:| ![](../imagens/jonas.png) <p>Figura 2: Persona</p><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>|
+|Foto:| ![](../imagens/jonas.png) <p>Figura 2: Persona</p><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>ThisPersonDoesNotExist</a> </small>|
 |Nome:| Jonas da Silva|
 |Idade:| 30 anos |
 |Status:| Persona Primaria |
@@ -49,7 +63,7 @@ O elenco de personas conta com 4 personas, 2 primarias (Tabela 1 e 2), 1 secunda
 
 | Persona | |
 |:--:|:--:|
-|Foto:| ![](../imagens/miguel.png) <p>Figura 3: Persona</p><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>|
+|Foto:| ![](../imagens/miguel.png) <p>Figura 3: Persona</p><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>ThisPersonDoesNotExist</a> </small>|
 |Nome:| Miguel Oliveira|
 |Idade:| 22 anos |
 |Status:| Persona Secundária |
@@ -68,7 +82,7 @@ O elenco de personas conta com 4 personas, 2 primarias (Tabela 1 e 2), 1 secunda
 
 | Persona | |
 |:--:|:--:|
-|Foto:| ![](../imagens/joao.png) <p>Figura 4: Persona</p><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>Thispersondoesnotexist</a> </small>|
+|Foto:| ![](../imagens/joao.png) <p>Figura 4: Persona</p><small>Fonte: <a href='https://this-person-does-not-exist.com/en'>ThisPersonDoesNotExist</a> </small>|
 |Nome:| João da Silva|
 |Idade:| 50 anos |
 |Status:| Antipersona |
@@ -83,20 +97,21 @@ O elenco de personas conta com 4 personas, 2 primarias (Tabela 1 e 2), 1 secunda
 <h6 align = "center"> Tabela 4: Persona: João da Silva
 <br> Autor: Ana Beatriz</h6>
 
-## Histórico de Versões
-
+## **Histórico de Versões**
+<p align="justify">
 A Tabela 6 registra o histórico de versão deste documento.
+</p>
 
 | Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
 |:------:|:----------:|:--------------------:|:-------------:|:-------:|
-| `1.0`  | 08/05/2023 | Adiconando tabela de persona e antipersona | Ana Beatriz | Breno |
+| `1.0`  | 08/05/2023 | Adicionando tabela de persona e antipersona | Ana Beatriz | Breno |
 
 <h6 align = "center"> Tabela 6: Histórico de Versões
 <br> Autor: Ana Beatriz</h6>
 
 ## Bibliografia
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acessado em 07 de Maio de 2023
 
-> This Person Does Not Exist. [link](https://this-person-does-not-exist.com/en). Acessado em: 07 de Maio de 2023 e em 08 de Maio de 2023.
+> [2] This Person Does Not Exist. [link](https://this-person-does-not-exist.com/en). Acessado em: 07 de Maio de 2023 e em 08 de Maio de 2023.
