@@ -100,8 +100,23 @@ Nesta sessão esperamos que o avaliador após a realização da avaliação apre
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VGZdVzgWo0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### 3.0 Metas Alcançadas
+
+Na definição dos requisitos do projeto algumas metas de usabilidade foram selecionadas (utilidade, eficácia, aprendizagem), essas metas guiaram a elaboração dos protótipos de baixa, média e alta fidelidade, com o protótipo de alta fidelidade e os dados coletados nas entrevistas podemos aferir se o protótipo alcançou essas metas ou não.
+
+| Meta de Usabilidade | Tarefa | Status | Observações |
+|:-------------------:|:------:|:------:|:-----------:|
+| Utilidade | Obter Dicas Sobre Gestão de Carreira | |
+| Utilidade | Cadastrar em vaga | |
+| Eficácia | Obter Dicas Sobre Gestão de Carreira | |
+| Eficácia | Cadastrar em vaga | |
+| Aprendizagem | Obter Dicas Sobre Gestão de Carreira | |
+| Aprendizagem | Cadastrar em vaga | |
+<h6 align = "center"> Tabela 1: Histórico de Versões
+<br> Autor: Vitor </h6>
+
 ## Histórico de Versão
-A Tabela 1 registra o histórico de versão desse documento.
+A Tabela 2 registra o histórico de versão desse documento.
 
 | Versão |    Data    |               Descrição                | Autor(es) | Revisor(es) |
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
@@ -112,7 +127,9 @@ A Tabela 1 registra o histórico de versão desse documento.
 | `1.4`  | 26/06/2023 | Adição da entrevista | Ana Beatriz | Vitor |
 | `1.5`  | 26/06/2023 | Adição do protótipo | Ana Beatriz | Vitor |
 | `2.0`  | 03/07/2023  | Padronização do documento |  Ana Beatriz | Vitor |
-<h6 align = "center"> Tabela 1: Histórico de Versões
+| `2.1`  | 04/07/2023  | Adição de tabela para elencar as metas alcançadas |  Vitor | Ana Beatriz |
+
+<h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Vitor </h6>
 
 ## Bibliografia
