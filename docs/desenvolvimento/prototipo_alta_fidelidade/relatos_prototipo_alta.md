@@ -106,12 +106,12 @@ Na definição dos requisitos do projeto algumas metas de usabilidade foram sele
 
 | Meta de Usabilidade | Tarefa | Status | Observações |
 |:-------------------:|:------:|:------:|:-----------:|
-| Utilidade | Obter Dicas Sobre Gestão de Carreira | |
-| Utilidade | Cadastrar em vaga | |
-| Eficácia | Obter Dicas Sobre Gestão de Carreira | |
-| Eficácia | Cadastrar em vaga | |
-| Aprendizagem | Obter Dicas Sobre Gestão de Carreira | |
-| Aprendizagem | Cadastrar em vaga | |
+| Utilidade | Obter Dicas Sobre Gestão de Carreira | Parcialmente alcançada | Os usuários que realizaram o fluxo desta tarefa levantaram a falta de filtros para busca e a falta de tags pré-definidas |
+| Utilidade | Cadastrar em vaga | | |
+| Eficácia | Obter Dicas Sobre Gestão de Carreira | Alcançada | Os usuários conseguiram realizar o fluxo completo desta tarefa de forma acertiva (em média 3 a 4 cliques) e em pouco tempo, um usuário levantou que esta tarefa poderia estar diretamente alocada na home, porém esta alteração deve ser estudada |
+| Eficácia | Cadastrar em vaga | | |
+| Aprendizagem | Obter Dicas Sobre Gestão de Carreira | Parcialmente alcançada | Os usuários que realizaram o fluxo enquanto pensavam em voz alta relataram as intuições e pensamentos acerca da interface e os mesmos conseguiram aprender enquanto passavam pelo fluxo da tarefa |
+| Aprendizagem | Cadastrar em vaga | | |
 <h6 align = "center"> Tabela 1: Histórico de Versões
 <br> Autor: Vitor </h6>
 
@@ -128,6 +128,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 | `1.5`  | 26/06/2023 | Adição do protótipo | Ana Beatriz | Vitor |
 | `2.0`  | 03/07/2023  | Padronização do documento |  Ana Beatriz | Vitor |
 | `2.1`  | 04/07/2023  | Adição de tabela para elencar as metas alcançadas |  Vitor | Ana Beatriz |
+| `2.2`  | 04/07/2023  | Adição das metas alcançadas da tarefa obter dicas sobre gestão de carreira |  Vitor | Ana Beatriz |
 
 <h6 align = "center"> Tabela 2: Histórico de Versões
 <br> Autor: Vitor </h6>
