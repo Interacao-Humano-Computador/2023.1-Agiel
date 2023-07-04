@@ -99,7 +99,7 @@ grupo	de	usuários	reais,	criado	para	descrever	um	usuário	típico (Barbosa e S
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp; A Tabela 6 registra o histórico de versão deste documento.
+&emsp;&emsp; A Tabela 5 registra o histórico de versão deste documento.
 </p>
 
 | Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
@@ -107,7 +107,7 @@ grupo	de	usuários	reais,	criado	para	descrever	um	usuário	típico (Barbosa e S
 | `1.0`  | 08/05 | Adicionando tabela de persona e antipersona | Ana Beatriz | Breno |
 | `1.1`  | 04/07 | Alterações na estrutura do documento| Pedro | Ana |
 
-<h6 align = "center"> Tabela 6: Histórico de Versão
+<h6 align = "center"> Tabela 5: Histórico de Versão
 <br> Autor: Ana Beatriz</h6>
 
 ## Bibliografia

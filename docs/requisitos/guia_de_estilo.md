@@ -199,7 +199,7 @@ A Tabela 1 registra o histórico de versão desse documento.
 | `1.1`  | 15/05/2023 | Adicionando o resultado de analise e elementos de interface | Ana Beatriz |    Breno   |
 | `1.2`  | 15/05/2023 | Adicionando elementos de interação, ação e vocabulário  | Ana Beatriz |    Breno   |
 
-<h6 align = "center"> Tabela 1: Histórico de Versões
+<h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Ana Beatriz </h6>
 
 ## **Bibliografia**

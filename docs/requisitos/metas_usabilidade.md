@@ -85,15 +85,13 @@ Para realizar a escolha das metas que proporcionam mais valor para nosso projeto
 * Meta de Eficácia
 
 <p align="justify">
-&emsp;&emsp;
- O Agiel deve fornecer ao usuário formas de cadastrar/atualizar currículos de forma intuitiva, se interar em relação as condutas esperadas de um estágiario e as legislações que um estágiario está sujeito. 
+&emsp;&emsp;O Agiel deve fornecer ao usuário formas de cadastrar/atualizar currículos de forma intuitiva, se interar em relação as condutas esperadas de um estágiario e as legislações que um estágiario está sujeito. 
 </p>
 
 * Meta de Aprendizagem
 
 <p align="justify">
-&emsp;&emsp;
-O Agiel falha em apresentar recursos intuitivos e claros para seu usuário, o que, além de afetar a eficácia do sistema, faz com que o utilizador tenha que buscar recursos alternativos e não consiga usá-lo facilmente. Deve fornecer mais clareza nas vagas ofertadas durante a listagem e permitir com que seja possível a busca de vagas por área de conhecimento, não apenas pelo curso.
+&emsp;&emsp;O Agiel falha em apresentar recursos intuitivos e claros para seu usuário, o que, além de afetar a eficácia do sistema, faz com que o utilizador tenha que buscar recursos alternativos e não consiga usá-lo facilmente. Deve fornecer mais clareza nas vagas ofertadas durante a listagem e permitir com que seja possível a busca de vagas por área de conhecimento, não apenas pelo curso.
 </p>
 
 ## Histórico de Versão
@@ -103,7 +101,7 @@ A Tabela 1 registra o histórico de versão desse documento.
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
 | `1.0`  | 15/05 | Adição aba metas de usabilidade | Pedro e Vitor | Ana Beatriz |
 
-<h6 align = "center"> Tabela 1: Histórico de Versões
+<h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Pedro e Vitor </h6>
 
 ## Bibliografia
