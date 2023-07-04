@@ -31,21 +31,21 @@ theme:
 nav:
   - Início: index.md
   - Planejamento:
-    - Processo de Design: planejamento/processo_design.md
-    - Escolha do Site: planejamento/escolha_do_site.md
     - Cronograma: planejamento/cronograma.md
     - Cronograma Realizado: planejamento/cronograma_realizado.md 
-    - Reuniões: planejamento/reunioes.md
+    - Escolha do Site: planejamento/escolha_do_site.md
     - Ferramentas: planejamento/ferramentas_utilizadas.md
+    - Processo de Design: planejamento/processo_design.md
+    - Reuniões: planejamento/reunioes.md
   - Análise de Requisitos:
-    - Perfil do Usuário: requisitos/perfil_do_usuario.md
-    - Personas: requisitos/personas.md
     - Análise de Tarefas: requisitos/analise_tarefas.md
     - Aspectos Éticos: requisitos/aspectos_eticos.md
-    - Metas de Usabilidade: requisitos/metas_usabilidade.md
     - Caract. da Plataforma: requisitos/caracteristicas-da-plataforma.md
-    - Princípios Gerais de Projeto: requisitos/principios_gerais.md
     - Guia de Estilo: requisitos/guia_de_estilo.md
+    - Metas de Usabilidade: requisitos/metas_usabilidade.md
+    - Perfil do Usuário: requisitos/perfil_do_usuario.md
+    - Personas: requisitos/personas.md
+    - Princípios Gerais de Projeto: requisitos/principios_gerais.md
   - Design Avaliação e Desenvolvimento:
     - Nível 1:
       - Análise de Tarefas:
@@ -81,12 +81,6 @@ nav:
     - Etapa 07: apresentacoes/etapa-07.md
     - Etapa 08: apresentacoes/etapa-08.md
   - Verificação de Artefatos:
-    - Artefatos Grupo 08 (ISSnet):
-      - Etapa 01: verificacao/grupo_8/etapa_1.md
-      - Etapa 02: verificacao/grupo_8/etapa_2.md
-      - Etapa 03: verificacao/grupo_8/etapa_3.md
-      - Etapa 04: verificacao/grupo_8/etapa_4.md
-      - Etapa 05: verificacao/grupo_8/etapa_5.md
     - Artefatos Grupo 07 (Agiel):
       - Etapa 01: verificacao/grupo_7/etapa_1.md
       - Etapa 02: verificacao/grupo_7/etapa_2.md
@@ -95,3 +89,9 @@ nav:
       - Etapa 05: verificacao/grupo_7/etapa_5.md
       - Etapa 06: verificacao/grupo_7/etapa_6.md
       - Etapa 07: verificacao/grupo_7/etapa_7.md
+    - Artefatos Grupo 08 (ISSnet):
+      - Etapa 01: verificacao/grupo_8/etapa_1.md
+      - Etapa 02: verificacao/grupo_8/etapa_2.md
+      - Etapa 03: verificacao/grupo_8/etapa_3.md
+      - Etapa 04: verificacao/grupo_8/etapa_4.md
+      - Etapa 05: verificacao/grupo_8/etapa_5.md

@@ -22,7 +22,7 @@ grupo	de	usuários	reais,	criado	para	descrever	um	usuário	típico (Barbosa e S
 
 ## **3. Elenco de Personas**
 <p align="justify">
-&emsp;&emsp; Um elenco de personas se trata do grupo de personas selecionadas para uso no projeto. Tal elenco conta com <b>quatro personas</b>. Sendo elas, duas primárias (Tabelas 1 e 2), uma secundária (Tabela 3) e uma antipersona (Tabela 4). Tal quantia foi escolhida devido ao fato de que o AUTOR recomenda de três até doze, e, pela baixa disponibilidade dos membros, somada à média quantidade de dados coletados, esta quantia foi considerada a ideal para o contexto.
+&emsp;&emsp; Um elenco de personas se trata do <b>grupo de personas selecionadas para uso no projeto</b>. Tal elenco conta com <b>quatro personas</b>. Sendo elas, duas primárias (Tabelas 1 e 2), uma secundária (Tabela 3) e uma antipersona (Tabela 4). Tal quantia foi escolhida devido ao fato de que o AUTOR recomenda de três até doze, e, pela baixa disponibilidade dos membros, somada à média quantidade de dados coletados, esta quantia foi considerada a ideal para o contexto.
 </p>
 
 | Persona | |
@@ -97,7 +97,7 @@ grupo	de	usuários	reais,	criado	para	descrever	um	usuário	típico (Barbosa e S
 <h6 align = "center"> Tabela 4: Persona: João da Silva
 <br> Autor: Ana Beatriz</h6>
 
-## **Histórico de Versões**
+## **Histórico de Versão**
 <p align="justify">
 &emsp;&emsp; A Tabela 6 registra o histórico de versão deste documento.
 </p>
@@ -107,7 +107,7 @@ grupo	de	usuários	reais,	criado	para	descrever	um	usuário	típico (Barbosa e S
 | `1.0`  | 08/05 | Adicionando tabela de persona e antipersona | Ana Beatriz | Breno |
 | `1.1`  | 04/07 | Alterações na estrutura do documento| Pedro | Ana |
 
-<h6 align = "center"> Tabela 6: Histórico de Versões
+<h6 align = "center"> Tabela 6: Histórico de Versão
 <br> Autor: Ana Beatriz</h6>
 
 ## Bibliografia

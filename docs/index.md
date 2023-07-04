@@ -1,13 +1,15 @@
-# Agiel
-## Sobre o Projeto
-&emsp;&emsp; Esta página é voltada para expor o desenvolvimento do projeto de Interação Humano Computador (IHC) da Universidade de Brasília (Unb) e seus respectivos artefatos. Com base no sistema web 
-[Agiel](https://www.agiel.com.br/site/), aborda conceitos e técnicas para análise, projeto e avaliação de interfaces para web, visando aprimorar a interação entre usuário e sistema. O resultado final será um protótipo funcional do site com melhorias em sua usabilidade e experiência do usuário.
+# ***Agiel***
+## **Sobre o Projeto**
+<p align="justify">
+&emsp;&emsp; Esta página é voltada para expor o <b>desenvolvimento do projeto de Interação Humano Computador (IHC)</b> da Universidade de Brasília (Unb) e seus respectivos artefatos. Com base no sistema web <a href='https://www.agiel.com.br/site/'>Agiel</a>, aborda conceitos e técnicas para análise, projeto e avaliação de interfaces para web, visando aprimorar a interação entre usuário e sistema. O resultado final será um <b>protótipo funcional</b> do site com melhorias em sua usabilidade e experiência do usuário.
+</p>
 
 <img src="./assets/agiel.png" alt="logo" width="40%" style="float: none; margin: auto"/>
+<p align="justify">
+&emsp;&emsp;Figura 1: Logo da Agiel (Fonte: <a href='https://www.agiel.com.br/site/'>agiel.com.br</a>)
+</p>
 
-Figura 1: Logo da Agiel (Fonte: [agiel.com.br](https://www.agiel.com.br/site/))
-
-## Equipe
+## **Equipe**
 
 |                                              Foto                                               |       Nome       |                          Github                           |
 | :---------------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
@@ -19,10 +21,16 @@ Figura 1: Logo da Agiel (Fonte: [agiel.com.br](https://www.agiel.com.br/site/))
 |      <img src="https://github.com/VitorB2002.png" alt="Vitor Borges" style="width: 10vw">       | Vitor Borges Santos  | [VitorB2002](https://github.com/VitorB2002) |
 
 
-## Histórico de Versão
+## **Histórico de Versão**
+<p align="justify">
+&emsp;&emsp; A Tabela 1 registra o histórico de versão deste documento.
+</p>
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
 | `1.0` | 19/04/2023 | Versão inicial de documento de descrição do projeto | Ana Beatriz e Breno Yuri | Carlos Daniel |
-| `2.0` | 27/04/2023 | Atualiza gitpages para o site usado no projeto | Carlos Daniel | Pedro Siqueira |
-| `3.0` | 02/05/2023 | Atualização visual do gitpages | Pedro Siqueira e Bruno Henrique | Ana Beatriz |
+| `1.1` | 27/04/2023 | Atualiza gitpages para o site usado no projeto | Carlos Daniel | Pedro Siqueira |
+| `1.2` | 02/05/2023 | Atualização visual do gitpages | Pedro Siqueira e Bruno Henrique | Ana Beatriz |
+
+<h6 align = "center"> Tabela 1: Histórico de Versão
+<br> Autor: Ana Beatriz</h6>
