@@ -104,8 +104,8 @@ grupo	de	usuários	reais,	criado	para	descrever	um	usuário	típico (Barbosa e S
 
 | Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
 |:------:|:----------:|:--------------------:|:-------------:|:-------:|
-| `1.0`  | 08/05 | Adicionando tabela de persona e antipersona | Ana Beatriz | Breno |
-| `1.1`  | 04/07 | Alterações na estrutura do documento| Pedro | Ana |
+| `1.0`  | 08/05/2023  | Adicionando tabela de persona e antipersona | Ana Beatriz | Breno |
+| `1.1`  | 04/07/2023  | Alterações na estrutura do documento| Pedro | Ana |
 
 <h6 align = "center"> Tabela 6: Histórico de Versão
 <br> Autor: Ana Beatriz</h6>
