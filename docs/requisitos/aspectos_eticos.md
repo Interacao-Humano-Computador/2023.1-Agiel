@@ -55,7 +55,7 @@ Termo de Consentimento Livre e Esclarecido
 <h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Breno Yuri </h6>
 
-## Bibliografia
+## **Bibliografia**
 > SciELO - Brasil - Aspectos éticos da pesquisa científica Aspectos éticos da pesquisa científica.  Disponível em: <https://www.scielo.br/j/pob/a/MZVSYxKncfrNnsKxbjg5Gxr/?lang=pt>. Acesso em: 08 Mai. 2023.  
 
 > UNIVERSIDADE DO VALE DO PARAÍBA. Aspectos éticos da pesquisa envolvendo seres humanos. São José dos Campos: UNIVAP.  Disponível em: <https://www1.univap.br/marketing/site/cep/aspectos_eticos_pesquisas_cep.pdf>. Acesso em: 08 Mai. 2023.  

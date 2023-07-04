@@ -38,7 +38,7 @@ Alguns dos princípios gerais comuns incluem a encontrabilidade, que diz respeit
 </div>
 
 ## **Histórico de Versão**
-A Tabela 1 registra o histórico de versão desse documento.
+&emsp;&emsp;A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão |    Data    |      Descrição       | Autor(es) |  Revisor(es)   |
 |:------:|:----------:|:--------------------:|:---------:|:--------------:|

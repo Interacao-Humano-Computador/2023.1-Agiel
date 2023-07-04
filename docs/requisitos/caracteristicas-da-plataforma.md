@@ -94,6 +94,6 @@
 <h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Breno Yuri </h6>
 
-## Bibliografia
+## **Bibliografia**
 
 > Mendonça, H. F. (15 de maio de 2023). Características da plataforma [Arquivo Markdown]. GitHub. Disponível em: https://github.com/Interacao-Humano-Computador/2022.2-Skoob/blob/main/docs/analise-de-requisitos/caracteristicas-da-plataforma.md?plain=1

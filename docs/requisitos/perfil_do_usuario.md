@@ -13,12 +13,14 @@
 &emsp;&emsp;Para coletar os dados sobre os usuários e suas necessidades de forma eficaz foi utilizado um <b>questionário online</b> via <a href='https://forms.gle/SuwNVMZ7nEDFkurd8'>Google Forms</a>. O questionário foi elaborado com perguntas que continham o intuito de coletar as seguintes informações:
 </p>
 <p align="justify">
-<UL>1. Faixa etária</UL>
-<UL>2. Gênero</UL>
-<UL>3. Nível de escolaridade</UL>
-<UL>4. Habilidades técnicas</UL>
-<UL>5. Frequência de uso do software</UL>
-<UL>6. Objetivos ao utilizar o software</UL>
+<ul>
+<li>Faixa etária</li>
+<li>Gênero</li>
+<li>Nível de escolaridade</li>
+<li>Habilidades técnicas</li>
+<li>Frequência de uso do software</li>
+<li>Objetivos ao utilizar o software</li>
+</ul>
 </p>
 <p align="justify">
 &emsp;&emsp;As respostas obtidas através do questionário foram analisadas para identificar padrões e tendências no comportamento e nas necessidades dos usuários, para que dessa forma seja possível propor mudanças que satisfaçam os respectivos usuários.
@@ -31,22 +33,22 @@
 
 ## **4. Questionário**
 
-### **Seção 01 - Termo de consentimento**
+### **Seção 01 - Termo de Consentimento**
 <p aling="justify">
 &emsp;&emsp;A seção inicial do questionário além de apresentar uma introdução sobre o projeto apresenta um termo de consentimento para que o indivíduo possa concordar ou não em participar do projeto e compreender para que os dados coletados serão utilizados.
 </p>
 
-### **Seção 02 - Verificação de uso**
+### **Seção 02 - Verificação de Uso**
 <p aling="justify">
 &emsp;&emsp;A segunda seção visa realizar a validação de conhecimento do contribuinte em relação ao Agiel e outras plataformas que visam fornecer oportunidades de estágio. Caso a resposta seja negativa, o formulário é redirecionado ao fim, devido à não experiência suficiente para traçar um perfil de usuário.
 </p>
 
-### **Seção 03 - Dados demográficos**
+### **Seção 03 - Dados Demográficos**
 <p aling="justify">
 &emsp;&emsp;A terceira seção apresenta as questões com o intuito de coletar informações como: faixa etária, gênero, frequência de uso de dispositivos eletrônicos, nível de escolaridade e afinidade com a tecnologia.
 </p>
 
-### **Seção 04 - Agiel e outras plataformas**
+### **Seção 04 - Agiel e Outras Plataformas**
 <p aling="justify">
 &emsp;&emsp;A quarta seção apresenta as questões com o intuito de coletar informações acerca da experiência do usuário com o Agiel e com outras plataformas semelhantes.
 </p>
@@ -60,8 +62,7 @@
 <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTdkNTQ0Y2EtYzAxOC00ODY5LWE1YjYtY2UwOTQzN2JhZTMwIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 <h6 align = "center"> Dashboard 1: Dashboard do perfil de usuário
-<br> Autor: Ana Beatriz
-<br>Fonte: Autor(es)</h6>
+<br> Autor: Ana Beatriz </h6>
 
 ## **Histórico de Versão**
 <p align="justify">

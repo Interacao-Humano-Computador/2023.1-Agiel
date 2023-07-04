@@ -156,7 +156,7 @@ Nessa tarefa, o objetivo do usuário é obter dicas que o auxiliem a traçar obj
 Os três métodos apresentam o mesmo problema de ao filtrar pelos artigos desejados alguns artigos são mostrados mais de uma vez
 
 ## Histórico de Versão
-A Tabela 3 registra o histórico de versão desse documento.
+&emsp;&emsp;A Tabela 3 registra o histórico de versão desse documento.
 
 | Versão |    Data    |      Descrição       |   Autor(es)    | Revisor(es) |
 |:------:|:----------:|:--------------------:|:--------------:|:-----------:|
@@ -167,6 +167,6 @@ A Tabela 3 registra o histórico de versão desse documento.
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor:  Carlos e Bruno </h6>
 
-## Bibliografia
+## **Bibliografia**
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
