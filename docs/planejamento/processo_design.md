@@ -72,7 +72,8 @@ A Tabela 1 registra o histórico de versão desse documento.
 | :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
 |  `1.0`     | 21/04/2023 | Versão inicial com apresentação dos processos  | Carlos | Vitor B. |
 |  `1.1`     | 25/04/2023 | Ajusta bibliografia | Carlos |
-<h6 align = "center"> Tabela 1: Histórico de Versões
+
+<h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Carlos </h6>
 
 ## Bibliografia

@@ -25,7 +25,7 @@ A Tabela 2 registra o histórico de versão desse documento.
 | `1.1`  | 23/04/2023 | Aba movida para planejamento     | Vitor Borges | Carlos Daniel | 
 | `1.2`  | 27/04/2023 | Adiçao de referências            | Vitor Borges | Carlos Daniel |
 
-<h6 align = "center"> Tabela 2: Histórico de Versões
+<h6 align = "center"> Tabela 2: Histórico de Versão
 <br> Autor: Vitor Borges </h6>
 
 ## Bibliografia

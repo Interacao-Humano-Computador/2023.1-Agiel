@@ -33,7 +33,8 @@ A Tabela 2 registra o histórico de versão desse documento.
 | `1.0`  | 23/04/2023 | Adição das ferramentas utilizadas | Vitor Borges   | Carlos        |
 | `1.1`  | 27/04/2023 | Adição de novas ferramentas e referências | Vitor Borges | |
 | `1.2`  | 01/07/2023 | Adição de novas ferramentas e referências | Vitor Borges | |
-<h6 align = "center"> Tabela 1: Histórico de Versões
+
+<h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Vitor Borges </h6>
 
 ## Bibliografia
