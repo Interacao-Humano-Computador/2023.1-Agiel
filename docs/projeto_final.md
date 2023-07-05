@@ -37,7 +37,16 @@
 
 ## 9. Tabela sintetizando todos os artefatos com autor e revisor
 
-## 10. Tabela sintetizando as avaliações dos protótipos ( com entrevistadores e o número de participantes com os nomes do participantes do grupo que participaram da avaliação)
+## 10. Tabela sintetizando as avaliações dos protótipos (com entrevistadores e o número de participantes com os nomes do participantes do grupo que participaram da avaliação)
+
+| Avaliação | Entrevistadores | Nº Participantes |
+|:---------:|:---------------:|:----------------:|
+| Storyboards | Ana Beatriz, Pedro Siqueira | 2 |
+| Protótipo de Papel | Ana Beatriz, Breno Yuri | 2 |
+| Protótipo de Alta Fidelidade | Ana Beatriz, Breno Yuri, Vitor Borges | 5 |
+
+<h6 align = "center"> Tabela 6: Avaliações dos protótipos de baixa, média e alta fidelidade
+<br>Autor: Vitor Borges</h6>
 
 ## 11. Uma tabela sintetizando o método de verificação dos artefatos com autor e revisor (do checklist e da verificação)
 <p align="justify">
@@ -98,6 +107,7 @@ A Tabela n registra o histórico de versão desse documento.
 | `1.1`  | 05/07/2023 | Adição da tabela com vídeos das apresentações | Vitor | Ana Beatriz |
 | `1.2`  | 05/07/2023 | Adição da tabela com as ferramentas utilizadas no projeto | Vitor | Ana Beatriz |
 | `1.3`  | 05/07/2023 | Adição da tabela de verificação dos artefatos | Vitor | Ana Beatriz |
+| `1.4`  | 05/07/2023 | Adição da tabela de avaliações dos protótipos | Vitor | Ana Beatriz |
 
 <h6 align = "center"> Tabela n: Histórico de Versões
 <br>Autor(es): Ana Beatriz</h6>
