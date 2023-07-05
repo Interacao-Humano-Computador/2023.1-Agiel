@@ -60,12 +60,12 @@
 &emsp;&emsp;O avaliador deverá inserir no relato todas as gravações efetuadas na avaliação. Caso sejam necessárias alterações após o teste piloto, estas também deverão ser registradas. 
 </p>
 
-## Bibliografia
-
-[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-
 ## Histórico de Versão
 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
 | `1.0`  | 22/05/2023 | Criação do documento | Pedro Siqueira | Ana Beatriz |
+
+## Bibliografia
+
+[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

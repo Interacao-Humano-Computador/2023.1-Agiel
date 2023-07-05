@@ -47,7 +47,7 @@ nav:
     - Perfil do Usuário: requisitos/perfil_do_usuario.md
     - Personas: requisitos/personas.md
     - Princípios Gerais do Projeto: requisitos/principios_gerais.md
-  - Design Avaliação e Desenvolvimento:
+  - Design, Avaliação e Desenvolvimento:
     - Nível 1:
       - Análise de Tarefas:
         - Planejamento da Avaliação: desenvolvimento/tarefas/planejamento_tarefas.md

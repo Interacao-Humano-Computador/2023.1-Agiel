@@ -1,10 +1,11 @@
-# Ata da reunião xx - dd/mm/aaaa
+# ***Ata da reunião xx - dd/mm/aaaa***
 
-## Introdução
+## **Introdução**
+<p align="justify">
+&emsp;&emsp;Breve descrição sobre o documento.
+</p>
 
-Breve descrição sobre o documento.
-
-## Lista de presença
+## **Lista de Presença**
 
 | Nome | Presente? |
 |---------------|----|
@@ -19,24 +20,24 @@ Breve descrição sobre o documento.
 |--------------|-----------|---------|
 |hh:mm|hh:mm|xxxxxxx|
 
-## Pautas
+## **Pautas**
 
 - Pauta 1
 - Pauta 2
 - Pauta 3
 - Pauta n
 
-## Atividades definidas
+## **Atividades Definidas**
 
 | Atividade | Prazo final | Responsável |
 | --------- | ----------- | ----------- |
 | Descrição | dd/mm | Fulano |
 
-## Gravação da reunião
+## **Gravação da Reunião**
 
 [Clique aqui](Endereço)
 
-## Histórico de edição
+## **Histórico de Versão**
 
 | Versão | Descrição | Autor(es) | 
 | ------ | --------- | --------- |
