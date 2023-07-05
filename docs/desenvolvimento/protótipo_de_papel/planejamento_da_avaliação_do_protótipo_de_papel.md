@@ -122,10 +122,11 @@ Na figura 3 temos o protótipo de papel da tarefa de cadastrar uma instituição
 ## Histórico de Versão
 A Tabela 3 registra o histórico de versão desse documento.
 
-| Versão | Data       | Descrição                                 | Autor(es)   | Revisor(es)    |
-|--------|------------|-------------------------------------------|-------------|----------------|
-| `1.0`  | 29/05/2023 | Criação do documento e adição do conteúdo | Breno Yuri  | Pedro Siqueira |
-| `2.0`  | 03/07/2023 | Padronização do documento                 | Ana Beatriz | Breno Yuri     |
+| Versão | Data       | Descrição                                 | Autor(es)      | Revisor(es)    |
+|--------|------------|-------------------------------------------|----------------|----------------|
+| `1.0`  | 29/05/2023 | Criação do documento e adição do conteúdo | Breno Yuri     | Pedro Siqueira |
+| `2.0`  | 03/07/2023 | Padronização do documento                 | Ana Beatriz    | Breno Yuri     |
+| `2.1`  | 03/07/2023 | Prototipo papel processe seletivo         | Bruno Henrique | Ana Beatriz    |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor: Breno </h6>
