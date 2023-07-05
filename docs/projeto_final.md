@@ -18,6 +18,90 @@
 ## 3. Ciclo de vida utilizado no projeto
 
 ## 4. Planejamento dos recursos e entregas 
+É possível conferir o cronograma planejado para o semestre da disciplina [nesse link](https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/cronograma/).
+É possível conferir o cronograma executado ao longo do semestre [nesse link](https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/cronograma_realizado/).
+
+Durante o processo de planejamento e execução, foram descobertas algumas discrepâncias entre o que foi originalmente planejado e o que foi realmente executado. Essas variações envolvem expectativas e atrasos relacionados aos prazos estabelecidos, bem como mudanças nos integrantes responsáveis ​​por determinadas tarefas como pode ser notada na tabela 1.
+
+<div style="overflow-x: auto; max-height: 500px;">
+
+|Etapa 1 - Planejamento |||||||||||||
+| :------: | :-------: | :-----: | :--------: | :------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| Tarefa |Autor Planejado| Autor Realizado| Entrega Planejada | Entrega Realizada| Revisor Realizado| Revisor Realizado| Revisão Planejada| Revisão Realizada |Início da Realização Planejada | Início da Realização Realizada | Fim da Realização Planejada | Fim da Realização Realizada |
+|  Criação Github Pages  | Carlos Daniel  | Carlos Daniel  | 24/04 | 24/04 |  Bruno Henrique | Bruno Henrique | 14/04  | 14/04 |  10/04 | 10/04 | 14/04  | 14/04 | 
+|       Cronograma       | Bruno Henrique | Bruno Henrique | 24/04 | 19/04 |    Breno Yuri   | Breno Yuri | 20/04  | 20/04 | 21/04  | 21/04 | 23/04   | 23/04 |
+|   Processo de design   |    Vitor B     | Vitor B e Carlos Daniel | 24/04 | 24/04 |  Pedro Siqueira | Pedro Siqueira | 20/04  | 20/04 | 21/04 | 21/04 |  23/04 |23/04  |
+|     Página Inicial     | Pedro Siqueira | Pedro Siqueira	 | 24/04 | 24/04 |     Vitor B     | Vitor B | 20/04  | 20/04|       22/04        | 22/04 |       23/04      | 23/04 |
+| Ferramentas do projeto |   Breno Yuri   | Vitor | 24/04 | 24/04 |   Ana Beatriz   | Ana Beatriz | 22/04  | 24/04 |       23/04        | 23/04 |       23/04      | 23/04 |
+|      Planejamento      |  Ana Beatriz   | Ana Beatriz | 24/04 | 24/04 |  Carlos Daniel  | Breno Yuri| 20/04  | 20/04|       23/04        | 20/04 |       23/04      | 20/04 |
+|        Gravação        |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges         | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges| 25/04 | 24/04 |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges          |Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | 24/04  | 24/04|       24/04        | 24/04 |       24/04      | 24/04  |
+|Etapa 2 - Análise de Requisitos |||||||||||||
+| Tarefa |Autor Planejado| Autor Realizado| Entrega Planejada | Entrega Realizada| Revisor Realizado| Revisor Realizado| Revisão Planejada| Revisão Realizada |Início da Realização Planejada | Início da Realização Realizada | Fim da Realização Planejada | Fim da Realização Realizada |
+|                Perfil do usuário                |    Pedro Siqueira, Vitor B    | Pedro Siqueira, Vitor B | 08/05  | 08/05 | Carlos Daniel | Carlos Daniel |  07/05  | 08/05 |       28/04         | 05/05 |      06/05     | 08/05 |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas |          Breno Yuri           | Breno Yuri | 08/05  | 08/05 | Ana Beatriz   | Ana Beatriz | 07/05   | 08/05 |       01/05         | 06/05 |      06/05     | 08/05 |
+|                    Personas                     |          Ana Beatriz          | Ana Beatriz | 08/05  | 08/05 | Breno Yuri    | Breno Yuri | 07/05   | 08/05 |       28/04         | 05/05 |      06/05     | 08/05 |
+|               Análise de tarefas                | Bruno Henrique, Carlos Daniel | Bruno Henrique, Carlos Daniel | 08/05  | 08/05 |   Vitor B     |   Vitor B     | 07/05   | 08/05 |       28/04         | 05/05 |      06/05     | 08/05 |
+|        Gravação                                 |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges                        | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | 08/05  | 08/05 | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges         |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | 08/05   | 08/05 |       08/05         | 08/05 |      08/05     | 08/05 |
+|Etapa 3 - Princípios Gerais do Projeto |||||||||||||
+| Tarefa |Autor Planejado| Autor Realizado| Entrega Planejada | Entrega Realizada| Revisor Realizado| Revisor Realizado| Revisão Planejada| Revisão Realizada |Início da Realização Planejada | Início da Realização Realizada | Fim da Realização Planejada | Fim da Realização Realizada |
+|         Princípios Gerais de Projeto         |       Bruno Henrique       | Bruno Henrique | 15/05 | 15/05 | Pedro Siqueira | Pedro Siqueira | 14/05  | 15/05 |       08/05       | 09/05 |       14/05      | 15/05 |
+|             Metas de usabilidade             |  Pedro Siqueira, Vitor B   | Pedro Siqueira, Vitor B | 15/05 | 15/05 |  Ana Beatriz   | Ana Beatriz | 14/05  | 15/05 |       08/05       | 09/05 |       13/05      | 15/05 |
+|                Guia de Estilo                | Carlos Daniel, Ana Beatriz | Ana Beatriz | 15/05 | 15/05 | Carlos Daniel  | Carlos Daniel | 14/05  | 15/05 |       09/05       | 10/05 |       14/05      | 15/05 |
+| Características da plataforma para o projeto |         Breno Yuri         | Breno Yuri | 15/05 | 15/05 | Bruno Henrique | Bruno Henrique | 14/05  | 15/05 |       09/05       | 10/05 |       13/05      | 15/05 |
+|        Gravação                              |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges                     | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | 16/05 | 16/05 | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges          | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | 15/05  | 15/05 |       15/05       | 15/05 |       15/05      | 15/05 |
+|Etapa 4 - Princípios Gerais do Projeto |||||||||||||
+| Tarefa |Autor Planejado| Autor Realizado| Entrega Planejada | Entrega Realizada| Revisor Realizado| Revisor Realizado| Revisão Planejada| Revisão Realizada |Início da Realização Planejada | Início da Realização Realizada | Fim da Realização Planejada | Fim da Realização Realizada |
+|                  Planejamento da Avaliação do Storyboard                  | Bruno Henrique, Ana Beatriz | Bruno Henrique, Ana Beatriz | 22/05  | 22/05 | Breno Yuri   | Breno Yuri | 20/05  | 22/05 |       17/05         | 19/05 |     19/05     | 22/05 |
+|     Planejamento do relato dos resultados da avaliação do Storyboard      |        Carlos Daniel        | Carlos Daniel | 22/05  | 22/05 |   Vitor B    | Vitor B | 20/05  | 22/05 |       17/05         | 18/05 |     19/05     | 22/05 |
+|              Planejamento da Avaliação do Análise de tarefas              |     Breno Yuri, Vitor B     | Breno Yuri, Vitor B | 22/05  | 22/05 |Bruno Henriqe | Bruno Henrique | 20/05  | 22/05 |       17/05         | 19/05 |     19/05     | 22/05 |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas. |       Pedro Siqueira        | Pedro Siqueira | 22/05  | 22/05 | Ana Beatriz  | Ana Beatriz | 20/05  | 22/05 |       17/05         | 18/05 |     19/05     | 22/05 |
+|        Gravação                                                           |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges                      | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | 23/05  | 22/05 |Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges         | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | 22/05  | 22/05 |       22/05         | 22/05 |     22/05     | 22/05 |
+|Etapa 5 - Relato dos resultados |||||||||||||
+| Tarefa |Autor Planejado| Autor Realizado| Entrega Planejada | Entrega Realizada| Revisor Realizado| Revisor Realizado| Revisão Planejada| Revisão Realizada |Início da Realização Planejada | Início da Realização Realizada | Fim da Realização Planejada | Fim da Realização Realizada |
+|                   Relato dos resultados do Story Board                   | Pedro Siqueira, Carlos Daniel | Pedro Siqueira, Carlos Daniel |  29/05  | 29/05 | Ana Beatriz   | Ana Beatriz | 28/05  | 28/05 |       23/05        | 23/05 |       27/05       | 27/05|
+|                            Análise de tarefas                            |        Bruno Henrique         | Bruno Henrique     |  29/05  | 29/05 |   Vitor B     | Vitor B | 28/05  | 28/05|       23/05        | 23/05|       27/05       | 27/05|
+|             Planejamento da Avaliação do Protótipo de Papel              |          Breno Yuri           |    Breno Yuri    |  29/05  | 29/05 | Pedro Siqueira | Pedro Siqueira |  28/05  | 28/05 |       23/05       | 23/05  |       27/05       | 27/05 |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel |      Ana Beatriz,Vitor B      |   Ana Beatriz,Vitor B |  29/05  | 29/05 | Carlos Daniel  | Carlos Daniel |  28/05  | 28/05 |       23/05       |  23/05|       27/05       | 27/05 |
+|        Gravação                                                          |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges                        |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges         | 30/05  | 30/05 | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges          | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | 29/05  | 29/05|       29/05       |  23/05 |       29/05       | 29/05 |
+|Etapa 6.1 - Verificação dos Artefatos |||||||||||||
+| Tarefa |Autor Planejado| Autor Realizado| Entrega Planejada | Entrega Realizada| Revisor Realizado| Revisor Realizado| Revisão Planejada| Revisão Realizada |Início da Realização Planejada | Início da Realização Realizada | Fim da Realização Planejada | Fim da Realização Realizada |
+|                           Verificação do perfil do usuário                           | Bruno Henrique | Bruno Henrique |  05/06  | 05/06 | Lucas Lopes   | Ana Beatriz |  05/06  | 05/06 |      04/06      | 01/06  |       04/06       | 05/06|
+|                           Verificação dos aspectos éticos                            |   Breno Yuri   |   Breno Yuri   |  05/06  | 05/06 |   Philipe     | Vitor B | 05/06  | 05/06 |      04/06      |  01/06 |       04/06       | 05/06|
+|                               Verificação de personas                                | Bruno Henrique | Bruno Henrique |  05/06  | 05/06 |  Breno Yuri   | Breno Yuri | 05/06  | 05/06 |      04/06      |  01/06 |       04/06       | 05/06|
+|                     Verificação dos princípios gerais de projeto                     |  Ana Beatriz   |  Ana Beatriz   |  05/06  | 05/06 |   Vitor B     | Vitor B|  05/06  | 05/06 |      04/06      |  01/06 |       04/06       | 05/06|
+|                         Verificação das metas de usabilidade                         | Pedro Siqueira | Pedro Siqueira |  05/06  | 05/06 | Carlos Daniel  | Carlos Daniel | 05/06  | 05/06 |      03/06      | 02/06  |       04/06       | 05/06|
+|                            Verificação do guia de estilo                             | Bruno Henrique | Bruno Henrique |  05/06  | 05/06 |  Breno Yuri   | Breno Yuri| 05/06  | 05/06 |      03/06     |  02/06 |       04/06       | 05/06|
+|                    Verificação das características da plataforma                     |  Ana Beatriz   |  Ana Beatriz |  05/06  | 05/06 | Bruno Henrique | Bruno Henrique | 05/06  | 05/06 |      03/06      | 02/06  |       04/06       | 05/06|
+|                Verificação do planejamento da avaliação do Storyboard                |  Ana Beatriz   |  Ana Beatriz  |  05/06  | 05/06 | Bruno Henrique | Bruno Henrique | 05/06  | 05/06 |      04/06      | 01/06  |       04/06       | 05/06|
+|          Verificação do planejamento do relato dos resultado do Storyboard           | Pedro Siqueira | Pedro Siqueira |  05/06  | 05/06 | Carlos Daniel  | Carlos Daniel | 05/06  | 05/06 |      04/06      | 01/06  |       04/06       | 05/06|
+|            Verificação do planejamento da avaliação da análise de tarefas            | Carlos Daniel  | Carlos Daniel  |  05/06  | 05/06 | Pedro Siqueira | Pedro Siqueira| 05/06  | 05/06 |      04/06      |  01/06 |       04/06       | 05/06|
+|      Verificação do planejamento do relato dos resultado da análise de tarefas       | Carlos Daniel  | Carlos Daniel |  05/06  | 05/06 | Pedro Siqueira | Pedro Siqueira | 05/06  | 05/06 |      04/06      | 01/06  |       04/06       | 05/06|
+|                 Verificação dos relatos dos resultados do Storyboard                 |    Vitor B     |    Vitor B     |  05/06  | 05/06 | Ana Beatriz   | Ana Beatriz| 05/06  | 05/06 |      03/06     | 02/06  |       04/06       | 05/06|
+|                          Verificação da análise de tarefas                           | Pedro Siqueira | Pedro Siqueira |  05/06  | 05/06 |   Vitor B     | Vitor B| 05/06  | 05/06 |      03/06      | 02/06  |       04/06       | 05/06|
+|            Verificação do planejamento da avaliação do protótipo de papel            |   Breno Yuri   |   Breno Yuri   |  05/06  | 05/06 | Ana Beatriz   | Ana Beatriz | 05/06  | 05/06 |      03/06      | 02/06  |       04/06       | 05/06|
+|      Verificação do planejamento do relato dos resultados do protótipo de papel      | Carlos Daniel  | Carlos Daniel  |  05/06  | 05/06 | Pedro Siqueira | Pedro Siqueira | 05/06  | 05/06 |      03/06      |  02/06 |       04/06       | 05/06|
+|              Verificação do relato dos resultados do protótipo de papel              |    Vitor B     |    Vitor B     |  05/06  | 05/06 | Ana Beatriz   | Ana Beatriz | 05/06  | 05/06 |      04/06      | 01/06  |       04/06       | 05/06|
+|       Verificação do planejamento da avaliação do protótipo de alta fidelidade       |   Breno Yuri   |   Breno Yuri   |  05/06  | 05/06 | Ana Beatriz   | Ana Beatriz | 05/06  | 05/06 |      04/06      | 01/06  |       04/06       | 05/06|
+| Verificação do planejamento do relato dos resultados do protótipo de alta fidelidade |    Vitor B     |    Vitor B     |  05/06  | 05/06 | Ana Beatriz   | Ana Beatriz | 05/06  | 05/06 |      04/06      | 01/06  |       04/06       | 05/06|
+|        Gravação                                                                      |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges         |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges         |  06/06  | 05/06 |Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges          | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges| 05/06  | 05/06 |      04/06      | 05/06  |       05/06       | 05/06 |
+|Etapa 7 - Relato dos resultados do Protótipo de Papel |||||||||||||
+| Tarefa |Autor Planejado| Autor Realizado| Entrega Planejada | Entrega Realizada| Revisor Realizado| Revisor Realizado| Revisão Planejada| Revisão Realizada |Início da Realização Planejada | Início da Realização Realizada | Fim da Realização Planejada | Fim da Realização Realizada |
+|                    Relato dos resultados do Protótipo de Papel                     |  Bruno Henrique, Ana Beatriz  | Bruno Henrique, Ana Beatriz | 12/06  | 12/06|  Breno Yuri   | Breno Yuri | 11/06  | 12/06 |      06/06         | 10/06 |     10/06       | 12/06|
+|             Planejamento da Avaliação do protótipo de alta fidelidade              | Carlos Daniel, Pedro Siqueira | Carlos Daniel, Pedro Siqueira | 12/06  | 12/06|   Vitor B     | Vitor B | 11/06  | 12/06 |      06/06         | 11/06 |     10/06       | 12/06|
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |      Vitor B, Breno Yuri      | Vitor B, Breno Yuri | 12/06  | 12/06| Bruno Henrique | Bruno Henrique | 11/06  | 12/06 |      06/06         | 11/06 |     10/06       | 12/06|
+|        Gravação                                                                    |  Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges                        | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | 13/06  | 12/06| Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges          | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | 12/06  | 12/06 |      12/06         | 11/06 |     12/06       | 12/06|
+|Etapa 6.2 - Verificação dos Artefatos 2 |||||||||||||
+| Tarefa |Autor Planejado| Autor Realizado| Entrega Planejada | Entrega Realizada| Revisor Realizado| Revisor Realizado| Revisão Planejada| Revisão Realizada |Início da Realização Planejada | Início da Realização Realizada | Fim da Realização Planejada | Fim da Realização Realizada |
+| Verificação dos Artefatos da Etapa 7 | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | Todos| 19/06  | 19/06  | Pedro Siqueira, Bruno Henrique | Ana Beatriz, Breno Yuri, Bruno Henrique, Pedro Augusto e Vitor Borges |  18/06  | 19/06|        13/06         | 18/06|       17/06       | 19/06|
+|        Gravação                      | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | Todos|  20/06  | 19/06  | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges                          | Ana Beatriz, Breno Yuri, Bruno Henrique, Pedro Augusto e Vitor Borges |  19/06  | 19/06|        19/06         | 19/06|       19/06       | 19/06|
+|Etapa 8 - Relatos dos resultados |||||||||||||
+| Tarefa |Autor Planejado| Autor Realizado| Entrega Planejada | Entrega Realizada| Revisor Realizado| Revisor Realizado| Revisão Planejada| Revisão Realizada |Início da Realização Planejada | Início da Realização Realizada | Fim da Realização Planejada | Fim da Realização Realizada |
+| Relatos dos resultados do protótipo de alta fidelidade | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | Ana Beatriz, Breno Yuri, Bruno Henrique, Pedro Augusto e Vitor Borges |  26/06  |  26/06  | Carlos Daniel, Vitor B | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges |  24/06  |  26/06  |        13/06         |  22/06  |       23/06       |  26/06  |
+|        Gravação                                        | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges | Ana Beatriz, Breno Yuri, Bruno Henrique, Pedro Augusto e Vitor Borges |  27/06  |  27/06  | Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel, Pedro Augusto e Vitor Borges                  | Ana Beatriz, Breno Yuri, Bruno Henrique, Pedro Augusto e Vitor Borges                  |  26/06  |  26/06  |        26/06        |  26/06  |       26/06       |  26/06  |
+
+</div>
+<h6 align = "center"> Tabela 1: Cronograma Planejado X Cronograma Realizado </h6>
+<h6 align = "center"> Autor: Ana Beatriz </h6>
 
 ## 5. Execução do projeto 
 
@@ -26,7 +110,7 @@
 
 ## 7. Tabela sintetizando ferramentas utilizadas e onde foram utilizadas
 
-|                                            | Ferramenta      | Utilidade                                               | |
+|                                            | Ferramenta      | Utilidade                                               | 
 |:------------------------------------------:|:---------------:|:-------------------------------------------------------:|
 |![Logo Google Sheets](./assets/sheets.png)        | <a href="https://www.google.com/sheets/about/">Google Sheets<a>   | Utilizamos planilhas para definir os horários livres da equipe |
 |![Logo Microsoft Teams](./assets/teams.png)       | <a href="https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software">Microsoft Teams<a> | Realizamos e gravamos reuniões, entrevistas e apresentações do grupo |
@@ -47,6 +131,50 @@
 ## 8. Tabela sintetizando técnicas (em cada etapa do projeto com o nome do participante que executou a técnica)
 
 ## 9. Tabela sintetizando todos os artefatos com autor e revisor
+<div style="overflow-x: auto; max-height: 500px;">
+
+| Artefato | Autor(es) | Revisor |
+| :------: | :-------: | :-----: |
+| [Cronograma](https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/cronograma/)| Bruno Henrique e Breno Yuri| Carlos Daniel e Ana Beatriz|
+| [Cronograma Realizado](https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/cronograma_realizado/)| Ana Beatriz, Breno e Vitor| Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel e Pedro Augusto|
+| [Site escolhido](https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/escolha_do_site/)| Ana Beatriz, Breno e Vitor| Ana Beatriz, Breno Yuri, Bruno Henrique, Carlos Daniel e Pedro Augusto|
+| [Ferramentas](https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/ferramentas_utilizadas/)| Vitor Borges | Carlos| 
+| [Processo de Desing](https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/processo_design/)| Carlos | Vitor B. |
+| [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/analise_tarefas/)| Carlos, Bruno e Vitor| Vitor e Breno|
+| [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/aspectos_eticos/)| Breno Yuri	| Ana Beatriz |
+| [Características da Plataforma](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/caracteristicas-da-plataforma/)| Breno Yuri	| Bruno Henrique|
+| [Cenários](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/cenarios/)| Vitor e Ana Beatriz| Pedro|
+| [Guia de Estilo](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/guia_de_estilo/)| Ana Beatriz | Breno |
+| [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/metas_usabilidade/)| Pedro e Vitor | Ana Beatriz| 
+| [Perfil do Usuário](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/perfil_do_usuario/)| Pedro e Vitor	| Carlos| 
+| [Personas](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/personas/)| Ana Beatriz	| Breno | 
+| [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/principios_gerais/)| Bruno	| Pedro Siqueira|
+| [Planejamento Avaliação Análise das Tarefas](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/tarefas/planejamento_tarefas/)| Breno e Vitor	| Bruno|
+| [Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/tarefas/planejamento_resultado_tarefas/)| Pedro Siqueira	| Ana Beatriz|
+| [Resultado da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/tarefas/relatos_analise_tarefas/)| Bruno Henrique	| Vitor B|
+| [Planejamento da avaliação - Storyboard](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/storyboard/planejamento_avaliacao_storyboard/)| Ana Beatriz, Bruno e Carlos | Bruno e Ana Beatriz|
+| [Planejamento do relato da Avaliação de Storyboard](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/storyboard/planejamento_relato_avaliacao_storyboard/)| Carlos	| Vitor|
+| [Relato de Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/storyboard/relatos_storyboard/)| Pedro Siqueira	| Ana Beatriz|
+| [Planejamento da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prot%C3%B3tipo_de_papel/planejamento_da_avalia%C3%A7%C3%A3o_do_prot%C3%B3tipo_de_papel/)| Breno Yuri, Ana Beatriz e Bruno Henrique|  Breno Yuri, Ana Beatriz e Pedro|
+| [Planejamento do relato dos resultados da avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prot%C3%B3tipo_de_papel/planejamento_relato_resultado_prototipo_papel/)| Ana Beatriz e Vitor	|Breno|
+| [Relato de Resultados da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prot%C3%B3tipo_de_papel/relatos_prototipo_papel/)| Ana Beatriz e Bruno Henrique| Pedro, Ana Beatriz e Bruno Henrique|
+| [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prototipo_alta_fidelidade/planejamento_alta_fidelidade/)| Pedro Siqueira e Ana Beatriz |Vitor Borges|
+| [Planejamento do relato dos resultados da avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prototipo_alta_fidelidade/planejamento_relato/)| Vitor e Breno| Bruno|
+| [Relato de Resultados da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prototipo_alta_fidelidade/relatos_prototipo_alta/)| Ana Beatriz, Vitor e Breno| Ana Beatriz, Breno Yuri, Bruno Henrique, Vitor Borges e Pedro Augusto|
+| [Verificicação dos artefatos da etapa 01 do Grupo 08 (ISSNet)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_8/etapa_1/)| Carlos| - |
+| [Verificicação dos artefatos da etapa 02 do Grupo 08 (ISSNet)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_8/etapa_2/)| Carlos, Breno, Bruno e Vitor | Pedro|
+| [Verificicação dos artefatos da etapa 03 do Grupo 08 (ISSNet)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_8/etapa_3/)| Carlos, Ana Beatriz e Pedro| Pedro, Ana Beatriz e Vitor|
+| [Verificicação dos artefatos da etapa 04 do Grupo 08 (ISSNet)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_8/etapa_4/)| Carlos, Ana Beatriz e Pedro| Pedro e Vitor|
+| [Verificicação dos artefatos da etapa 05 do Grupo 08 (ISSNet)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_8/etapa_5/)| Vitor Carlos e Breno| Ana Beatriz e Pedro|
+| [Verificicação dos artefatos da etapa 01 do Grupo 07 (Agiel)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_7/etapa_1/)| Vitor	| Ana Beatriz|
+| [Verificicação dos artefatos da etapa 02 do Grupo 07 (Agiel)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_7/etapa_2/)| Vitor	| Ana Beatriz |
+| [Verificicação dos artefatos da etapa 03 do Grupo 07 (Agiel)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_7/etapa_3/)| Ana Beatriz| Ana Beatriz	e Bruno Henrique|
+| [Verificicação dos artefatos da etapa 04 do Grupo 07 (Agiel)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_7/etapa_4/)|Bruno Henrique	|Breno Yuri|
+| [Verificicação dos artefatos da etapa 05 do Grupo 07 (Agiel)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_7/etapa_5/)| Breno | Ana Beatriz|
+| [Verificicação dos artefatos da etapa 06 do Grupo 07 (Agiel)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_7/etapa_6/)| Vitor |Ana Beatriz |
+| [Verificicação dos artefatos da etapa 07 do Grupo 07 (Agiel)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_7/etapa_7/)| Pedro | Vitor|
+
+</div>
 
 ## 10. Tabela sintetizando as avaliações dos protótipos (com entrevistadores e o número de participantes com os nomes do participantes do grupo que participaram da avaliação)
 
@@ -120,6 +248,7 @@ A Tabela n registra o histórico de versão desse documento.
 | `1.3`  | 05/07/2023 | Adição da tabela de verificação dos artefatos | Vitor | Ana Beatriz |
 | `1.4`  | 05/07/2023 | Adição da tabela de avaliações dos protótipos | Vitor | Ana Beatriz |
 | `1.5`  | 05/07/2023 | Adição do site selecionado | Vitor | Ana Beatriz |
+| `1.6`  | 05/07/2023 | Adição da comparação entre os cronogramas e tabela sintetizando todos os artefatos com autor e revisor | Ana Beatriz  | Vitor |
 
 <h6 align = "center"> Tabela n: Histórico de Versões
 <br>Autor(es): Ana Beatriz</h6>
