@@ -23,8 +23,8 @@
 |   8   |           Relatos dos resultados            |                                                                                                             Relato dos resultados do Protótipo de alta fidelidade.                                                                                                             |  26/06  |    27/06     |
 |   9   |        Apresentação do projeto final        |                                                                                                      <p style="text-align: justify;"> Apresentação do projeto final. </p>                                                                                                      |  05/07  |      -       |
 
-<figcaption align="center">Tabela 1 - Cronograma geral da equipe.</figcaption>
-<figcaption align="center">Fonte: Bruno Henrique</figcaption>
+<h6 align = "center">Tabela 1: Cronograma geral da equipe.
+<br> Autor: Bruno Henrique</h6>
 
 ### **Etapa 1 - Planejamento**
 <p align="justify">
@@ -41,8 +41,8 @@
 |      Planejamento      |  Ana Beatriz   |  24/04  | Carlos Daniel  |  20/04  |        23/04         |       23/04       |
 |        Gravação        |  Todos         |  25/04  | Todos          |  24/04  |        24/04         |       24/04       |
 
-<figcaption align="center">Tabela 2 - Cronograma da equipe para a etapa 1.</figcaption>
-<figcaption align="center">Fonte: Bruno Henrique</figcaption>
+<h6 align = "center">Tabela 2: Cronograma da equipe para a etapa 1.
+<br> Autor: Bruno Henrique</h6>
 
 ### **Etapa 2 - Análise de Requisitos**
 <p align="justify">
@@ -57,8 +57,8 @@
 |               Análise de tarefas                | Bruno Henrique, Carlos Daniel |  08/05  |    Vitor B    |  07/05  |        28/04         |       06/05       |
 |        Gravação                                 |  Todos                        |  08/05  | Todos         |  08/05  |        08/05         |       08/05       |
 
-<figcaption align="center">Tabela 3 - Cronograma da equipe para a etapa 2.</figcaption>
-<figcaption align="center">Fonte: Bruno Henrique</figcaption>
+<h6 align = "center">Tabela 3: Cronograma da equipe para a etapa 2.
+<br> Autor: Bruno Henrique</h6>
 
 ### **Etapa 3 - Princípios Gerais do Projeto**
 <p align="justify">
@@ -73,8 +73,8 @@
 | Características da plataforma para o projeto |         Breno Yuri         |  15/05  | Bruno Henrique |  14/05  |        09/05         |       13/05       |
 |        Gravação                              |  Todos                     |  16/05  | Todos          |  15/05  |        15/05         |       15/05       |
 
-<figcaption align="center">Tabela 4 - Cronograma da equipe para a etapa 3.</figcaption>
-<figcaption align="center">Fonte: Bruno Henrique</figcaption>
+<h6 align = "center">Tabela 4: Cronograma da equipe para a etapa 3.
+<br> Autor: Bruno Henrique</h6>
 
 ### **Etapa 4 - Planejamento da Avaliação do Storyboard**
 <p align="justify">
@@ -89,8 +89,8 @@
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas. |       Pedro Siqueira        |  22/05  |  Ana Beatriz  |  20/05  |        17/05         |       19/05       |
 |        Gravação                                                           |  Todos                      |  23/05  | Todos         |  22/05  |        22/05         |       22/05       |
 
-<figcaption align="center">Tabela 5 - Cronograma da equipe para a etapa 4.</figcaption>
-<figcaption align="center">Fonte: Bruno Henrique</figcaption>
+<h6 align = "center">Tabela 5: Cronograma da equipe para a etapa 4.
+<br> Autor: Bruno Henrique</h6>
 
 ### **Etapa 5 - Relato dos Resultados da Avaliação do Storyboard**
 <p align="justify">
@@ -105,8 +105,8 @@
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |      Ana Beatriz,Vitor B      |  29/05  | Carlos Daniel  |  28/05  |        23/05         |       27/05       |
 |        Gravação                                                          |  Todos                        |  30/05  | Todos          |  29/05  |        29/05         |       29/05       |
 
-<figcaption align="center">Tabela 6 - Cronograma da equipe para a etapa 5.</figcaption>
-<figcaption align="center">Fonte: Bruno Henrique</figcaption>
+<h6 align = "center">Tabela 6: Cronograma da equipe para a etapa 5.
+<br> Autor: Bruno Henrique</h6>
 
 ### **Etapa 6.1 - Verificação dos Artefatos**
 <p align="justify">
@@ -135,8 +135,8 @@
 | Verificação do planejamento do relato dos resultados do protótipo de alta fidelidade |    Vitor B     |  05/06  |  Ana Beatriz   |  05/06  |        01/06         |       04/06       |
 |        Gravação                                                                      |  Todos         |  06/06  | Todos          |  05/06  |        05/06         |       05/06       |
 
-<figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 6.1.</figcaption>
-<figcaption align="center">Fonte: Bruno Henrique</figcaption>
+<h6 align = "center">Tabela 7: Cronograma da equipe para a etapa 6.1.
+<br> Autor: Bruno Henrique</h6>
 
 ### **Etapa 7 - Relato dos Resultados da Avaliação do Protótipo de Papel**
 <p align="justify">
@@ -150,8 +150,8 @@
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |      Vitor B, Breno Yuri      |  12/06  | Bruno Henrique |  11/06  |        06/06         |       10/06       |
 |        Gravação                                                                    |  Todos                        |  13/06  | Todos          |  12/06  |        12/06         |       12/06       |
 
-<figcaption align="center">Tabela 8 - Cronograma da equipe para a etapa 7.</figcaption>
-<figcaption align="center">Fonte: Bruno Henrique</figcaption>
+<h6 align = "center">Tabela 8: Cronograma da equipe para a etapa 7.
+<br> Autor: Bruno Henrique</h6>
 
 
 ### **Etapa 6.2 - Verificação dos Artefatos 2**
@@ -164,10 +164,10 @@
 | Verificação dos Artefatos da Etapa 7 | Todos |  19/06  | Pedro Siqueira, Bruno Henrique |  18/06  |        13/06         |       17/06       |
 |        Gravação                      | Todos |  20/06  | Todos                          |  19/06  |        19/06         |       19/06       |
 
-<figcaption align="center">Tabela 9 - Cronograma da equipe para a etapa 7.</figcaption>
-<figcaption align="center">Fonte: Bruno Henrique</figcaption>
+<h6 align = "center">Tabela 9: Cronograma da equipe para a etapa 6.2.
+<br> Autor: Bruno Henrique</h6>
 
-### **Etapa 8 - Relatos dos Resultados da Avaliação do Protótipo de Alta Fidelidadee**
+### **Etapa 8 - Relatos dos Resultados da Avaliação do Protótipo de Alta Fidelidade**
 <p align="justify">
 &emsp;&emsp;A Tabela 10 registra o cronograma da etapa 8.
 </p>
@@ -177,8 +177,8 @@
 | Relatos dos resultados do protótipo de alta fidelidade | Todos |  26/06  | Carlos Daniel, Vitor B |  24/06  |        13/06         |       23/06       |
 |        Gravação                                        | Todos |  27/06  | Todos                  |  26/06  |        26/06        |       26/06       |
 
-<figcaption align="center">Tabela 10 - Cronograma da equipe para a etapa 8.</figcaption>
-<figcaption align="center">Fonte: Bruno Henrique</figcaption>
+<h6 align = "center">Tabela 10: Cronograma da equipe para a etapa 8.
+<br> Autor: Bruno Henrique</h6>
 
 ## **Histórico de Versão**
 <p align="justify">
