@@ -2,7 +2,18 @@
 
 ## 1. Introdução
 
-## 2. Site Selecionado
+## 2. Site Selecionado (Agiel)
+
+<p align="justify">
+&emsp;&emsp;A <a href="https://www.agiel.com.br/site/">Agência de Estágios - Agiel</a> é um site que tem o objetivo de recrutar e selecionar estudantes integrando-os ao mercado de trabalho, auxiliando, assim, as organizações na formação de um quadro de recursos humanos qualificado. O site foi escolhido para análise pois o mesmo atende três tipos de usuários, o estágiario, empresas (interessadas no processo ou na contratação de estágiarios) e instituições de ensino (interessadas na realização de um convênio).
+</p>
+
+<p align="justify">
+&emsp;&emsp;Buscamos entre os sites que já utilizavamos e os sites de estágio vieram a tona, entre eles IEL, CIEE, Companhia de Estágios e Agiel, optamos por selecionar o Agiel, pois todos os integrantes tinham conhecimento do site e após a análise vimos que a Agência de Estágios Agiel possuía recursos o suficiente para prosseguir nosso projeto. O site apresenta diversas funções diferentes para cada usuário (estudante, instituição de ensino e empresas). Além disso o contato com os usuários do site para futuras pesquisas de campo não seria complicado tendo em vista que alunos da faculdade de todos os cursos começam a buscar estágios desde o terceiro semestre do curso.
+</p>
+
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/assets/sites/Planejamento_Agiel.pdf">Planejamento da Avaliação Agiel</a><br>
+<a href="https://github.com/Interacao-Humano-Computador/2023.1-Agiel/blob/main/docs/assets/sites/Analise_Agiel.pdf">Avaliação do Agiel</a>
 
 ## 3. Ciclo de vida utilizado no projeto
 
@@ -108,6 +119,7 @@ A Tabela n registra o histórico de versão desse documento.
 | `1.2`  | 05/07/2023 | Adição da tabela com as ferramentas utilizadas no projeto | Vitor | Ana Beatriz |
 | `1.3`  | 05/07/2023 | Adição da tabela de verificação dos artefatos | Vitor | Ana Beatriz |
 | `1.4`  | 05/07/2023 | Adição da tabela de avaliações dos protótipos | Vitor | Ana Beatriz |
+| `1.5`  | 05/07/2023 | Adição do site selecionado | Vitor | Ana Beatriz |
 
 <h6 align = "center"> Tabela n: Histórico de Versões
 <br>Autor(es): Ana Beatriz</h6>
