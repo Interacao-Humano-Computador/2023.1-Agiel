@@ -1,32 +1,31 @@
-# Resultado da Avaliação da Análise de Tarefas
+# ***Relato de Resultados da Avaliação da Análise de Tarefas***
 
-## 1.Introdução
+## **1. Introdução**
+<p align="justify">
+&emsp;&emsp;Esse documento segue como base os ritos definidos pelo <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/tarefas/planejamento_resultado_tarefas/">Planejamento do Relato de Resultados</a> da Avaliação da Análise de Tarefas.
+</p>
 
-Esse documento tem como objetivo planejar o relato de análise de tarefas, definindo metodologias e atividades que serão avaliadas sobre a plataforma. Visando compreender e ter melhor entendimento sobre o papel dos usuários, havendo-se a preocupação com as formas de realização de atividades e os motivos que os levam a realiza-las.
+## **2. Objetivos**
+<p align="justify">
+&emsp;&emsp;O objetivo desse documento é relatar de que forma a avaliação da análise de tarefas foi realizada e relatar todos os resultados encontrados a partir das avaliações com os participantes.
+</p>
 
-## 2.Objetivo
+## **3. Metodologia**
+<p align="justify">
+&emsp;&emsp;Como metodologia foi escolhido o método de percurso cognitivo para realizar a avaliação da análise de tarefas do sistema. Sendo um método de avaliação por inspeção que tem por objetivo principal de avaliar os fluxos de navegação de um sistema interativo, avaliando a facilidade de aprender e a de utilizar a interface da plataforma. Para realização da atividade, foram utilizados personas previamente definidas na aba de análise de tarefas do projeto.
+</p>
 
-O objetivo desse documento é relatar de que forma a avaliação da análise de tarefas foi realizada e relatar todos os resultados encontrados a partir das avaliações com os participantes.
-
-## 3. Metodologia
-
-Como metodologia foi escolhido o método de percurso cognitivo para realizar a avaliação da análise de tarefas do sistema. Sendo um método de avaliação por inspeção que tem por objetivo principal de avaliar os fluxos de navegação de um sistema interativo, avaliando a facilidade de aprender e a de utilizar a interface da plataforma. Para realização da atividade, foram utilizados personas previamente definidas na aba de análise de tarefas do projeto.
-
-## 4. Participantes
-
+## **4. Participantes**
 * Os membros do grupo 07 e participantes que se enquadraram no perfil de usuário foram convidados a serem avaliadores das tarefas do site agiel
 * O convite para os participantes foi realizado enviando os roteiros das tarefas e o termo de consentimento detalhando como os dados gerados seriam utilizados
 * A avaliação foi feita com 20 participantes, sendo que cada um deles escolhiam quantas tarefam eles queriam avaliar sendo o minimo uma tarefa. Em média os participantes escolheram 3 tarefas para avaliar.
 * O termo de consentimento foi mandadado paras os participantes lerem antes das avaliações serem feitas.
 
-## 5. Avaliação
+## **5. Avaliação**
+### **Tarefa 1: Candidatar para uma vaga de estágio**
+#### **Perfil do usuário: Estágiario do Ensino Superior**
 
-### Tarefa 1: Candidatar para uma vaga de estágio
-
-#### Perfil do usuário: Estágiario do ensino Superior
-
-#### Ações
-
+#### **Ações**
 1. Localizar o menu principal:
     - Vantajoso: O menu principal é facilmente localizável na página.
 2. Passar o mouse na aba "Estudantes":
@@ -52,12 +51,9 @@ Como metodologia foi escolhido o método de percurso cognitivo para realizar a a
     - Vantajoso: Oferecer a opção de adicionar informações extras permite ao usuário destacar aspectos relevantes que não foram abordados nos campos anteriores.
     - Melhorias: Seria útil fornecer orientações claras sobre que tipo de informações extras podem ser adicionadas e como elas podem ser relevantes para a candidatura.
 
-### Tarefa 2: Cadastrar currículo
-
-#### Perfil do usuário: Estágiario do ensino Superior
-
-#### Ações
-
+### **Tarefa 2: Cadastrar currículo**
+#### **Perfil do usuário: Estágiario do Ensino Superior**
+#### **Ações**
 1. Localizar o menu principal:
     - Vantajoso: O menu principal é facilmente localizável na página.
 
@@ -90,12 +86,9 @@ Como metodologia foi escolhido o método de percurso cognitivo para realizar a a
     - A tarefa "Cadastrar currículo" possui uma sequência lógica e os elementos de interface estão em conformidade com as expectativas do usuário.
     - As melhorias propostas, como orientações claras, exemplos de preenchimento, validação em tempo real e feedback de confirmação, podem aprimorar a experiência do usuário e facilitar o processo de cadastro de currículo.
 
-### Tarefa 3: Atualizar Currículo
-
-#### Perfil do usuário: Estágiario do ensino Superior
-
-#### Ações
-
+### **Tarefa 3: Atualizar Currículo**
+#### **Perfil do usuário: Estágiario do Ensino Superior**
+#### **Ações**
 1. Localizar o menu principal:
     - Vantajoso: O menu principal é facilmente localizável na página.
 
@@ -115,11 +108,9 @@ Como metodologia foi escolhido o método de percurso cognitivo para realizar a a
     - A tarefa "Atualizar Currículo" possui uma sequência lógica e os elementos de interface estão em conformidade com as expectativas do usuário, a mesma se assemelha bastante a uma sequência de cadastro de currículo porém simplificada.
     - Melhorias: Seria útil fornecer orientações claras e exemplos de como preencher os formulários de cada seção, além de validar os campos em tempo real para evitar erros e facilitar o preenchimento correto.
 
-### Tarefa 4: Inscrição em Processo Seletivo
-
-#### Perfil do usuário: Estágiario do ensino Superior
-
-#### Ações
+### **Tarefa 4: Inscrição em Processo Seletivo**
+#### **Perfil do usuário: Estágiario do Ensino Superior**
+#### **Ações**
 
 1. Localizar o menu principal:
     - Vantajoso: O menu principal é facilmente localizável na página.
@@ -148,12 +139,9 @@ Feedback geral:
     - As melhorias propostas, como o fornecimento de informações mais detalhadas antes de entrar no processo seletivo podem aprimorar a experiência do usuário durante a inscrição em processos seletivos.
 
 
-
-### Tarefa 5: Obter dicas sobre a gestão de carreira
-
-#### Perfil do usuário: Estágiario do ensino Superior
-
-#### Ações
+### **Tarefa 5: Obter dicas sobre a gestão de carreira**
+#### **Perfil do usuário: Estágiario do Ensino Superior**
+#### **Ações**
 
 1. Localizar o menu principal:
     - Vantajoso: O menu principal é facilmente localizável na página.
@@ -182,17 +170,22 @@ Feedback geral:
     - A tarefa "Obter dicas sobre a gestão de carreira" possui uma sequência lógica e os elementos de interface estão em conformidade com as expectativas dos usuários.
     - As melhorias propostas pelos usuários tem mais relação a apresentação dos dados e o facilitamento da leitura em geral.
 
+## **Conclusão**
+<p align="justify">
+&emsp;&emsp;De acordo com os relatórios dos resultados feitos nas tarefas anteriores pelo método do percurso cognitivo, pode-se afirmar que em geral as tarefas possuem <b>feedbacks positivos</b> pórem é possível notar <b>aspectos negativos</b> em relação a <b>orientação geral</b> do usuário dentro do sistema.
+</p>
 
-## Conclusão
-
-De acordo com os relatórios dos resultados feitos nas tarefas anteriores pelo método do percurso cognitivo, pode-se afirmar que em geral as tarefas possuem feedbacks positivos pórem é possível notar aspectos negativos em relação a orientação geral do usuário dentro do sistema.
-
-## Referências
-
-> - <a id="ancora1"></a> [1] BARBOSA, Simone; SILVA, INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: Elsevier Editora Ltda, 2010.
-
-## Histórico de versão
+## **Histórico de Versão**
+<p align="justify">
+&emsp;&emsp;A tabela 1 apresenta o histórico de versão do documento.
+</p>
 
 | Versão | Data       | Descrição            | Autor(es)      | Revisor |
 |--------|------------|----------------------|----------------|---------|
 | `1.0`  | 29/05/2023 | Criação do documento | Bruno Henrique | Vitor B |
+<h6 align = "center"> Tabela 1: Histórico de Versão.
+<br> Autor: Bruno </h6>
+
+## **Bibliografia**
+
+> - <a id="ancora1"></a> [1] BARBOSA, Simone; SILVA, INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: Elsevier Editora Ltda, 2010.
