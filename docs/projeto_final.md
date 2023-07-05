@@ -2,6 +2,10 @@
 
 ## 1. Introdução
 
+<p align="justify">
+&emsp;&emsp;Durante a elaboração dos artefatos e nas entrevistas realizadas identificamos os pontos fortes, pontos fracos, desafios e oportunidades de melhoria em relação à usabilidade e experiência do usuário no site Agiel. Durante esse processo, obtivemos valiosos insights e feedbacks dos usuários, que nos permitiram compreender melhor suas necessidades e expectativas. Além disso, pudemos avaliar o desempenho e a eficácia de nossos protótipos em atender aos objetivos estabelecidos. Sendo assim nesta página compilamos e apresentamos os principais resultados encontrados, a forma que o projeto foi desenvolvido e seus respectivos autores, tudo de forma detalhada.
+</p>
+
 ## 2. Site Selecionado (Agiel)
 
 <p align="justify">
