@@ -25,15 +25,29 @@
 <p> Tabela 2: Cenários da tarefa obter dicas sobre gestão de carreira<br/> (Fonte: Vitor Borges, 2023).</p>
 </div>
 
+### **3.4 Cenário: Cadastrar em uma vaga de estágio**
+
+| Elemento | Descrição |
+|:--------:|:---------:|
+| Objetivo | O candidato busca uma oportunidade para aplicar seus conhecimentos teóricos e práticos adquiridos na área, além de adquirir experiência profissional relevante |
+| Ambiente| - Local: Casa<br> - Tempo: Enquanto busca vagas<br> - Pré-requisitos: internet |
+| Atores | - Candidato <br> - Recrutador|
+| Episódios | 1. Explorando a vaga <br> 2. Preparando o currículo <br> 3. Preenchendo o formulário de inscrição <br> 4. Submetendo a inscrição |
+| Evento | O evento principal é a inscrição do candidato na vaga de estágio no site Agiel. A interação entre o candidato e a plataforma de recrutamento é essencial para que a candidatura seja submetida com sucesso e para que o recrutador possa avaliar as qualificações do candidato e, potencialmente, convidá-lo para uma entrevista.|
+
+<h6 align = "center"> Tabela 2: Cenário: Cadastrar em uma vaga de estágio
+<br> Autor:  Ana Beatriz</h6>
+
 ## **Histórico de Versão**
-&emsp;&emsp;A Tabela 1 registra o histórico de versão desse documento.
+&emsp;&emsp;A Tabela 3 registra o histórico de versão desse documento.
 
 | Versão |    Data    |      Descrição       |   Autor(es)    | Revisor(es) |
 |:------:|:----------:|:--------------------:|:--------------:|:-----------:|
 | `1.0`  | 04/07/2023 | Criação do documento | Vitor |    Pedro   |
 | `1.1`  | 04/07/2023 | Adição dos cenários da tarefa obter dicas sobre carreira | Vitor |    Pedro   |
+| `1.2`  | 05/07/2023 | Adição dos cenários da tarefa cadastrar em uma vaga | Ana Beatriz |    Pedro   |
 
-<h6 align = "center"> Tabela 1: Histórico de Versão
+<h6 align = "center"> Tabela 3: Histórico de Versão
 <br> Autor:  Vitor Borges</h6>
 
 ## **Bibliografia**
