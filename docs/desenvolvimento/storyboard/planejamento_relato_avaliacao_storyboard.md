@@ -2,7 +2,7 @@
 
 ## **1. Introdução**
 <p align="justify">
-&emsp;&emsp;Este documento refere-se a etapa seguinte à conclusão da avaliação do storyboard. O objetivo é apresentar as descobertas feitas durante a avaliação, apresentar os dados obtidos, além de destacar o que pode ser melhorado.
+&emsp;&emsp;Este documento refere-se a etapa seguinte à <b>conclusão da avaliação do storyboard</b>. O objetivo é apresentar as <b>descobertas feitas</b> durante a avaliação, apresentar os <b>dados obtidos<b>, além de destacar o que pode ser <b>melhorado</b>.
 </p>
 
 ## **2. Metodologia**
@@ -20,7 +20,7 @@
 
 ## **2. Elementos do relato**
 <p align="justify">
-&emsp;&emsp;É essencial que os resultados da avaliação sejam apresentados de forma clara e direta, para que a visão e as necessidades do usuário sejam bem transmitidas. Desta forma, é importante que o relato tenha os seguintes elementos da avaliação documentados.
+&emsp;&emsp;É essencial que os resultados da avaliação sejam apresentados de forma <b>clara e direta</b>, para que a visão e as necessidades do usuário sejam bem transmitidas. Desta forma, é importante que o relato tenha os seguintes elementos da avaliação documentados.
 </p>
 
 ### **2.1 Objetivos**
