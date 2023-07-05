@@ -1,4 +1,4 @@
-# ***Planejamento do Relato dos Resultados da Avaliação de Storyboard***
+# ***Planejamento do Relato de Resultados da Avaliação de Storyboard***
 
 ## **1. Introdução**
 <p align="justify">
@@ -18,7 +18,7 @@
 <li> Sugestões de correções;</li>
 </ul>
 
-## **2. Elementos do relato**
+## **2. Elementos do Relato**
 <p align="justify">
 &emsp;&emsp;É essencial que os resultados da avaliação sejam apresentados de forma <b>clara e direta</b>, para que a visão e as necessidades do usuário sejam bem transmitidas. Desta forma, é importante que o relato tenha os seguintes elementos da avaliação documentados.
 </p>

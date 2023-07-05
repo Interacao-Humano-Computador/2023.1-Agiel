@@ -1,38 +1,39 @@
-# Planejamento Avaliação Análise das Tarefas
+# ***Planejamento da Avaliação - Análise de Tarefas***
 
-## Introdução
+## **1. Introdução**
 
 <p align="justify">
-&emsp;&emsp;Na etapa de análise de requisitos o grupo realizou a <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/analise_tarefas/">Análise de tarefas</a> utilizando as técnicas Análise Hierarquica de Tarefas (HTA) [1] e Objetivos, Operadores, Métodos e Regras de Seleção (GOMS) [2], onde foram levantadas e análisadas algumas tarefas do site <a href="https://www.agiel.com.br/site/">Agiel</a> visando compreender os trabalhos que os usuários realizam no site.<br>
+&emsp;&emsp;Na etapa de análise de requisitos o grupo realizou a <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/analise_tarefas/">Análise de Tarefas</a>, utilizando as técnicas <b>Análise Hierarquica de Tarefas</b> (HTA) [1] e <b>Objetivos, Operadores, Métodos e Regras de Seleção</b> (GOMS) [2], onde foram levantadas e analisadas algumas tarefas do site <a href="https://www.agiel.com.br/site/">Agiel</a> visando <b>compreender os trabalhos</b> que os usuários realizam no site.<br>
 </p>
 
 <p align="justify">
-&emsp;&emsp;Após a análise das principais tarefas realizadas pelos os usuários o próximo objetivo é identificar problemas de usabilidade que os usuários enfrentam. Para alcançar este objetivo iremos realizar uma avaliação das tarefas que permita a aproximação do ponto de vista dos usuários, porém para garantir uma boa avaliação será realizado primeiramente o planejamento da mesma.
+&emsp;&emsp;Após a análise das principais tarefas realizadas pelos usuários, o próximo objetivo é identificar <b>problemas de usabilidade</b> que os mesmos enfrentam. Para alcançar este objetivo, será realizada uma avaliação das tarefas que permita a aproximação do ponto de vista dos usuários, para garantir uma boa avaliação será realizado primeiramente o planejamento da mesma.
 </p>
 
-## Planejamento
+## **2. Planejamento**
 
-### Metodologia
+### **2.1 Metodologia**
 <p align="justify">
-&emsp;&emsp;Para auxiliar a equipe no planejamento da avaliação utilizamos o framework DECIDE [3], optamos pelo uso do DECIDE pois o mesmo ajuda os designers a tomar decisões, explorar alternativas e criar interfaces eficazes e intuitivas. Além disso foi um método que alguns integrantes do grupo já utilizaram no planejamento de <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/escolha_do_site/">avaliação dos sites</a>.
+&emsp;&emsp;Para auxiliar a equipe no planejamento da avaliação utilizamos o framework <b>DECIDE</b> [3], optamos pelo uso do DECIDE pois o mesmo ajuda os designers a tomar decisões, explorar alternativas e criar interfaces eficazes e intuitivas. Além disso, foi um método já utilizado previamente, no planejamento de <a href="https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/escolha_do_site/">avaliação dos sites</a>.
 </p>
 
-### Determinação dos objetivos da avaliação
+### **2.2 D - Determinar os objetivos:**
 <p align="justify">
 &emsp;&emsp;Nossos principais objetivos ao realizar a avaliação das tarefas são:
 </p>
+<ul>
+<li> Identificar possíveis problemas de usabilidade nas tarefas do site Agiel, como dificuldades de navegação, falta de clareza nas informações ou interações confusas;</li>
 
-* Identificar possíveis problemas de usabilidade nas tarefas do site Agiel, como dificuldades de navegação, falta de clareza nas informações ou interações confusas.
+<li> Analisar a eficiência com que os usuários conseguem completar as tarefas propostas no site Agiel. Isso pode envolver medir o tempo necessário para realizar uma tarefa, o número de cliques ou etapas necessárias;</li>
 
-* Analisar a eficiência com que os usuários conseguem completar as tarefas propostas no site Agiel. Isso pode envolver medir o tempo necessário para realizar uma tarefa, o número de cliques ou etapas necessárias.
+<li> Identificar oportunidades de melhorias específicas nas tarefas do site Agiel, de forma a aprimorar a experiência do usuário e aumentar a eficácia e eficiência na conclusão das tarefas;</li>
 
-* Identificar oportunidades de melhorias específicas nas tarefas do site Agiel, de forma a aprimorar a experiência do usuário e aumentar a eficácia e eficiência na conclusão das tarefas.
+<li>  Verificar se as tarefas propostas no site Agiel são adequadas e atendem às necessidades dos usuários.</li>
+</ul>
 
-*  Verificar se as tarefas propostas no site Agiel são adequadas e atendem às necessidades dos usuários.
-
-### Explorar questões a serem respondidas
+### **2.3 E - Explorar questões a serem respondidas**
 <p align="justify">
-&emsp;&emsp;Tomando como base os objetivos que visamos alcançar a "Tabela 1: Questões a serem respondidas" contém as questões relacionadas a cada objetivo.
+&emsp;&emsp;A Tabela 1 contêm questões a serem respondidas, relacionadas a cada objetivo.
 </p>
 
 | Objetivo | Questões Relacionadas |
@@ -42,11 +43,10 @@
 |3. Identificar oportunidades de melhoria | 3.1 Existem pontos específicos nas tarefas do site Agiel que causam confusão ou dificuldade para os usuários? <br> 3.2 Quais aspectos do design do site Agiel podem ser aprimorados para tornar as tarefas mais eficientes e satisfatórias? <br> 3.3 Os usuários têm alguma sugestão de melhorias ou funcionalidades adicionais que poderiam ser implementadas? <br> 3.4 Os usuários sentem-se satisfeitos com a experiência geral de uso do site Agiel?|
 |4. Validar a adequação das tarefas propostas | 4.1 As tarefas propostas no site Agiel são relevantes e alinhadas com as necessidades e expectativas dos usuários? <br> 4.2 As instruções fornecidas para as tarefas são claras e compreensíveis? <br> 4.3 As tarefas propostas refletem adequadamente os objetivos e funcionalidades principais do site Agiel?|
 
-<div style="text-align: center">
-<p>Tabela 1: Questões a serem respondidas<br/> (Fonte: Vitor B., 2023).</p>
-</div>
+<h6 align = "center"> Tabela 1: Questões a serem respondidas.
+<br> Autor: Vitor </h6>
 
-### Escolha do método de avaliação
+### **2.4 C - Escolher (Choose) os métodos de avaliação:**
 * Método Escolhido:
 <p align="justify">
 &emsp;&emsp;Para a avaliação selecionamos o método de percuso cognitivo [3]. Escolhemos este método pois o mesmo permite aos avaliadores obter uma compreensão profunda da experiência do usuário ao interagir com o site Agiel, o mesmo ajuda a identificar os pensamentos, estratégias e percepções dos usuários durante a realização das tarefas, fornecendo insights valiosos sobre como eles compreendem e interpretam as informações apresentadas. Além disso o mesmo permite avaliar a interação individual de um usuário com o site Agiel e como sua experiência pode ser melhorada de forma personalizada, desta forma podemos alcançar um site mais intuitivo, eficaz e satisfatório para os usuários.
@@ -70,10 +70,8 @@
 | Atualizar currículo |  1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Realizar login <br> 4. Selecionar sessão que deseja alterar (dados acadêmicos, dados pessoais, dados profissionais, conhecimentos, qualificações) <br> 5. Clicar em "salvar" |
 | Inscrição em processo seletivo | 1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Clicar em "processos seletivos" <br> 4. Visualizar os processos seletivos disponíveis <br> 5. Clicar em "saiba mais" no processo de sua escolha <br> 6. Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas) <br> 7. Enviar candidatura |
 | Obter dicas sobre a gestão de carreira | 1. Localizar o menu principal <br> 2. Passar o mouse na aba "Estudantes" <br> 3. Clicar em "Blog do Estagiário" <br> 4. Encontrar a área de "Categorias" <br> 5. Selecionar o campo "Gestão de Carreira" <br> 6. Visualizar os artigos apresentados <br> 7. Clicar em "Leia Mais" no artigo de interesse <br> 8. Ler o artigo completo |
-
-<div style="text-align: center">
-<p>Tabela 2: Roteiro para realizar as tarefas<br/> (Fonte: Vitor B., 2023).</p>
-</div>
+<h6 align = "center"> Tabela 2: Roteiro para realizar as tarefas.
+<br> Autor: Vitor </h6>
 
 * Coleta de dados e interpretação
 <p align="justify">
@@ -85,7 +83,7 @@
 &emsp;&emsp;Após a realização de todas as etapas com os fluxos de cada terafa sendo percorridos, os dados serão coletados e analisados de forma que seja possível alterar a análise de tarefas se necessário ou compreender as dificuldades encontradas para propor uma interface que atenda as necessidades dos usuários.
 </p>
 
-### Identificar e administrar as questões práticas da avaliação
+### **2.5 I - Identificar e administrar as questões práticas:**
 <p align="justify">
 &emsp;&emsp; A etapa "Identify" é fundamental para identificar as questões práticas relacionadas à avaliação do Percurso Cognitivo. Nesta fase, é necessário analisar e compreender as habilidades cognitivas que serão avaliadas, bem como os critérios e as métricas que serão utilizados.
 Ao identificar as questões práticas, é importante considerar os seguintes aspectos:
@@ -101,7 +99,7 @@ Ao identificar as questões práticas, é importante considerar os seguintes asp
 - Utilização de ferramentas e tecnologias apropriadas: Identifique as ferramentas e tecnologias adequadas para apoiar a avaliação do Percurso Cognitivo. Isso pode incluir a utilização de software especializado, equipamentos de medição ou outras tecnologias que possam fornecer dados relevantes sobre as habilidades cognitivas avaliadas.
 </p>
 
-### Decidir como lidar com as questões éticas
+### **2.6 D - Decidir como lidar com as questões éticas:**
 <p align="justify">
 &emsp;&emsp; Na avaliação do Percurso Cognitivo, é importante considerar as questões éticas envolvidas no processo. Embora não haja entrevistas, ainda é fundamental garantir que o processo seja conduzido de maneira ética e respeitosa. Isso inclui proteger a privacidade e a confidencialidade dos dados coletados durante a avaliação e assegurar que os participantes sejam informados sobre o propósito e a natureza da avaliação. É essencial respeitar a autonomia dos participantes e agir de maneira responsável com os dados coletados.
  
@@ -130,12 +128,12 @@ Assim, estou ciente das informações acima e autorizo a utilização dos meus d
 -----
 </p>
 
-### Evaluate (Avaliar), interpretar e apresentar os dados
+### **2.7 E - Avaliar (Evaluate), interpretar e apresentar os dados:**
 <p align="justify">
 &emsp;&emsp;Na etapa "Evaluate" (Avaliar) do framework DECIDE, interpretar e apresentar os dados é essencial para a avaliação do Percurso Cognitivo do site Agiel. Coletando os dados relevantes, analisando-os cuidadosamente e avaliando os resultados, é possível identificar padrões e entender o impacto das habilidades cognitivas dos usuários. A apresentação dos resultados permitirá uma compreensão clara do desempenho cognitivo e auxiliará na identificação de áreas de melhoria no site Agiel.
 </p>
 
-### Teste Piloto
+### **2.8 Teste Piloto**
 <p align="justify">
 O teste piloto permite a avaliação do método do fluxo cognitivo, desta forma podemos visualizar se o mesmo está sendo aplicado adequadamente, se as tarefas são adequadas e se você é possível obtendo os feedbacks desejados. Ao realizar o teste piloto poderemos realizar mudanças no método, no roteiro e até nas tarefas selecionadas. Sendo assim o nosso teste piloto consiste na realização dos seguintes passos:
 </p>
@@ -148,7 +146,10 @@ O teste piloto permite a avaliação do método do fluxo cognitivo, desta forma 
 6. Os dados gerados pelo avaliador devem ser coletados
 7. Os dados devem ser analisados
 
-### Cronograma de Tarefas
+### **2.9 Cronograma de Tarefas**
+<p align="justify">
+&emsp;&emsp;A tabela 3 contêm o cronograma de tarefas que serão realizadas.
+</p>
 
 | Tarefa |    Data    |          
 | :-----: | :-------: |
@@ -156,18 +157,22 @@ O teste piloto permite a avaliação do método do fluxo cognitivo, desta forma 
 |  Avaliação e coleta de dados  | 27/05/2023 |
 |  Entrega  | 29/05/2023 |
 
-<div style="text-align: center">
-<p> Cronograma de tarefas (Fonte: Breno, 2023).</p>
-</div>
+<h6 align = "center"> Tabela 3: Cronograma de Tarefas.
+<br> Autor: Breno </h6>
 
-## Referências
-
-> [1] Annett, J. & Duncan, K. (1967). Task analysis and training design. <br>
-> [2] Kieras, 2004; Card et al., 1983 <br>
-> [3] Silva & Barbosa, 2010, p.323
-
-## Histórico de Versão
+## **Histórico de Versão**
+<p align="justify">
+&emsp;&emsp;A tabela 4 contêm o histórico de versão do documento.
+</p>
 
 | Versão | Data  |            Descrição             |     Autor      |    Revisor    |
 |:------:|:-----:|:--------------------------------:|:--------------:|:-------------:|
 | `1.0`  | 22/05/2023 | Adição do planejamento de avaliação das tarefas | Breno e Vitor | Bruno |
+<h6 align = "center"> Tabela 4: Histórico de Versão.
+<br> Autor: Breno e Vitor </h6>
+
+## **Bibliografia**
+
+> [1] Annett, J. & Duncan, K. (1967). Task analysis and training design. <br>
+> [2] Kieras, 2004; Card et al., 1983 <br>
+> [3] Silva & Barbosa, 2010, p.323
