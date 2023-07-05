@@ -2,7 +2,7 @@
 
 ## **1. Introdução**
 <p align="justify">
-&emsp;&emsp;O cronograma tem como objetivo representar as atividades, recursos e prazos de um projeto, organizados em tabelas. Eles foram criados com base nas datas e prazos do cronograma do semestre letivo (2023.1) da disciplina de IHC, com o objetivo de organizar e planejar as atividades de forma eficiente.
+&emsp;&emsp;O cronograma tem como objetivo representar as <b>atividades</b>, <b>recursos</b> e <b>prazos</b> de um projeto, organizados em tabelas. Eles foram criados com base nas <b>datas e prazos</b> do cronograma do semestre letivo (2023.1) da disciplina de IHC, com o objetivo de organizar e planejar as atividades de forma eficiente.
 </p>
 
 ## **2. Cronograma Geral**

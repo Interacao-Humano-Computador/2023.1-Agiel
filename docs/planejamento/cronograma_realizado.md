@@ -2,7 +2,7 @@
 
 ## **1. Introdução**
 <p align="justify">
-&emsp;&emsp;O cronograma realizado é um documento que descreve as atividades que foram executadas no projeto em relação ao cronograma planejado. Neste documento, serão apresentados os resultados da comparação entre o <a href='https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/cronograma/'>Cronograma Planejado</a> e o Cronograma Realizado.
+&emsp;&emsp;O <b>cronograma realizado</b> é um documento que descreve as atividades que foram executadas no projeto em relação ao <b>cronograma planejado</b>. Neste documento, serão apresentados os resultados da comparação entre o <a href='https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/cronograma/'>Cronograma Planejado</a> e o Cronograma Realizado.
 </p>
 
 ## **2. Cronogramas**

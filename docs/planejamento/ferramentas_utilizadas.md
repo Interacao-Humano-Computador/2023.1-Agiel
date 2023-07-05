@@ -1,11 +1,14 @@
-# 1. Introdução
+# ***Ferramentas***
 
+## **1. Introdução**
 <p align = "justify">
-Saber escolher as ferramentas corretas pode otimizar o trabalho, tornando-o mais eficiente, automatizado, colaborativo e propenso ao aprendizado. O uso de ferramentas colaborativas pode facilitar a colaboração em equipe, enquanto a familiaridade com diversas ferramentas pode tornar um indivíduo mais versátil e capaz de resolver uma ampla gama de problemas.
+&emsp;&emsp;Escolher as ferramentas corretas pode otimizar o trabalho, tornando-o mais <b>eficiente</b>, <b>automatizado</b>, <b>colaborativo</b> e <b>propenso ao aprendizado</b>. O uso de ferramentas colaborativas pode facilitar a <b>colaboração em equipe</b>, enquanto a familiaridade com diversas ferramentas pode tornar um indivíduo mais versátil e capaz de resolver uma ampla gama de problemas.
 </p>
 
-# 2. Ferramentas utilizadas
-A Tabela 1 registra as ferramentas utilizadas no projeto.
+## **2. Ferramentas Utilizadas no Projeto**
+<p align = "justify">
+&emsp;&emsp;A Tabela 1 registra as ferramentas utilizadas no projeto.
+</p>
 
 |                                            | Ferramenta      | Utilidade                                               |
 |:------------------------------------------:|:---------------:|:-------------------------------------------------------:|
@@ -25,8 +28,10 @@ A Tabela 1 registra as ferramentas utilizadas no projeto.
 <h6 align = "center"> Tabela 1: Ferramentas utilizadas
 <br> Autor: Vitor Borges </h6>
 
-## Histórico de Versão
-A Tabela 2 registra o histórico de versão desse documento.
+## **Histórico de Versão**
+<p align = "justify">
+&emsp;&emsp;A Tabela 2 registra o histórico de versão desse documento.
+</p>
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
@@ -34,10 +39,10 @@ A Tabela 2 registra o histórico de versão desse documento.
 | `1.1`  | 27/04/2023 | Adição de novas ferramentas e referências | Vitor Borges | |
 | `1.2`  | 01/07/2023 | Adição de novas ferramentas e referências | Vitor Borges | |
 
-<h6 align = "center"> Tabela 1: Histórico de Versão
+<h6 align = "center"> Tabela 2: Histórico de Versão
 <br> Autor: Vitor Borges </h6>
 
-## Bibliografia
+## **Bibliografia**
 
 > Saiba mais Google Sheets - <https://www.google.com/sheets/about/> Acesso em 26/04 <br>
 > Saiba mais Microsoft Teams - <https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software> Acesso em 26/04 <br>
