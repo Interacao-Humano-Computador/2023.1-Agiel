@@ -30,14 +30,14 @@ Com esses objetivos, buscamos garantir uma experiência de uso satisfatória e i
 
 ### 3.2 E - Explorar perguntas a serem respondidas:
 As perguntas abaixo, na tabela 1, serão usadas durante a entrevista com o usuário.
-| Nº | Pergunta | Resposta |
-|:--:|:--------:|:-------:|
-| 1  | Você acha que os protótipos de papel apresentados são fáceis de entender e utilizar? | [ ] Sim<br>[ ] Não |
-| 2  | Qual dos protótipos de papel você acha mais intuitivo e amigável para os usuários? | Número do protótipo |
-| 3  | O que faz você considerar esse protótipo de papel mais fácil de entender e utilizar em comparação aos outros? | Resposta aberta |
-| 4  | Você identificou algum aspecto dos protótipos de papel que possa gerar confusão ou dificuldades para os usuários? | Se sim, por favor, descreva. |
-| 5  | Dos protótipos de papel apresentados, há algum que você acredita que precise de melhorias para facilitar a compreensão e uso pelos usuários? | Número do protótipo |
-| 6  | Quais sugestões você teria para tornar esse protótipo de papel mais claro e fácil de usar? | Resposta aberta |
+| Nº |                                                                   Pergunta                                                                   |           Resposta           |
+|:--:|:--------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------:|
+| 1  |                             Você acha que os protótipos de papel apresentados são fáceis de entender e utilizar?                             |      [ ] Sim<br>[ ] Não      |
+| 2  |                              Qual dos protótipos de papel você acha mais intuitivo e amigável para os usuários?                              |     Número do protótipo      |
+| 3  |                O que faz você considerar esse protótipo de papel mais fácil de entender e utilizar em comparação aos outros?                 |       Resposta aberta        |
+| 4  |              Você identificou algum aspecto dos protótipos de papel que possa gerar confusão ou dificuldades para os usuários?               | Se sim, por favor, descreva. |
+| 5  | Dos protótipos de papel apresentados, há algum que você acredita que precise de melhorias para facilitar a compreensão e uso pelos usuários? |     Número do protótipo      |
+| 6  |                          Quais sugestões você teria para tornar esse protótipo de papel mais claro e fácil de usar?                          |       Resposta aberta        |
 
 <h6 align = "center"> Tabela 1: Perguntas para entrevista
 <br> Autor: Breno </h6>
@@ -58,9 +58,9 @@ Após selecionar os participantes, entramos em contato com cada um deles para ag
 A Tabela 2 registra o cronograma das entrevistas.
 | Data  | Horário | Local  |         Atividade          | Entrevistador(es) | Entrevistado(s)  |
 |:-----:|:-------:|:------:|:--------------------------:|:-----------------:|:----------------:|
-| 29/05 |  19:30  | Remoto | Realização do teste piloto |    Breno          |  Bruno Camargos  |
-| 29/05 |  20:00  | Remoto |  Realização da entrevista  |    Breno          | Danielle Barbosa |
-| 29/05 |  20:00  | Remoto |  Realização da entrevista  |    Ana Beatriz    |  Lívia Rodrigues |
+| 29/05 |  19:30  | Remoto | Realização do teste piloto |       Breno       |  Bruno Camargos  |
+| 29/05 |  20:00  | Remoto |  Realização da entrevista  |       Breno       | Danielle Barbosa |
+| 29/05 |  20:00  | Remoto |  Realização da entrevista  |    Ana Beatriz    | Lívia Rodrigues  |
 <h6 align = "center"> Tabela 2: Cronograma das entrevistas
 <br> Autor: Ana Beatriz e Breno </h6>
 
@@ -114,14 +114,18 @@ Na figura 3 temos o protótipo de papel da tarefa de cadastrar uma instituição
 
 <figcaption align="center">Imagem 3 - Protótipo de Papel - Tarefa: Cadastrar uma instituição de ensino. Fonte: Breno Yuri</figcaption>
 
+![alt text](./img/PrototipoDePapelBruno.gif)
+
+<figcaption align="center">Imagem 4 - Protótipo de Papel - Tarefa: Se inscrever em um processo seletivo. Fonte: Bruno Henrique</figcaption>
+
 
 ## Histórico de Versão
 A Tabela 3 registra o histórico de versão desse documento.
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--|--|--|--|--|
-| `1.0` | 29/05/2023 | Criação do documento e adição do conteúdo | Breno Yuri | Pedro Siqueira |
-| `2.0`  | 03/07/2023  | Padronização do documento |  Ana Beatriz | Breno Yuri |
+| Versão | Data       | Descrição                                 | Autor(es)   | Revisor(es)    |
+|--------|------------|-------------------------------------------|-------------|----------------|
+| `1.0`  | 29/05/2023 | Criação do documento e adição do conteúdo | Breno Yuri  | Pedro Siqueira |
+| `2.0`  | 03/07/2023 | Padronização do documento                 | Ana Beatriz | Breno Yuri     |
 
 <h6 align = "center"> Tabela 3: Histórico de Versões
 <br> Autor: Breno </h6>
