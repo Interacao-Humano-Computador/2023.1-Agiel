@@ -21,6 +21,10 @@
 
 ## 3. Ciclo de vida utilizado no projeto
 
+<p align="justify">
+&emsp;&emsp;Em nosso projeto utilizamos o ciclo de vida Mayhew. Optamos por utiliza-lo pois seu modelo é mais detalhado e iterativo, o que o torna benéfico para o aprendizado de designers inexperientes. A Engenharia de Usabilidade de Mayhew fornece uma estrutura clara e algoritmica (passo a passo), guiando os designers ao longo de todas as etapas do processo, desde a análise de requisitos até a instalação. Dessa forma, ela não apenas garante a qualidade da interface (por avaliação contínua), mas também contribui para o desenvolvimento das habilidades e conhecimentos dos designers, tornando-se uma escolha ideal para o projeto em questão. Além disso a mesma permite o retorno em etapas anteriores caso os objetivos não tenham sido alcançados propriamente, sendo assim é possível errar e não ter que refazer tudo do zero.
+</p>
+
 ## 4. Planejamento dos recursos e entregas 
 É possível conferir o cronograma planejado para o semestre da disciplina [nesse link](https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/cronograma/).
 É possível conferir o cronograma executado ao longo do semestre [nesse link](https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/cronograma_realizado/).
