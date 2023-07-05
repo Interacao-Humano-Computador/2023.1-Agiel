@@ -40,6 +40,36 @@
 ## 10. Tabela sintetizando as avaliações dos protótipos ( com entrevistadores e o número de participantes com os nomes do participantes do grupo que participaram da avaliação)
 
 ## 11. Uma tabela sintetizando o método de verificação dos artefatos com autor e revisor (do checklist e da verificação)
+<p align="justify">
+&emsp;&emsp;A verificação de todos os artefatos foi realizado por meio de inspeção FAGAN (1976), utilizando um checklist. Os mesmos autores que elaboraram o checklist realizaram a verificação dos respectivos artefatos.
+</p>
+
+| Artefato | Autor(es) | Revisor(es) |
+|:--------:|:-----:|:-------:|
+| Cenários | Vitor Borges | Pedro Siqueira |
+| Perfil do Usuário | Vitor Borges | Ana Beatriz |
+| Aspectos Éticos | Vitor Borges | Ana Beatriz |
+| Personas | Vitor Borges | Ana Beatriz |
+| Análise de Tarefas | Vitor Borges | Ana Beatriz |
+| Princípios Gerais do Projeto | Ana Beatriz | Bruno Henrique |
+| Metas de Usabilidade | Ana Beatriz | Bruno Henrique |
+| Guia de Estilo | Ana Beatriz | Bruno Henrique |
+| Características da plataforma para o projeto | Ana Beatriz | Bruno Henrique |
+| Planejamento da Avaliação do Storyboard | Bruno Henrique | Breno Yuri |
+| Planejamento do Relato dos Resultados da Avaliação da Storyboard | Bruno Henrique | Breno Yuri |
+| Planejamento da Avaliação da Análise de Tarefas | Bruno Henrique | Breno Yuri |
+| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Bruno Henrique | Breno Yuri |
+| Relato dos Resultados do Storyboard | Breno Yuri |Ana Beatriz |
+| Resultado da Avaliação da Análise de Tarefas | Breno Yuri |Ana Beatriz |
+| Planejamento da Avaliação do Protótipo de Papel | Breno Yuri |Ana Beatriz |
+| Verificação dos artefatos grupo 08 | Vitor Borges | Bruno Henrique |
+| Relato dos Resultados do Protótipo de Papel | Pedro Siqueira | Vitor Borges |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade | Pedro Siqueira | Vitor Borges |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Pedro Siqueira | Vitor Borges |
+| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Ana Beatriz, Breno Yuri, Vitor Borges | Bruno Henrique, Pedro Siqueira |
+
+<h6 align = "center"> Tabela 7: Verificação dos artefatos
+<br>Autor: Vitor Borges</h6>
 
 ## 12. Tabela sintetizando todos os vídeos das apresentações de cada etapa
 
@@ -67,6 +97,7 @@ A Tabela n registra o histórico de versão desse documento.
 | `1.0`  | 05/07/2023 | Criação do documento | Ana Beatriz  | Vitor |
 | `1.1`  | 05/07/2023 | Adição da tabela com vídeos das apresentações | Vitor | Ana Beatriz |
 | `1.2`  | 05/07/2023 | Adição da tabela com as ferramentas utilizadas no projeto | Vitor | Ana Beatriz |
+| `1.3`  | 05/07/2023 | Adição da tabela de verificação dos artefatos | Vitor | Ana Beatriz |
 
 <h6 align = "center"> Tabela n: Histórico de Versões
 <br>Autor(es): Ana Beatriz</h6>
