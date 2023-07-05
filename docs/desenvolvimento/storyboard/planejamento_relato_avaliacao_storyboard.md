@@ -61,7 +61,7 @@
 | Versão |    Data    |               Descrição                | Autor(es) | Revisor(es) |
 |:------:|:----------:|:--------------------------------------:|:---------:|:-----------:|
 | `1.0`  | 22/05/2023 | Criação do artefato |   Carlos   |    Vitor    |
-<h6 align = "center"> Tabela 1: Histórico de Versões
+<h6 align = "center"> Tabela 1: Histórico de Versão.
 <br> Autor: Carlos </h6>
 
 ## **Bibliografia**

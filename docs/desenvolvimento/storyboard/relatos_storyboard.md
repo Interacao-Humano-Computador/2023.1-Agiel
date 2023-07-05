@@ -88,7 +88,7 @@
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 29/05/2023 | Criação do documento | Pedro Siqueira |  Ana Beatriz  |
-<h6 align = "center"> Tabela 1: Histórico de Versão
+<h6 align = "center"> Tabela 1: Histórico de Versão.
 <br> Autor: Pedro Siqueira </h6>
 
 ## **Bibliografia**

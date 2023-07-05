@@ -87,22 +87,23 @@
 <p align="justify">
 &emsp;&emsp; A etapa "Identify" é fundamental para identificar as questões práticas relacionadas à avaliação do Percurso Cognitivo. Nesta fase, é necessário analisar e compreender as habilidades cognitivas que serão avaliadas, bem como os critérios e as métricas que serão utilizados.
 Ao identificar as questões práticas, é importante considerar os seguintes aspectos:
-
-- Definição de habilidades cognitivas: Identifique e defina claramente as habilidades cognitivas específicas que serão avaliadas. Isso pode incluir memória, atenção, raciocínio lógico, resolução de problemas, entre outras. Compreender quais habilidades são relevantes para o Percurso Cognitivo em questão ajudará a direcionar a avaliação de maneira adequada.
-
-- Seleção de métodos de avaliação: Identifique os métodos de avaliação mais apropriados para cada habilidade cognitiva. Existem várias opções disponíveis, como testes padronizados, tarefas específicas, questionários e observação direta. Considere a validade, a confiabilidade e a sensibilidade desses métodos para garantir resultados precisos.
-
-- Estabelecimento de critérios de avaliação: Defina os critérios pelos quais as habilidades cognitivas serão avaliadas. Isso pode incluir pontuações numéricas, categorias ou escalas qualitativas. Ter critérios claros ajudará a objetivar o processo de avaliação e facilitará a comparação dos resultados.
-
-- Consideração do contexto: Leve em consideração o contexto em que as habilidades cognitivas são aplicadas. Por exemplo, se a avaliação estiver relacionada a uma tarefa específica, é importante considerar o ambiente, as demandas cognitivas envolvidas e os recursos disponíveis para executar a tarefa.
-
-- Utilização de ferramentas e tecnologias apropriadas: Identifique as ferramentas e tecnologias adequadas para apoiar a avaliação do Percurso Cognitivo. Isso pode incluir a utilização de software especializado, equipamentos de medição ou outras tecnologias que possam fornecer dados relevantes sobre as habilidades cognitivas avaliadas.
 </p>
+<ul>
+<li> Definição de habilidades cognitivas: Identifique e defina claramente as habilidades cognitivas específicas que serão avaliadas. Isso pode incluir memória, atenção, raciocínio lógico, resolução de problemas, entre outras. Compreender quais habilidades são relevantes para o Percurso Cognitivo em questão ajudará a direcionar a avaliação de maneira adequada;</li>
+
+<li> Seleção de métodos de avaliação: Identifique os métodos de avaliação mais apropriados para cada habilidade cognitiva. Existem várias opções disponíveis, como testes padronizados, tarefas específicas, questionários e observação direta. Considere a validade, a confiabilidade e a sensibilidade desses métodos para garantir resultados precisos;</li>
+
+<li> Estabelecimento de critérios de avaliação: Defina os critérios pelos quais as habilidades cognitivas serão avaliadas. Isso pode incluir pontuações numéricas, categorias ou escalas qualitativas. Ter critérios claros ajudará a objetivar o processo de avaliação e facilitará a comparação dos resultados; </li>
+
+<li> Consideração do contexto: Leve em consideração o contexto em que as habilidades cognitivas são aplicadas. Por exemplo, se a avaliação estiver relacionada a uma tarefa específica, é importante considerar o ambiente, as demandas cognitivas envolvidas e os recursos disponíveis para executar a tarefa;</li>
+
+<li> Utilização de ferramentas e tecnologias apropriadas: Identifique as ferramentas e tecnologias adequadas para apoiar a avaliação do Percurso Cognitivo. Isso pode incluir a utilização de software especializado, equipamentos de medição ou outras tecnologias que possam fornecer dados relevantes sobre as habilidades cognitivas avaliadas.</li>
+</ul>
 
 ### **2.6 D - Decidir como lidar com as questões éticas:**
 <p align="justify">
-&emsp;&emsp; Na avaliação do Percurso Cognitivo, é importante considerar as questões éticas envolvidas no processo. Embora não haja entrevistas, ainda é fundamental garantir que o processo seja conduzido de maneira ética e respeitosa. Isso inclui proteger a privacidade e a confidencialidade dos dados coletados durante a avaliação e assegurar que os participantes sejam informados sobre o propósito e a natureza da avaliação. É essencial respeitar a autonomia dos participantes e agir de maneira responsável com os dados coletados.
- 
+&emsp;&emsp; Na avaliação do <b>percurso cognitivo</b>, é importante considerar as questões éticas envolvidas no processo. Embora não haja entrevistas, ainda é fundamental garantir que o processo seja conduzido de maneira ética e respeitosa. Isso inclui proteger a privacidade e a confidencialidade dos dados coletados durante a avaliação e assegurar que os participantes sejam informados sobre o propósito e a natureza da avaliação. É essencial respeitar a autonomia dos participantes e agir de maneira responsável com os dados coletados.
+</p> 
 <div style="text-align: center">
 <h4>
 Termo de Consentimento Livre e Esclarecido
@@ -110,24 +111,27 @@ Termo de Consentimento Livre e Esclarecido
 </div>
 
 ------
-
-Declaro ter sido informado(a) sobre os objetivos da pesquisa realizada pelo Grupo 7 da disciplina de Interação Humano-Computador da Universidade de Brasília, a qual tem como finalidade coletar informações para tornar o site "Agiel" sobre oportunidades de estágio mais eficiente e amigável ao usuário.
-
-Fui esclarecido(a) de que minha participação na pesquisa é voluntária e não receberei qualquer tipo de remuneração ou benefício em troca. Além disso, as informações coletadas serão utilizadas somente para fins acadêmicos e respeitando os princípios éticos e humanitários estabelecidos pela Resolução nº 466/2012 do Conselho Nacional de Saúde e outras normas aplicáveis.
-
-Fui informado(a) de que tais informações serão tratadas de forma confidencial e somente serão divulgadas com minha autorização prévia ou mediante determinação judicial ou solicitação de órgão público competente. Fui esclarecido(a) de que poderei optar por não responder a qualquer pergunta ou interromper minha participação na pesquisa a qualquer momento, sem penalidades ou prejuízos.
-
-Declaro ainda ter sido informado(a) sobre meus direitos éticos e humanitários durante a pesquisa, seguindo os princípios da bioética que engloba os princípios da não maleficência, beneficência, da autonomia e da justiça, conforme estabelecido pela Resolução nº 466/2012 do Conselho Nacional de Saúde e outras normas aplicáveis.
-
-Assim, estou ciente das informações acima e autorizo a utilização dos meus dados para fins acadêmicos pelo Grupo 7 da disciplina de Interação Humano-Computador da Universidade de Brasília, em conformidade com as normas aplicáveis.
+<p align="justify">
+&emsp;&emsp;Declaro ter sido informado(a) sobre os objetivos da pesquisa realizada pelo Grupo 7 da disciplina de Interação Humano-Computador da Universidade de Brasília, a qual tem como finalidade coletar informações para tornar o site "Agiel" sobre oportunidades de estágio mais eficiente e amigável ao usuário.
+</p>
+<p align="justify">
+&emsp;&emsp;Fui esclarecido(a) de que minha participação na pesquisa é voluntária e não receberei qualquer tipo de remuneração ou benefício em troca. Além disso, as informações coletadas serão utilizadas somente para fins acadêmicos e respeitando os princípios éticos e humanitários estabelecidos pela Resolução nº 466/2012 do Conselho Nacional de Saúde e outras normas aplicáveis.
+</p>
+<p align="justify">
+&emsp;&emsp;Fui informado(a) de que tais informações serão tratadas de forma confidencial e somente serão divulgadas com minha autorização prévia ou mediante determinação judicial ou solicitação de órgão público competente. Fui esclarecido(a) de que poderei optar por não responder a qualquer pergunta ou interromper minha participação na pesquisa a qualquer momento, sem penalidades ou prejuízos.
+</p>
+<p align="justify">
+&emsp;&emsp;Declaro ainda ter sido informado(a) sobre meus direitos éticos e humanitários durante a pesquisa, seguindo os princípios da bioética que engloba os princípios da não maleficência, beneficência, da autonomia e da justiça, conforme estabelecido pela Resolução nº 466/2012 do Conselho Nacional de Saúde e outras normas aplicáveis.
+</p>
+<p align="justify">
+&emsp;&emsp;Assim, estou ciente das informações acima e autorizo a utilização dos meus dados para fins acadêmicos pelo Grupo 7 da disciplina de Interação Humano-Computador da Universidade de Brasília, em conformidade com as normas aplicáveis.
+</p>
 
 \(  \) Sim, estou de acordo em fornecer meus dados para a pesquisa.
 
 \(  \) Não estou de acordo em fornecer meus dados para a pesquisa.
 
 -----
-</p>
-
 ### **2.7 E - Avaliar (Evaluate), interpretar e apresentar os dados:**
 <p align="justify">
 &emsp;&emsp;Na etapa "Evaluate" (Avaliar) do framework DECIDE, interpretar e apresentar os dados é essencial para a avaliação do Percurso Cognitivo do site Agiel. Coletando os dados relevantes, analisando-os cuidadosamente e avaliando os resultados, é possível identificar padrões e entender o impacto das habilidades cognitivas dos usuários. A apresentação dos resultados permitirá uma compreensão clara do desempenho cognitivo e auxiliará na identificação de áreas de melhoria no site Agiel.
@@ -135,7 +139,7 @@ Assim, estou ciente das informações acima e autorizo a utilização dos meus d
 
 ### **2.8 Teste Piloto**
 <p align="justify">
-O teste piloto permite a avaliação do método do fluxo cognitivo, desta forma podemos visualizar se o mesmo está sendo aplicado adequadamente, se as tarefas são adequadas e se você é possível obtendo os feedbacks desejados. Ao realizar o teste piloto poderemos realizar mudanças no método, no roteiro e até nas tarefas selecionadas. Sendo assim o nosso teste piloto consiste na realização dos seguintes passos:
+O teste piloto permite a avaliação do método do fluxo cognitivo, desta forma podemos visualizar se o mesmo está sendo aplicado adequadamente e se as tarefas são adequadas. Ao realizar o teste piloto poderemos realizar mudanças no método, no roteiro e até nas tarefas selecionadas. Sendo assim o nosso teste piloto consiste na realização dos seguintes passos:
 </p>
 
 1. Iremos selecionar um avaliador que seja familiarizados com o uso de sites ou sistemas similares ao Agiel e que faça parte do perfil de usuário do planejamento.

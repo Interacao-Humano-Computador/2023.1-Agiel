@@ -18,7 +18,7 @@
 |Carlos Daniel | Sim |
 |Pedro Siqueira | Não |
 |Vitor B | Não | 
-<h6 align = "center"> Tabela 1: Lista de presença
+<h6 align = "center"> Tabela 1: Lista de presença.
 <br> Autor: Carlos Daniel </h6>
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa os horários de início e término da reunião, além da plataforma utilizada.
@@ -26,7 +26,7 @@
 | Horário de inicio | Horário de término | Plataforma |
 |--------------|-----------|---------|
 |20:30|21:10|Teams|
-<h6 align = "center"> Tabela 2: Escopo da reunião
+<h6 align = "center"> Tabela 2: Escopo da reunião.
 <br> Autor: Carlos Daniel </h6>
 
 ## **Pautas**
@@ -50,7 +50,7 @@
 | Escrever introdução sobre projeto e equipe no READ.ME | 23/04 | Ana e Breno | -
 | Revisão dos artefatos | 23/04 | Todos | Todos
 | Gravação do vídeo de apresentação | 24/04 | Todos | Todos
-<h6 align = "center"> Tabela 3: Atividades definidas
+<h6 align = "center"> Tabela 3: Atividades definidas.
 <br> Autor: Carlos Daniel </h6>
 
 ## **Gravação da Reunião**
@@ -64,5 +64,5 @@
 | Versão | Descrição | Autor(es) | 
 | ------ | --------- | --------- |
 | `1.0`  | Elaboração do documento | Carlos |  
-<h6 align = "center"> Tabela 4: Histórico de Versão
+<h6 align = "center"> Tabela 4: Histórico de Versão.
 <br> Autor: Carlos Daniel </h6>

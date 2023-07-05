@@ -17,7 +17,7 @@
 |Carlos Daniel | Sim |
 |Pedro Siqueira | Sim |
 |Vitor B | Sim | 
-<h6 align = "center"> Tabela 1: Lista de presença
+<h6 align = "center"> Tabela 1: Lista de presença.
 <br> Autor: Pedro Siqueira </h6>
 <p align="justify">
 &emsp;&emsp;A tabela 2 representa os horários de início e término da reunião, além da plataforma utilizada.
@@ -25,7 +25,7 @@
 | Horário de inicio | Horário de término | Plataforma |
 |--------------|-----------|---------|
 |10:11|10:36|Microsoft Teams|
-<h6 align = "center"> Tabela 2: Escopo da reunião
+<h6 align = "center"> Tabela 2: Escopo da reunião.
 <br> Autor: Pedro Siqueira </h6>
 
 ## **Pautas**
@@ -49,7 +49,7 @@
 | Trabalhos iniciais no cronograma | Não definido | Bruno e Breno |
 | Criar a planilha de disponibilidade | 08/04 | Vitor |
 | Preencher a planilha de disponibilidade | 10/04 | Todos |
-<h6 align = "center"> Tabela 3: Atividades definidas
+<h6 align = "center"> Tabela 3: Atividades definidas.
 <br> Autor: Pedro Siqueira </h6>
 
 ## **Gravação da Reunião**
@@ -64,5 +64,5 @@
 | Versão | Descrição | Autor(es) | 
 | ------ | --------- | --------- |
 | `1.0`  | Criação do documento | Pedro Siqueira |  
-<h6 align = "center"> Tabela 4: Histórico de Versão
+<h6 align = "center"> Tabela 4: Histórico de Versão.
 <br> Autor: Pedro Siqueira </h6>

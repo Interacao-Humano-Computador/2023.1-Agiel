@@ -119,23 +119,23 @@
 </p>
 
 ![](./img/storyboard-1.jpg)
-<h6 align = "center"> Imagem 1: Storyboard Canditadar a uma vaga.
+<h6 align = "center"> Imagem 1: Storyboard - Canditadar a uma vaga de estágio.
 <br> Autor: Ana Beatriz </h6>
 
 ![](../../assets/storyboard_cadastroinstituicao.jpeg)
-<h6 align = "center"> Imagem 2: Storyboard Canditadar uma instituição de ensino.
+<h6 align = "center"> Imagem 2: Storyboard - Cadastrar uma instituição de ensino.
 <br> Autor: Breno Yuri </h6>
 
 ![](./img/storyboard-3.jpg)
-<h6 align = "center"> Imagem 3: Storyboard Candastrar currículo.
+<h6 align = "center"> Imagem 3: Storyboard - Cadastrar currículo.
 <br> Autor: Pedro Siqueira </h6>
 
 ![](./img/storyboard-2.png)
-<h6 align = "center"> Imagem 4: Storyboard Inscrição em processo seletivo. 
+<h6 align = "center"> Imagem 4: Storyboard - Inscrição em processo seletivo. 
 <br> Autor: Bruno Henrique </h6>
 
 ![](../../assets/storyboard_gestao_carreira.jpeg)
-<h6 align = "center"> Imagem 5: Storyboard Obter dicas sobre Gestão de carreira. 
+<h6 align = "center"> Imagem 5: Storyboard - Obter dicas sobre Gestão de carreira. 
 <br> Autor: Vitor Borges </h6>
 
 ![](./img/storyboard-4.jpeg)
@@ -154,7 +154,7 @@
 | `1.1`  | 22/05/2023 | Adição do termo de consentimento e perguntas |    Bruno    | Ana Beatriz |
 | `1.2`  | 03/06/2023 | Adição de um novo storyboard |    Carlos   | Ana Beatriz |
 
-<h6 align = "center"> Tabela 3: Histórico de Versão
+<h6 align = "center"> Tabela 3: Histórico de Versão.
 <br> Autor: Ana Beatriz </h6>
 
 ## **Bibliografia**

@@ -170,7 +170,7 @@ Feedback geral:
     - A tarefa "Obter dicas sobre a gestão de carreira" possui uma sequência lógica e os elementos de interface estão em conformidade com as expectativas dos usuários.
     - As melhorias propostas pelos usuários tem mais relação a apresentação dos dados e o facilitamento da leitura em geral.
 
-## **Conclusão**
+## **6. Conclusão**
 <p align="justify">
 &emsp;&emsp;De acordo com os relatórios dos resultados feitos nas tarefas anteriores pelo método do percurso cognitivo, pode-se afirmar que em geral as tarefas possuem <b>feedbacks positivos</b> pórem é possível notar <b>aspectos negativos</b> em relação a <b>orientação geral</b> do usuário dentro do sistema.
 </p>
