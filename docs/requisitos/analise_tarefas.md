@@ -2,30 +2,30 @@
 
 ## **1. Introdução**
 <p align="justify">
-&emsp;A análise de tarefas tem como objetivo <b>compreender os trabalhos</b> dos usuários em um sistema, incluindo como são executados e o porquê. Esses trabalhos são definidos em termos dos objetivos das pessoas e organizações envolvidas no software (Diape, 2003).
+&emsp;&emsp;A análise de tarefas tem como objetivo <b>compreender os trabalhos</b> dos usuários em um sistema, incluindo como são executados e o porquê. Esses trabalhos são definidos em termos dos objetivos das pessoas e organizações envolvidas no software (Diape, 2003).
 </p>
 
 ## **2. Objetivos**
 <p align="justify">
-&emsp;Este documento tem o fim da apresentar a <b>análise de tarefas do site AGIEL (Agência de Estágios)</b>. O artefato produto deve apresentar uma análise <b>concreta e bem detalhada</b>, visto que o site já está operacional, segundo Diaper (2003).
+&emsp;&emsp;Este documento tem o fim da apresentar a <b>análise de tarefas do site AGIEL (Agência de Estágios)</b>. O artefato produto deve apresentar uma análise <b>concreta e bem detalhada</b>, visto que o site já está operacional, segundo Diaper (2003).
 </p>
 
 ## **2. Metodologia**
 <p align="justify">
-&emsp;Foram utilizadas duas técnicas distintas para realizar a análise de tarefas do sistema: <b>Análise Hierárquica de
+&emsp;&emsp;Foram utilizadas duas técnicas distintas para realizar a análise de tarefas do sistema: <b>Análise Hierárquica de
 Tarefas</b> (HTA – Hierarchical Task Analysis (Annett, 2003; Annett e Duncan, 1967)) e o <b>GOMS</b> (Goals,
 Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 </p>
 
 ## **3. Análise Hierárquica de Tarefas (HTA)**
 <p align="justify">
-&emsp;Essa técnica tem o fim de compreender as competências e habilidade exibidas em tarefas complexas e não repitivas (Annett, 2003; Annett e Duncan,
+&emsp;&emsp;Essa técnica tem o fim de compreender as competências e habilidade exibidas em tarefas complexas e não repitivas (Annett, 2003; Annett e Duncan,
 1967). Nesse contexto, uma tarefa é qualquer parte do trabalho que precisa ser realizado. Por sua vez, uma tarefa pode ser definida em objetivos e subobjetivos através de um processo chamado de decomposição de tarefas. Vale ressaltar que cada subobjetivo é alcançado por uma <b>operação</b>, que é a unidade fundamental em HTA.
 </p>
 
 ### **3.1 Análise da Tarefa: candidatar para uma vaga de estágio**
 <p align="justify">
-&emsp;A tarefa "candidatar para uma vaga de estágio" é a principal tarefa que o usuário realiza no sistema, já que é sua funcionalidade principal. A Tabela 1 e a Figura 2 apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
+&emsp;&emsp;A tarefa "candidatar para uma vaga de estágio" é a principal tarefa que o usuário realiza no sistema, já que é sua funcionalidade principal. A Tabela 1 e a Figura 2 apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
 </p>
 
 | Objetivos/Operações                    | Problemas e recomendações                                                                                                                                                                                                                                                                                       |
@@ -47,7 +47,7 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 
 ### **3.2 Análise da Tarefa: cadastrar instituição de ensino**
 
-<p> A tarefa "cadastrar instituição de ensino" é realizada por coordenadores de uma instituição que tenham interesse em vincular a mesma a agência Agiel por meio de um convênio entre a instituição e a agência.
+<p> &emsp;&emsp;A tarefa "cadastrar instituição de ensino" é realizada por coordenadores de uma instituição que tenham interesse em vincular a mesma a agência Agiel por meio de um convênio entre a instituição e a agência.
 </p>
 
 | Objetivos/Operações                    | Problemas e recomendações                                                                                                                                                                                                                                                                                       |
@@ -74,12 +74,12 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 
 ## 4. **Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)**
 <p align="justify">
-&emsp;O GOMS é um procedimento que <b>analisa tarefas</b> e oferece uma descrição do conhecimento necessário para que um usuário possa realizá-las, envolvendo quatros figuras simbólicas: <b>goals</b>, <b>operator</b>, <b>methods</b> e <b>selection rules</b>.
+&emsp;&emsp;O GOMS é um procedimento que <b>analisa tarefas</b> e oferece uma descrição do conhecimento necessário para que um usuário possa realizá-las, envolvendo quatros figuras simbólicas: <b>goals</b>, <b>operator</b>, <b>methods</b> e <b>selection rules</b>.
 </p>
 
 ### **4.1 Análise da tarefa: cadastrar e atualizar currículo**
 <p align="justify">
-&emsp;Nessa tarefa, o objetivo do usuário é atualizar seus dados acadêmicos e profissionais, bem como suas qualificações. A partir desse currículo, o usuário poderá concorrer as vagas de estágio.
+&emsp;&emsp;Nessa tarefa, o objetivo do usuário é atualizar seus dados acadêmicos e profissionais, bem como suas qualificações. A partir desse currículo, o usuário poderá concorrer as vagas de estágio.
 </p>
 <p>Goal 0: Atulizar e cadastrar dados</p>
 &emsp;&emsp;- Method 1: Acessar área currículo via menu.
@@ -98,13 +98,13 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 <p>&emsp;&emsp;&emsp; OP 1.12: Clicar no botão de salvar.</p>
 
 <p align="justify">
-&emsp;Para a tarefa de atualizar e cadastrar o currículo, o sistema oferece apenas um método de resolução. Tal método apresenta um número muito grande de cliques para mudar de sessão e salvar, tornando a realização da tarefa demorada e  repetitiva.
+&emsp;&emsp;Para a tarefa de atualizar e cadastrar o currículo, o sistema oferece apenas um método de resolução. Tal método apresenta um número muito grande de cliques para mudar de sessão e salvar, tornando a realização da tarefa demorada e  repetitiva.
 Uma alternativa para isso seria um procedimento de salvamento automático e utilizar uma página única para realizar a atualização do currículo.
 </p>
 
 ### **4.2 Análise da Tarefa: Inscrição em processo seletivo**
 <p align="justify">
-&emsp;Nessa tarefa, o objetivo do usuário é realizar a inscrição em um processo seletivo de sua escolha.
+&emsp;&emsp;Nessa tarefa, o objetivo do usuário é realizar a inscrição em um processo seletivo de sua escolha.
 </p>
 <p>Goal 0: Se inscrever em um processo seletivo</p>
 &emsp;&emsp;- Method 1: Acessar área "Processos Seletivos" via menu.
@@ -123,12 +123,12 @@ Uma alternativa para isso seria um procedimento de salvamento automático e util
 <p>&emsp;&emsp;&emsp; OP 2.6: Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas).</p>
 <p>&emsp;&emsp;&emsp; OP 2.7: Enviar candidatura</p>
 <p align="justify">
-No primeiro método o usuário consegue visualizar processos que o mesmo não tem os requisitos mínimos, o mesmo pode só vir a descobrir deste detalha no momento em que tenta apertar o botão de "quero me cadastrar" onde o mesmo caso não tenha os requisitos é impedido pelo site.
+&emsp;No primeiro método o usuário consegue visualizar processos que o mesmo não tem os requisitos mínimos, o mesmo pode só vir a descobrir deste detalha no momento em que tenta apertar o botão de "quero me cadastrar" onde o mesmo caso não tenha os requisitos é impedido pelo site.
 </p>
 
 ### **4.3 Análise da Tarefa: Obter dicas sobre a gestão de carreira**
 <p align="justify">
-&emsp;Nessa tarefa, o objetivo do usuário é obter dicas que o auxiliem a traçar objetivos para sua carreira.
+&emsp;&emsp;Nessa tarefa, o objetivo do usuário é obter dicas que o auxiliem a traçar objetivos para sua carreira.
 </p>
 <p>Goal 0: Obter dicas sobre gestão de carreira</p>
 &emsp;&emsp;- Method 1: Acessar área "Blog do Estagiário" via menu.
@@ -151,12 +151,12 @@ No primeiro método o usuário consegue visualizar processos que o mesmo não te
 <p>&emsp;&emsp;&emsp; OP 3.4: Clicar em "Leia Mais" no artigo de interesse.</p>
 <p>&emsp;&emsp;&emsp; OP 3.5: Ler o artigo completo</p>
 <p align="justify">
-&emsp;Os três métodos apresentam o mesmo problema de ao filtrar pelos artigos desejados alguns artigos são mostrados mais de uma vez.
+&emsp;&emsp;Os três métodos apresentam o mesmo problema de ao filtrar pelos artigos desejados alguns artigos são mostrados mais de uma vez.
 </p>
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;A Tabela 3 registra o histórico de versão desse documento.
+&emsp;&emsp;A Tabela 3 registra o histórico de versão desse documento.
 </p>
 
 | Versão |    Data    |      Descrição       |   Autor(es)    | Revisor(es) |

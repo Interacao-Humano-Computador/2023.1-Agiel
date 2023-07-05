@@ -1,14 +1,16 @@
-# Cronograma Realizado
+# ***Cronograma Realizado***
 
-## 1. Introdução
+## **1. Introdução**
+<p align="justify">
+&emsp;&emsp;O <b>cronograma realizado</b> é um documento que descreve as atividades que foram executadas no projeto em relação ao <b>cronograma planejado</b>. Neste documento, serão apresentados os resultados da comparação entre o <a href='https://interacao-humano-computador.github.io/2023.1-Agiel/planejamento/cronograma/'>Cronograma Planejado</a> e o Cronograma Realizado.
+</p>
 
-O cronograma realizado é um documento que descreve as atividades que foram executadas no projeto em relação ao cronograma planejado. Neste documento, serão apresentados os resultados da comparação entre o [Cronograma Planejado](cronograma.md) e o realizado.
+## **2. Cronogramas**
 
-## 2. Cronogramas
-
-### 2.1 Etapa 1 - Planejamento
-
-A Tabela 1 registra o cronograma realizado da etapa 1.
+### **2.1 Etapa 1 - Planejamento**
+<p align="justify">
+&emsp;&emsp;A Tabela 1 registra o cronograma realizado da etapa 1.
+</p>
 
 |         Tarefa         |     Autor      | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:----------------------:|:--------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
@@ -26,11 +28,13 @@ A Tabela 1 registra o cronograma realizado da etapa 1.
 |     Revisão dos artefatos    | Todos |  24/04  |    Todos     |  24/04  |        21/04         |       24/04       |
 |     Gravação da Apresentação    | Todos |  24/04  |    Todos     |  24/04  |        24/04         |       24/04       |
 
-<figcaption align="center">Tabela 1 - Cronograma da equipe para a etapa 1.</figcaption>
-<figcaption align="center">Fonte: Ana Beatriz e Breno Yuri</figcaption>
+<h6 align = "center">Tabela 1: Cronograma da equipe para a etapa 1.
+<br> Autor: Ana Beatriz e Breno Yuri</h6>
 
-### Etapa 2 - Análise de Requisitos
-A Tabela 2 registra o cronograma realizado da etapa 2.
+### **Etapa 2 - Análise de Requisitos**
+<p align="justify">
+&emsp;&emsp;A Tabela 2 registra o cronograma realizado da etapa 2.
+</p>
 
 |                     Tarefa                      |             Autor             | Entrega |    Revisor    | Revisão | Início da Realização | Fim da Realização |
 |:-----------------------------------------------:|:-----------------------------:|:-------:|:-------------:|:-------:|:--------------------:|:-----------------:|
@@ -40,11 +44,13 @@ A Tabela 2 registra o cronograma realizado da etapa 2.
 |               Análise de tarefas                | Bruno Henrique, Carlos Daniel |  08/05  |    Vitor B    |  08/05  |        05/05         |       08/05       |
 |        Gravação                                 |  Todos                        |  08/05  | Todos         |  08/05  |        08/05         |       08/05       |
 
-<figcaption align="center">Tabela 2 - Cronograma da equipe para a etapa 2.</figcaption>
-<figcaption align="center">Fonte: Vitor Borges</figcaption>
+<h6 align = "center">Tabela 2: Cronograma da equipe para a etapa 2.
+<br> Autor: Vitor Borges</h6>
 
-### Etapa 3 - Princípios Gerais do Projeto
-A Tabela 3 registra o cronograma realizado da etapa 3.
+### **Etapa 3 - Princípios Gerais do Projeto**
+<p align="justify">
+&emsp;&emsp;A Tabela 3 registra o cronograma realizado da etapa 3.
+</p>
 
 |                    Tarefa                    |           Autor            | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:--------------------------------------------:|:--------------------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
@@ -54,11 +60,13 @@ A Tabela 3 registra o cronograma realizado da etapa 3.
 | Características da plataforma para o projeto |         Breno Yuri         |  15/05  | Bruno Henrique |  15/05  |        10/05         |       15/05       |
 |        Gravação                              |  Todos                     |  16/05  | Todos          |  15/05  |        15/05         |       15/05       |
 
-<figcaption align="center">Tabela 3 - Cronograma da equipe para a etapa 3.</figcaption>
-<figcaption align="center">Fonte: Vitor Borges</figcaption>
+<h6 align = "center">Tabela 3: Cronograma da equipe para a etapa 3.
+<br> Autor: Vitor Borges</h6>
 
-### Etapa 4 - Planejamento da Avaliação do Storyboard
-A Tabela 4 registra o cronograma realizado da etapa 4.
+### **Etapa 4 - Planejamento da Avaliação do Storyboard**
+<p align="justify">
+&emsp;&emsp;A Tabela 4 registra o cronograma realizado da etapa 4.
+</p>
 
 |                                  Tarefa                                   |            Autor            | Entrega |    Revisor    | Revisão | Início da Realização | Fim da Realização |
 |:-------------------------------------------------------------------------:|:---------------------------:|:-------:|:-------------:|:-------:|:--------------------:|:-----------------:|
@@ -68,11 +76,13 @@ A Tabela 4 registra o cronograma realizado da etapa 4.
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas. |       Pedro Siqueira        |  22/05  |  Ana Beatriz  |  22/05  |        18/05         |       22/05       |
 |        Gravação                                                           |  Todos                      |  22/05  | Todos         |  22/05  |        22/05         |       22/05       |
 
-<figcaption align="center">Tabela 4 - Cronograma da equipe para a etapa 4.</figcaption>
-<figcaption align="center">Fonte: Vitor Borges</figcaption>
+<h6 align = "center">Tabela 4: Cronograma da equipe para a etapa 4.
+<br> Autor: Vitor Borges</h6>
 
-### Etapa 5 - Relato dos resultados
-A Tabela 5 registra o cronograma realizado da etapa 5.
+### **Etapa 5 - Relato dos Resultados da Avaliação do Storyboard**
+<p align="justify">
+&emsp;&emsp;A Tabela 5 registra o cronograma realizado da etapa 5.
+</p>
 
 |                                  Tarefa                                  |             Autor             | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:------------------------------------------------------------------------:|:-----------------------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
@@ -82,16 +92,18 @@ A Tabela 5 registra o cronograma realizado da etapa 5.
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |      Ana Beatriz,Vitor B      |  29/05  | Carlos Daniel  |  29/05  |        23/05         |       29/05       |
 |        Gravação                                                          |  Todos                        |  29/05  | Todos          |  29/05  |        29/05         |       29/05       |
 
-<figcaption align="center">Tabela 5 - Cronograma da equipe para a etapa 5.</figcaption>
-<figcaption align="center">Fonte: Vitor Borges</figcaption>
+<h6 align = "center">Tabela 5: Cronograma da equipe para a etapa 5.
+<br> Autor: Vitor Borges</h6>
 
-### Etapa 6.1 - Planejamento da Avaliação do Storyboard
-A Tabela 6 registra o cronograma realizado da etapa 6.1.
+### **Etapa 6.1 - Planejamento da Avaliação do Storyboard**
+<p align="justify">
+&emsp;&emsp;A Tabela 6 registra o cronograma realizado da etapa 6.1.
+</p>
 
 |                                        Tarefa                                        |     Autor      | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:------------------------------------------------------------------------------------:|:--------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
-|                           Verificação do perfil do usuário                           | Bruno Henrique |  05/06  |  Lucas Lopes   |  05/06  |        04/06         |       05/06       |
-|                           Verificação dos aspectos éticos                            |   Breno Yuri   |  05/06  |    Philipe     |  05/06  |        04/06         |       05/06       |
+|                           Verificação do perfil do usuário                           | Bruno Henrique |  05/06  |  Vitor B   |  05/06  |        04/06         |       05/06       |
+|                           Verificação dos aspectos éticos                            |   Breno Yuri   |  05/06  |    Carlos Daniel    |  05/06  |        04/06         |       05/06       |
 |                               Verificação de personas                                | Bruno Henrique |  05/06  |   Breno Yuri   |  05/06  |        04/06         |       05/06       |
 |                     Verificação dos princípios gerais de projeto                     |  Ana Beatriz   |  05/06  |    Vitor B     |  05/06  |        04/06         |       05/06       |
 |                         Verificação das metas de usabilidade                         | Pedro Siqueira |  05/06  | Carlos Daniel  |  05/06  |        03/06         |       05/06       |
@@ -107,11 +119,13 @@ A Tabela 6 registra o cronograma realizado da etapa 6.1.
 |      Verificação do planejamento do relato dos resultados do protótipo de papel      | Carlos Daniel  |  05/06  | Pedro Siqueira |  05/06  |        04/06         |       05/06       |
 |        Gravação                                                                      |  Todos         |  05/06  | Todos          |  05/06  |        04/06         |       05/06       |
 
-<figcaption align="center">Tabela 6 - Cronograma da equipe para a etapa 6.1.</figcaption>
-<figcaption align="center">Fonte: Vitor Borges</figcaption>
+<h6 align = "center">Tabela 6: Cronograma da equipe para a etapa 6.1.
+<br> Autor: Vitor Borges</h6>
 
-### Etapa 7 - Relato dos resultados do Protótipo de Papel
-A Tabela 7 registra o cronograma realizado da etapa 7.
+### **Etapa 7 - Relato dos Resultados da Avaliação do Protótipo de Papel**
+<p align="justify">
+&emsp;&emsp;A Tabela 7 registra o cronograma realizado da etapa 7.
+</p>
 
 |                                       Tarefa                                       |             Autor             | Entrega |    Revisor     | Revisão | Início da Realização | Fim da Realização |
 |:----------------------------------------------------------------------------------:|:-----------------------------:|:-------:|:--------------:|:-------:|:--------------------:|:-----------------:|
@@ -120,12 +134,13 @@ A Tabela 7 registra o cronograma realizado da etapa 7.
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |      Vitor B, Breno Yuri      |  12/06  | Bruno Henrique |  12/06  |        11/06         |       12/06       |
 |        Gravação                                                                    |  Todos                        |  12/06  | Todos          |  12/06  |        11/06         |       12/06       |
 
-<figcaption align="center">Tabela 7 - Cronograma da equipe para a etapa 7.</figcaption>
-<figcaption align="center">Fonte: Vitor Borges</figcaption>
+<h6 align = "center">Tabela 7: Cronograma da equipe para a etapa 7.
+<br> Autor: Vitor Borges</h6>
 
-### Etapa 6.2 - Verificação dos Artefatos 2
-A Tabela 8 registra o cronograma realizado da etapa 6.2.
-
+### **Etapa 6.2 - Verificação dos Artefatos 2**
+<p align="justify">
+&emsp;&emsp;A Tabela 8 registra o cronograma realizado da etapa 6.2.
+</p>
 
 |                Tarefa                |                                      Autor                                      | Entrega |            Revisor             | Revisão | Início da Realização | Fim da Realização |
 |:------------------------------------:|:-------------------------------------------------------------------------------:|:-------:|:------------------------------:|:-------:|:--------------------:|:-----------------:|
@@ -137,11 +152,13 @@ A Tabela 8 registra o cronograma realizado da etapa 6.2.
 | Artefatos Etapa 07 | Pedro Siqueira |  19/06  | Vitor Borges |  19/06  |        18/06         |       19/06       |
 |        Gravação                      | Todos |  19/06  | Todos                          |  19/06  |        19/06         |       19/06       |
 
-<figcaption align="center">Tabela 8 - Cronograma da equipe para a etapa 7.</figcaption>
-<figcaption align="center">Fonte: Vitor Borges</figcaption>
+<h6 align = "center">Tabela 8: Cronograma da equipe para a etapa 6.2.
+<br> Autor: Vitor Borges</h6>
 
-### Etapa 8 - Relatos dos resultados
-A Tabela 9 registra o cronograma realizado da etapa 8.
+### **Etapa 8 - Relatos dos Resultados da Avaliação do Protótipo de Alta Fidelidade**
+<p align="justify">
+&emsp;&emsp;A Tabela 9 registra o cronograma realizado da etapa 8.
+</p>
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 |:------:|:-----:|:-------:|:-------:|:-------:|:--------------------:|:-----------------:|
@@ -153,11 +170,13 @@ A Tabela 9 registra o cronograma realizado da etapa 8.
 | Relatos dos resultados do protótipo de alta fidelidade | Todos |  26/06  | Todos |  26/06  |        26/06         |       26/06       |
 |        Gravação                                        | Todos |  27/06  | Todos                  |  26/06  |        26/06        |       26/06       |
 
-<figcaption align="center">Tabela 9 - Cronograma da equipe para a etapa 8.</figcaption>
-<figcaption align="center">Fonte: Vitor Borges</figcaption>
+<h6 align = "center">Tabela 9: Cronograma da equipe para a etapa 8.
+<br> Autor: Vitor Borges</h6>
 
-## Histórico de Versão
-A Tabela 10 registra o histórico de versão desse documento.
+## **Histórico de Versão**
+<p align="justify">
+&emsp;&emsp;A Tabela 10 registra o histórico de versão desse documento.
+</p>
 
 | Versão | Data  |            Descrição              |     Autor      |    Revisor    |
 |:------:|:-----:|:---------------------------------:|:--------------:|:-------------:|
@@ -171,9 +190,9 @@ A Tabela 10 registra o histórico de versão desse documento.
 | `8.0`  | 19/06/2023 | Adição do cronograma realizado da Etapa 6.2 | Vitor | Todos |
 | `9.0`  | 26/06/2023 | Adição do cronograma realizado da Etapa 08 | Vitor | Todos |
 
-<h6 align = "center"> Tabela 10: Histórico de Versões
+<h6 align = "center"> Tabela 10: Histórico de Versão
 <br> Autor: Ana Beatriz e Breno </h6>
 
-## Bibliografia
+## **Bibliografia**
 
 > Curso: FGA0173 - INTERAÇÃO HUMANO COMPUTADOR - 2023/1. Disponível em: <https://aprender3.unb.br/course/view.php?id=18552>. Acesso em: 24 abril. 2023.

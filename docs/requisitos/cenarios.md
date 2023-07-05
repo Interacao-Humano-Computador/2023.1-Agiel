@@ -1,16 +1,16 @@
 # ***Cenários***
 
-### **1. Introdução**
-<p align="justify">&emsp;&emsp;
-Cenários são utilizados para relatar pessoas em situações reais de uso do software, os mesmos são importantes pois facilitam a visualização dos problemas que o usuário deseja resolver e como o uso da aplicação deve resolver os mesmos. Sendo assim iremos utilizar os mesmos para coletar requisitos mais próximos da realidade dos usuários, para isso os cenários serão construídos com riqueza em detalhes e contexto.
+## **1. Introdução**
+<p align="justify">
+&emsp;&emsp;Cenários são utilizados para relatar pessoas em <b>situações reais</b> de uso do software, os mesmos são importantes pois facilitam a visualização dos problemas que o usuário deseja resolver e como o uso da aplicação deve resolver os mesmos. Sendo assim iremos utilizar os mesmos para coletar requisitos mais próximos da realidade dos usuários, para isso os cenários serão construídos com riqueza em detalhes e contexto.
 </p>
 
-### **2. Metodologia**
-<p align="justify">&emsp;&emsp;
-Os cenários foram elaborados utilizando o modelo de perguntas[1] para analisar e criar narrativas ricas e detalhadas que permitem a coleta de requisitos e informações importantes a cerca do perfil do usuário, suas necessidades e desejos.
+## **2. Metodologia**
+<p align="justify">
+&emsp;&emsp;Os cenários foram elaborados utilizando o <b>modelo de perguntas</b>[1] para analisar e criar <b>narrativas ricas</b> e <b>detalhadas</b> que permitem a coleta de requisitos e informações importantes a cerca do perfil do usuário, suas necessidades e desejos.
 </p>
 
-### **3. Cenários**
+## **3. Cenários**
 
 ### **3.3 Cenário: Obter dicas sobre gestão de carreira**
 
