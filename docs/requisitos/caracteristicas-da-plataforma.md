@@ -2,10 +2,15 @@
 
 ## **1. Introdução**
 <p align="justify">
+&emsp;&emsp;Características da plataforma são aspectos caracterizantes referentes à plataforma em questão. Neste artefato, serão analisados seus respectivos perfis de acesso, modos para navegar até ela, limitações da plataforma e algumas de suas funcionalidades.
+</p>
+
+## **2. Objetivos**
+<p align="justify">
 &emsp;&emsp;Este documento tem como objetivo <b>analisar as características da plataforma</b> do site "Agiel Agência de Estágios" no contexto de Interação Humano-Computador (IHC). A plataforma em questão é um site voltado para o oferecimento de oportunidades de estágio para estudantes universitários em diferentes áreas de atuação.
 </p>
 
-## **2. Características da Plataforma**
+## **3. Características da Plataforma**
 <p align="justify">
 &emsp;&emsp;Quando estamos projetando uma <b>interface de usuário</b>, é fundamental considerar a plataforma na qual essa interface será utilizada. Isso significa que os desenvolvedores precisam entender como a interface irá se comportar em diferentes contextos, como navegadores da web, sistemas operacionais e dispositivos móveis. Ao fazer isso, podemos garantir que o design da interface funcione corretamente em todas essas plataformas, sem impor restrições desnecessárias aos usuários.
 </p>
@@ -37,7 +42,7 @@
 &emsp;&emsp;Também é possível fazer o download do aplicativo pelo sistema Android.
 </p>
 
-## **3. Acesso**
+## **4. Acesso**
 <p align="justify">
 &emsp;&emsp;Acesso como estudante:
 </p>
@@ -61,7 +66,7 @@
 &emsp;&emsp;No momento do <b>cadastro</b>, uma mensagem tranquilizadora é exibida: "Fique tranquilo! Nós gerenciamos todo o processo para sua empresa, e o melhor é que você só começa a pagar depois que o estagiário estiver contratado!". Isso significa que o site oferece suporte e orientação durante o processo de contratação de estagiários, permitindo que as empresas aproveitem os serviços sem qualquer pagamento inicial até que a contratação seja efetuada com sucesso.
 </p>
 
-## **4. Limitações**
+## **5. Limitações**
 <p align="justify">
 &emsp;&emsp;O site possui algumas <b>limitações</b>:
 <ul>
@@ -72,7 +77,7 @@
 </ul>
 </p>
 
-## **5. Possibilidades**
+## **6. Possibilidades**
 <p align="justify">
 &emsp;&emsp;Apesar das suas limitações, o site possui algumas <b>funcionalidades</b>, como: 
 <ul>

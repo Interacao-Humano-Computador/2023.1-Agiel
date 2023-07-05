@@ -6,13 +6,15 @@
 grupo	de	usuários	reais,	criado	para	descrever	um	usuário	típico (Barbosa e Silva, 2010, cap. 6).
 </p>
 <p align="justify">
-&emsp;&emsp; Ao desenvolver essas personas, buscamos identificar os principais desafios e objetivos de cada grupo de clientes, bem como entender como eles interagem com nossos produtos e serviços. Com essas informações em mãos, podemos criar soluções mais eficazes e personalizadas para atender às necessidades de nossos clientes.
-</p>
-<p align="justify">
 &emsp;&emsp; Todas as imagens utilizadas foram retiradas do site <a href='https://this-person-does-not-exist.com/en'>ThisPersonDoesNotExist</a>, que utiliza inteligência artificial para gerar imagens de pessoas fictícias. De tal modo, o uso de tais imagens é permitido por lei e não infringe nenhum direito de imagem.
 </p>
 
-## **2. Metodologia**
+## **2. Objetivos**
+<p align="justify">
+&emsp;&emsp; Ao desenvolver essas personas, buscamos identificar os <b>principais desafios</b> e <b>objetivos</b> de cada grupo de clientes, bem como entender como eles interagem com nossos produtos e serviços. Com essas informações em mãos, podemos criar soluções mais <b>eficazes</b> e <b>personalizadas</b> para atender às necessidades de nossos clientes. Este objetivo será alcançado através do artefato seguinte.
+</p>
+
+## **3. Metodologia**
 <p align="justify">
 &emsp;&emsp; Para criar as personas, seguiu-se uma metodologia que envolveu a coleta de dados por meio de um questionário detalhado.
 </p>
@@ -20,7 +22,7 @@ grupo	de	usuários	reais,	criado	para	descrever	um	usuário	típico (Barbosa e S
 &emsp;&emsp; Com base nas informações coletadas, foi possível criar perfis detalhados dos usuários do sistema, conforme pode ser observado no artefato de <a href='https://interacao-humano-computador.github.io/2023.1-Agiel/requisitos/perfil_do_usuario/'>Perfil do Usuário</a>. Tais perfis serviram como base para a <b>criação das personas</b> no presente artefato. Cada persona representa um grupo de usuário com características, comportamentos e necessidades semelhantes. 
 </p>
 
-## **3. Elenco de Personas**
+## **4. Elenco de Personas**
 <p align="justify">
 &emsp;&emsp; Um elenco de personas se trata do <b>grupo de personas selecionadas para uso no projeto</b>. Tal elenco conta com <b>quatro personas</b>. Sendo elas, duas primárias (Tabelas 1 e 2), uma secundária (Tabela 3) e uma antipersona (Tabela 4). Tal quantia foi escolhida devido ao fato de que o AUTOR recomenda de três até doze, e, pela baixa disponibilidade dos membros, somada à média quantidade de dados coletados, esta quantia foi considerada a ideal para o contexto.
 </p>

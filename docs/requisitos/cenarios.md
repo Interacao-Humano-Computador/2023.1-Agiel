@@ -1,4 +1,4 @@
-## ***Cenários***
+# ***Cenários***
 
 ### **1. Introdução**
 <p align="justify">&emsp;&emsp;
@@ -12,7 +12,7 @@ Os cenários foram elaborados utilizando o modelo de perguntas[1] para analisar 
 
 ### **3. Cenários**
 
-### **3.3 Cenáro: Obter dicas sobre gestão de carreira**
+### **3.3 Cenário: Obter dicas sobre gestão de carreira**
 
 | Elemento | Descrição |
 |:--------:|:---------:|
@@ -25,7 +25,7 @@ Os cenários foram elaborados utilizando o modelo de perguntas[1] para analisar 
 <p> Tabela 2: Cenários da tarefa obter dicas sobre gestão de carreira<br/> (Fonte: Vitor Borges, 2023).</p>
 </div>
 
-## Histórico de Versão
+## **Histórico de Versão**
 &emsp;&emsp;A Tabela 1 registra o histórico de versão desse documento.
 
 | Versão |    Data    |      Descrição       |   Autor(es)    | Revisor(es) |
@@ -33,8 +33,8 @@ Os cenários foram elaborados utilizando o modelo de perguntas[1] para analisar 
 | `1.0`  | 04/07/2023 | Criação do documento | Vitor |    Pedro   |
 | `1.1`  | 04/07/2023 | Adição dos cenários da tarefa obter dicas sobre carreira | Vitor |    Pedro   |
 
-<h6 align = "center"> Tabela 1: Histórico de Versões
+<h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor:  Vitor Borges</h6>
 
-### Bibliografia
+## **Bibliografia**
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010. Cáp. 6.3 p. 187-188
