@@ -66,7 +66,7 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 <p> Tabela 2: Análise Hierárquica de Tarefas para o objetivo "Cadastrar instituição de ensino" <br/>(Fonte: Autor, 2023).</p>
 </div>
 
-![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Cadastrar instituição de ensino"](../assets/fluxo_tarefa_cadastro_instituicao.jpg)
+![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Cadastrar instituição de ensino"](../assets/fluxo_32.jpg)
 
 <div style="text-align: center">
 <p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Candidatar para uma vaga de estágio" <br/> (Fonte: Autor, 2023).</p>
