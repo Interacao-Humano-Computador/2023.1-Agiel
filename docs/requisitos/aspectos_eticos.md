@@ -46,11 +46,12 @@ Termo de Consentimento Livre e Esclarecido
 
 ## **Histórico de Versão**
 <p align="justify">
-&emsp;&emsp;A Tabela 1 registra o histórico de versão desse documento.
+A Tabela 1 registra o histórico de versão desse documento.
 </p>
+
 | Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ------- |
-| `1.0`  | 08/05/2023 | Criação do documento | Breno Yuri | Ana Beatriz    |
+| 1.0    | 08/05/2023 | Criação do documento | Breno Yuri | Ana Beatriz    |
 
 <h6 align = "center"> Tabela 1: Histórico de Versão
 <br> Autor: Breno Yuri </h6>
