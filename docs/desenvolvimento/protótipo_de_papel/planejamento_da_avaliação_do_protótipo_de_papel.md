@@ -100,7 +100,7 @@
 &emsp;&emsp;Estamos realizando um projeto baseado no site do Agiel, cujo principal objetivo é avaliar e identificar os principais problemas na interface. Dessa forma, na etapa em que nos encontramos no projeto, estamos realizando avaliações sobre os storyboards que foram elaborados pelo grupo.
 </p>
 <p align="justify">
-&emsp;&emsp;A entrevista será realizada de forma remota, com uma duração de aproximadamente 25 minutos. Para a realização da entrevista, o entrevistado deve estar ciente dos seguintes pontos:
+&emsp;&emsp;A entrevista será realizada de forma remota, com uma duração de aproximadamente 25 minutos. Para a realização da entrevista, o entrevistado deve <b>estar ciente</b> dos seguintes pontos:
 </p>
 
 <ul>

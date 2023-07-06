@@ -102,7 +102,7 @@ Ao identificar as questões práticas, é importante considerar os seguintes asp
 
 ### **2.6 D - Decidir como lidar com as questões éticas:**
 <p align="justify">
-&emsp;&emsp; Na avaliação do <b>percurso cognitivo</b>, é importante considerar as questões éticas envolvidas no processo. Embora não haja entrevistas, ainda é fundamental garantir que o processo seja conduzido de maneira ética e respeitosa. Isso inclui proteger a privacidade e a confidencialidade dos dados coletados durante a avaliação e assegurar que os participantes sejam informados sobre o propósito e a natureza da avaliação. É essencial respeitar a autonomia dos participantes e agir de maneira responsável com os dados coletados.
+&emsp;&emsp; Na avaliação do <b>percurso cognitivo</b>, é importante considerar as questões éticas envolvidas no processo. Embora não haja entrevistas, ainda é fundamental garantir que o processo seja conduzido de maneira ética e respeitosa. Isso inclui proteger a privacidade e a confidencialidade dos dados coletados durante a avaliação e assegurar que os participantes sejam informados sobre o propósito e a natureza da avaliação. É essencial <b>respeitar a autonomia</b> dos participantes e agir de maneira responsável com os dados coletados.
 </p> 
 <div style="text-align: center">
 <h4>
