@@ -301,17 +301,18 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 
 ## 13. Facilidades e Dificuldades Encontradas no Projeto 
 Facilidades: 
-- Equipe, em sua maioria, engajada no projeto; 
-- Compreensão do ciclo Mayhew, por ser iterativo se tornou intuitivo com o tempo;
-- Interação da equipe;
-- Seleção de ferramentas.
+
+* Equipe, em sua maioria, engajada no projeto; 
+* Compreensão do ciclo Mayhew, por ser iterativo se tornou intuitivo com o tempo;
+* Interação da equipe;
+* Seleção de ferramentas.
 Dificuldades: 
-- Compreensão do que a disciplina exigiria, no início;
-- Perda de um membro do grupo na metade final do projeto;
-- Se manter saudável durante todo o semestre, visto que é uma disciplina que exige apresentações semanais;
-- Recrutamento de participantes para colaboração nas avaliações;
-- Alta demanda de entregas;
-- Falta de feedbacks do monitor que estava acompanhando o grupo.
+* Compreensão do que a disciplina exigiria, no início;
+* Perda de um membro do grupo na metade final do projeto;
+* Se manter saudável durante todo o semestre, visto que é uma disciplina que exige apresentações semanais;
+* Recrutamento de participantes para colaboração nas avaliações;
+* Alta demanda de entregas;
+* Falta de feedbacks do monitor que estava acompanhando o grupo.
 
 # 14. Resultados
 
