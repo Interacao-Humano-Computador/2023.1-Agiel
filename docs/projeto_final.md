@@ -313,6 +313,7 @@ A Tabela n registra o histórico de versão desse documento.
 | `1.4`  | 05/07/2023 | Adição da tabela de avaliações dos protótipos                                                          | Vitor       | Ana Beatriz |
 | `1.5`  | 05/07/2023 | Adição do site selecionado                                                                             | Vitor       | Ana Beatriz |
 | `1.6`  | 05/07/2023 | Adição da comparação entre os cronogramas e tabela sintetizando todos os artefatos com autor e revisor | Ana Beatriz | Vitor       |
+| `1.7`  | 05/07/2023 | Acrescenta tabela que falta | Breno Yuri | Bruno       |
 
 <h6 align = "center"> Tabela n: Histórico de Versões
 <br>Autor(es): Ana Beatriz</h6>
