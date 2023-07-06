@@ -2,7 +2,7 @@
 
 ## **1. Introdução**
 <p align="justify">
-&emsp;&emsp;Este documento refere-se a etapa seguinte à <b>conclusão da avaliação do storyboard</b>. O objetivo é apresentar as <b>descobertas feitas</b> durante a avaliação, apresentar os <b>dados obtidos<b>, além de destacar o que pode ser <b>melhorado</b>.
+&emsp;&emsp;Este documento refere-se a etapa seguinte à <b>conclusão da avaliação do storyboard</b>. O objetivo é apresentar as <b>descobertas feitas</b> durante a avaliação, apresentar os <b>dados obtidos</b>, além de destacar o que pode ser <b>melhorado</b>.
 </p>
 
 ## **2. Metodologia**
