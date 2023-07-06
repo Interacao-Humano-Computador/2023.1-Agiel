@@ -15,12 +15,12 @@
 
 ### **2.1 Objetivos**
 <p align="justify">
-&emsp;&emsp;Este documento tem como objetivo planejar o relato de resultados da atividade de <b>Avaliação do Protótipo de Alta Fidelidade</b>, que deve seguir os objetivos estabelecidos no <a href='https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prototipo_alta_fidelidade/planejamento_alta_fidelidade/'>Planejamento da Avaliação</a>. Além disso, será avaliado se os objetivos estabelecidos foram alcançados.
+&emsp;&emsp;Este documento tem como objetivo planejar o relato de resultados da atividade de <b>Avaliação do Protótipo de Alta Fidelidade</b>, que deve seguir os objetivos estabelecidos no <a href='https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prototipo_alta_fidelidade/planejamento_alta_fidelidade/#31-d-determinar-os-objetivos'>Planejamento da Avaliação</a>. Além disso, será avaliado se os objetivos estabelecidos foram alcançados.
 </p>
 
 ### **2.2 Metodologia**
 <p align="justify">
-&emsp;&emsp;O relato deve incluir a descrição da metodologia utilizada na atividade de Avaliação do Protótipo de Alta Fidelidade, conforme definido no <a href=''>Planejamento da Avaliação</a>, apresentando o processo pelo qual a avaliação foi conduzida. Serão detalhados os métodos de coleta de dados, as técnicas de avaliação empregadas e os procedimentos adotados durante o processo de avaliação.
+&emsp;&emsp;O relato deve incluir a descrição da metodologia utilizada na atividade de Avaliação do Protótipo de Alta Fidelidade, conforme definido no <a href='https://interacao-humano-computador.github.io/2023.1-Agiel/desenvolvimento/prototipo_alta_fidelidade/planejamento_alta_fidelidade/#33-c-escolher-choose-os-metodos-de-avaliacao'>Planejamento da Avaliação</a>, apresentando o processo pelo qual a avaliação foi conduzida. Serão detalhados os métodos de coleta de dados, as técnicas de avaliação empregadas e os procedimentos adotados durante o processo de avaliação.
 </p>
 
 ### **2.3 Avaliadores e Participantes**
