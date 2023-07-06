@@ -113,7 +113,25 @@ Durante o processo de planejamento e execução, foram descobertas algumas discr
 ## 5. Execução do projeto 
 
 
-## 6. Resultados alcançados 
+## 6. Resultados alcançados
+
+Resultados em destaque
+
+- Domínio dos princípios teóricos e práticos de interação humano-computador, incluindo usabilidade, acessibilidade e design centrado no usuário.
+- Habilidades em técnicas e metodologias de pesquisa, como entrevistas com usuários, testes de usabilidade e análise de tarefas.
+- Capacidade de projetar protótipos levando em consideração as preferências dos usuários.
+- Compreensão da importância da diversidade e acessibilidade em diferentes interfaces, demonstrando sensibilidade em relação a diferentes públicos.
+- Consciência ética sobre questões relacionadas à privacidade, segurança e impactos sociais.
+
+### Objetivo do projeto
+
+O objetivo principal do projeto foi permitir que o Grupo 7 adquirisse conhecimento prático por meio da realização de atividades práticas em um sistema web, no caso, o sistema da Agiel. O projeto serviu como uma oportunidade para aplicar os conceitos aprendidos na disciplina de Interação Humano-Computador e consolidar o entendimento teórico por meio da prática.
+
+### Resultados do projeto
+<p>
+Ao longo do projeto, os membros puderam colocar em prática seus conhecimentos através da elaboração de artefatos nas áreas de Planejamento, Análise de Requisitos, Design, Avaliação, Desenvolvimento e Verificação. Durante essas etapas, houve a interação com usuários reais, o que permitiu uma melhor compreensão das necessidades dos usuários e a aplicação dos conhecimentos teóricos em situações reais. A combinação de teoria e prática facilitou o aprendizado e o cumprimento das atividades propostas durante a disciplina.
+</p>
+Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da disciplina de Interação Humano-Computador, bem como do ciclo de vida de um software, especialmente em relação ao Design, validando o detalhamento do Ciclo de Vida proposto por Mayhew.
 
 ## 7. Tabela sintetizando ferramentas utilizadas e onde foram utilizadas
 
