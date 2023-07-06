@@ -174,7 +174,6 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 
 ## 8. Tabela sintetizando técnicas (em cada etapa do projeto com o nome do participante que executou a técnica)
 
-<center>
 
 |                   Artefato                   |                                                                                                                                                                        Técnica                                                                                                                                                                        |                      Autor(es)                       |
 | :------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
@@ -188,7 +187,6 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 |                 Verificações                 |                                                                                                                                                         [Inspeção FAGAN (Checklist)](https://github.com/Interacao-Humano-Computador/2023.1-Agiel/tree/main/docs/verificacao)                                                                                                                                                         | Ana Beatriz, Breno Yuri, Bruno, Pedro e Vitor |
 |                Apresentações                 |                                                                                                                                                                       [Gravações](https://github.com/Interacao-Humano-Computador/2023.1-Agiel/tree/main/docs/apresentacoes)                                                                                                                                                                      | Ana Beatriz, Breno Yuri, Bruno, Pedro e Vitor |
 
-<div style="text-align: center">
 
 <h6 align = "center"> Tabela 3: Tabela sintetizando técnicas
 <br>Autor: Breno Yuri</h6>
