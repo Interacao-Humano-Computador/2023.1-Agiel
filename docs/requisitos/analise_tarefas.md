@@ -10,20 +10,20 @@
 &emsp;&emsp;Este documento tem o fim da apresentar a <b>análise de tarefas do site AGIEL (Agência de Estágios)</b>. O artefato produto deve apresentar uma análise <b>concreta e bem detalhada</b>, visto que o site já está operacional, segundo Diaper (2003).
 </p>
 
-## **2. Metodologia**
+## **3. Metodologia**
 <p align="justify">
 &emsp;&emsp;Foram utilizadas duas técnicas distintas para realizar a análise de tarefas do sistema: <b>Análise Hierárquica de
 Tarefas</b> (HTA – Hierarchical Task Analysis (Annett, 2003; Annett e Duncan, 1967)) e o <b>GOMS</b> (Goals,
 Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 </p>
 
-## **3. Análise Hierárquica de Tarefas (HTA)**
+## **4. Análise Hierárquica de Tarefas (HTA)**
 <p align="justify">
 &emsp;&emsp;Essa técnica tem o fim de compreender as competências e habilidade exibidas em tarefas complexas e não repitivas (Annett, 2003; Annett e Duncan,
 1967). Nesse contexto, uma tarefa é qualquer parte do trabalho que precisa ser realizado. Por sua vez, uma tarefa pode ser definida em objetivos e subobjetivos através de um processo chamado de decomposição de tarefas. Vale ressaltar que cada subobjetivo é alcançado por uma <b>operação</b>, que é a unidade fundamental em HTA.
 </p>
 
-### **3.1 Análise da Tarefa: candidatar para uma vaga de estágio**
+### **4.1 Análise da Tarefa: candidatar para uma vaga de estágio**
 <p align="justify">
 &emsp;&emsp;A tarefa "candidatar para uma vaga de estágio" é a principal tarefa que o usuário realiza no sistema, já que é sua funcionalidade principal. A Tabela 1 e a Figura 2 apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
 </p>
@@ -45,7 +45,7 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 <p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Candidatar para uma vaga de estágio" <br/> (Fonte: Autor, 2023).</p>
 </div>
 
-### **3.2 Análise da Tarefa: cadastrar instituição de ensino**
+### **4.2 Análise da Tarefa: cadastrar instituição de ensino**
 
 <p> &emsp;&emsp;A tarefa "cadastrar instituição de ensino" é realizada por coordenadores de uma instituição que tenham interesse em vincular a mesma a agência Agiel por meio de um convênio entre a instituição e a agência.
 </p>
@@ -72,12 +72,12 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 <p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Candidatar para uma vaga de estágio" <br/> (Fonte: Autor, 2023).</p>
 </div>
 
-## 4. **Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)**
+## 5. **Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)**
 <p align="justify">
 &emsp;&emsp;O GOMS é um procedimento que <b>analisa tarefas</b> e oferece uma descrição do conhecimento necessário para que um usuário possa realizá-las, envolvendo quatros figuras simbólicas: <b>goals</b>, <b>operator</b>, <b>methods</b> e <b>selection rules</b>.
 </p>
 
-### **4.1 Análise da tarefa: cadastrar e atualizar currículo**
+### **5.1 Análise da tarefa: cadastrar e atualizar currículo**
 <p align="justify">
 &emsp;&emsp;Nessa tarefa, o objetivo do usuário é atualizar seus dados acadêmicos e profissionais, bem como suas qualificações. A partir desse currículo, o usuário poderá concorrer as vagas de estágio.
 </p>
@@ -102,7 +102,7 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 Uma alternativa para isso seria um procedimento de salvamento automático e utilizar uma página única para realizar a atualização do currículo.
 </p>
 
-### **4.2 Análise da Tarefa: Inscrição em processo seletivo**
+### **5.2 Análise da Tarefa: Inscrição em processo seletivo**
 <p align="justify">
 &emsp;&emsp;Nessa tarefa, o objetivo do usuário é realizar a inscrição em um processo seletivo de sua escolha.
 </p>
@@ -126,7 +126,7 @@ Uma alternativa para isso seria um procedimento de salvamento automático e util
 &emsp;No primeiro método o usuário consegue visualizar processos que o mesmo não tem os requisitos mínimos, o mesmo pode só vir a descobrir deste detalha no momento em que tenta apertar o botão de "quero me cadastrar" onde o mesmo caso não tenha os requisitos é impedido pelo site.
 </p>
 
-### **4.3 Análise da Tarefa: Obter dicas sobre a gestão de carreira**
+### **5.3 Análise da Tarefa: Obter dicas sobre a gestão de carreira**
 <p align="justify">
 &emsp;&emsp;Nessa tarefa, o objetivo do usuário é obter dicas que o auxiliem a traçar objetivos para sua carreira.
 </p>
