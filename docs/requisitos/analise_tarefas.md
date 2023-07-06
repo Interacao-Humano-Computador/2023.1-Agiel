@@ -46,21 +46,18 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 </div>
 
 ### **4.2 Análise da Tarefa: cadastrar instituição de ensino**
-
-<p> &emsp;&emsp;A tarefa "cadastrar instituição de ensino" é realizada por coordenadores de uma instituição que tenham interesse em vincular a mesma a agência Agiel por meio de um convênio entre a instituição e a agência.
+<p align="justify">
+&emsp;&emsp;A tarefa "cadastrar instituição de ensino" é realizada por coordenadores de uma instituição que tenham interesse em vincular a mesma a agência Agiel por meio de um convênio entre a instituição e a agência.
 </p>
 
 | Objetivos/Operações                    | Problemas e recomendações                                                                                                                                                                                                                                                                                       |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0. Navegar até a página de cadastro de instituição | Localizar o menu principal; <br/> Passar o mouse sobre a opção "Instituições" no menu; <br/> **input**: Clicar na opção "Cadastrar" |
-| 1. Preencher o formulário de cadastro de instituição             | **input**: Preencher dados da instituição (nome, endereço)<br/> **input**: Preencher dados do solicitante (nome, email, telefone)<br/> **input** Adicionar mensagem <br/> **recomendações**: permitir o envio de dois emails ou telefones para contato |
-| 1.1. Enviar formulário | **input**: pressionar o botão de envio com as informações já preenchidas|
+| 0. Preencher o formulário de cadastro de instituição             | **input**: Preencher dados da instituição (nome, endereço)<br/> **input**: Preencher dados do solicitante (nome, email, telefone)<br/> **input** Adicionar mensagem <br/> **recomendações**: permitir o envio de dois emails ou telefones para contato |
+| 0.1. Enviar formulário | |
 | 2. Telefonar a agência diretamente | |
-| 2.1 Selecionar o número do seu respectivo estado | |
-| 2.2 Passar as informações solicitados pelo atendente | |
-| 3. Entrar em contato via rede social | |
-| 3.1 Selecionar a rede de sua preferência | **input**: escolher uma rede (facebook, twitter, instagram, linkedin ou youtube) para realizar o cadastro atráves de botões; <br/> **recomendação**: apenas divulgar as redes onde o usuário consiga entrar em contato direto com os atendentes (twitter, facebook, linkedin e instagram)|
-| 3.2 Entrar em contato com a agência | |
+| 2.1 Passar as informações solicitadas | |
+| 3. Entrar em contato com a agência via rede social por sua escolha | **input**: escolher uma rede (Facebook, Twitter, Instagram, Linkedin ou Youtube) para realizar o cadastro atráves de botões;
+**recomendação**: apenas divulgar as redes onde o usuário consiga entrar em contato direto com os atendentes (Twitter, Facebook, Linkedin e Instagram) |
 
 <div style="text-align: center">
 <p> Tabela 2: Análise Hierárquica de Tarefas para o objetivo "Cadastrar instituição de ensino" <br/>(Fonte: Autor, 2023).</p>
@@ -107,23 +104,11 @@ Uma alternativa para isso seria um procedimento de salvamento automático e util
 &emsp;&emsp;Nessa tarefa, o objetivo do usuário é realizar a inscrição em um processo seletivo de sua escolha.
 </p>
 <p>Goal 0: Se inscrever em um processo seletivo</p>
-&emsp;&emsp;- Method 1: Acessar área "Processos Seletivos" via menu.
-<p>&emsp;&emsp;&emsp; OP 1.1: Clicar na sessão de "Estudante".</p>
-<p>&emsp;&emsp;&emsp; OP 1.2: Clicar na sessão de "processos seletivos".</p>
-<p>&emsp;&emsp;&emsp; OP 1.3: Visualizar os processos seletivos disponíveis.</p>
-<p>&emsp;&emsp;&emsp; OP 1.4: Clicar em "saiba mais" no processo de sua escolha.</p>
-<p>&emsp;&emsp;&emsp; OP 1.5: Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas).</p>
-<p>&emsp;&emsp;&emsp; OP 1.6: Enviar candidatura</p>
-&emsp;&emsp;- Method 2: Acessar área "Estudante" via menu.
-<p>&emsp;&emsp;&emsp; OP 2.1: Realizar o login na plataforma.</p>
-<p>&emsp;&emsp;&emsp; OP 2.2: Clicar em "Disponíveis (Meu Curso)".</p>
-<p>&emsp;&emsp;&emsp; OP 2.3: Visualizar os processos seletivos disponíveis.</p>
-<p>&emsp;&emsp;&emsp; OP 2.4: Clicar em "saiba mais" no processo de sua escolha.</p>
-<p>&emsp;&emsp;&emsp; OP 2.5: Clicar em "saiba mais" no processo de sua escolha.</p>
-<p>&emsp;&emsp;&emsp; OP 2.6: Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas).</p>
-<p>&emsp;&emsp;&emsp; OP 2.7: Enviar candidatura</p>
+<p>&emsp;&emsp;&emsp; OP 1.1: Visualizar os processos seletivos disponíveis.</p>
+<p>&emsp;&emsp;&emsp; OP 1.2: Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas).</p>
+<p>&emsp;&emsp;&emsp; OP 1.3: Acrescentar </p>
+<p>&emsp;&emsp;&emsp; OP 1.4: Enviar candidatura</p>
 <p align="justify">
-&emsp;No primeiro método o usuário consegue visualizar processos que o mesmo não tem os requisitos mínimos, o mesmo pode só vir a descobrir deste detalha no momento em que tenta apertar o botão de "quero me cadastrar" onde o mesmo caso não tenha os requisitos é impedido pelo site.
 </p>
 
 ### **5.3 Análise da Tarefa: Obter dicas sobre a gestão de carreira**

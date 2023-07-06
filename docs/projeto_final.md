@@ -294,7 +294,7 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 |  6.2  | <a href="https://www.youtube.com/embed/au5ujzZn-zM">Apresentação Etapa 6.2</a> |
 |   7   |  <a href="https://www.youtube.com/embed/9Yolk2PQ_o4">Apresentação Etapa 7</a>  |
 |   8   |  <a href="https://www.youtube.com/embed/3ePGaADe4jY">Apresentação Etapa 8</a>  |
-| final |                       <a href="">Apresentação Final</a>                        |
+| final |                       <a href="https://www.youtube.com/embed/V8G2DRFMByw">Apresentação Final</a>                        |
 
 <h6 align = "center"> Tabela 7: Apresentações das etapas
 <br>Autor: Vitor Borges</h6>
