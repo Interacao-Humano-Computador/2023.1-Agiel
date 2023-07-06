@@ -174,7 +174,6 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 
 ## 8. Tabela sintetizando técnicas (em cada etapa do projeto com o nome do participante que executou a técnica)
 
-<center>
 
 |                   Artefato                   |                                                                                                                                                                        Técnica                                                                                                                                                                        |                      Autor(es)                       |
 | :------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
@@ -188,7 +187,6 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 |                 Verificações                 |                                                                                                                                                         [Inspeção FAGAN (Checklist)](https://github.com/Interacao-Humano-Computador/2023.1-Agiel/tree/main/docs/verificacao)                                                                                                                                                         | Ana Beatriz, Breno Yuri, Bruno, Pedro e Vitor |
 |                Apresentações                 |                                                                                                                                                                       [Gravações](https://github.com/Interacao-Humano-Computador/2023.1-Agiel/tree/main/docs/apresentacoes)                                                                                                                                                                      | Ana Beatriz, Breno Yuri, Bruno, Pedro e Vitor |
 
-<div style="text-align: center">
 
 <h6 align = "center"> Tabela 3: Tabela sintetizando técnicas
 <br>Autor: Breno Yuri</h6>
@@ -296,10 +294,41 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 |  6.2  | <a href="https://www.youtube.com/embed/au5ujzZn-zM">Apresentação Etapa 6.2</a> |
 |   7   |  <a href="https://www.youtube.com/embed/9Yolk2PQ_o4">Apresentação Etapa 7</a>  |
 |   8   |  <a href="https://www.youtube.com/embed/3ePGaADe4jY">Apresentação Etapa 8</a>  |
-| final |                       <a href="">Apresentação Final</a>                        |
+| final |                       <a href="https://www.youtube.com/embed/V8G2DRFMByw">Apresentação Final</a>                        |
 
 <h6 align = "center"> Tabela 7: Apresentações das etapas
 <br>Autor: Vitor Borges</h6>
+
+## 13. Facilidades e Dificuldades Encontradas no Projeto 
+Facilidades: 
+
+* Equipe, em sua maioria, engajada no projeto; 
+* Compreensão do ciclo Mayhew, por ser iterativo se tornou intuitivo com o tempo;
+* Interação da equipe;
+* Seleção de ferramentas.
+
+Dificuldades: 
+* Compreensão do que a disciplina exigiria, no início;
+* Perda de um membro do grupo na metade final do projeto;
+* Se manter saudável durante todo o semestre, visto que é uma disciplina que exige apresentações semanais;
+* Recrutamento de participantes para colaboração nas avaliações;
+* Alta demanda de entregas;
+* Falta de feedbacks do monitor que estava acompanhando o grupo.
+
+# 14. Resultados
+
+Durante nossa jornada na disciplina de Interação Humano-Computador (IHC), enfrentamos diversos desafios que, de forma interessante, nos proporcionaram um valioso aprendizado. Embora essas dificuldades tenham se apresentado ao longo do caminho, elas nos levaram a compreender melhor o conteúdo e nos aprimorar para projetos futuros. Estamos confiantes de que demos o nosso melhor e estamos satisfeitos com todo o conhecimento adquirido nessa experiência enriquecedora.
+
+Ao longo do projeto, tivemos a oportunidade de colocar em prática nossos conhecimentos por meio da elaboração de artefatos, como Planejamento, Análise de Requisitos, Prototipação, Avaliação, Desenvolvimento e Verificação. Essas etapas nos proporcionaram um contato direto com usuários reais, permitindo-nos unir teoria e prática de maneira significativa. Essa abordagem foi essencial para uma compreensão mais profunda do conteúdo e para a execução bem-sucedida de todas as atividades propostas durante a disciplina.
+
+Inicialmente, o planejamento do projeto se mostrou um desafio, pois carecíamos de experiência na elaboração de projetos relacionados à IHC. No entanto, à medida que avançamos, conseguimos superar essas dificuldades iniciais e desenvolver um plano completo e realista.
+
+Nas etapas de Prototipação, Avaliação e Desenvolvimento, conseguimos adquirir conhecimentos práticos e teóricos, por meio do contato com os usuários e da criação de protótipos de baixa e alta fidelidade. Durante a fase de Verificação, identificamos áreas que poderiam ser aprimoradas e refinamos nosso trabalho com base no feedback recebido. Também aprendemos muito com as apresentações de ponto de controle, onde pudemos compartilhar nossos progressos e receber orientações valiosas.
+
+Acima de tudo, o mais importante foi ter a oportunidade de trabalhar em contato com pessoas incríveis, mesmo nos momentos de dificuldade, todos se mantiveram presentes e confiantes. Temos certeza que podemos contar com estas pessoas sempre que preciso.
+
+Concluindo, essa experiência na disciplina de IHC nos permitiu uma compreensão aprofundada do assunto e uma maior familiaridade com o ciclo de vida de um software, especialmente no que diz respeito ao Design. Estamos contentes por tudo o que alcançamos e confiantes de que as dificuldades que enfrentamos nos tornaram mais preparados para enfrentar desafios futuros. Acreditamos que todo o conhecimento adquirido ao longo dessa jornada será de grande importância em nossa trajetória profissional, proporcionando um aprendizado valioso e enriquecedor.
+
 
 ## Histórico de versão
 A Tabela n registra o histórico de versão desse documento.
@@ -313,6 +342,7 @@ A Tabela n registra o histórico de versão desse documento.
 | `1.4`  | 05/07/2023 | Adição da tabela de avaliações dos protótipos                                                          | Vitor       | Ana Beatriz |
 | `1.5`  | 05/07/2023 | Adição do site selecionado                                                                             | Vitor       | Ana Beatriz |
 | `1.6`  | 05/07/2023 | Adição da comparação entre os cronogramas e tabela sintetizando todos os artefatos com autor e revisor | Ana Beatriz | Vitor       |
+| `1.7`  | 05/07/2023 | Acrescenta tabela que falta | Breno Yuri | Bruno       |
 
 <h6 align = "center"> Tabela n: Histórico de Versões
 <br>Autor(es): Ana Beatriz</h6>
