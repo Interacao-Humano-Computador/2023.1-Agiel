@@ -324,6 +324,8 @@ Inicialmente, o planejamento do projeto se mostrou um desafio, pois carecíamos 
 
 Nas etapas de Prototipação, Avaliação e Desenvolvimento, conseguimos adquirir conhecimentos práticos e teóricos, por meio do contato com os usuários e da criação de protótipos de baixa e alta fidelidade. Durante a fase de Verificação, identificamos áreas que poderiam ser aprimoradas e refinamos nosso trabalho com base no feedback recebido. Também aprendemos muito com as apresentações de ponto de controle, onde pudemos compartilhar nossos progressos e receber orientações valiosas.
 
+Acima de tudo, o mais importante foi ter a oportunidade de trabalhar em contato com pessoas incríveis, mesmo nos momentos de dificuldade, todos se mantiveram presentes e confiantes. Temos certeza que podemos contar com estas pessoas sempre que preciso.
+
 Concluindo, essa experiência na disciplina de IHC nos permitiu uma compreensão aprofundada do assunto e uma maior familiaridade com o ciclo de vida de um software, especialmente no que diz respeito ao Design. Estamos contentes por tudo o que alcançamos e confiantes de que as dificuldades que enfrentamos nos tornaram mais preparados para enfrentar desafios futuros. Acreditamos que todo o conhecimento adquirido ao longo dessa jornada será de grande importância em nossa trajetória profissional, proporcionando um aprendizado valioso e enriquecedor.
 
 
