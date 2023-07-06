@@ -303,6 +303,7 @@ Facilidades:
 * Seleção de ferramentas.
 
 Dificuldades: 
+
 * Compreensão do que a disciplina exigiria, no início;
 * Perda de um membro do grupo na metade final do projeto;
 * Se manter saudável durante todo o semestre, visto que é uma disciplina que exige apresentações semanais;
