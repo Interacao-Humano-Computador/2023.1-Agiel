@@ -80,7 +80,7 @@
 
 #### **3.5.1 Termo de Consentimento**
 <p align="justify">
-&emsp;&emsp;Para a realização das entrevistas, os entrevistados devem ler e concordar com o seguinte Termo de Consentimento:
+&emsp;&emsp;Para a realização das entrevistas, os entrevistados devem <b>ler e concordar</b> com o seguinte Termo de Consentimento:
 </p>
 
 <p align="justify">
@@ -110,7 +110,7 @@
 
 ### **3.6 E - Avaliar (Evaluate), interpretar e apresentar os dados:**
 <p align="justify">
-&emsp;&emsp;Com base na análise dos dados, identificaremos padrões, tendências e insights relevantes para aprimorar o storyboard. Os resultados seram interpretados e organizados de forma clara e concisa, e uma apresentação dos principais pontos será preparada.
+&emsp;&emsp;Com base na análise dos dados, identificaremos padrões, tendências e insights relevantes para aprimorar o storyboard. Os resultados serão interpretados e organizados de forma clara e concisa, e uma apresentação dos principais pontos será preparada.
 </p>
 
 ## **4. Storyboards Desenvolvidos**
