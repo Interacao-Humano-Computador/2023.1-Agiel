@@ -217,6 +217,8 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 |                                    [Verificicação dos artefatos da etapa 06 do Grupo 07 (Agiel)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_7/etapa_6/)                                     |                  Vitor                   |                              Ana Beatriz                               |
 |                                    [Verificicação dos artefatos da etapa 07 do Grupo 07 (Agiel)](https://interacao-humano-computador.github.io/2023.1-Agiel/verificacao/grupo_7/etapa_7/)                                     |                  Pedro                   |                                 Vitor                                  |
 
+<h6 align = "center"> Tabela 4: Artefatos, autores e revisores
+<br>Autor: Pedro Siqueira</h6>
 
 ## 10. Tabela sintetizando as avaliações dos protótipos (com entrevistadores e o número de participantes com os nomes do participantes do grupo que participaram da avaliação)
 
@@ -226,7 +228,7 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 |      Protótipo de Papel      |        Ana Beatriz, Breno Yuri        |        2         |
 | Protótipo de Alta Fidelidade | Ana Beatriz, Breno Yuri, Vitor Borges |        5         |
 
-<h6 align = "center"> Tabela 6: Avaliações dos protótipos de baixa, média e alta fidelidade
+<h6 align = "center"> Tabela 5: Avaliações dos protótipos de baixa, média e alta fidelidade
 <br>Autor: Vitor Borges</h6>
 
 ## 11. Uma tabela sintetizando o método de verificação dos artefatos com autor e revisor (do checklist e da verificação)
@@ -258,7 +260,7 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 | Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade |            Pedro Siqueira             |          Vitor Borges          |
 |         Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade         | Ana Beatriz, Breno Yuri, Vitor Borges | Bruno Henrique, Pedro Siqueira |
 
-<h6 align = "center"> Tabela 7: Verificação dos artefatos
+<h6 align = "center"> Tabela 6: Verificação dos artefatos
 <br>Autor: Vitor Borges</h6>
 
 ## 12. Tabela sintetizando todos os vídeos das apresentações de cada etapa
@@ -276,7 +278,7 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 |   8   |  <a href="https://www.youtube.com/embed/3ePGaADe4jY">Apresentação Etapa 8</a>  |
 | final |                       <a href="">Apresentação Final</a>                        |
 
-<h6 align = "center"> Tabela 8: Apresentações das etapas
+<h6 align = "center"> Tabela 7: Apresentações das etapas
 <br>Autor: Vitor Borges</h6>
 
 ## Histórico de versão
@@ -294,5 +296,3 @@ A Tabela n registra o histórico de versão desse documento.
 
 <h6 align = "center"> Tabela n: Histórico de Versões
 <br>Autor(es): Ana Beatriz</h6>
-|                                Metas de Usabilidade                                |              Ana Beatriz              |         Bruno Henrique         |
-|                                   Guia de Estilo                                   |        
