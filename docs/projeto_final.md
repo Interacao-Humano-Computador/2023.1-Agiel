@@ -299,6 +299,9 @@ Como resultado desse trabalho, o grupo adquiriu um melhor entendimento da discip
 <h6 align = "center"> Tabela 7: Apresentações das etapas
 <br>Autor: Vitor Borges</h6>
 
+
+
+
 ## Histórico de versão
 A Tabela n registra o histórico de versão desse documento.
 
