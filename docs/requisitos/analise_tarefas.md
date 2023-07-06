@@ -69,7 +69,7 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 <p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Candidatar para uma vaga de estágio" <br/> (Fonte: Autor, 2023).</p>
 </div>
 
-## 5. **Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)**
+## **5. Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)**
 <p align="justify">
 &emsp;&emsp;O GOMS é um procedimento que <b>analisa tarefas</b> e oferece uma descrição do conhecimento necessário para que um usuário possa realizá-las, envolvendo quatros figuras simbólicas: <b>goals</b>, <b>operator</b>, <b>methods</b> e <b>selection rules</b>.
 </p>
@@ -79,25 +79,11 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 &emsp;&emsp;Nessa tarefa, o objetivo do usuário é atualizar seus dados acadêmicos e profissionais, bem como suas qualificações. A partir desse currículo, o usuário poderá concorrer as vagas de estágio.
 </p>
 <p>Goal 0: Atulizar e cadastrar dados</p>
-&emsp;&emsp;- Method 1: Acessar área currículo via menu.
-<p>&emsp;&emsp;- SEL RULE (Usuário deve encontrar o botão que leva a sessão de currículo)</p>
-<p>&emsp;&emsp;&emsp; OP 1.1: Clicar na sessão de dados acadêmicos.</p>
-<p>&emsp;&emsp;&emsp; OP 1.2: Cadastrar dados acadêmicos.</p>
-<p>&emsp;&emsp;&emsp; OP 1.3: Clicar no botão de salvar.</p>
-<p>&emsp;&emsp;&emsp; OP 1.4: Clicar na sessão de dados pessoais.</p>
-<p>&emsp;&emsp;&emsp; OP 1.5: Cadastrar dados pessoais.</p>
-<p>&emsp;&emsp;&emsp; OP 1.6: Clicar no botão de salvar.</p>
-<p>&emsp;&emsp;&emsp; OP 1.7: Clicar na sessão de dados profissionais.</p>
-<p>&emsp;&emsp;&emsp; OP 1.8: Cadastrar dados profissionais.</p>
-<p>&emsp;&emsp;&emsp; OP 1.9: Clicar no botão de salvar.</p>
-<p>&emsp;&emsp;&emsp; OP 1.10: Clicar na sessão de conhecimentos.</p>
-<p>&emsp;&emsp;&emsp; OP 1.11: Informar conhecimentos e qualificações.</p>
-<p>&emsp;&emsp;&emsp; OP 1.12: Clicar no botão de salvar.</p>
-
-<p align="justify">
-&emsp;&emsp;Para a tarefa de atualizar e cadastrar o currículo, o sistema oferece apenas um método de resolução. Tal método apresenta um número muito grande de cliques para mudar de sessão e salvar, tornando a realização da tarefa demorada e  repetitiva.
-Uma alternativa para isso seria um procedimento de salvamento automático e utilizar uma página única para realizar a atualização do currículo.
-</p>
+<p>&emsp;&emsp;&emsp; OP 1.1: Cadastrar dados acadêmicos.</p>
+<p>&emsp;&emsp;&emsp; OP 1.2: Cadastrar dados pessoais.</p>
+<p>&emsp;&emsp;&emsp; OP 1.3: Cadastrar dados profissionais.</p>
+<p>&emsp;&emsp;&emsp; OP 1.4: Informar conhecimentos e qualificações.</p>
+<p>&emsp;&emsp;&emsp; OP 1.5: Salvar as informações.</p>
 
 ### **5.2 Análise da Tarefa: Inscrição em processo seletivo**
 <p align="justify">
@@ -106,8 +92,8 @@ Uma alternativa para isso seria um procedimento de salvamento automático e util
 <p>Goal 0: Se inscrever em um processo seletivo</p>
 <p>&emsp;&emsp;&emsp; OP 1.1: Visualizar os processos seletivos disponíveis.</p>
 <p>&emsp;&emsp;&emsp; OP 1.2: Ler as informações do processo seletivo (descrição, requisitos, cronograma, etapas).</p>
-<p>&emsp;&emsp;&emsp; OP 1.3: Acrescentar </p>
-<p>&emsp;&emsp;&emsp; OP 1.4: Enviar candidatura</p>
+<p>&emsp;&emsp;&emsp; OP 1.3: Anexar o currículo.</p>
+<p>&emsp;&emsp;&emsp; OP 1.4: Enviar candidatura.</p>
 <p align="justify">
 </p>
 
@@ -116,28 +102,10 @@ Uma alternativa para isso seria um procedimento de salvamento automático e util
 &emsp;&emsp;Nessa tarefa, o objetivo do usuário é obter dicas que o auxiliem a traçar objetivos para sua carreira.
 </p>
 <p>Goal 0: Obter dicas sobre gestão de carreira</p>
-&emsp;&emsp;- Method 1: Acessar área "Blog do Estagiário" via menu.
-<p>&emsp;&emsp;&emsp; OP 1.1: Encontrar a barra de pesquisa.</p>
-<p>&emsp;&emsp;&emsp; OP 1.2: Digitar o contéudo de interesse.</p>
-<p>&emsp;&emsp;&emsp; OP 1.3: Realizar busca.</p>
-<p>&emsp;&emsp;&emsp; OP 1.4: Visualizar os artigos apresentados.</p>
-<p>&emsp;&emsp;&emsp; OP 1.5: Clicar em "Leia Mais" no artigo de interesse.</p>
-<p>&emsp;&emsp;&emsp; OP 1.6: Ler o artigo completo</p>
-&emsp;&emsp;- Method 2: Acessar área "Blog do Estagiário" via menu.
-<p>&emsp;&emsp;&emsp; OP 2.1: Encontrar a área de "Categorias".</p>
-<p>&emsp;&emsp;&emsp; OP 2.2: Selecionar o campo "Gestão de Carreira".</p>
-<p>&emsp;&emsp;&emsp; OP 2.3: Visualizar os artigos apresentados.</p>
-<p>&emsp;&emsp;&emsp; OP 2.4: Clicar em "Leia Mais" no artigo de interesse.</p>
-<p>&emsp;&emsp;&emsp; OP 2.5: Ler o artigo completo</p>
-&emsp;&emsp;- Method 3: Acessar área "Blog do Estagiário" via menu.
-<p>&emsp;&emsp;&emsp; OP 3.1: Encontrar a área de "Tags".</p>
-<p>&emsp;&emsp;&emsp; OP 3.2: Selecionar o campo "Carreira Profissional".</p>
-<p>&emsp;&emsp;&emsp; OP 3.3: Visualizar os artigos apresentados.</p>
-<p>&emsp;&emsp;&emsp; OP 3.4: Clicar em "Leia Mais" no artigo de interesse.</p>
-<p>&emsp;&emsp;&emsp; OP 3.5: Ler o artigo completo</p>
+<p>&emsp;&emsp;&emsp; OP 1.1: Realizar busca do conteúdo desejado.</p>
+<p>&emsp;&emsp;&emsp; OP 1.2: Visualizar os artigos apresentados.</p>
+<p>&emsp;&emsp;&emsp; OP 1.3: Ler o artigo completo</p>
 <p align="justify">
-&emsp;&emsp;Os três métodos apresentam o mesmo problema de ao filtrar pelos artigos desejados alguns artigos são mostrados mais de uma vez.
-</p>
 
 ## **Histórico de Versão**
 <p align="justify">
