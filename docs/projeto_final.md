@@ -306,6 +306,7 @@ Facilidades:
 * Compreensão do ciclo Mayhew, por ser iterativo se tornou intuitivo com o tempo;
 * Interação da equipe;
 * Seleção de ferramentas.
+
 Dificuldades: 
 * Compreensão do que a disciplina exigiria, no início;
 * Perda de um membro do grupo na metade final do projeto;
