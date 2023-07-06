@@ -78,7 +78,7 @@ Operators, Methods, and Selection Rules (Kieras, 2004; Card et al., 1983)).
 <p align="justify">
 &emsp;&emsp;Nessa tarefa, o objetivo do usuário é atualizar seus dados acadêmicos e profissionais, bem como suas qualificações. A partir desse currículo, o usuário poderá concorrer as vagas de estágio.
 </p>
-<p>Goal 0: Atulizar e cadastrar dados</p>
+<p>Goal 0: Atualizar e cadastrar dados</p>
 <p>&emsp;&emsp;&emsp; OP 1.1: Cadastrar dados acadêmicos.</p>
 <p>&emsp;&emsp;&emsp; OP 1.2: Cadastrar dados pessoais.</p>
 <p>&emsp;&emsp;&emsp; OP 1.3: Cadastrar dados profissionais.</p>
