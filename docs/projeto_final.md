@@ -112,6 +112,26 @@ Durante o processo de planejamento e execução, foram descobertas algumas discr
 
 ## 5. Execução do projeto 
 
+* Análise de Requisitos
+
+<p align="justify">
+    &emsp;&emsp;Os artefatos produzidos nesta etapa tinham o objetivo de entender as necessidades dos usuários e estabelecer os requisitos do projeto. Sendo assim pesquisas foram realizadas, houve a elaboração de questionários para descobrir o perfil do usuário do site, entrevistas foram realizadas, análise de tarefas, criação de cenários e definição das metas de usabilidade do projeto. 
+    
+</p>
+
+<p align="justify">
+    &emsp;&emsp;Saímos dessa etapa entendendo como o usuário utilizava o site, suas prioridades e suas principais necessidades. Com isso em mente elaboramos metas e possíveis soluções para os problemas encontrados na interface.
+</p>
+
+* Design, Avaliação e Desenvolvimento
+
+<p align="justify">
+    &emsp;&emsp;Nesta etapa os artefatos produzidos possuiam o intuito de resolver os problemas dos usuários e de alcançar as metas de usabilidade definidas, para isso elaboramos protótipos e realizamos validações diretamente com o usuário (questionários e entrevistas) para aferir se o que estavamos produzindo estava gerando o resultado esperado. Sendo assim primeiramente elaboramos storyboards para verificar se os cenários de uso do site estavam condizentes com a realidade do usuário, em sequência elaboramos protótipos de papel mais apronfudados com as alterações que imaginamos que fariam a diferença para obter uma experiência do usuário mais agradável e por último elaboramos o protótipo de alta fidelidade para realizar as avaliações e conclusoes finais a cerca do projeto.
+</p>
+
+<p align="justify">
+    &emsp;&emsp;Os artefatos desta etapa seguiam um padrão para aumentar a nossa taxa de sucesso em validar e alcançar as metas selecionadas, utilizando o framework DECIDE realizamos o planejamento da avaliação e do relato de resultados, desta forma foi possível obter feedbacks padronizados e coletar dados importantes para serem analisados e moldados em uma solução para os próximos protótipos elaborados.
+</p>
 
 ## 6. Resultados alcançados
 
